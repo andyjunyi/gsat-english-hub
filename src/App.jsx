@@ -7,6 +7,7 @@ import Grammar from './pages/Grammar'
 import GrammarPattern from './pages/GrammarPattern'
 import Vocabulary from './pages/Vocabulary'
 import Translation from './pages/Translation'
+import CollocationChecker from './components/CollocationChecker'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
             <Route path="/grammar/:code" element={<GrammarPattern />} />
             <Route path="/vocabulary" element={<Vocabulary />} />
             <Route path="/translation" element={<Translation />} />
+            <Route path="/checker" element={<CollocationChecker />} />
           </Routes>
         </main>
         <Footer />

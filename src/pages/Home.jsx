@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <div>
       {/* Header */}
-      <section className="bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 text-white py-16 px-4">
+      <section className="bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 text-white py-10 px-4">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl font-black mb-4 leading-tight tracking-tight">
             學測英文自學網站
