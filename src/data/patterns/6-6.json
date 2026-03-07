@@ -1,0 +1,363 @@
+{
+  "code": "6-6",
+  "chapter": 6,
+  "title": "S + stop/remember/forget + to V / V-ing（意思不同）",
+  "formulas": [
+    {
+      "formula": "stop/remember/forget/try/regret + to V（未來或意圖）",
+      "zh": "停下來去做某事、記得去做某事、忘記去做某事、嘗試去做某事、後悔去做某事"
+    },
+    {
+      "formula": "stop/remember/forget/try/regret + V-ing（過去或習慣）",
+      "zh": "停止做某事、記得曾做過某事、忘記曾做過某事、嘗試做某事、後悔做過某事"
+    }
+  ],
+  "explanation": "這類動詞接不定詞與動名詞時意義差異大。接to V通常表未來動作或意圖；接V-ing則表過去經驗或習慣。例如stop to V是「停下正在做的事去做另一件事」，stop V-ing則是「終止某習慣」。remember/forget to V強調未來任務，V-ing強調過去記憶。試題常考此對比，需注意上下文時態與語義關聯。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She stopped to answer the phone while cooking dinner.",
+      "chi": "她在烹飪晚餐時停下來接電話。",
+      "keywords": [
+        "stop to V",
+        "未來動作",
+        "中斷現有活動"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "He finally stopped smoking after years of struggle and effort.",
+      "chi": "經過多年努力，他終於戒菸了。",
+      "keywords": [
+        "stop V-ing",
+        "習慣改變",
+        "停止動作"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I forgot to submit the assignment yesterday, which made the teacher angry.",
+      "chi": "我昨天忘了繳交作業，這讓老師很生氣。",
+      "keywords": [
+        "forget to V",
+        "未完成任務",
+        "記憶缺失"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Do you remember playing basketball with us in high school?",
+      "chi": "你記得高中時和我們打籃球嗎？",
+      "keywords": [
+        "remember V-ing",
+        "過去經驗",
+        "回憶往事"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時看動作發生時間：to V多指未做或未來要做的事；V-ing多指已做過或現在進行中的事。另外注意句子整體時態與邏輯關係。若前句用過去簡單式，後接V-ing通常更自然。記住：to V=預期動作，V-ing=回顧動作。",
+    "examples": [
+      {
+        "test": "He regrets to tell you the bad news. vs. He regrets telling you the bad news.",
+        "result": "→ 前者：他遺憾地通知你壞消息（現在的遺憾動作）；後者：他後悔曾經告訴你（過去的後悔）"
+      },
+      {
+        "test": "I tried to fix the car. vs. I tried fixing the car.",
+        "result": "→ 前者：我試圖去修車（努力但未必成功）；後者：我嘗試修理車（試過這個方法）"
+      },
+      {
+        "test": "Don't forget to lock the door. vs. I'll never forget locking the door that night.",
+        "result": "→ 前者：記得去鎖門（未來提醒）；後者：永難忘懷那晚鎖門的事（過去記憶）"
+      }
+    ],
+    "note": "關鍵口訣：to V看未來，V-ing看回顧；上文時態與邏輯決定動名詞形式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I remembered ",
+        null,
+        " her on her birthday, so I called immediately."
+      ],
+      "blanks": [
+        "to call"
+      ],
+      "sentence": "I remembered to call her on her birthday, so I called immediately.",
+      "translation": "我記得在她生日時打電話給她，所以我立即撥打。",
+      "keywords": [
+        "remember to V",
+        "未來任務",
+        "未完成動作"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She stopped ",
+        null,
+        " her old friends and focused on her new life."
+      ],
+      "blanks": [
+        "contacting / seeing / visiting"
+      ],
+      "sentence": "She stopped contacting her old friends and focused on her new life.",
+      "translation": "她停止聯繫舊友，專注於新生活。",
+      "keywords": [
+        "stop V-ing",
+        "終止習慣",
+        "過去動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The teacher regretted ",
+        null,
+        " such harsh words to the student yesterday."
+      ],
+      "blanks": [
+        "saying / having said"
+      ],
+      "sentence": "The teacher regretted saying such harsh words to the student yesterday.",
+      "translation": "老師後悔昨天對學生說那麼刺耳的話。",
+      "keywords": [
+        "regret V-ing",
+        "過去後悔",
+        "已發生事件"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "We tried ",
+        null,
+        " the broken equipment, but it didn't work at all."
+      ],
+      "blanks": [
+        "to fix / repairing"
+      ],
+      "sentence": "We tried to fix the broken equipment, but it didn't work at all.",
+      "translation": "我們試圖修理損壞的設備，但根本沒有用。",
+      "keywords": [
+        "try to V",
+        "嘗試努力",
+        "未來意圖"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "stop",
+      "zh": "停止；停下來"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得；想起"
+    },
+    {
+      "adj": "forget",
+      "zh": "忘記；遺忘"
+    },
+    {
+      "adj": "try",
+      "zh": "嘗試；試圖"
+    },
+    {
+      "adj": "regret",
+      "zh": "後悔；遺憾"
+    },
+    {
+      "adj": "to infinitive",
+      "zh": "不定詞（未來/意圖）"
+    },
+    {
+      "adj": "gerund",
+      "zh": "動名詞（過去/經驗）"
+    },
+    {
+      "adj": "past experience",
+      "zh": "過去經驗"
+    },
+    {
+      "adj": "future action",
+      "zh": "未來動作"
+    },
+    {
+      "adj": "habit",
+      "zh": "習慣"
+    },
+    {
+      "adj": "intention",
+      "zh": "意圖；打算"
+    },
+    {
+      "adj": "memory",
+      "zh": "記憶"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "他開車時停下來接電話，選擇正確的動詞形式",
+      "question_eng": "He stopped _______ the phone while driving.",
+      "options": [
+        {
+          "key": "A",
+          "text": "answering"
+        },
+        {
+          "key": "B",
+          "text": "to answer"
+        },
+        {
+          "key": "C",
+          "text": "answer"
+        },
+        {
+          "key": "D",
+          "text": "answered"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (to answer)。stop + to V 表示「停止正在做的事，去做另一件事」。句子意思是他停下開車去接電話。A 項 (answering) 表示終止接電話這個動作，語義不符。C、D 項文法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "他努力多年後終於戒煙，選擇正確的動詞形式",
+      "question_eng": "He finally stopped _______ after years of struggling with the habit.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to smoke"
+        },
+        {
+          "key": "B",
+          "text": "smoking"
+        },
+        {
+          "key": "C",
+          "text": "smoke"
+        },
+        {
+          "key": "D",
+          "text": "smoked"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (smoking)。stop + V-ing 表示「終止、放棄某個習慣或動作」。片語 \"struggling with the habit\" 暗示過去長期的習慣行為。A 項 (to smoke) 表示停下來去做另一件事，語義不符。C、D 項文法錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "她記得在巴黎見過這位藝術家，選擇正確的動詞形式",
+      "question_eng": "She remembered _______ this artist in Paris years ago.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to meet"
+        },
+        {
+          "key": "B",
+          "text": "meeting"
+        },
+        {
+          "key": "C",
+          "text": "met"
+        },
+        {
+          "key": "D",
+          "text": "to have met"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (meeting)。remember + V-ing 表示「回想起過去發生過的事」。句末 \"years ago\" 表示過去經驗，應用 V-ing。A 項 (to meet) 表示未來的任務或意圖，不符語境。C 項文法不完整，D 項表達過於正式且不是常用搭配。",
+      "id": 3
+    },
+    {
+      "question_chi": "他忘記了他曾經答應要幫她修電腦，但後來想起來了",
+      "question_eng": "He forgot _______ to fix her computer, but later he remembered _______ that promise.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to promise; making"
+        },
+        {
+          "key": "B",
+          "text": "promising; to make"
+        },
+        {
+          "key": "C",
+          "text": "to promise; making"
+        },
+        {
+          "key": "D",
+          "text": "promising; to make"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (to promise; making)。第一空：forget + to V 表示「忘記要去做的事」（未來任務），所以用 to promise。第二空：remember + V-ing 表示「回想起過去做過的事」，所以用 making。A、C 的組合都用 to promise，但 making 才對。B、D 都誤用 promising，表示忘記停止許諾的行為，語義錯誤。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我媽媽戒掉了每天喝咖啡的習慣。",
+      "answer": "My mother stopped drinking coffee every day.",
+      "key_points": [
+        "stopped + V-ing",
+        "表示終止過去的習慣",
+        "every day 強調習慣性"
+      ],
+      "hints": [
+        "提示1：stop + V-ing 表『停止做某事（習慣）』，重點在過去的行為",
+        "提示2：若寫成 stopped to drink 則變成『停下來去喝咖啡』，意思完全不同"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她忘記了帶家庭作業到學校。",
+      "answer": "She forgot to bring her homework to school.",
+      "key_points": [
+        "forgot + to V",
+        "表示未完成的任務",
+        "bring 是未來應該做但沒做的動作"
+      ],
+      "hints": [
+        "提示1：forget + to V 強調『忘記去做某件事』（未完成），通常帶有遺憾感",
+        "提示2：若寫 forgot bringing 則表『記得某次帶過的經驗』，邏輯不符"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他停下腳步去幫助那位跌倒的老奶奶。",
+      "answer": "He stopped to help the elderly woman who had fallen down.",
+      "key_points": [
+        "stopped + to V",
+        "表示為了做另一件事而停止正在進行的動作",
+        "過去分詞 fallen 補充背景"
+      ],
+      "hints": [
+        "提示1：stop + to V 意為『停止X去做Y』，強調目的與轉換動作",
+        "提示2：注意 to help 前的動作必須先存在，如『他在走路，然後停下來幫忙』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我記得曾經參加過一次全校運動會，但我忘記去買參賽用的運動鞋。",
+      "answer": "I remember participating in a school sports day before, but I forgot to buy the athletic shoes for the competition.",
+      "key_points": [
+        "remember + V-ing vs. forgot + to V",
+        "V-ing 回憶過去經驗，to V 指未完成的未來任務",
+        "but 連接對比的兩個動詞"
+      ],
+      "hints": [
+        "提示1：remember + V-ing 表『記得曾經做過』（有做過的記憶），forgot + to V 表『忘記去做』（應該做但沒做）",
+        "提示2：注意時態搭配：remember 可用簡單過去式，V-ing 形式暗示過去已發生；forgot + to buy 同樣用過去式但強調『遺漏的任務』而非經驗"
+      ]
+    }
+  ]
+}

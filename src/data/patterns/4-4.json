@@ -1,0 +1,365 @@
+{
+  "code": "4-4",
+  "chapter": 4,
+  "title": "S + V + N + whose + N + V",
+  "formulas": [
+    {
+      "formula": "N + whose + N + V + ...",
+      "zh": "名詞 + 所有格關係代名詞whose + 名詞 + 動詞，表示「其……」或「……的」"
+    },
+    {
+      "formula": "N + whose + N + be + adj/N + ...",
+      "zh": "名詞 + whose + 名詞 + 是 + 形容詞/名詞，whose引導的子句中whose + N作主詞"
+    }
+  ],
+  "explanation": "whose是所有格關係代名詞，用於連接主句與描述性子句，表達所有權或關係。whose + N的結構可在子句中作主詞或受詞。可修飾人或物，具有靈活性。常見用法為whose + N作主詞，whose + N被動詞修飾；或whose + N作受詞，被另一動詞修飾。注意whose後直接跟名詞（不加冠詞），且子句內動詞須與whose + N的數保持一致。易混淆點：勿與who's（who is）混淆。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The author whose novel won the award gave an inspiring speech.",
+      "chi": "其小說獲獎的作家發表了一場振奮人心的演講。",
+      "keywords": [
+        "whose",
+        "所有格關係代名詞",
+        "修飾人"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "I met a girl whose parents are both doctors working in the hospital.",
+      "chi": "我遇見一個女孩，她的父母都是在醫院工作的醫生。",
+      "keywords": [
+        "whose",
+        "複數名詞",
+        "描述關係"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The company whose products I use has excellent customer service.",
+      "chi": "我使用其產品的那家公司擁有卓越的客戶服務。",
+      "keywords": [
+        "whose",
+        "受詞位置",
+        "修飾物"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Students whose test scores exceeded the standard were awarded scholarships.",
+      "chi": "考試成績超過標準的學生被頒發獎學金。",
+      "keywords": [
+        "whose",
+        "複數形式",
+        "被動語態"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷whose引導的子句：先找出被修飾的名詞，再確認whose後的名詞與子句動詞的搭配。若whose + N為複數，動詞應用複數形。避免用which's或who's替代whose，保持句式正確性。",
+    "examples": [
+      {
+        "test": "正確：The student whose homework was submitted late explained the reason.",
+        "result": "→ homework作主詞，was submitted為被動語態，whose修飾student"
+      },
+      {
+        "test": "錯誤：The student which homework was submitted late explained the reason.",
+        "result": "→ which不能表所有格，應改用whose"
+      },
+      {
+        "test": "正確：The scientist whose discovery changed medicine received the Nobel Prize.",
+        "result": "→ whose + discovery在子句中作主詞，表「其發現」"
+      }
+    ],
+    "note": "whose一定是所有格，whose後直接跟名詞，子句動詞與whose + N的數一致。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The teacher ",
+        null,
+        " class performed best in the competition was very proud."
+      ],
+      "blanks": [
+        "whose"
+      ],
+      "sentence": "The teacher whose class performed best in the competition was very proud.",
+      "translation": "其班級在比賽中表現最好的老師感到非常驕傲。",
+      "keywords": [
+        "whose",
+        "所有格關係代名詞",
+        "主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "We visited the museum ",
+        null,
+        " collection includes priceless artworks from different periods."
+      ],
+      "blanks": [
+        "whose"
+      ],
+      "sentence": "We visited the museum whose collection includes priceless artworks from different periods.",
+      "translation": "我們參觀了一座其收藏品包括不同時期無價藝術品的博物館。",
+      "keywords": [
+        "whose",
+        "修飾物",
+        "受詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The athlete ",
+        null,
+        " record was broken last week congratulated the new champion."
+      ],
+      "blanks": [
+        "whose"
+      ],
+      "sentence": "The athlete whose record was broken last week congratulated the new champion.",
+      "translation": "其紀錄上週被打破的運動員為新冠軍致敬。",
+      "keywords": [
+        "whose",
+        "被動語態",
+        "主詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "They are looking for volunteers ",
+        null,
+        " languages include Mandarin and English."
+      ],
+      "blanks": [
+        "whose"
+      ],
+      "sentence": "They are looking for volunteers whose languages include Mandarin and English.",
+      "translation": "他們在尋找其語言包括普通話和英文的志願者。",
+      "keywords": [
+        "whose",
+        "複數形式",
+        "複合條件"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "novel",
+      "zh": "小說；新穎的"
+    },
+    {
+      "adj": "award",
+      "zh": "獎項；獎勵"
+    },
+    {
+      "adj": "parents",
+      "zh": "父母"
+    },
+    {
+      "adj": "products",
+      "zh": "產品"
+    },
+    {
+      "adj": "service",
+      "zh": "服務"
+    },
+    {
+      "adj": "scores",
+      "zh": "分數"
+    },
+    {
+      "adj": "performance",
+      "zh": "表現；演出"
+    },
+    {
+      "adj": "business",
+      "zh": "事業；生意"
+    },
+    {
+      "adj": "opinion",
+      "zh": "觀點；意見"
+    },
+    {
+      "adj": "research",
+      "zh": "研究"
+    },
+    {
+      "adj": "contribution",
+      "zh": "貢獻"
+    },
+    {
+      "adj": "talent",
+      "zh": "才能；天賦"
+    }
+  ],
+  "vocab_table_label": "常用名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選出正確的關係代名詞片語，完成有關作者與作品的句子",
+      "question_eng": "The writer _______ books have sold millions of copies is giving a lecture tomorrow.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "who's"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。whose是所有格關係代名詞，可修飾人或物，後接名詞books。B選項who's是「who is」的縮寫，不符合語法。C和D無法表達所有權關係。句子意思：「這位作品銷售數百萬冊的作家明天要舉辦講座。」",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意選出正確的所有格關係代名詞與其搭配",
+      "question_eng": "I visited the museum _______ collection includes rare artifacts from ancient Egypt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "whose's"
+        },
+        {
+          "key": "C",
+          "text": "of which"
+        },
+        {
+          "key": "D",
+          "text": "that's"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。whose直接修飾後面的名詞collection，表示「該博物館的收藏」。B選項whose's形成雙重所有格，文法錯誤。C選項「of which」雖然可表所有權但結構不同。D選項that's是「that is」，無法表達所有權。whose + N結構簡潔有力。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷複合句中whose子句的主詞與動詞數字一致性",
+      "question_eng": "The companies _______ CEO attended the conference presented their innovative strategies.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "whose's"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。whose修飾CEO（單數），後接單數動詞attended，符合數字一致性。B選項who用於人的主格，但此處需要所有格。C選項which用於物，不能修飾CEO屬於企業的概念。D選項whose's形成雙重所有格錯誤。句意：「出席會議的這些公司的執行長展示了創新策略。」",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的所有格關係代名詞，並注意whose後名詞的數與子句動詞的配合",
+      "question_eng": "The students _______ research projects were selected for the national competition have been working diligently for months.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whose"
+        },
+        {
+          "key": "B",
+          "text": "whose's"
+        },
+        {
+          "key": "C",
+          "text": "of whom"
+        },
+        {
+          "key": "D",
+          "text": "their"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。whose修飾複數名詞projects，配合複數動詞were selected。注意whose直接跟名詞，不需冠詞。B選項whose's為雙重所有格錯誤。C選項「of whom」無法指涉projects（物），且結構不符。D選項their是代名詞，無法引導關係子句。此句whose + N（projects）作受詞被動詞selected修飾。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我喜歡那位老師，她的課程很有趣。",
+      "answer": "I like the teacher whose classes are interesting.",
+      "key_points": [
+        "the teacher（先行詞）",
+        "whose classes（所有格關係代名詞+名詞）",
+        "are interesting（複數動詞與classes一致）"
+      ],
+      "hints": [
+        "句型框架：I like N + whose + N + V",
+        "注意：whose後直接跟名詞classes，不需加冠詞a/the"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我認識一位學生，他的父親是醫生。",
+      "answer": "I know a student whose father is a doctor.",
+      "key_points": [
+        "a student（先行詞）",
+        "whose father（所有格關係代名詞+單數名詞）",
+        "is a doctor（單數動詞is與father一致）"
+      ],
+      "hints": [
+        "句型框架：I know N + whose + N + be + N",
+        "常見錯誤：誤寫成whose's father或whose he father"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我們學校有很多學生，他們的夢想是進入頂尖大學。",
+      "answer": "Our school has many students whose dreams are to enter top universities.",
+      "key_points": [
+        "many students（複數先行詞）",
+        "whose dreams（複數名詞）",
+        "are to enter（複數動詞與dreams一致）",
+        "to enter（不定詞片語作表語）"
+      ],
+      "hints": [
+        "句型框架：N + whose + N (複數) + V (複數)",
+        "注意whose後的名詞dreams為複數，動詞are須配合複數形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這是一部我非常欣賞的電影，它的導演曾獲得多項國際獎項。",
+      "answer": "This is a movie whose director has won numerous international awards, which I admire very much.",
+      "key_points": [
+        "a movie（先行詞，物）",
+        "whose director（所有格關係代名詞修飾人物）",
+        "has won（單數動詞與director一致）",
+        "numerous international awards（複雜受詞）"
+      ],
+      "hints": [
+        "句型框架：This is N + whose + N + V + O，whose可修飾人或物",
+        "易混淆：whose修飾的是director（導演），而非movie本身；whose後跟名詞，不是who"
+      ]
+    }
+  ]
+}

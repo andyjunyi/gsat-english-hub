@@ -1,0 +1,362 @@
+{
+  "code": "2-5",
+  "chapter": 2,
+  "title": "假設語氣（與過去相反）If + S + had p.p....",
+  "formulas": [
+    {
+      "formula": "If + S + had p.p., S + would/could/might + have p.p.",
+      "zh": "如果（過去）...，（過去）就會/能/可能..."
+    },
+    {
+      "formula": "Had S + p.p., S + would/could/might + have p.p.",
+      "zh": "倒裝形式：若省略 if，had 須前置於主詞"
+    }
+  ],
+  "explanation": "第三條件句用於表達與過去事實相反的假設。if 子句使用過去完成式（had + p.p.），表示過去未曾發生的事；主句用 would/could/might + have + p.p.，表示過去本可能發生但未發生的結果。若省略 if，需使用倒裝語序（Had + S）。此句型常與第二條件句混合，表達多層次的假設情境。注意：不可使用 will have 或 can have 在主句中。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "If I had studied harder, I would have passed the exam.",
+      "chi": "如果我當時用功讀書，我就會通過考試了。",
+      "keywords": [
+        "過去完成式",
+        "would have p.p.",
+        "與過去事實相反"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Had she known the truth earlier, she could have made a better decision.",
+      "chi": "要是她早知道真相，她本來可以做出更好的決定。",
+      "keywords": [
+        "倒裝語序",
+        "could have p.p.",
+        "Had S"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "If we hadn't missed the flight, we might have arrived on time.",
+      "chi": "如果我們沒有錯過班機，我們可能已經準時到達了。",
+      "keywords": [
+        "might have p.p.",
+        "過去可能性",
+        "if 子句"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Had you listened to my advice, you wouldn't have regretted it now.",
+      "chi": "要是你當時聽我的建議，你現在就不會後悔了。",
+      "keywords": [
+        "wouldn't have p.p.",
+        "混合條件句",
+        "現在結果"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷第三條件句的關鍵：時間詞為過去（yesterday、at that time、then）且事實未發生。常見錯誤是在主句用 will have（應用 would have）或在 if 子句用 would have（應用 had p.p.）。倒裝形式 Had S 後接 p.p.，主句結構不變。",
+    "examples": [
+      {
+        "test": "If I would have known → If I had known",
+        "result": "✗ 錯誤：if 子句不可用 would have，只能用 had p.p."
+      },
+      {
+        "test": "If you had told me, I will help you → If you had told me, I would have helped you",
+        "result": "✗ 錯誤：主句須用過去時態 would have，不能用 will"
+      },
+      {
+        "test": "Had I known earlier, I could have changed my plan.",
+        "result": "✓ 正確：倒裝形式，Had + S + p.p. 表省略 if"
+      }
+    ],
+    "note": "三條件句口訣：『過過會』— if 子句用過去完成，主句用 would/could/might + have。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "If he ",
+        null,
+        " the warning, he would have avoided the accident."
+      ],
+      "blanks": [
+        "had heeded"
+      ],
+      "sentence": "If he had heeded the warning, he would have avoided the accident.",
+      "translation": "如果他當時留意警告，他就會避免那場事故了。",
+      "keywords": [
+        "had p.p.",
+        "過去完成式",
+        "if 子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " the project been completed on time, the company wouldn't have lost that contract."
+      ],
+      "blanks": [
+        "Had"
+      ],
+      "sentence": "Had the project been completed on time, the company wouldn't have lost that contract.",
+      "translation": "要是那個項目按時完成，公司就不會失去那份合約了。",
+      "keywords": [
+        "倒裝語序",
+        "Had S",
+        "過去被動"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "If I had taken your advice, I ",
+        null,
+        " such a costly mistake."
+      ],
+      "blanks": [
+        "wouldn't have made"
+      ],
+      "sentence": "If I had taken your advice, I wouldn't have made such a costly mistake.",
+      "translation": "如果我當時採納你的建議，我就不會犯這麼昂貴的錯誤了。",
+      "keywords": [
+        "would have p.p.",
+        "主句結構",
+        "與過去事實相反"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "She ",
+        null,
+        " that chance if she had been more confident back then."
+      ],
+      "blanks": [
+        "could have seized"
+      ],
+      "sentence": "She could have seized that chance if she had been more confident back then.",
+      "translation": "如果她當時更有自信，她本來可以抓住那個機會的。",
+      "keywords": [
+        "could have p.p.",
+        "過去能力或可能性",
+        "if 子句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "have studied",
+      "zh": "已經研究；曾經學習"
+    },
+    {
+      "adj": "would have passed",
+      "zh": "會已經通過；本應通過"
+    },
+    {
+      "adj": "could have done",
+      "zh": "本來可以做；當時能夠做"
+    },
+    {
+      "adj": "might have happened",
+      "zh": "可能已經發生"
+    },
+    {
+      "adj": "hadn't known",
+      "zh": "沒有知道；未曾了解"
+    },
+    {
+      "adj": "hadn't missed",
+      "zh": "沒有錯過；未曾遺漏"
+    },
+    {
+      "adj": "wouldn't have regretted",
+      "zh": "不會後悔；本不應後悔"
+    },
+    {
+      "adj": "had left earlier",
+      "zh": "更早離開；已離開"
+    },
+    {
+      "adj": "could have prevented",
+      "zh": "本來可以防止"
+    },
+    {
+      "adj": "shouldn't have said",
+      "zh": "不應該說；本不應說"
+    },
+    {
+      "adj": "would have helped",
+      "zh": "會幫助；本應幫助"
+    },
+    {
+      "adj": "had warned",
+      "zh": "已警告；曾警告"
+    }
+  ],
+  "vocab_table_label": "假設語氣關鍵詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的第三條件句形式，表達與過去相反的假設",
+      "question_eng": "If he _______ the warning, he would not have made that mistake.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had heard"
+        },
+        {
+          "key": "B",
+          "text": "heard"
+        },
+        {
+          "key": "C",
+          "text": "has heard"
+        },
+        {
+          "key": "D",
+          "text": "would hear"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第三條件句的 if 子句需用過去完成式 had + p.p.。A 正確。B 為簡單過去式，表示簡單事實；C 為現在完成式，時態不符；D 為助動詞 would，不能用於 if 子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成第三條件句主句，使用正確的助動詞形式",
+      "question_eng": "If you had arrived on time, you _______ the important announcement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would not miss"
+        },
+        {
+          "key": "B",
+          "text": "would not have missed"
+        },
+        {
+          "key": "C",
+          "text": "will not have missed"
+        },
+        {
+          "key": "D",
+          "text": "would miss"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第三條件句主句應使用 would/could/might + have + p.p. 表過去本可發生但未發生。B 正確。A 缺少 have；C 使用 will have，不符第三條件句；D 為簡單未來式，時態錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "使用倒裝語序改寫第三條件句，選擇正確形式",
+      "question_eng": "_______ known about the accident earlier, we could have helped them immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If we had"
+        },
+        {
+          "key": "B",
+          "text": "Had we"
+        },
+        {
+          "key": "C",
+          "text": "If we have"
+        },
+        {
+          "key": "D",
+          "text": "Have we"
+        }
+      ],
+      "answer": "B",
+      "explanation": "省略 if 時需使用倒裝語序 Had + S + p.p.。B 正確。A 保留了 if，不是倒裝；C 使用現在完成式，不符；D 為一般倒裝疑問句形式，不符文意。",
+      "id": 3
+    },
+    {
+      "question_chi": "識別並修正混合條件句中，表達多層次假設的正確形式",
+      "question_eng": "If she had not been afraid of failure back then, she _______ her own business by now and _______ more successful.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would have started; would be"
+        },
+        {
+          "key": "B",
+          "text": "would start; would be"
+        },
+        {
+          "key": "C",
+          "text": "will have started; would have been"
+        },
+        {
+          "key": "D",
+          "text": "would have started; would have been"
+        }
+      ],
+      "answer": "A",
+      "explanation": "混合條件句：前半部對過去相反（if had...），需要 would have started；後半部表現在結果（by now），需要 would be（第二條件句形式）。A 正確地結合兩個不同時間點。B、C、D 時態搭配都不恰當。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "如果你昨天沒有遲到，就不會被老師罵。",
+      "answer": "If you hadn't been late yesterday, you wouldn't have been scolded by your teacher.",
+      "key_points": [
+        "hadn't been late (過去完成式)",
+        "wouldn't have been scolded (主句結構)",
+        "時間副詞 yesterday 表示過去事實"
+      ],
+      "hints": [
+        "提示1：if 子句用 had + p.p.，主句用 would + have + p.p.，兩者時態配合",
+        "提示2：常見錯誤是在主句用 will have 或 would be scolded，記得必須是 would have been scolded"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "如果我有認真讀書，我就能通過那次數學考試。",
+      "answer": "If I had studied hard, I could have passed the math exam.",
+      "key_points": [
+        "had studied (過去完成式表示未曾發生)",
+        "could have passed (表示過去曾可能的結果)",
+        "study 與 pass 的因果邏輯"
+      ],
+      "hints": [
+        "提示1：主句用 could/might + have + p.p. 表達過去本可能但未發生的結果",
+        "提示2：注意 could have 和 would have 的差異——could 強調'有能力'，would 強調'必然結果'"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "要不是你提醒我帶傘，我就會在雨中淋濕了。",
+      "answer": "Had you not reminded me to bring an umbrella, I would have gotten wet in the rain.",
+      "key_points": [
+        "Had you not reminded (倒裝結構，省略 if)",
+        "would have gotten (主句完成式)",
+        "to bring 不定詞作提醒內容"
+      ],
+      "hints": [
+        "提示1：省略 if 需使用倒裝語序 Had + S + p.p.，功能與 If I had not been reminded... 相同",
+        "提示2：倒裝時注意否定詞的位置（Had you not / Hadn't you），避免寫成 Did you not remind"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "如果我的朋友沒有在升學考試前夕告訴我那個重要的考試技巧，我就可能考不上理想的大學。",
+      "answer": "If my friend hadn't told me that important exam technique before the entrance exam, I might not have gotten into my ideal university.",
+      "key_points": [
+        "hadn't told (過去完成式，過去未曾發生的事)",
+        "might have gotten (表示過去較不確定的可能結果)",
+        "複雜時間背景 (before the entrance exam) 與假設的層次"
+      ],
+      "hints": [
+        "提示1：might have + p.p. 比 would have 語氣更不確定，適合表達不確定的假設後果",
+        "提示2：長句型需注意 if 子句與主句的邏輯清晰；避免混用 might have 與 would have 導致邏輯模糊，應根據確定度選擇"
+      ]
+    }
+  ]
+}

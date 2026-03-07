@@ -1,0 +1,361 @@
+{
+  "code": "4-23",
+  "chapter": 4,
+  "title": "S + V + N + that + S + V（同位語子句）",
+  "formulas": [
+    {
+      "formula": "N + that + S + V",
+      "zh": "名詞（通常為抽象名詞）+ that引導的同位語子句，用於解釋說明前面名詞的具體內容"
+    },
+    {
+      "formula": "N + that + S + V + ...",
+      "zh": "同位語that子句可含完整句子結構，對先行詞進行進一步詮釋或補充說明"
+    }
+  ],
+  "explanation": "同位語that子句用於解釋或說明前面的抽象名詞（如idea、fact、belief、news、possibility等），that本身不代替先行詞而是引導說明子句。與限定關係子句的主要區別：(1)同位語that不代替先行詞，關係that代替；(2)同位語that子句提供額外訊息，關係子句限定修飾；(3)同位語that子句常用逗號隔開或可省略that，關係子句則不可。該句型在學測中考查抽象名詞的理解及子句辨識能力。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The fact that he passed the exam surprised everyone in the class.",
+      "chi": "他通過考試這個事實令班上所有人都感到驚訝。",
+      "keywords": [
+        "fact",
+        "that子句",
+        "同位語"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "We accepted the idea that technology would change our daily lives.",
+      "chi": "我們接受了科技會改變我們日常生活這個想法。",
+      "keywords": [
+        "idea",
+        "that引導",
+        "解釋說明"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The news that the company would close down shocked all employees.",
+      "chi": "公司將關閉的消息震驚了所有員工。",
+      "keywords": [
+        "news",
+        "同位語that",
+        "抽象名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "She had no doubt that her son would become a successful doctor.",
+      "chi": "她毫無疑問地相信她的兒子將成為一名成功的醫生。",
+      "keywords": [
+        "doubt",
+        "確信",
+        "that子句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否為同位語that：(1)先行詞是否為抽象名詞；(2)that子句是否對先行詞進行詮釋而非限定修飾；(3)that子句可移除而句子結構仍完整。若that引導的子句用來限定修飾具體名詞，則為限定關係子句，不是同位語。",
+    "examples": [
+      {
+        "test": "The fact that he lied disappointed us.（同位語）vs. The letter that he wrote was lost.（關係子句）",
+        "result": "→ 前者fact為抽象名詞，that子句解釋fact內容；後者letter為具體名詞，that子句限定修飾哪一封信"
+      },
+      {
+        "test": "We ignored the suggestion that we should leave early.（同位語）vs. We ignored the suggestion which was unreasonable.（關係子句）",
+        "result": "→ 前者that引導子句說明suggestion是什麼；後者which代替suggestion並限定修飾其特徵"
+      }
+    ],
+    "note": "抽象名詞+that引導說明 = 同位語；具體名詞+that限定修飾 = 限定關係子句。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The possibility ",
+        null,
+        " would win the championship excited the fans."
+      ],
+      "blanks": [
+        "that our team"
+      ],
+      "sentence": "The possibility that our team would win the championship excited the fans.",
+      "translation": "我們隊伍將贏得冠軍的可能性令粉絲興奮不已。",
+      "keywords": [
+        "possibility",
+        "that子句",
+        "同位語"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "We rejected the assumption ",
+        null,
+        " were all dishonest."
+      ],
+      "blanks": [
+        "that politicians"
+      ],
+      "sentence": "We rejected the assumption that politicians were all dishonest.",
+      "translation": "我們拒絕了政治人物都不誠實這個假設。",
+      "keywords": [
+        "assumption",
+        "that引導",
+        "解釋說明"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The evidence ",
+        null,
+        " had stolen the money was convincing."
+      ],
+      "blanks": [
+        "that he"
+      ],
+      "sentence": "The evidence that he had stolen the money was convincing.",
+      "translation": "他盜竊金錢的證據很有說服力。",
+      "keywords": [
+        "evidence",
+        "同位語that",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "There is no doubt ",
+        null,
+        " has made great progress in technology."
+      ],
+      "blanks": [
+        "that our country"
+      ],
+      "sentence": "There is no doubt that our country has made great progress in technology.",
+      "translation": "毫無疑問，我們國家在科技方面取得了巨大進步。",
+      "keywords": [
+        "doubt",
+        "否定",
+        "同位語"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "fact",
+      "zh": "事實"
+    },
+    {
+      "adj": "idea",
+      "zh": "想法；概念"
+    },
+    {
+      "adj": "news",
+      "zh": "消息；新聞"
+    },
+    {
+      "adj": "belief",
+      "zh": "信念；信仰"
+    },
+    {
+      "adj": "doubt",
+      "zh": "懷疑；疑問"
+    },
+    {
+      "adj": "possibility",
+      "zh": "可能性"
+    },
+    {
+      "adj": "evidence",
+      "zh": "證據"
+    },
+    {
+      "adj": "assumption",
+      "zh": "假設；認定"
+    },
+    {
+      "adj": "suggestion",
+      "zh": "建議；暗示"
+    },
+    {
+      "adj": "truth",
+      "zh": "真相；真理"
+    },
+    {
+      "adj": "probability",
+      "zh": "概率；可能性"
+    },
+    {
+      "adj": "conclusion",
+      "zh": "結論；結果"
+    }
+  ],
+  "vocab_table_label": "常用同位語名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的同位語that子句，完成下列句子",
+      "question_eng": "The news _______ made everyone excited about the upcoming festival.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that the company would sponsor the event"
+        },
+        {
+          "key": "B",
+          "text": "which the company would sponsor the event"
+        },
+        {
+          "key": "C",
+          "text": "what the company would sponsor the event"
+        },
+        {
+          "key": "D",
+          "text": "when the company would sponsor the event"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。同位語that子句用來解釋抽象名詞news的具體內容，that引導說明子句但不代替先行詞。B項which是關係代名詞，代替先行詞，不符合同位語用法。C項what不能引導同位語子句。D項when是時間副詞，無法引導此類子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷哪個選項正確表達同位語that子句",
+      "question_eng": "The possibility _______ attracted many young entrepreneurs to the startup competition.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that they could win a million dollars"
+        },
+        {
+          "key": "B",
+          "text": "which they could win a million dollars"
+        },
+        {
+          "key": "C",
+          "text": "that could they win a million dollars"
+        },
+        {
+          "key": "D",
+          "text": "where they could win a million dollars"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。同位語that子句解釋抽象名詞possibility的內容，採用正常陳述語序。B項which為關係代名詞，會代替先行詞，不符合同位語用法。C項採用倒裝語序，在同位語子句中不適用。D項where為地點副詞，無法引導同位語子句。",
+      "id": 2
+    },
+    {
+      "question_chi": "選出正確的同位語that子句結構，注意抽象名詞的搭配",
+      "question_eng": "We all agreed with the belief _______ cooperation among team members is essential for success.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "in which"
+        },
+        {
+          "key": "D",
+          "text": "whereby"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。同位語that子句用於解釋抽象名詞belief，that不代替先行詞，只引導說明子句。A項what會代替先行詞，變成關係代名詞用法。C項in which為介詞+關係代名詞，通常用於限定關係子句。D項whereby為介詞性關聯詞，無法用於同位語子句結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨別同位語that子句與關係子句的差異，選出正確選項",
+      "question_eng": "The assumption _______ inflation would remain stable proved to be incorrect when economic data was released.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "whom"
+        },
+        {
+          "key": "D",
+          "text": "whose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。同位語that子句解釋抽象名詞assumption，that本身不代替先行詞而是引導說明子句。A項which會代替先行詞成為關係代名詞，若選擇則assumption成為主詞且需邏輯調整，不符合原意。C項whom和D項whose皆為關係代名詞，用於代替先行詞，不符合同位語用法。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師宣布了一個消息，即下週要進行期末考。",
+      "answer": "The teacher announced the news that the final exam would be held next week.",
+      "key_points": [
+        "announced the news",
+        "that引導同位語子句",
+        "would be held（被動語態）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V，其中news是抽象名詞，that後接說明子句",
+        "注意：that子句中要用過去式would be held來搭配announced的時態"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我有一個信念，就是努力永遠不會白費。",
+      "answer": "I hold the belief that hard work will never be in vain.",
+      "key_points": [
+        "hold the belief",
+        "that引導同位語子句",
+        "will never be in vain（不會白費）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V，belief是抽象名詞，that子句說明信念的具體內容",
+        "注意：that前不用逗號，that子句用現在簡單式或未來式表述普遍真理"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "研究表明了一個事實，即過度使用手機會影響青少年的睡眠品質。",
+      "answer": "The research revealed the fact that excessive use of mobile phones impairs teenagers' sleep quality.",
+      "key_points": [
+        "revealed the fact",
+        "that引導同位語子句",
+        "excessive use of...（過度使用）",
+        "impairs sleep quality（影響睡眠品質）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V，fact是抽象名詞，that子句提供具體說明",
+        "注意：不要誤用限定關係子句which；that子句中的主語是excessive use（動名詞短語），謂語用第三人稱單數impairs"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "越來越多人認同這樣的觀點，即個人發展不應該完全由社會期待決定，而應該基於自己的興趣和價值觀。",
+      "answer": "More and more people accept the view that personal development should not be entirely determined by social expectations, but rather be based on one's own interests and values.",
+      "key_points": [
+        "accept the view",
+        "that引導同位語子句",
+        "should not be determined by...（不應由...決定）",
+        "be based on（基於）"
+      ],
+      "hints": [
+        "句型框架：S + V + N + that + S + V，view是抽象名詞，that子句用should + be動詞表述建議性觀點",
+        "注意：that子句內可包含對比連詞but，但不改變同位語子句的性質；該子句提供的是對view內容的詳細說明，而非限制修飾"
+      ]
+    }
+  ]
+}

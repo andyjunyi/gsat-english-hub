@@ -1,0 +1,367 @@
+{
+  "code": "4-29",
+  "chapter": 4,
+  "title": "S + find/think/make + it + adj. + to V（虛受詞）",
+  "formulas": [
+    {
+      "formula": "S + V + it + adj. + to V",
+      "zh": "主詞＋動詞＋it（虛受詞）＋形容詞＋不定詞（真正受詞）"
+    },
+    {
+      "formula": "S + V + it + N + that 子句",
+      "zh": "主詞＋動詞＋it（虛受詞）＋名詞＋that子句（真正受詞）"
+    }
+  ],
+  "explanation": "此句型利用虛受詞it來代替真正受詞（不定詞或that子句），使句子結構更靈活。虛受詞it位於形容詞或名詞之前，真正受詞則置於句尾。常見動詞有find、think、consider、make、feel、believe等。使用時機：當欲強調形容詞/名詞的評價或修飾時。注意：it是形式受詞，不代表任何具體事物；真正受詞才是句子的實際邏輯受詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I find it difficult to learn Chinese characters.",
+      "chi": "我發現學習中文字很困難。",
+      "keywords": [
+        "find",
+        "it",
+        "difficult",
+        "to learn"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She thinks it important that students should study hard.",
+      "chi": "她認為學生應該努力讀書是重要的。",
+      "keywords": [
+        "thinks",
+        "it",
+        "important",
+        "that子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We consider it a great honor to receive this award.",
+      "chi": "我們認為獲得此獎是極大的榮幸。",
+      "keywords": [
+        "consider",
+        "it",
+        "honour",
+        "to receive"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The noise made it impossible for us to concentrate.",
+      "chi": "噪音使我們不可能專心。",
+      "keywords": [
+        "made",
+        "it",
+        "impossible",
+        "to concentrate"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "impossible",
+      "zh": "不可能的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "true",
+      "zh": "真實的"
+    },
+    {
+      "adj": "false",
+      "zh": "虛假的"
+    },
+    {
+      "adj": "essential",
+      "zh": "本質的、必需的"
+    },
+    {
+      "adj": "unfortunate",
+      "zh": "不幸的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷虛受詞it的關鍵：it本身無實際意義，不能被真正受詞替代位置。若移除it，改為「S + V + to V」或「S + V + that子句」，意思完全改變。虛受詞it使句子更具靈活性，特別是形容詞或名詞較複雜時。常犯錯誤：混淆it為真受詞或遺漏it。",
+    "examples": [
+      {
+        "test": "I find it easy to speak English.",
+        "result": "→ 正確用法。it為虛受詞，to speak English為真受詞。"
+      },
+      {
+        "test": "❌ I find easy to speak English.",
+        "result": "→ 錯誤。缺少虛受詞it，語法不完整。"
+      },
+      {
+        "test": "We made it clear that we disagree.",
+        "result": "→ 正確用法。it為虛受詞，that子句為真受詞，clear為補語。"
+      }
+    ],
+    "note": "記住：it是虛受詞（形式），真正受詞（不定詞或that子句）才是內容，兩者缺一不可。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I find ",
+        null,
+        " to understand advanced mathematics."
+      ],
+      "blanks": [
+        "it difficult"
+      ],
+      "sentence": "I find it difficult to understand advanced mathematics.",
+      "translation": "我發現理解高等數學很困難。",
+      "keywords": [
+        "find",
+        "it difficult",
+        "to understand"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The teacher considers ",
+        null,
+        " that students submit their homework on time."
+      ],
+      "blanks": [
+        "it necessary"
+      ],
+      "sentence": "The teacher considers it necessary that students submit their homework on time.",
+      "translation": "老師認為學生準時交作業是必要的。",
+      "keywords": [
+        "considers",
+        "it necessary",
+        "that子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "We felt ",
+        null,
+        " to meet such a talented person."
+      ],
+      "blanks": [
+        "it an honor"
+      ],
+      "sentence": "We felt it an honor to meet such a talented person.",
+      "translation": "我們感到很榮幸能夠認識這樣一位才華洋溢的人。",
+      "keywords": [
+        "felt",
+        "it an honor",
+        "to meet"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The accident made ",
+        null,
+        " for anyone to drive on that road."
+      ],
+      "blanks": [
+        "it unsafe"
+      ],
+      "sentence": "The accident made it unsafe for anyone to drive on that road.",
+      "translation": "那場事故使得任何人都無法在那條路上安全駕車。",
+      "keywords": [
+        "made",
+        "it unsafe",
+        "to drive"
+      ]
+    }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "填入適當的虛受詞結構，使句子完整表達「認為學英文容易」",
+      "question_eng": "I find _______ easy to learn English.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "this"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (it)。此句型使用虛受詞 it 來代替真正受詞（to learn English），位於形容詞 easy 之前。選項 B 的 that 用於 that 子句，不適合此結構；C 和 D 都無法作為虛受詞使用。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的虛受詞結構，表達「認為按時交作業很重要」",
+      "question_eng": "She thinks _______ important that all students should submit homework on time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "it"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (it)。此句型為「S + V + it + adj. + that 子句」結構，it 是虛受詞，that 子句是真正受詞。選項 A、C、D 都無法擔任虛受詞角色，該句型中 it 為必要元素。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式，表達「認為他很難相信這個故事」",
+      "question_eng": "I find _______ difficult for him to believe the story.",
+      "options": [
+        {
+          "key": "A",
+          "text": "this"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "it"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C (it)。此句型為「S + V + it + adj. + for/to + to V」結構，it 是虛受詞，真正受詞為 to believe the story。選項 A 和 B 無法作虛受詞；D 的 what 通常引導名詞子句，不符合此結構用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確的虛受詞結構，完成「我認為能找到好工作是可能的」這句話",
+      "question_eng": "I consider _______ possible that she will find a satisfying job in this competitive market.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "it"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (it)。此句型為「S + V + it + adj. + that 子句」，consider 後的虛受詞 it 代替真正受詞（that 子句），it 位於形容詞 possible 之前。選項 A 的 what 為關係代詞，C 的 which 亦然，D 的 that 只能引導名詞子句但不作虛受詞。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我覺得每天早起很困難。",
+      "answer": "I find it difficult to get up early every day.",
+      "key_points": [
+        "find + it + adj.",
+        "difficult",
+        "to get up early"
+      ],
+      "hints": [
+        "句型框架：S + find + it + adj. + to V，it是虛受詞，真正受詞是to get up early",
+        "常見錯誤：不能寫成'I find to get up early difficult'，形容詞必須放在it之後"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他認為在圖書館裡專心讀書很容易。",
+      "answer": "He thinks it easy to concentrate on studying in the library.",
+      "key_points": [
+        "think + it + adj.",
+        "easy",
+        "concentrate on studying",
+        "in the library（地點狀語）"
+      ],
+      "hints": [
+        "句型框架：S + think + it + adj. + to V，it代替不定詞短語to concentrate on studying",
+        "注意：地點或時間狀語可加在不定詞之後，不影響虛受詞結構"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "良好的時間管理使得學生能夠平衡課業和興趣變得可能。",
+      "answer": "Good time management makes it possible for students to balance schoolwork and hobbies.",
+      "key_points": [
+        "make + it + possible",
+        "for + 名詞/代詞",
+        "to balance ... and ..."
+      ],
+      "hints": [
+        "句型框架：S + make + it + adj. + for sb./sth. + to V，當受詞是人時需加for介詞短語",
+        "常見錯誤：不能漏掉for students，直接寫'makes it possible students to balance'是文法錯誤"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我們發現遵守承諾是維持友誼的必要條件這一事實。",
+      "answer": "We find it a necessary condition for maintaining friendship that keeping promises is important.",
+      "key_points": [
+        "find + it + N + that 子句",
+        "a necessary condition",
+        "that引導真正受詞",
+        "keeping promises（動名詞）"
+      ],
+      "hints": [
+        "句型變化：此題使用N（名詞）而非adj.，公式為S + V + it + N + that子句，it仍為虛受詞",
+        "注意：that子句才是真正邏輯受詞；'a necessary condition'是補語，置於it之後"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "code": "3-9",
+  "chapter": 3,
+  "title": "S + V + so + adj./adv. + that + S + V（結果子句）",
+  "formulas": [
+    {
+      "formula": "so + adj./adv. + that + S + V",
+      "zh": "如此...以至於...；表示程度副詞子句，說明結果"
+    },
+    {
+      "formula": "so many/much/few/little + N + that + S + V",
+      "zh": "如此多/少的...以至於...；強調名詞數量的極端程度"
+    }
+  ],
+  "explanation": "此句型用於表達事物達到某種程度，以至於產生相應結果。so 後接形容詞或副詞，that 引導結果子句。特殊形式為 so many/much/few/little + 名詞，強調數量之多或之少。此句型常與 such...that 混淆，需注意：so 後接形容詞/副詞/數量詞，such 後接名詞片語。使用時應確保 that 子句表達的是自然結果。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The movie was so exciting that everyone stayed until the end.",
+      "chi": "那部電影如此精彩，以至於所有人都看到了最後。",
+      "keywords": [
+        "so + 形容詞",
+        "程度副詞",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "He spoke so quickly that nobody could understand what he said.",
+      "chi": "他說話如此快速，以至於沒有人能理解他說的話。",
+      "keywords": [
+        "so + 副詞",
+        "程度修飾",
+        "結果表達"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "There were so many people at the concert that tickets sold out in minutes.",
+      "chi": "音樂會有如此多的人，以至於票在幾分鐘內售罄。",
+      "keywords": [
+        "so many + 名詞",
+        "數量強調",
+        "極端結果"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The weather was so bad that the match had to be postponed.",
+      "chi": "天氣如此糟糕，以至於比賽必須延期。",
+      "keywords": [
+        "so + 形容詞",
+        "必然結果",
+        "日常應用"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "exciting",
+      "zh": "令人興奮的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "beautiful",
+      "zh": "美麗的"
+    },
+    {
+      "adj": "cold",
+      "zh": "寒冷的"
+    },
+    {
+      "adj": "quickly",
+      "zh": "快速地"
+    },
+    {
+      "adj": "carefully",
+      "zh": "仔細地"
+    },
+    {
+      "adj": "bright",
+      "zh": "明亮的"
+    },
+    {
+      "adj": "crowded",
+      "zh": "擁擠的"
+    },
+    {
+      "adj": "expensive",
+      "zh": "昂貴的"
+    },
+    {
+      "adj": "heavily",
+      "zh": "沉重地；大量地"
+    },
+    {
+      "adj": "tired",
+      "zh": "疲倦的"
+    },
+    {
+      "adj": "slowly",
+      "zh": "緩慢地"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區別 so...that 與 such...that：so 後接形容詞、副詞或 many/much/few/little + 名詞；such 後接整個名詞片語。例：so beautiful that（形容詞）vs. such a beautiful day that（名詞片語）。that 子句必須表達邏輯上的自然結果，勿使用無關連的後句。",
+    "examples": [
+      {
+        "test": "The book was so interesting that I finished it in one night.",
+        "result": "→ 正確：so + 形容詞 interesting，結果合理"
+      },
+      {
+        "test": "×The book was so that I finished it in one night.",
+        "result": "→ 錯誤：so 後必須接形容詞或副詞，不能直接接 that"
+      },
+      {
+        "test": "There was so little time that we had to rush.",
+        "result": "→ 正確：so little + 名詞，表數量之少"
+      }
+    ],
+    "note": "記憶訣竅：so 修飾形容詞/副詞本身，such 修飾名詞；so...that 強調程度，such...that 強調事物特性。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The exam was ",
+        null,
+        " that most students couldn't finish it on time."
+      ],
+      "blanks": [
+        "so difficult"
+      ],
+      "sentence": "The exam was so difficult that most students couldn't finish it on time.",
+      "translation": "考試如此困難，以至於大多數學生無法按時完成。",
+      "keywords": [
+        "so + 形容詞",
+        "程度副詞",
+        "結果子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She ran ",
+        null,
+        " that she arrived at school before it opened."
+      ],
+      "blanks": [
+        "so quickly"
+      ],
+      "sentence": "She ran so quickly that she arrived at school before it opened.",
+      "translation": "她跑得如此快，以至於她在學校開門前到達。",
+      "keywords": [
+        "so + 副詞",
+        "速度描寫",
+        "時間結果"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "There were ",
+        null,
+        " that we couldn't find any seats in the restaurant."
+      ],
+      "blanks": [
+        "so many people"
+      ],
+      "sentence": "There were so many people that we couldn't find any seats in the restaurant.",
+      "translation": "有如此多的人，以至於我們在餐廳找不到任何座位。",
+      "keywords": [
+        "so many + 名詞",
+        "數量強調",
+        "結果表達"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The food cost ",
+        null,
+        " that we had to share one dish."
+      ],
+      "blanks": [
+        "so much"
+      ],
+      "sentence": "The food cost so much that we had to share one dish.",
+      "translation": "食物花費如此之多，以至於我們必須共享一道菜。",
+      "keywords": [
+        "so much",
+        "金額程度",
+        "必然結果"
+      ]
+    }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的結果子句結構，完成句子。",
+      "question_eng": "The weather was so beautiful _______ we decided to have a picnic in the park.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that everyone was happy"
+        },
+        {
+          "key": "B",
+          "text": "such that we decided to go"
+        },
+        {
+          "key": "C",
+          "text": "which made us go"
+        },
+        {
+          "key": "D",
+          "text": "because of the sunshine"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。本題使用『so + 形容詞 + that + 子句』結構表達結果。so 後接形容詞 beautiful，that 引導結果子句。B 項用 such that 結構錯誤，such 應接名詞片語；C 項用 which 引導非限制性關係子句，語法不當；D 項用 because of 表示原因，非結果。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的副詞和結果子句，表達說話速度導致的結果。",
+      "question_eng": "She spoke _______ that I couldn't follow her explanation during the meeting.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so quickly"
+        },
+        {
+          "key": "B",
+          "text": "such quick"
+        },
+        {
+          "key": "C",
+          "text": "so quick"
+        },
+        {
+          "key": "D",
+          "text": "such quickly"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『so + 副詞 + that』結構用於修飾動詞。so 後須接副詞 quickly（修飾 spoke），才能表達『說得如此快以至於』。B 項 such quick 搭配錯誤；C 項 so quick 應用副詞形式；D 項 such quickly 詞序顛倒且搭配錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的數量表達方式，填入空格。",
+      "question_eng": "There were _______ people at the concert _______ the venue couldn't accommodate everyone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so many / that"
+        },
+        {
+          "key": "B",
+          "text": "such many / that"
+        },
+        {
+          "key": "C",
+          "text": "so much / which"
+        },
+        {
+          "key": "D",
+          "text": "such a lot of / so"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『so many + 可數名詞 + that』用於表達眾多導致的結果。people 是可數名詞複數，故用 so many；that 引導結果子句。B 項 such many 用法不當，such 不與 many 直接搭用；C 項 so much 用於不可數名詞；D 項結構錯誤，且後接 so 不合邏輯。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨識正確結構，區分 so...that 與 such...that 的差異用法。",
+      "question_eng": "The documentary was _______ informative _______ it changed the way people viewed the environmental crisis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "such / that"
+        },
+        {
+          "key": "B",
+          "text": "so / that"
+        },
+        {
+          "key": "C",
+          "text": "such an / so"
+        },
+        {
+          "key": "D",
+          "text": "so much / which"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。本題強調程度，使用『so + 形容詞 + that』結構。informative 是形容詞，so 修飾形容詞表達『如此...以至於』。A 項 such 應接名詞片語，不能直接修飾形容詞；C 項 such an 搭配錯誤且邏輯不通；D 項 so much 用於不可數名詞，which 非結果子句。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影很有趣，以至於我們都笑了。",
+      "answer": "The movie was so funny that we all laughed.",
+      "key_points": [
+        "so + funny（形容詞）",
+        "that 引導結果子句",
+        "自然因果關係"
+      ],
+      "hints": [
+        "句型框架：S + V + so + adj. + that + S + V",
+        "注意：so 後接形容詞，不能用 such；that 子句需表達自然結果"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "昨天的考試這麼難，以至於很多學生都不及格。",
+      "answer": "The exam yesterday was so difficult that many students failed.",
+      "key_points": [
+        "so + difficult（形容詞）",
+        "that 子句表達結果",
+        "邏輯連貫性"
+      ],
+      "hints": [
+        "句型框架：S + V + so + adj. + that + S + V",
+        "常見錯誤：誤用 such difficult exam 代替 so difficult；that 後需跟完整子句（主詞+動詞）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他說話的速度太快了，以至於我無法跟上他的意思。",
+      "answer": "He spoke so quickly that I couldn't follow what he was saying.",
+      "key_points": [
+        "so + quickly（副詞）",
+        "so...that 表示程度與結果",
+        "couldn't follow = 無法跟上"
+      ],
+      "hints": [
+        "句型框架：S + V + so + adv. + that + S + V（注意副詞修飾動詞）",
+        "提醒：so 後接副詞時，副詞修飾前面的動詞；that 子句常含否定（couldn't）表示負面結果"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "學校的暑期作業這麼多，以至於學生們整個暑假都在做功課，根本沒有時間放鬆。",
+      "answer": "There was so much summer homework that students spent the entire vacation doing assignments and had little time to relax.",
+      "key_points": [
+        "so much + homework（數量表達）",
+        "that 引導的複合結果子句",
+        "邏輯層次深化"
+      ],
+      "hints": [
+        "句型框架：S + V + so much/many + N + that + S + V（強調數量之多）",
+        "提醒：so much 用於不可數名詞；that 子句可包含多個結果（and 連接）；避免誤用 such much"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "code": "5-23",
+  "chapter": 5,
+  "title": "used to + V / be used to + V-ing",
+  "formulas": [
+    {
+      "formula": "used to + V (原型動詞)",
+      "zh": "過去習慣性動作（現在已不如此）"
+    },
+    {
+      "formula": "be/get used to + V-ing / N",
+      "zh": "習慣於；適應於（現在的狀態或逐漸適應）"
+    }
+  ],
+  "explanation": "used to + V 表示過去經常做某事，但現在已停止，具有時間對比性。be used to + V-ing 表目前已習慣某事物，為習慣狀態。get used to + V-ing 表逐漸適應過程，強調動態變化。三者易混淆，應注意：used to 無現在式，be used to 後必接動名詞或名詞，get used to 表漸進適應。判別關鍵在於是否有時間對比（過去習慣）及是否為現在狀態。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I used to play basketball every weekend, but now I don't have time.",
+      "chi": "我過去每個週末都打籃球，但現在沒有時間了。",
+      "keywords": [
+        "used to + V",
+        "過去習慣",
+        "時間對比"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She is used to working late nights as a journalist for many years.",
+      "chi": "作為記者多年，她已習慣於在晚上工作到很晚。",
+      "keywords": [
+        "be used to + V-ing",
+        "現在習慣狀態"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It took him a long time to get used to living in the countryside.",
+      "chi": "他花了很長時間才逐漸適應在鄉村生活。",
+      "keywords": [
+        "get used to + V-ing",
+        "逐漸適應",
+        "過程"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Children are used to using smartphones, which concerns many parents.",
+      "chi": "小孩已習慣使用智慧型手機，這令許多父母擔憂。",
+      "keywords": [
+        "be used to + V-ing",
+        "習慣狀態"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判別關鍵：看句子時間。有「過去常常做，現在不做」→ used to + V。有「現在習慣了」→ be used to + V-ing。有「正在逐漸習慣」→ get used to + V-ing。注意 used to 後接原型動詞，be/get used to 後接動名詞或名詞。",
+    "examples": [
+      {
+        "test": "He used to drink coffee every morning. (過去習慣)",
+        "result": "→ 表過去每天喝咖啡，現在已停止此習慣"
+      },
+      {
+        "test": "He is used to drinking coffee every morning. (現在狀態)",
+        "result": "→ 表他現在已習慣每天喝咖啡，為習常動作"
+      },
+      {
+        "test": "He is getting used to drinking coffee since he moved to Italy. (逐漸適應)",
+        "result": "→ 表他搬到義大利後，正在逐漸適應喝咖啡的習慣"
+      }
+    ],
+    "note": "口訣：used to 看過去（已停止），be used to 看現在（已習慣），get used to 看過程（逐漸適應）。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "My grandfather ",
+        null,
+        " go fishing on weekends, but his health doesn't allow him anymore."
+      ],
+      "blanks": [
+        "used to"
+      ],
+      "sentence": "My grandfather used to go fishing on weekends, but his health doesn't allow him anymore.",
+      "translation": "我的祖父過去在週末經常去釣魚，但他的健康現在不允許他這樣做了。",
+      "keywords": [
+        "used to + V",
+        "過去習慣",
+        "現在已停止"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "After living abroad for two years, she finally ",
+        null,
+        " eating local cuisine."
+      ],
+      "blanks": [
+        "got used to"
+      ],
+      "sentence": "After living abroad for two years, she finally got used to eating local cuisine.",
+      "translation": "在國外生活兩年後，她終於逐漸習慣了吃當地美食。",
+      "keywords": [
+        "get used to + V-ing",
+        "逐漸適應",
+        "時間過程"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Professional athletes are ",
+        null,
+        " training under high pressure and fatigue."
+      ],
+      "blanks": [
+        "used to"
+      ],
+      "sentence": "Professional athletes are used to training under high pressure and fatigue.",
+      "translation": "職業運動員已習慣於在高壓和疲勞下進行訓練。",
+      "keywords": [
+        "be used to + V-ing",
+        "現在習慣狀態"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Tom ",
+        null,
+        " wake up late every day in high school, but university changed his schedule."
+      ],
+      "blanks": [
+        "used to"
+      ],
+      "sentence": "Tom used to wake up late every day in high school, but university changed his schedule.",
+      "translation": "湯姆在高中時過去每天都起床很晚，但大學改變了他的作息。",
+      "keywords": [
+        "used to + V",
+        "過去習慣",
+        "時間對比"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "play",
+      "zh": "玩；演奏"
+    },
+    {
+      "adj": "smoke",
+      "zh": "抽菸"
+    },
+    {
+      "adj": "eat",
+      "zh": "吃"
+    },
+    {
+      "adj": "study",
+      "zh": "研究；學習"
+    },
+    {
+      "adj": "travel",
+      "zh": "旅遊"
+    },
+    {
+      "adj": "get up early",
+      "zh": "早起"
+    },
+    {
+      "adj": "work hard",
+      "zh": "努力工作"
+    },
+    {
+      "adj": "speak in public",
+      "zh": "在公眾場合說話"
+    },
+    {
+      "adj": "live abroad",
+      "zh": "在國外生活"
+    },
+    {
+      "adj": "handle stress",
+      "zh": "處理壓力"
+    },
+    {
+      "adj": "adapt to change",
+      "zh": "適應改變"
+    },
+    {
+      "adj": "commute daily",
+      "zh": "每日通勤"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確形式：他過去經常去健身房，但現在不去了。",
+      "question_eng": "He _______ go to the gym every day, but he doesn't anymore.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is used to"
+        },
+        {
+          "key": "B",
+          "text": "used to"
+        },
+        {
+          "key": "C",
+          "text": "is getting used to"
+        },
+        {
+          "key": "D",
+          "text": "uses to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。'used to + 原動詞' 表示過去經常做某事但現在已停止，句中 'but he doesn't anymore' 表示時間對比。A 項 'is used to' 後需動名詞，表現在習慣；C 項表適應過程；D 項 'uses to' 為非正式用法且無此時間對比意涵。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確形式：她已習慣在嘈雜環境中工作多年。",
+      "question_eng": "She _______ working in a noisy environment for many years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is used to"
+        },
+        {
+          "key": "B",
+          "text": "used to"
+        },
+        {
+          "key": "C",
+          "text": "is using to"
+        },
+        {
+          "key": "D",
+          "text": "has used to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。'be used to + V-ing' 表現在已習慣某事物，為習慣狀態，後接動名詞 'working'。B 項 'used to' 無現在式，用法錯誤；C 項非正式用法；D 項 'has used to' 文法不正確。",
+      "id": 2
+    },
+    {
+      "question_chi": "填空：他正在逐漸適應紐約的快速生活步調。",
+      "question_eng": "He is _______ the fast-paced lifestyle in New York.",
+      "options": [
+        {
+          "key": "A",
+          "text": "getting used to"
+        },
+        {
+          "key": "B",
+          "text": "used to"
+        },
+        {
+          "key": "C",
+          "text": "being used to"
+        },
+        {
+          "key": "D",
+          "text": "getting use to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。'get used to + V-ing/N' 表逐漸適應過程，強調動態變化。'getting used to' 符合句意 '正在適應'。B 項無現在進行式；C 項 'being used to' 用法不當；D 項拼寫錯誤，應為 'to' 而非 'use'。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確形式：他曾住在農村，習慣早起；現在在城市住習慣了熬夜。",
+      "question_eng": "He _______ wake up early when he lived in the countryside, and now he _______ staying up late since moving to the city.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is used to / used to"
+        },
+        {
+          "key": "B",
+          "text": "used to / is used to"
+        },
+        {
+          "key": "C",
+          "text": "gets used to / used to"
+        },
+        {
+          "key": "D",
+          "text": "uses to / is getting used to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。第一空需 'used to wake up'，表過去習慣（已停止）；第二空需 'is used to staying'，表現在習慣狀態。C 項 'gets used to' 強調動態變化不符語境；A、D 項順序顛倒或文法錯誤，無法表達過去與現在的對比。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我以前經常熬夜讀書，但現在我已經習慣早睡早起了。",
+      "answer": "I used to stay up late studying, but now I am used to going to bed early and waking up early.",
+      "key_points": [
+        "used to + stay up late",
+        "be used to + V-ing (going/waking)",
+        "時間對比 (but now)"
+      ],
+      "hints": [
+        "提示1：第一句用 used to 表過去習慣已停止，第二句用 be used to + V-ing 表現在已適應的狀態",
+        "提示2：注意 used to 後接原型動詞 (stay)，be used to 後必接動名詞 (going/waking)，不能接原型"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "搬到新城市後，他逐漸習慣了繁忙的生活節奏。",
+      "answer": "After moving to a new city, he gradually got used to the busy lifestyle / pace of life.",
+      "key_points": [
+        "get used to + N (lifestyle/pace)",
+        "漸進適應過程 (gradually)",
+        "時間狀語 (after moving)"
+      ],
+      "hints": [
+        "提示1：get used to 強調逐漸適應的動態過程，通常與 gradually、slowly 等副詞搭配",
+        "提示2：get used to 後可接名詞 (lifestyle) 或動名詞，但此句因表示對事物的適應，用名詞更自然；避免混淆 get 和 be 的差異"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他曾經害怕在公眾場合發言，但經過多次練習後，他已經能夠適應在大人群面前表達自己的想法了。",
+      "answer": "He used to be afraid of speaking in public, but after practicing many times, he has become / gotten used to expressing his ideas in front of large crowds.",
+      "key_points": [
+        "used to + be afraid of + V-ing",
+        "be/get used to + V-ing (expressing)",
+        "複雜時間轉折結構 (but + after)"
+      ],
+      "hints": [
+        "提示1：used to 後可接形容詞短語 (be afraid of)，整句表示心理狀態的改變過程，前半為過去，後半為現在習慣",
+        "提示2：注意 used to 無現在式形態，不能寫成 uses to；後半可用 has become used to 或 has gotten used to，兩者皆可但後者更強調漸進"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "雖然一開始很不適應遠距上課的模式，但經過一個學期，學生們已經習慣了在家線上學習，甚至有人說他們曾經喜歡傳統課堂，但現在更喜歡這種靈活的教學方式。",
+      "answer": "Although students were not used to the distance learning mode at first, after one semester, they have gotten / become used to studying online at home. Some even said they used to prefer traditional classrooms, but now they prefer this flexible teaching style.",
+      "key_points": [
+        "be not used to + V-ing (初期不適應)",
+        "get/become used to + V-ing (已適應)",
+        "used to + prefer (過去偏好對比)",
+        "複合句結構與時態搭配"
+      ],
+      "hints": [
+        "提示1：此句結合三種用法：be not used to (未適應) + get/become used to (逐漸適應) + used to (過去對比)，需清楚區分各時態與含義",
+        "提示2：注意 'not used to' 表示不習慣／不適應某事物（現在狀態），不同於 'used to' 的過去習慣；整句涉及過去、初期、現在多個時間點，應留意時態邏輯（過去式→現在完成式→一般現在式）"
+      ]
+    }
+  ]
+}

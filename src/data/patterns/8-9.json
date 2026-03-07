@@ -1,0 +1,366 @@
+{
+  "code": "8-9",
+  "chapter": 8,
+  "title": "as soon as / the moment / once + S + V",
+  "formulas": [
+    {
+      "formula": "As soon as / The moment / Once + S + V, S + V",
+      "zh": "一……就……，表示兩個動作緊密相連，前一動作完成立刻引發後一動作"
+    },
+    {
+      "formula": "S + V as soon as / the moment / once + S + V",
+      "zh": "後置型：主要子句在前，時間連接詞子句在後"
+    }
+  ],
+  "explanation": "此句型用於表達兩動作的立即先後關係，強調時間上的緊密銜接。三個連接詞中，as soon as最常用且最直接；the moment帶有瞬間性；once則強調第一次發生的條件含義。關鍵點：時間子句必須用現在式表未來，不能用將來式；主要子句可用任何時態。常見錯誤是使用will在時間子句中，或混淆as soon as與when的細微差別（as soon as更強調立即性）。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "As soon as you arrive at the airport, please call me.",
+      "chi": "你一到達機場，請立刻打電話給我。",
+      "keywords": [
+        "as soon as",
+        "現在式代未來",
+        "立即性"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The moment the teacher enters the classroom, students stop talking.",
+      "chi": "老師一進教室，學生們就停止說話。",
+      "keywords": [
+        "the moment",
+        "條件反射",
+        "規律性動作"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Once you finish your homework, you can watch TV for one hour.",
+      "chi": "一旦你完成功課，你就可以看一個小時的電視。",
+      "keywords": [
+        "once",
+        "第一次發生",
+        "條件許可"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "She will inform us the moment she receives the test results.",
+      "chi": "她一收到考試成績就會告知我們。",
+      "keywords": [
+        "the moment",
+        "後置型結構",
+        "將來式主句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵：看是否要表達「一……就……」的立即因果關係。時間子句不可用will，應用現在式。Once強調條件（一旦第一次），而as soon as只強調時間點的接近性。若要表達習慣性反應，用the moment最貼切。",
+    "examples": [
+      {
+        "test": "❌ As soon as you will arrive, I will pick you up.",
+        "result": "→ ✓ As soon as you arrive, I will pick you up.（時間子句用現在式，不用will）"
+      },
+      {
+        "test": "❌ Once you finished your work, you can leave.",
+        "result": "→ ✓ Once you finish your work, you can leave.（時間子句須用現在式，非過去式）"
+      },
+      {
+        "test": "✓ The moment I saw her face, I knew she was upset.",
+        "result": "→ 過去式：表過去完成的立即反應，時態保持一致"
+      }
+    ],
+    "note": "時間子句永遠用現在式（代未來）或過去式（代過去），絕不用將來式；三詞詞根：as soon as=最快速、once=第一次、the moment=瞬間點。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " the airport, send me a text message."
+      ],
+      "blanks": [
+        "As soon as you arrive at"
+      ],
+      "sentence": "As soon as you arrive at the airport, send me a text message.",
+      "translation": "你一到達機場，就傳簡訊給我。",
+      "keywords": [
+        "as soon as",
+        "arrive",
+        "現在式代未來"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The moment the concert",
+        null,
+        ", the audience started cheering."
+      ],
+      "blanks": [
+        "began"
+      ],
+      "sentence": "The moment the concert began, the audience started cheering.",
+      "translation": "音樂會一開始，觀眾就歡呼起來。",
+      "keywords": [
+        "the moment",
+        "過去式",
+        "立即反應"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " you understand this concept, the exam will be easier for you."
+      ],
+      "blanks": [
+        "Once"
+      ],
+      "sentence": "Once you understand this concept, the exam will be easier for you.",
+      "translation": "一旦你理解了這個概念，考試對你來說就會容易得多。",
+      "keywords": [
+        "once",
+        "條件含義",
+        "第一次掌握"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "I will let you know ",
+        null,
+        " I receive the confirmation email."
+      ],
+      "blanks": [
+        "the moment"
+      ],
+      "sentence": "I will let you know the moment I receive the confirmation email.",
+      "translation": "我一收到確認郵件，就會通知你。",
+      "keywords": [
+        "the moment",
+        "後置型",
+        "將來式主句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "arrive",
+      "zh": "到達"
+    },
+    {
+      "adj": "receive",
+      "zh": "收到"
+    },
+    {
+      "adj": "finish",
+      "zh": "完成"
+    },
+    {
+      "adj": "begin",
+      "zh": "開始"
+    },
+    {
+      "adj": "enter",
+      "zh": "進入"
+    },
+    {
+      "adj": "immediately",
+      "zh": "立刻"
+    },
+    {
+      "adj": "right away",
+      "zh": "馬上"
+    },
+    {
+      "adj": "without delay",
+      "zh": "沒有延遲地"
+    },
+    {
+      "adj": "instantaneous",
+      "zh": "瞬間的"
+    },
+    {
+      "adj": "consecutive",
+      "zh": "連貫的"
+    },
+    {
+      "adj": "simultaneous",
+      "zh": "同時的"
+    },
+    {
+      "adj": "prompt",
+      "zh": "迅速的"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合填空的連接詞，表達兩動作的立即先後關係",
+      "question_eng": "_______ you finish your homework, you can go out and play with your friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As soon as"
+        },
+        {
+          "key": "B",
+          "text": "Because"
+        },
+        {
+          "key": "C",
+          "text": "Although"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A「As soon as」，表示「一...就...」，強調兩動作的立即先後關係。選項B「Because」（因為）表因果關係；選項C「Although」（雖然）表讓步；選項D「Unless」（除非）表條件否定。文意需要表達完成功課後就可外出，只有A符合。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當的時態，注意時間子句的時態規則",
+      "question_eng": "The moment he _______ the news, he immediately called his parents to share the good news.",
+      "options": [
+        {
+          "key": "A",
+          "text": "heard"
+        },
+        {
+          "key": "B",
+          "text": "will hear"
+        },
+        {
+          "key": "C",
+          "text": "has heard"
+        },
+        {
+          "key": "D",
+          "text": "would hear"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A「heard」。雖然主要子句「called」用過去式表達已發生的事件，時間子句中的「The moment」後仍須用過去簡單式對應。選項B「will hear」違反時間子句不用將來式的規則；選項C「has heard」與過去敘事背景不符；選項D「would hear」為條件虛擬語氣，不適用於此。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確句子，強調第一次發生的條件含義",
+      "question_eng": "Which sentence is correct? A. Once you will submit the application, it cannot be changed. B. Once you submit the application, it cannot be changed. C. Once you submitted the application, it cannot be changed. D. Once you have submitted the application, it cannot be changed.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Once you will submit the application, it cannot be changed."
+        },
+        {
+          "key": "B",
+          "text": "Once you submit the application, it cannot be changed."
+        },
+        {
+          "key": "C",
+          "text": "Once you submitted the application, it cannot be changed."
+        },
+        {
+          "key": "D",
+          "text": "Once you have submitted the application, it cannot be changed."
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為B。「Once」引導的時間子句須用現在簡單式表達未來事件「submit」，主要子句才能用「cannot be changed」表達後續結果。選項A「will submit」違反時間子句時態規則；選項C「submitted」為過去式，與主要子句現在狀態不符；選項D「have submitted」為完成式，改變原意為已完成的事實而非條件敘述。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考查連接詞選擇、時態運用及立即性強調",
+      "question_eng": "_______ the project manager _______ the final report, all team members _______ to celebrate the successful completion of their work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As soon as / submits / gather"
+        },
+        {
+          "key": "B",
+          "text": "The moment / will submit / will gather"
+        },
+        {
+          "key": "C",
+          "text": "Once / submitting / have gathered"
+        },
+        {
+          "key": "D",
+          "text": "When / has submitted / gathers"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為A「As soon as / submits / gather」。時間子句「As soon as the project manager submits」用現在簡單式表未來，強調立即性；主要子句「all team members gather」用現在簡單式描述隨後發生的動作。選項B「will submit」違反時間子句時態規則；選項C「submitting」為動名詞，不能作時間子句動詞；選項D「has submitted」為完成式，不符合簡潔敘事風格，且「when」的立即性不如「as soon as」。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "你一到家，媽媽就會問你的功課進度。",
+      "answer": "As soon as you arrive home, your mother will ask about your homework progress. / The moment you arrive home, your mother will ask about your homework progress.",
+      "key_points": [
+        "as soon as / the moment 引導時間子句",
+        "arrive（現在式表未來）",
+        "will ask（主句用未來式）"
+      ],
+      "hints": [
+        "提示1：時間子句用現在式 arrive，主句用 will ask 表未來",
+        "提示2：切勿寫成 'As soon as you will arrive'，時間子句不能用 will"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "一旦他收到大學錄取通知，他就會立刻告訴朋友們。",
+      "answer": "Once he receives his university admission letter, he will immediately tell his friends. / The moment he receives his university admission letter, he will immediately inform his friends.",
+      "key_points": [
+        "once 強調第一次發生的條件",
+        "receives（現在式）",
+        "will tell / will inform（未來式）",
+        "immediately（強調立即性）"
+      ],
+      "hints": [
+        "提示1：once 用於首次發生的事件，時間子句用現在式 receives",
+        "提示2：注意 once 與 as soon as 的區別——once 帶有『一旦』的條件義，as soon as 更強調時間緊密性"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "只要考試結束，學生們就會衝出教室去討論答案。",
+      "answer": "As soon as the exam finishes, the students will rush out of the classroom to discuss the answers. / The moment the exam is over, students will rush out of the classroom discussing the answers.",
+      "key_points": [
+        "as soon as 最適合此情境（強調立即性）",
+        "exam finishes / is over（現在式）",
+        "will rush out（主句未來式）",
+        "to discuss / discussing（目的或伴隨動作）"
+      ],
+      "hints": [
+        "提示1：時間子句必須用現在式 finishes 或 is over，不能用 will finish",
+        "提示2：『衝出去討論』可用不定詞 to discuss 表目的，或分詞 discussing 表伴隨動作"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "你一聽到手機鈴聲，就應該檢查是否有重要訊息，但許多人往往忽略了這種禮貌。",
+      "answer": "The moment you hear your phone ringing, you should check whether there are any important messages, though many people tend to overlook this courtesy. / Once you hear the notification, you ought to examine if there are urgent messages, but it is often neglected as a matter of etiquette.",
+      "key_points": [
+        "the moment 帶瞬間性，強調接收信息的一刻",
+        "hear / ringing（現在式表示時間點）",
+        "should check（情態動詞表建議）",
+        "從句轉折（though / but）連接社會現象評論"
+      ],
+      "hints": [
+        "提示1：『一聽到』用 the moment 更具瞬間感，時間子句用 hear（現在式），主句可用 should 表義務或建議",
+        "提示2：此題難在結合日常禮儀評論，須注意時間子句與主句的邏輯關係完整，避免主句用 will 而喪失情態意義"
+      ]
+    }
+  ]
+}

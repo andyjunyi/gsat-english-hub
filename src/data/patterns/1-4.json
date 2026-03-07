@@ -1,0 +1,353 @@
+{
+  "code": "1-4",
+  "chapter": 1,
+  "title": "It seems/appears (that) + S + V",
+  "formulas": [
+    {
+      "formula": "It seems/appears (that) + S + V ...",
+      "zh": "看起來似乎……（用 that 子句描述推測內容）"
+    },
+    {
+      "formula": "It seems/appears as if/as though + S + V ...",
+      "zh": "看起來好像……（語氣更強調「彷彿」的感覺）"
+    }
+  ],
+  "explanation": "此句型以虛主詞 It 開頭，搭配 seems 或 appears 表示「看起來、似乎」，用於根據外在觀察或間接證據做出推測，語氣較委婉、不確定。that 可省略，後接完整子句。若改用 as if / as though，則強調「彷彿、好像」的假設語氣。seem 較口語常用，appear 較正式書面。注意：主詞也可改為人或事物，如 He seems to be tired，但本句型聚焦於 It 開頭的用法。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It seems that the weather will get worse this weekend.",
+      "chi": "看起來這個週末天氣會變得更糟。",
+      "keywords": [
+        "It seems that",
+        "get worse"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It appears that the new policy has had a positive effect on students.",
+      "chi": "這項新政策似乎對學生產生了正面的影響。",
+      "keywords": [
+        "It appears that",
+        "positive effect"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It seems as if nobody cares about the environmental problems around us.",
+      "chi": "似乎沒有人關心我們周遭的環境問題。",
+      "keywords": [
+        "It seems as if",
+        "cares about"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It appears that she has already made up her mind to study abroad.",
+      "chi": "她似乎已經下定決心要出國留學了。",
+      "keywords": [
+        "It appears that",
+        "made up her mind"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "likely",
+      "zh": "可能的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "certain",
+      "zh": "確定的"
+    },
+    {
+      "adj": "impossible",
+      "zh": "不可能的"
+    },
+    {
+      "adj": "probable",
+      "zh": "很可能的"
+    },
+    {
+      "adj": "evident",
+      "zh": "顯而易見的"
+    },
+    {
+      "adj": "strange",
+      "zh": "奇怪的"
+    },
+    {
+      "adj": "surprising",
+      "zh": "令人驚訝的"
+    },
+    {
+      "adj": "unfortunate",
+      "zh": "不幸的"
+    },
+    {
+      "adj": "doubtful",
+      "zh": "令人懷疑的"
+    },
+    {
+      "adj": "apparent",
+      "zh": "顯然的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "seem 與 appear 皆表推測，但 appear 較正式，常見於新聞或學術寫作。若要表達「過去看起來如何」，可用 It seemed/appeared that...。另外，as if 後面若描述與事實相反的情境，動詞常用過去式（假設語氣）。",
+    "examples": [
+      {
+        "test": "It seems that he is honest. vs. He seems to be honest.",
+        "result": "→ 兩句意思相同，前者用 that 子句，後者用不定詞，皆表示「他似乎很誠實」。"
+      },
+      {
+        "test": "It appears as if she knew the answer. (但她其實不知道)",
+        "result": "→ as if 後用過去式 knew，表示與事實相反的假設語氣，意為「她看起來好像知道答案（但其實不知道）」。"
+      },
+      {
+        "test": "It seems that it will rain. vs. It looks like it will rain.",
+        "result": "→ seems that 較正式委婉，looks like 較口語直接，兩者皆可表達「看起來要下雨了」。"
+      }
+    ],
+    "note": "seem 推測較主觀，appear 推測較客觀；as if 後面接假設，that 後面接事實。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " the students are not satisfied with the exam results."
+      ],
+      "blanks": [
+        "It seems that"
+      ],
+      "sentence": "It seems that the students are not satisfied with the exam results.",
+      "translation": "學生們似乎對考試結果不滿意。",
+      "keywords": [
+        "It seems that",
+        "satisfied with"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It ",
+        null,
+        " that the company will close down by the end of this year."
+      ],
+      "blanks": [
+        "appears"
+      ],
+      "sentence": "It appears that the company will close down by the end of this year.",
+      "translation": "這家公司似乎會在今年年底前關閉。",
+      "keywords": [
+        "appears",
+        "close down"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It seems ",
+        null,
+        " he had never heard of the news before."
+      ],
+      "blanks": [
+        "as if"
+      ],
+      "sentence": "It seems as if he had never heard of the news before.",
+      "translation": "他看起來好像從來沒聽過這個消息。",
+      "keywords": [
+        "seems",
+        "as if"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " technology has completely changed the way we communicate."
+      ],
+      "blanks": [
+        "It appears that"
+      ],
+      "sentence": "It appears that technology has completely changed the way we communicate.",
+      "translation": "科技似乎已經徹底改變了我們溝通的方式。",
+      "keywords": [
+        "It appears that",
+        "the way"
+      ]
+    }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的虛主詞句型，表達看起來似乎會下雨",
+      "question_eng": "_______ that it will rain this afternoon based on the dark clouds.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It seems"
+        },
+        {
+          "key": "B",
+          "text": "It is seeming"
+        },
+        {
+          "key": "C",
+          "text": "It seems as"
+        },
+        {
+          "key": "D",
+          "text": "Seems that"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『It seems (that)』是標準虛主詞句型，that 可省略，後接完整子句。B 選項『is seeming』錯誤，seem 不用進行式。C 選項『seems as』缺少 if/though，用法不當。D 選項『Seems that』缺少虛主詞 It，不符文法。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入合適選項，表達外表看起來很疲勞的情況",
+      "question_eng": "_______ that the manager has been working too hard lately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It appears"
+        },
+        {
+          "key": "B",
+          "text": "It appearing"
+        },
+        {
+          "key": "C",
+          "text": "It will appear"
+        },
+        {
+          "key": "D",
+          "text": "It has appeared"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『It appears (that)』為標準虛主詞句型，用於根據現象進行推測，此處用現在式表示現在的觀察。B 選項『appearing』為分詞形式，不能充當動詞。C 選項『will appear』改變了句意為未來的表現。D 選項『has appeared』暗示出現完成，與原意不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據上下文選擇正確句型，表達新措施似乎有正面效果",
+      "question_eng": "_______ as if the new education reform has benefited thousands of students nationwide.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It appears"
+        },
+        {
+          "key": "B",
+          "text": "That appears"
+        },
+        {
+          "key": "C",
+          "text": "It seems likely"
+        },
+        {
+          "key": "D",
+          "text": "It is appearing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。『It appears as if』用於虛主詞句型搭配假設語氣，強調『彷彿、好像』的推測。B 選項『That appears』缺少虛主詞 It。C 選項『seems likely』改變了結構，後應接不定詞或 that 子句而非 as if。D 選項『is appearing』為進行式，seem/appear 不用進行式表示推測。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當選項完成句子，關於學生對新課程的反應",
+      "question_eng": "It _______ that despite initial resistance, the majority of students have gradually adapted to the revised curriculum.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is seeming"
+        },
+        {
+          "key": "B",
+          "text": "appears"
+        },
+        {
+          "key": "C",
+          "text": "seems as though it"
+        },
+        {
+          "key": "D",
+          "text": "has been appearing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。『It appears (that)』為虛主詞句型，用現在式搭配完成式子句表達基於現象的推測。A 選項『is seeming』錯誤，seem/appear 不用進行式。C 選項『seems as though it』多加了虛主詞 it，造成重複。D 選項『has been appearing』錯誤，appear 不用現在完成進行式表達推測含義。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "看起來明天會下雨。",
+      "answer": "It seems (that) it will rain tomorrow. / It appears (that) it will rain tomorrow.",
+      "key_points": [
+        "It seems/appears 開頭",
+        "that 可省略",
+        "未來式 will rain"
+      ],
+      "hints": [
+        "提示1：用 It seems/appears + that + 完整子句結構，主詞是 it（天氣），動詞用未來式",
+        "提示2：常見錯誤是漏掉虛主詞 It，直接寫 'Seems it will rain'"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "看起來他對這個計畫不太感興趣。",
+      "answer": "It seems (that) he is not very interested in this project. / It appears (that) he doesn't seem very interested in this project.",
+      "key_points": [
+        "It seems/appears 虛主詞結構",
+        "主詞 he，動詞 is/be",
+        "表達「不感興趣」的方式"
+      ],
+      "hints": [
+        "提示1：虛主詞 It 後接 seems/appears，然後是具有真實主詞 he 的子句",
+        "提示2：注意否定形式可用 is not interested 或 doesn't seem interested，但勿混用 seems 與 doesn't seem"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "看起來她好像在隱瞞什麼事情。",
+      "answer": "It appears as if she is hiding something. / It seems as though she is concealing something.",
+      "key_points": [
+        "as if / as though 強調假設語氣",
+        "hiding / concealing（隱瞞）",
+        "現在進行式表示正在進行"
+      ],
+      "hints": [
+        "提示1：用 It appears/seems as if/as though 結構來表達「彷彿、好像」的推測，語氣更具假設性",
+        "提示2：as if 與 as though 互換但後面不能再用 that，且常搭配現在進行式 is hiding 來強調動作進行中"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "看起來這個決定不僅影響了許多學生，而且還引發了家長們的廣泛討論。",
+      "answer": "It appears (that) this decision has not only affected many students but also sparked widespread discussion among parents. / It seems as if this decision has impacted numerous students and triggered considerable debate from parents.",
+      "key_points": [
+        "複雜子句結構：not only...but also",
+        "現在完成式 has affected / has sparked",
+        "多層資訊整合表達"
+      ],
+      "hints": [
+        "提示1：虛主詞 It appears/seems 後接包含並列連詞或複雜時態的完整子句，保持句型框架完整",
+        "提示2：注意 has affected（現在完成式）表示過去發生到現在的影響，常見錯誤是時態混亂或漏掉並列結構中的動詞"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "code": "4-21",
+  "chapter": 4,
+  "title": "疑問詞 + to V（不定詞名詞片語）",
+  "formulas": [
+    {
+      "formula": "疑問詞 (what/how/where/when/which/whether) + to V",
+      "zh": "疑問詞加不定詞組成名詞片語，表達「做什麼、如何做、在哪裡做、何時做、選擇哪一個、是否做」等含義"
+    },
+    {
+      "formula": "疑問詞 + to V ≈ 疑問詞 + S + should + V (名詞子句)",
+      "zh": "兩種結構在意義上等價，但不定詞結構更簡潔且不涉及主語"
+    }
+  ],
+  "explanation": "疑問詞加不定詞形成名詞片語，可作動詞受詞、介詞受詞或主詞。此結構等同於「疑問詞+應助動詞+V」的名詞子句，但更簡潔。特別注意：whether to V表「是否要做某事」；what to V、how to V等直接表達動作內容。此結構常見於decide、know、explain、wonder等動詞後，適用於高中學測程度文章。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She didn't know what to wear to the formal dinner party.",
+      "chi": "她不知道要穿什麼衣服去參加那場正式晚宴。",
+      "keywords": [
+        "what to wear",
+        "受詞",
+        "不知道"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The teacher explained how to solve the complicated math problem clearly.",
+      "chi": "老師清楚地解釋了如何解決那個複雜的數學問題。",
+      "keywords": [
+        "how to solve",
+        "受詞",
+        "解釋"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Whether to accept the job offer was a difficult decision for him.",
+      "chi": "是否要接受工作邀請對他來說是個困難的決定。",
+      "keywords": [
+        "whether to accept",
+        "主詞",
+        "決定"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "I'm still confused about when to submit my application form.",
+      "chi": "我仍然困惑於何時要提交我的申請表。",
+      "keywords": [
+        "when to submit",
+        "介詞受詞",
+        "困惑"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷此句型的關鍵是辨識疑問詞後直接跟不定詞（無主語、無助動詞should）。若疑問詞後有完整S+V結構，應使用名詞子句而非此句型。whether to V常表「要不要……」的二選一意義；what/how/where等則表達具體動作內容。",
+    "examples": [
+      {
+        "test": "誤：I know what should I do. / 正：I know what to do.",
+        "result": "→ 不定詞結構不含助動詞should或主詞I，結構更簡潔"
+      },
+      {
+        "test": "I'm uncertain whether to go or stay. / I'm uncertain whether I should go or stay.",
+        "result": "→ 兩句意義相同，但不定詞版本更常用於日常英文"
+      },
+      {
+        "test": "She explained how to make the cake. / She explained what ingredients to use.",
+        "result": "→ 疑問詞搭配不同動詞，整體作受詞，結構不變"
+      }
+    ],
+    "note": "疑問詞+to V=疑問詞+should+V的簡潔版本，記住此結構無須出現S+should"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I still don't know ",
+        null,
+        " for my best friend's wedding next month.",
+        ""
+      ],
+      "blanks": [
+        "what to wear"
+      ],
+      "sentence": "I still don't know what to wear for my best friend's wedding next month.",
+      "translation": "我仍然不知道下個月要穿什麼衣服去參加我最好朋友的婚禮。",
+      "keywords": [
+        "what to wear",
+        "受詞",
+        "don't know"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The manager explained ",
+        null,
+        " the new software system to all employees.",
+        ""
+      ],
+      "blanks": [
+        "how to use"
+      ],
+      "sentence": "The manager explained how to use the new software system to all employees.",
+      "translation": "經理向所有員工解釋了如何使用新的軟體系統。",
+      "keywords": [
+        "how to use",
+        "受詞",
+        "explained"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " the summer internship was a tough choice for the high school graduate.",
+        ""
+      ],
+      "blanks": [
+        "Whether to accept"
+      ],
+      "sentence": "Whether to accept the summer internship was a tough choice for the high school graduate.",
+      "translation": "是否要接受暑期實習對那位高中畢業生來說是個艱難的選擇。",
+      "keywords": [
+        "Whether to accept",
+        "主詞",
+        "tough choice"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "I'm confused about ",
+        null,
+        " the chemistry exam, so I asked the teacher for help.",
+        ""
+      ],
+      "blanks": [
+        "when to prepare for"
+      ],
+      "sentence": "I'm confused about when to prepare for the chemistry exam, so I asked the teacher for help.",
+      "translation": "我對何時要為化學考試做準備感到困惑，所以我向老師尋求幫助。",
+      "keywords": [
+        "when to prepare for",
+        "介詞受詞",
+        "confused about"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "learn",
+      "zh": "學習、了解"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道、懷疑"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解"
+    },
+    {
+      "adj": "confused",
+      "zh": "困惑的"
+    },
+    {
+      "adj": "uncertain",
+      "zh": "不確定的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "unsure",
+      "zh": "不確定"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴、說明"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的不定詞名詞片語完成句子",
+      "question_eng": "The student didn't know _______ for the exam, so he asked his teacher for help.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what to prepare"
+        },
+        {
+          "key": "B",
+          "text": "what preparing"
+        },
+        {
+          "key": "C",
+          "text": "how prepare"
+        },
+        {
+          "key": "D",
+          "text": "which to studying"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「疑問詞 + to V」構成名詞片語作動詞 know 的受詞，what to prepare 表「準備什麼」。B 項用動名詞形式錯誤；C 項缺少 to；D 項 studying 是動名詞，不符合「疑問詞 + to V」結構。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意選擇正確的不定詞名詞片語形式",
+      "question_eng": "The coach explained _______ to improve their basketball skills effectively.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to practice"
+        },
+        {
+          "key": "B",
+          "text": "what practicing"
+        },
+        {
+          "key": "C",
+          "text": "how practicing"
+        },
+        {
+          "key": "D",
+          "text": "whether practice"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。explain 後接「疑問詞 + to V」的名詞片語，how to practice 表「如何練習」。B、C 項用動名詞而非不定詞；D 項 whether 後應接 to V（whether to practice），且缺少 to。",
+      "id": 2
+    },
+    {
+      "question_chi": "在複雜情境中選擇「是否要做某事」的適當表達",
+      "question_eng": "After weeks of negotiation, the company finally decided _______ the old factory or invest in building a new one.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether to renovate"
+        },
+        {
+          "key": "B",
+          "text": "what to renovate"
+        },
+        {
+          "key": "C",
+          "text": "how to renovate"
+        },
+        {
+          "key": "D",
+          "text": "which renovating"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。whether to renovate 表「是否要翻新」，常用於表示在兩個選擇間做決定的情況，符合「renovate or invest」的二選一含義。B 項 what to renovate 表「翻新什麼」；C 項 how to renovate 表「如何翻新」；D 項結構錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "在高難度句子中分辨疑問詞不定詞與其他結構的差異",
+      "question_eng": "Despite her years of experience, she still struggled with _______ the delicate balance between being a devoted mother and pursuing her ambitious career aspirations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to maintain"
+        },
+        {
+          "key": "B",
+          "text": "how maintaining"
+        },
+        {
+          "key": "C",
+          "text": "what to maintain"
+        },
+        {
+          "key": "D",
+          "text": "whether maintaining"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。struggle with 後接「疑問詞 + to V」的名詞片語，how to maintain 表「如何維持」。B 項介詞 with 後通常接動名詞，但原句結構要求不定詞名詞片語；C 項 what to maintain「維持什麼」意思不符；D 項 whether maintaining 結構不當，whether 後應接 to V。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我不知道週末應該去哪裡。",
+      "answer": "I don't know where to go on the weekend.",
+      "key_points": [
+        "where to go",
+        "疑問詞 + to V 作動詞受詞",
+        "don't know 後接名詞片語"
+      ],
+      "hints": [
+        "提示1：疑問詞 where + to go 形成名詞片語，等於 where I should go",
+        "提示2：注意不能寫成 I don't know where should I go（這是名詞子句的錯誤用法）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師解釋了如何解決這個困難的數學問題。",
+      "answer": "The teacher explained how to solve this difficult math problem.",
+      "key_points": [
+        "how to solve",
+        "explained 後接名詞片語",
+        "疑問詞 + to V 表達方法或步驟"
+      ],
+      "hints": [
+        "提示1：how to V 表示『如何做某事』，常跟 explain、teach、show 等動詞搭配",
+        "提示2：注意不能用 how should we solve，應該用簡潔的 how to solve"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她在考慮是否應該參加明年的大學入學考試，或者先工作一年。",
+      "answer": "She is considering whether to take the university entrance exam next year or work for a year first.",
+      "key_points": [
+        "whether to take",
+        "whether to V 表『是否要做』",
+        "considering + 名詞片語"
+      ],
+      "hints": [
+        "提示1：whether to V 用於表達『做或不做』的兩難選擇，等於 whether she should take",
+        "提示2：whether 後只需 to V，不需加 or not，但可以在句尾用 or 連接兩個選項"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這篇文章讓我想知道應該如何在這個數位時代保護個人隱私，以及何時應該相信網路上的資訊。",
+      "answer": "This article makes me wonder how to protect personal privacy in the digital age and when to trust information online.",
+      "key_points": [
+        "how to protect + when to trust",
+        "wonder + 多個疑問詞 + to V",
+        "並列結構 and 連接兩個名詞片語"
+      ],
+      "hints": [
+        "提示1：make + O + wonder 後可接多個疑問詞名詞片語，用 and 並列表達多個疑惑",
+        "提示2：when to V 和 how to V 都是名詞片語，作 wonder 的受詞，保持平行結構"
+      ]
+    }
+  ]
+}

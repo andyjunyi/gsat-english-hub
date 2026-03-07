@@ -1,0 +1,367 @@
+{
+  "code": "8-11",
+  "chapter": 8,
+  "title": "S + V + as + S + V（方式子句）",
+  "formulas": [
+    {
+      "formula": "S + V + as + S + V",
+      "zh": "主詞+動詞+如同+主詞+動詞，表示方式或比較"
+    },
+    {
+      "formula": "S + V + just as + S + V",
+      "zh": "主詞+動詞+正如+主詞+動詞，強調並列比較"
+    }
+  ],
+  "explanation": "此句型使用 as 引導方式副詞子句，表達「如同……一樣」的比較意義。as 可引導時間或方式子句，常見於敘述兩個平行動作或狀態。結構為：主要子句 + as + 副詞子句。使用時機為說明兩事物具有相似性或同時性。注意 as 不同於 like（介詞），as 後接完整主賓結構；as always（一如往常）為常用慣用語。易混淆點：區分 as（子句）與 like（片語）的語法差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "As the sun rose, the birds began to sing just as they did every morning.",
+      "chi": "當太陽升起時，鳥兒開始唱歌，正如牠們每天早上所做的一樣。",
+      "keywords": [
+        "as引導時間子句",
+        "just as",
+        "平行動作"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She works hard as her mother did, striving for excellence in everything.",
+      "chi": "她工作認真，如同她的母親一樣，在每件事上都力求卓越。",
+      "keywords": [
+        "as引導比較",
+        "方式副詞子句",
+        "相似性"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "As always, John arrived late to the meeting, causing frustration among team members.",
+      "chi": "一如往常，約翰開會遲到，引起團隊成員的不滿。",
+      "keywords": [
+        "as always慣用語",
+        "習慣性動作",
+        "時間副詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The student solved the problem as his teacher had shown him during the class.",
+      "chi": "那位學生按照老師在課堂上教他的方式解決了這個問題。",
+      "keywords": [
+        "as引導方式",
+        "過去完成式",
+        "說明方法"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "辨別 as（引導子句）與 like（介詞）：as 後必接完整子句（S+V），like 後接名詞或名詞片語。例：as he said（他說的方式）vs. like him（像他這樣的人）。易錯誤使用 like 取代 as 引導子句。",
+    "examples": [
+      {
+        "test": "✓ She sings as her mother does.",
+        "result": "→ 正確。as 引導子句，表示方式比較"
+      },
+      {
+        "test": "✗ She sings like her mother does.",
+        "result": "→ 不當混用。應改用 as，因為後接完整子句"
+      },
+      {
+        "test": "✓ As expected, the project succeeded.",
+        "result": "→ 正確。as expected 是常用慣用語，表示如預期"
+      }
+    ],
+    "note": "記憶口訣：as + 完整子句（主動詞）= 方式比較；as always/expected/usual = 時間狀語"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The team performed well ",
+        null,
+        " the coach had trained them throughout the season.",
+        ""
+      ],
+      "blanks": [
+        "as"
+      ],
+      "sentence": "The team performed well as the coach had trained them throughout the season.",
+      "translation": "球隊表現良好，如同教練整個賽季以來對他們的訓練一樣。",
+      "keywords": [
+        "as引導方式子句",
+        "比較",
+        "訓練成果"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        ", she forgot her keys at home again.",
+        ""
+      ],
+      "blanks": [
+        "As always"
+      ],
+      "sentence": "As always, she forgot her keys at home again.",
+      "translation": "一如往常，她又把鑰匙忘在家裡了。",
+      "keywords": [
+        "as always慣用語",
+        "習慣性",
+        "重複動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "He solved the math problem ",
+        null,
+        " the textbook had explained it.",
+        ""
+      ],
+      "blanks": [
+        "just as"
+      ],
+      "sentence": "He solved the math problem just as the textbook had explained it.",
+      "translation": "他正如教科書所解釋的那樣解決了數學問題。",
+      "keywords": [
+        "just as強調",
+        "並列比較",
+        "說明方法"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " predicted, the stock market dropped significantly after the announcement.",
+        ""
+      ],
+      "blanks": [
+        "As"
+      ],
+      "sentence": "As predicted, the stock market dropped significantly after the announcement.",
+      "translation": "如預期所料，公告發布後股市大幅下跌。",
+      "keywords": [
+        "as predicted",
+        "預測",
+        "因果關係"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "just",
+      "zh": "恰好、正好"
+    },
+    {
+      "adj": "always",
+      "zh": "一如往常"
+    },
+    {
+      "adj": "before",
+      "zh": "之前、像以前一樣"
+    },
+    {
+      "adj": "usual",
+      "zh": "像往常一樣"
+    },
+    {
+      "adj": "expected",
+      "zh": "如預期所料"
+    },
+    {
+      "adj": "planned",
+      "zh": "按計畫"
+    },
+    {
+      "adj": "supposed",
+      "zh": "如預期"
+    },
+    {
+      "adj": "intended",
+      "zh": "如預期"
+    },
+    {
+      "adj": "instructed",
+      "zh": "如被指示"
+    },
+    {
+      "adj": "required",
+      "zh": "如所要求"
+    },
+    {
+      "adj": "agreed",
+      "zh": "如約定"
+    },
+    {
+      "adj": "promised",
+      "zh": "如承諾"
+    }
+  ],
+  "vocab_table_label": "常用副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的方式子句，表達「如同……一樣」的比較意義",
+      "question_eng": "The children played in the park _______ their parents watched from the bench.",
+      "options": [
+        {
+          "key": "A",
+          "text": "as"
+        },
+        {
+          "key": "B",
+          "text": "like"
+        },
+        {
+          "key": "C",
+          "text": "such as"
+        },
+        {
+          "key": "D",
+          "text": "the same as"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（as）。此句表達兩個同時進行的動作，需用 as 引導方式副詞子句，後接完整主賓結構「their parents watched」。B 項 like 是介詞，後接名詞片語而非子句。C 項 such as 用於列舉例子。D 項 the same as 是比較結構，不引導子句。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入適當詞彙，完成方式子句表達「恰如……一樣」",
+      "question_eng": "The students studied hard _______ they had done before the previous exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "just as"
+        },
+        {
+          "key": "B",
+          "text": "just like"
+        },
+        {
+          "key": "C",
+          "text": "as if"
+        },
+        {
+          "key": "D",
+          "text": "as long as"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（just as）。句子強調學生像之前一樣用功，需用 just as 引導方式子句，表達「恰如……一樣」的比較意義，後接完整子句「they had done」。B 項 just like 為介詞片語，後應接名詞而非動詞。C 項 as if 表假設語氣。D 項 as long as 表條件。",
+      "id": 2
+    },
+    {
+      "question_chi": "識別正確的方式子句結構，區分 as 與 like 的語法差異",
+      "question_eng": "She managed the project _______ her mentor had instructed her, implementing each strategy with precision.",
+      "options": [
+        {
+          "key": "A",
+          "text": "like"
+        },
+        {
+          "key": "B",
+          "text": "as"
+        },
+        {
+          "key": "C",
+          "text": "in the same way like"
+        },
+        {
+          "key": "D",
+          "text": "similar to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（as）。句子需表達「按照導師的指示方式去管理」，as 後接完整子句「her mentor had instructed her」。A 項 like 為介詞，後只能接名詞片語。C 項結構冗餘且語法錯誤。D 項 similar to 為介詞片語，無法引導子句。as 與 like 的關鍵差異在於 as 可引導子句。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型，同時涉及時間與方式子句，須正確運用 as 引導子句",
+      "question_eng": "The orchestra performed the symphony with passion _______ the conductor led them through each movement, and the audience responded _______ they had on opening night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "like / as"
+        },
+        {
+          "key": "B",
+          "text": "as / just as"
+        },
+        {
+          "key": "C",
+          "text": "just as / like"
+        },
+        {
+          "key": "D",
+          "text": "as / like"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（as / just as）。第一空需表達音樂家與指揮同時進行的動作，用 as 引導方式子句「the conductor led them」。第二空表達「恰如」開幕夜一樣的觀眾反應，用 just as 引導方式子句「they had on opening night」。其他選項混淆了介詞 like 與子句連接詞 as 的用法區別。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "就像老師教我們的一樣，我們應該誠實對待每個人。",
+      "answer": "As our teacher teaches us, we should treat everyone honestly.",
+      "key_points": [
+        "as 引導方式子句",
+        "teach us 完整主賓結構",
+        "should + V 主要子句"
+      ],
+      "hints": [
+        "句型框架：主要子句 + as + 副詞子句，as 後須接完整S+V結構",
+        "注意：as 是連接詞，後面必須有主語和動詞，不能用 like 代替"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "一如往常，她準時完成了所有的家庭作業。",
+      "answer": "As always, she completed all her homework on time.",
+      "key_points": [
+        "as always 慣用語",
+        "completed 過去式",
+        "on time 時間副詞片語"
+      ],
+      "hints": [
+        "句型變化：as always 是高中英文常見慣用表達，表示『一如既往』的意義",
+        "注意：as always 通常位於句首，後接主要子句；此時 as 已含有『如同……一樣』的比較意義"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "正如許多學生所做的那樣，他利用暑假時間準備學測。",
+      "answer": "As many students do, he used the summer vacation to prepare for the college entrance exam.",
+      "key_points": [
+        "as many students do 方式子句",
+        "used...to prepare 主要子句結構",
+        "college entrance exam 學測用語"
+      ],
+      "hints": [
+        "句型框架：主要子句 + as + 方式子句，此處 as 引導『如同……做的那樣』的比較",
+        "易錯點：avoid 用 like 代替 as；as 後的 do 是助動詞，不能省略"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "就像社會上許多人忽視環保問題一樣，我們有時也會忘記自己的責任。",
+      "answer": "Just as many people in society overlook environmental issues, we sometimes forget our own responsibilities.",
+      "key_points": [
+        "just as 強化比較意義",
+        "overlook environmental issues 方式子句",
+        "responsibilities 抽象名詞"
+      ],
+      "hints": [
+        "句型延伸：just as 是 as 的強調形式，更明確地表達『恰如』的比較意義，兩個子句結構應平行對稱",
+        "易錯點：just as 後的子句必須是完整S+V結構；注意 overlook（忽視）與 forget（忘記）的語義區別"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "code": "2-2",
+  "chapter": 2,
+  "title": "if / unless / as long as（條件子句）",
+  "formulas": [
+    {
+      "formula": "If/Unless/As long as/Provided that + S + V (現在式), S + will + V (未來式)",
+      "zh": "條件副詞子句：「如果/除非/只要」引導條件，子句用現在式代表未來，主句用未來式"
+    },
+    {
+      "formula": "S + will + V, if/unless/as long as/provided that + S + V (現在式)",
+      "zh": "主句在前，條件子句在後的同義句式"
+    }
+  ],
+  "explanation": "此句型用於表達條件與結果的關係。條件副詞子句（if、unless、as long as、provided that）引導條件狀況，其中時態用現在式代表未來意義；主句使用未來式（will + V）表達結果。Unless表「除非」，等同「if not」。As long as和provided that表「只要」、「倘若」，含有持續或保證之意。子句位置可在主句前後，但前置時需加逗號。此句型在日常英文、條件陳述中極為常見。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "If you study hard, you will pass the exam.",
+      "chi": "如果你努力讀書，你會通過考試。",
+      "keywords": [
+        "If",
+        "will pass",
+        "條件",
+        "結果"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Unless you finish your homework, you won't go to the party.",
+      "chi": "除非你完成功課，否則你不會去參加派對。",
+      "keywords": [
+        "Unless",
+        "won't go",
+        "否定條件"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "As long as the weather is good, we will have the picnic tomorrow.",
+      "chi": "只要天氣好，我們明天就會去野餐。",
+      "keywords": [
+        "As long as",
+        "will have",
+        "持續條件"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Provided that you arrive on time, everything will be fine.",
+      "chi": "只要你準時到達，一切都會很好。",
+      "keywords": [
+        "Provided that",
+        "will be",
+        "保證條件"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷要點：條件子句必用現在式（不用 will），這是此句型的核心。Unless常造成理解困難，記住「Unless = if not」即可掌握。As long as和provided that較正式，考試常見。條件子句可置於句首或句尾，位置改變時主句語序不變。",
+    "examples": [
+      {
+        "test": "❌ If you will study hard, you will pass. （錯誤）",
+        "result": "→ ✓ If you study hard, you will pass. （條件子句用現在式）"
+      },
+      {
+        "test": "❌ Unless you don't finish homework, you won't go. （冗餘雙重否定）",
+        "result": "→ ✓ Unless you finish homework, you won't go. （Unless已含否定，不需再加not）"
+      },
+      {
+        "test": "✓ As long as you keep trying, you will succeed. 與 ✓ You will succeed as long as you keep trying.",
+        "result": "→ 兩句意思相同，子句位置可前可後，前置需加逗號"
+      }
+    ],
+    "note": "條件子句現在式，主句未來式；unless就是if not；子句時態是關鍵，考試必查。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "If you ",
+        null,
+        " regular exercise, you ",
+        null,
+        " healthier."
+      ],
+      "blanks": [
+        "do",
+        "will be"
+      ],
+      "sentence": "If you do regular exercise, you will be healthier.",
+      "translation": "如果你定期運動，你會變得更健康。",
+      "keywords": [
+        "If",
+        "現在式do",
+        "will be"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Unless you ",
+        null,
+        " your phone, you ",
+        null,
+        " concentrate on studying."
+      ],
+      "blanks": [
+        "turn off",
+        "won't be able to"
+      ],
+      "sentence": "Unless you turn off your phone, you won't be able to concentrate on studying.",
+      "translation": "除非你關掉手機，否則你無法專注於讀書。",
+      "keywords": [
+        "Unless",
+        "won't",
+        "否定條件"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "As long as the economy ",
+        null,
+        ", unemployment ",
+        null,
+        " remain low."
+      ],
+      "blanks": [
+        "grows",
+        "will"
+      ],
+      "sentence": "As long as the economy grows, unemployment will remain low.",
+      "translation": "只要經濟持續增長，失業率就會保持在低水平。",
+      "keywords": [
+        "As long as",
+        "will remain",
+        "持續條件"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Provided that you ",
+        null,
+        " all the requirements, you ",
+        null,
+        " admitted to the university."
+      ],
+      "blanks": [
+        "meet",
+        "will be"
+      ],
+      "sentence": "Provided that you meet all the requirements, you will be admitted to the university.",
+      "translation": "倘若你滿足所有要求，你就會被大學錄取。",
+      "keywords": [
+        "Provided that",
+        "will be admitted",
+        "保證條件"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "if",
+      "zh": "如果（最常用條件連接詞）"
+    },
+    {
+      "adj": "unless",
+      "zh": "除非（= if not，表否定條件）"
+    },
+    {
+      "adj": "as long as",
+      "zh": "只要（表持續或充要條件）"
+    },
+    {
+      "adj": "provided that",
+      "zh": "倘若、只要（較正式，表條件保障）"
+    },
+    {
+      "adj": "on condition that",
+      "zh": "條件是（表明確條件）"
+    },
+    {
+      "adj": "in case",
+      "zh": "以防萬一（表預防性條件）"
+    },
+    {
+      "adj": "will",
+      "zh": "將會（未來式助動詞）"
+    },
+    {
+      "adj": "won't",
+      "zh": "將不會（未來否定式）"
+    },
+    {
+      "adj": "study/work/try",
+      "zh": "常見於條件子句的動詞"
+    },
+    {
+      "adj": "pass/succeed/win",
+      "zh": "常見於主句結果的正面動詞"
+    },
+    {
+      "adj": "fail/lose/regret",
+      "zh": "常見於主句結果的負面動詞"
+    },
+    {
+      "adj": "tomorrow/next week/later",
+      "zh": "未來時間副詞"
+    }
+  ],
+  "vocab_table_label": "常用條件連接詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的條件句，表達「如果你努力學習，你將通過考試」",
+      "question_eng": "_______ you study hard, you will pass the exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Unless"
+        },
+        {
+          "key": "C",
+          "text": "Because"
+        },
+        {
+          "key": "D",
+          "text": "Although"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 If，用來表達充分條件。Unless 表「除非」為否定條件；Because 和 Although 都是因果或讓步關係，不適合此句型。條件副詞子句應使用現在式代表未來，主句用 will + V 表結果。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的條件副詞，表達「除非你完成功課，否則不能去派對」",
+      "question_eng": "_______ you finish your homework, you won't go to the party.",
+      "options": [
+        {
+          "key": "A",
+          "text": "As long as"
+        },
+        {
+          "key": "B",
+          "text": "Unless"
+        },
+        {
+          "key": "C",
+          "text": "If"
+        },
+        {
+          "key": "D",
+          "text": "Provided that"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Unless 表「除非」，等同「if not」，用於否定條件。As long as 和 Provided that 表「只要」，含有肯定之意，不適合此負面語境。If 搭配肯定動詞時改變句意，此處應用 Unless 配合否定結果。",
+      "id": 2
+    },
+    {
+      "question_chi": "補全句子：「只要你遵守規則，你就能在這裡工作」",
+      "question_eng": "_______ you follow the rules, you _______ work here.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Unless / won't"
+        },
+        {
+          "key": "B",
+          "text": "As long as / will"
+        },
+        {
+          "key": "C",
+          "text": "If not / will"
+        },
+        {
+          "key": "D",
+          "text": "Provided that / won't"
+        }
+      ],
+      "answer": "B",
+      "explanation": "As long as 表「只要」，引導肯定條件，搭配主句的肯定未來式 will work。Unless 和 if not 為否定條件，Provided that 在此較不自然。條件子句用現在式 follow，主句用未來式 will work。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷句子正誤：「只要天氣晴朗，我們就去登山。」應如何正確表達",
+      "question_eng": "Which sentence is grammatically correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Provided that the weather will be fine, we will go hiking."
+        },
+        {
+          "key": "B",
+          "text": "As long as the weather is fine, we will go hiking."
+        },
+        {
+          "key": "C",
+          "text": "Unless the weather is fine, we will go hiking."
+        },
+        {
+          "key": "D",
+          "text": "If the weather is fine, we won't go hiking."
+        }
+      ],
+      "answer": "B",
+      "explanation": "B 正確。條件子句用現在式 is fine（代表未來），主句用 will go。A 錯誤因子句用了 will be（應為 is）。C 的 Unless 改變句意為「除非晴朗才去」，邏輯錯誤。D 的 won't 為否定，與句意不符。As long as 和 Provided that 都表「只要」，但 A 的時態錯誤。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "只要你準時完成功課，媽媽就會讓你玩電動。",
+      "answer": "As long as you finish your homework on time, your mother will let you play video games.",
+      "key_points": [
+        "as long as 表示條件",
+        "finish homework on time",
+        "will let you play"
+      ],
+      "hints": [
+        "提示1：As long as + S + V (現在式), S + will + V (未來式)的結構",
+        "提示2：注意 finish 用現在式，will let 用未來式，不能倒反"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "除非你參加補習班，否則你的數學成績不會進步。",
+      "answer": "Unless you attend a cram school, your math grades will not improve.",
+      "key_points": [
+        "unless = if not",
+        "attend a cram school",
+        "will not improve"
+      ],
+      "hints": [
+        "提示1：Unless 引導的條件子句用現在式，表示『除非…否則…』的邏輯",
+        "提示2：Unless 等同 if not，記住 unless 後面直接加肯定句，不需加 not"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "只要你每天運動三十分鐘，你就能保持身體健康並改善睡眠品質。",
+      "answer": "As long as you exercise for thirty minutes every day, you will maintain good health and improve your sleep quality.",
+      "key_points": [
+        "as long as 表持續條件",
+        "exercise for thirty minutes",
+        "will maintain and improve"
+      ],
+      "hints": [
+        "提示1：As long as 強調『只要一直保持』某條件，條件子句用現在式表未來習慣",
+        "提示2：主句中的兩個動作用 and 連接，都要保持未來式 will + V 的形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "除非政府立即採取行動解決空氣污染，否則公眾健康和環境品質將持續惡化。",
+      "answer": "Unless the government takes immediate action to address air pollution, public health and environmental quality will continue to deteriorate.",
+      "key_points": [
+        "unless 引導複雜條件",
+        "take action to address",
+        "will continue to deteriorate"
+      ],
+      "hints": [
+        "提示1：Unless 子句中可包含複雜名詞片語（the government）和不定詞（to address），但時態仍用現在式",
+        "提示2：主句用 will continue to + V 表示持續的負面結果，unless 後面須用肯定式敘述"
+      ]
+    }
+  ]
+}

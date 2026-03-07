@@ -1,0 +1,369 @@
+{
+  "code": "5-12",
+  "chapter": 5,
+  "title": "S + get + p.p.（get 被動）",
+  "formulas": [
+    {
+      "formula": "S + get + p.p.",
+      "zh": "主詞 + get + 過去分詞（口語被動，強調過程、偶發或自身責任）"
+    },
+    {
+      "formula": "S + get + p.p. + (by + agent)",
+      "zh": "主詞 + get + 過去分詞 + (由...)(行為者可省略)"
+    }
+  ],
+  "explanation": "get被動為口語、非正式表達方式，用來替代be被動。主要強調動作過程、偶發事件或暗示主詞自身有責任。常見搭配：get hurt（受傷）、get lost（迷路）、get fired（被開除）、get caught（被抓到）。相比be被動的客觀陳述，get被動更生動、口語化，常見於日常對話與非正式寫作。注意：get後接過去分詞，與get+形容詞（become）的意思不同。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I got lost on the way to the museum yesterday.",
+      "chi": "我昨天在去博物館的路上迷路了。",
+      "keywords": [
+        "get lost",
+        "偶發事件",
+        "口語被動"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She got hurt while playing basketball and had to go to the hospital.",
+      "chi": "她在打籃球時受傷，不得不去醫院。",
+      "keywords": [
+        "get hurt",
+        "過程強調",
+        "自身責任"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "He got fired from his job because he was always late.",
+      "chi": "他因為經常遲到而被開除。",
+      "keywords": [
+        "get fired",
+        "偶發結果",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The students got caught cheating during the exam and faced serious consequences.",
+      "chi": "學生在考試中作弊被抓到，面臨嚴重後果。",
+      "keywords": [
+        "get caught",
+        "被發現",
+        "後果"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "get被動與be被動的最大差異：get強調過程、偶發、動態，常暗示主詞參與或有責任；be被動客觀、正式、靜態陳述。在學測或正式寫作中應根據語境選用。get被動多見於口語、日記、非正式文章。",
+    "examples": [
+      {
+        "test": "She was hurt in the accident. vs. She got hurt in the accident.",
+        "result": "→ was hurt（客觀陳述受傷事實）；got hurt（強調過程、偶發性更強，更口語化）"
+      },
+      {
+        "test": "The car was stolen yesterday. vs. His car got stolen yesterday.",
+        "result": "→ was stolen（正式）；got stolen（口語化，暗示主詞疏於防範）"
+      },
+      {
+        "test": "He was promoted because of his hard work. vs. He got promoted because of his hard work.",
+        "result": "→ was promoted（正式書寫）；got promoted（非正式、日常交談，更親切）"
+      }
+    ],
+    "note": "記憶訣竅：get被動=口語、動態、偶發；be被動=正式、靜態、客觀。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "My backpack ",
+        null,
+        " at the train station last week, and I'm still upset about it.",
+        null
+      ],
+      "blanks": [
+        "got stolen",
+        "to this day"
+      ],
+      "sentence": "My backpack got stolen at the train station last week, and I'm still upset about it to this day.",
+      "translation": "我的背包上週在火車站被偷，到今天我仍然很難過。",
+      "keywords": [
+        "get stolen",
+        "口語被動",
+        "偶發事件"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She ",
+        null,
+        " during the soccer match and had to sit on the bench for the rest of the game."
+      ],
+      "blanks": [
+        "got injured"
+      ],
+      "sentence": "She got injured during the soccer match and had to sit on the bench for the rest of the game.",
+      "translation": "她在足球比賽中受傷，不得不在替補席坐完剩下的比賽。",
+      "keywords": [
+        "get injured",
+        "過程強調",
+        "運動傷害"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The tourists ",
+        null,
+        " in the old city because the map was unclear and confusing."
+      ],
+      "blanks": [
+        "got lost"
+      ],
+      "sentence": "The tourists got lost in the old city because the map was unclear and confusing.",
+      "translation": "遊客在古城迷路了，因為地圖不清楚且令人困惑。",
+      "keywords": [
+        "get lost",
+        "偶發",
+        "結果"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Several students ",
+        null,
+        " for plagiarism in their research papers and ",
+        null,
+        " from the program."
+      ],
+      "blanks": [
+        "got caught",
+        "got expelled"
+      ],
+      "sentence": "Several students got caught for plagiarism in their research papers and got expelled from the program.",
+      "translation": "幾名學生因論文抄襲被抓住，並被逐出課程。",
+      "keywords": [
+        "get caught",
+        "get expelled",
+        "後果",
+        "因果連接"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "get hurt",
+      "zh": "受傷"
+    },
+    {
+      "adj": "get lost",
+      "zh": "迷路"
+    },
+    {
+      "adj": "get fired",
+      "zh": "被開除"
+    },
+    {
+      "adj": "get caught",
+      "zh": "被抓到、被發現"
+    },
+    {
+      "adj": "get broken",
+      "zh": "被破壞、被損壞"
+    },
+    {
+      "adj": "get stolen",
+      "zh": "被偷走"
+    },
+    {
+      "adj": "get married",
+      "zh": "結婚"
+    },
+    {
+      "adj": "get divorced",
+      "zh": "離婚"
+    },
+    {
+      "adj": "get dressed",
+      "zh": "穿衣、換衣"
+    },
+    {
+      "adj": "get paid",
+      "zh": "獲得報酬、被支付薪水"
+    },
+    {
+      "adj": "get confused",
+      "zh": "被搞混、感到困惑"
+    },
+    {
+      "adj": "get stuck",
+      "zh": "被卡住、陷入困境"
+    }
+  ],
+  "vocab_table_label": "常用 get 被動片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的get被動句型，完成句子",
+      "question_eng": "I _______ lost in the city and couldn't find my way home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "got"
+        },
+        {
+          "key": "B",
+          "text": "was"
+        },
+        {
+          "key": "C",
+          "text": "became"
+        },
+        {
+          "key": "D",
+          "text": "turned"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「got」。此句使用get被動句型「get + p.p.」，表示「迷路」這個偶發事件。B「was lost」為be被動，較正式但不夠口語；C「became」後接形容詞表示「變成」，不是被動；D「turned」無此用法。get被動更能強調偶發事件和動作過程。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入正確的get被動形式，表達被開除的情況",
+      "question_eng": "Tom was late to work three times, so he _______ fired by his boss.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was get"
+        },
+        {
+          "key": "B",
+          "text": "got"
+        },
+        {
+          "key": "C",
+          "text": "gets"
+        },
+        {
+          "key": "D",
+          "text": "will be gotten"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「got」。根據前文「was late」的過去式，需用過去式「got fired」。A「was get」文法錯誤，get被動不可與be並用；C「gets」為現在式，與前文時態不符；D「will be gotten」形式不當，get被動無此形式。got fired表達「被開除」的口語說法。",
+      "id": 2
+    },
+    {
+      "question_chi": "完成句子，表示在籃球比賽中受傷的情況",
+      "question_eng": "Sarah _______ hurt while playing basketball and had to go to the hospital immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was injured"
+        },
+        {
+          "key": "B",
+          "text": "got hurt"
+        },
+        {
+          "key": "C",
+          "text": "was hurt"
+        },
+        {
+          "key": "D",
+          "text": "had injured"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「got hurt」。get被動「get + p.p.」特別適合表達偶發傷害事件，強調過程性和主詞的直接經歷。A「was injured」雖正確但較正式；C「was hurt」亦可但較客觀，不如get被動生動；D「had injured」為主動態，且時態不當。在非正式語境中，get hurt比be injured更常用。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最恰當的被動表達，完成關於偷竊被發現的句子",
+      "question_eng": "The suspect _______ caught stealing money from the bank, and the police arrested him on the spot.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was being caught"
+        },
+        {
+          "key": "B",
+          "text": "got caught"
+        },
+        {
+          "key": "C",
+          "text": "was caught"
+        },
+        {
+          "key": "D",
+          "text": "had caught"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「got caught」。此句描述突然被抓住的偶發事件，get被動「get caught」強調事件的突發性和暗示主詞自身有責任（因偷竊被抓），更符合情境。A「was being caught」為過去進行被動，表達持續過程不當；C「was caught」雖文法正確但較客觀、正式；D「had caught」為主動態，邏輯錯誤。get被動在此更能表達那瞬間被發現的戲劇感。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "昨天我在學校迷路了。",
+      "answer": "I got lost at school yesterday.",
+      "key_points": [
+        "got lost（迷路）",
+        "S + get + p.p. 結構",
+        "過去式時態"
+      ],
+      "hints": [
+        "提示1：get lost 是 get 被動的常見搭配，表示發生了迷路這個狀況",
+        "提示2：注意不要寫成 I was lost（我處於迷路的狀態），get lost 強調動作過程"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他因為遲到被老師批評了。",
+      "answer": "He got criticized by the teacher for being late.",
+      "key_points": [
+        "got criticized（被批評）",
+        "by + agent（by the teacher）",
+        "介詞搭配 for being late"
+      ],
+      "hints": [
+        "提示1：get 被動可以帶 by + agent 說明執行者，句型為 S + get + p.p. + by + agent",
+        "提示2：注意 criticize 的過去分詞是 criticized（兩個 i），不要漏掉第二個 i"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "如果你不認真讀書，你會被學校開除的。",
+      "answer": "If you don't study hard, you will get fired by the school.",
+      "key_points": [
+        "will get fired（將被開除）",
+        "條件句搭配（If...will...）",
+        "get 被動的未來式"
+      ],
+      "hints": [
+        "提示1：條件句中主要子句用未來式 will + get + p.p.，從句用現在簡單式",
+        "提示2：get fired 是慣用搭配，表示被解僱或開除，比 be fired 更口語化、有警告意味"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "小王在派對上被抓到作弊，他感到很尷尬，因為所有朋友都看到了。",
+      "answer": "Xiaowang got caught cheating at the party, and he felt embarrassed because all his friends saw it.",
+      "key_points": [
+        "got caught cheating（被抓到作弊）",
+        "get caught + Ving（接動名詞表示被抓到做某事）",
+        "因果關係表達"
+      ],
+      "hints": [
+        "提示1：get caught 後可接動名詞（cheating），表示『被抓到正在做某事』，這是 get 被動的特殊用法",
+        "提示2：注意 caught 是 catch 的過去分詞；『因為』用 because 引導原因子句，不要與 so 混淆"
+      ]
+    }
+  ]
+}

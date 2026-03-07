@@ -1,0 +1,370 @@
+{
+  "code": "5-6",
+  "chapter": 5,
+  "title": "S + be + p.p. + (by + agent)（基本被動語態）",
+  "formulas": [
+    {
+      "formula": "S + am/is/are + p.p. + (by + agent)",
+      "zh": "主詞 + 是/被 + 過去分詞 + (由...)"
+    },
+    {
+      "formula": "S + am/is/are + p.p.",
+      "zh": "主詞 + 是/被 + 過去分詞（行為者省略時）"
+    }
+  ],
+  "explanation": "現在式被動語態用於表達動作承受者為主詞的句子。主詞不執行動作，而是承受動作。by 子句引導執行動作的人或物，但當行為者明顯、不重要或已知時可省略。使用被動語態需確保原動詞為及物動詞，且現在式被動用於敘述現在的狀態、習慣性動作或普遍事實。常見於科學、新聞、正式文體中。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This bridge is built by skilled engineers with modern technology.",
+      "chi": "這座橋由熟練的工程師用現代技術建造。",
+      "keywords": [
+        "被動語態",
+        "by 子句",
+        "行為者明確"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "English is spoken as a second language in many Asian countries.",
+      "chi": "在許多亞洲國家，英語被作為第二語言使用。",
+      "keywords": [
+        "現在式被動",
+        "廣泛用法",
+        "行為者省略"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The documents are reviewed carefully before publication.",
+      "chi": "這些文件在發表前被仔細審查。",
+      "keywords": [
+        "過去分詞",
+        "被動結構",
+        "時間狀語"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "These products are made from recycled materials.",
+      "chi": "這些產品由回收材料製成。",
+      "keywords": [
+        "材料介詞 from",
+        "現在式被動",
+        "日常應用"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否使用被動語態：若句子強調動作承受者或行為者不重要，使用被動。確認原動詞為及物動詞，不及物動詞（如 happen、occur）無被動形。注意被動語態的現在式助動詞必須與主詞單複數一致。",
+    "examples": [
+      {
+        "test": "主動：Engineers build this bridge.",
+        "result": "→ 被動：This bridge is built (by engineers). 強調橋的完成，工程師可省略"
+      },
+      {
+        "test": "主動：The company produces these goods.",
+        "result": "→ 被動：These goods are produced (by the company). 關注產品而非製造者"
+      },
+      {
+        "test": "錯誤：The accident is happened yesterday.",
+        "result": "→ 正確：The accident happened yesterday. (happen 為不及物動詞，無被動形)"
+      }
+    ],
+    "note": "記住：及物動詞 + by 子句 = 現在式被動語態；省略 by 時聚焦於動作結果而非執行者。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "These smartphones ",
+        null,
+        " manufactured in East Asia."
+      ],
+      "blanks": [
+        "are"
+      ],
+      "sentence": "These smartphones are manufactured in East Asia.",
+      "translation": "這些智慧型手機在東亞製造。",
+      "keywords": [
+        "be 動詞",
+        "過去分詞",
+        "複數主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The report ",
+        null,
+        " written ",
+        null,
+        " the research team."
+      ],
+      "blanks": [
+        "is",
+        "by"
+      ],
+      "sentence": "The report is written by the research team.",
+      "translation": "這份報告由研究團隊撰寫。",
+      "keywords": [
+        "單數主詞",
+        "過去分詞",
+        "by 行為者"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Fresh vegetables ",
+        null,
+        " delivered to the market every morning."
+      ],
+      "blanks": [
+        "are"
+      ],
+      "sentence": "Fresh vegetables are delivered to the market every morning.",
+      "translation": "新鮮蔬菜每天早上被運到市場。",
+      "keywords": [
+        "現在式被動",
+        "時間狀語",
+        "定期動作"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The championship trophy ",
+        null,
+        " awarded to the winning team ",
+        null,
+        " the coach."
+      ],
+      "blanks": [
+        "is",
+        "by"
+      ],
+      "sentence": "The championship trophy is awarded to the winning team by the coach.",
+      "translation": "冠軍獎盃由教練授予獲勝隊伍。",
+      "keywords": [
+        "單數主詞",
+        "間接受詞",
+        "by 子句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "build",
+      "zh": "建造"
+    },
+    {
+      "adj": "speak",
+      "zh": "說話、使用"
+    },
+    {
+      "adj": "make",
+      "zh": "製作"
+    },
+    {
+      "adj": "teach",
+      "zh": "教導"
+    },
+    {
+      "adj": "write",
+      "zh": "寫作"
+    },
+    {
+      "adj": "produce",
+      "zh": "生產"
+    },
+    {
+      "adj": "publish",
+      "zh": "出版"
+    },
+    {
+      "adj": "design",
+      "zh": "設計"
+    },
+    {
+      "adj": "organize",
+      "zh": "組織、籌辦"
+    },
+    {
+      "adj": "influence",
+      "zh": "影響"
+    },
+    {
+      "adj": "appreciate",
+      "zh": "欣賞、重視"
+    },
+    {
+      "adj": "recognize",
+      "zh": "認識、承認"
+    }
+  ],
+  "vocab_table_label": "常用被動動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的現在式被動語態形式",
+      "question_eng": "This documentary _______ by a famous filmmaker last year.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is made"
+        },
+        {
+          "key": "B",
+          "text": "was made"
+        },
+        {
+          "key": "C",
+          "text": "is being made"
+        },
+        {
+          "key": "D",
+          "text": "has been made"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（was made）。句子含時間副詞『last year』表過去時間，應使用過去式被動語態。A 項是現在式被動，與時間不符；C 項為現在進行被動，表現在進行中；D 項為現在完成被動，適用於過去完成的動作對現在的影響，但句型明確指過去時間點。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷何時省略 by 子句的被動句",
+      "question_eng": "Coffee _______ in this café every morning for its customers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is served"
+        },
+        {
+          "key": "B",
+          "text": "is served by staff"
+        },
+        {
+          "key": "C",
+          "text": "serves"
+        },
+        {
+          "key": "D",
+          "text": "is being served"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（is served）。句子表述日常習慣性動作，應用現在式被動語態。執行動作的人（店員）明顯不重要，可省略 by 子句。B 項雖文法正確但不如 A 簡潔；C 項為主動式，改變句意；D 項為現在進行被動，表示此刻正進行，與『every morning』習慣性表述不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別現在式被動與進行被動的語境區別",
+      "question_eng": "New regulations _______ to improve workplace safety, and employees are attending mandatory training sessions.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are implemented"
+        },
+        {
+          "key": "B",
+          "text": "are being implemented"
+        },
+        {
+          "key": "C",
+          "text": "have been implemented"
+        },
+        {
+          "key": "D",
+          "text": "will be implemented"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（are being implemented）。後半句『employees are attending』使用現在進行式，表當前正在進行的動作。前半句應與其時間概念一致，使用現在進行被動語態表示『新規定正在推行中』。A 項表普遍事實或完成狀態；C 項為現在完成被動；D 項為將來被動，均與句意不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句境：區分被動語態與主動語態的正確用法",
+      "question_eng": "Although the project _______ by multiple teams simultaneously, the final report will still be reviewed by the director before publication.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is being developed"
+        },
+        {
+          "key": "B",
+          "text": "is developed"
+        },
+        {
+          "key": "C",
+          "text": "develops"
+        },
+        {
+          "key": "D",
+          "text": "has developed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（is being developed）。『simultaneously』表同時進行，『multiple teams』為執行者，句意應為『專案正在由多個團隊同時開發』，需用現在進行被動語態表示目前進行中的動作。B 項表普遍事實；C 項為主動式，主詞無法執行『被開發』；D 項為完成式，與『同時進行』的時間邏輯不符。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這份功課是由老師指派的。",
+      "answer": "This homework is assigned by the teacher.",
+      "key_points": [
+        "is assigned",
+        "被動語態結構 (be + p.p.)",
+        "by the teacher (行為者)"
+      ],
+      "hints": [
+        "句型框架：S + is + p.p. + by + agent，主詞 'homework' 是動作承受者",
+        "注意：assign 的過去分詞是 assigned，不是 assign"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "手機在課堂上不被允許使用。",
+      "answer": "Mobile phones are not allowed to be used in class.",
+      "key_points": [
+        "are not allowed",
+        "被動語態的否定形式 (be + not + p.p.)",
+        "in class (時間/地點狀語)"
+      ],
+      "hints": [
+        "句型框架：S + are + not + p.p.，主詞複數 'phones' 要配合 'are'",
+        "注意：allow 可用 'are allowed' 或 'are not permitted'，兩者都正確"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "新聞報導說校園欺凌問題正被政府重視。",
+      "answer": "The news reports that school bullying is being taken seriously by the government.",
+      "key_points": [
+        "is being taken seriously",
+        "現在進行式被動 (be + being + p.p.)",
+        "take seriously (視為重要)"
+      ],
+      "hints": [
+        "句型框架：S + is + being + p.p.，表達現在進行中的被動動作",
+        "注意：'take seriously' 是固定搭配，意為『認真對待』；過去分詞是 taken"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "據說許多學生的夢想被他們的家人所支持，但也有些學生的選擇不被理解。",
+      "answer": "It is said that many students' dreams are supported by their families, but some students' choices are not understood.",
+      "key_points": [
+        "are supported",
+        "are not understood",
+        "被動語態的肯定與否定對比",
+        "所有格 (students')"
+      ],
+      "hints": [
+        "句型框架：主句 'It is said that...' 後接兩個被動子句，用 and/but 連接；注意時態一致 (都用 are + p.p.)",
+        "常見錯誤：遺漏 by agent 時仍需使用被動語態；英文中 'by their families' 可省略，改為 'are supported' 也可接受"
+      ]
+    }
+  ]
+}

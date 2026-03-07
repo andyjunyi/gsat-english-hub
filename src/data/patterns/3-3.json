@@ -1,0 +1,376 @@
+{
+  "code": "3-3",
+  "chapter": 3,
+  "title": "prefer + N/V-ing + to + N/V-ing",
+  "formulas": [
+    {
+      "formula": "prefer + N/V-ing + to + N/V-ing",
+      "zh": "喜歡……勝過……（名詞或動名詞結構）"
+    },
+    {
+      "formula": "prefer to V rather than V",
+      "zh": "寧願做……而不願做……（原形動詞結構）"
+    }
+  ],
+  "explanation": "prefer 表示「更喜歡」或「偏好」，用來比較兩個對象或行為。第一種結構使用 to 作介系詞，後接名詞或動名詞；第二種結構中 prefer to 後接原形動詞，rather than 後也接原形動詞。兩種結構意思相同，但語法結構不同。常見誤用是混淆 to 的身份（介系詞 vs 不定式標記），或在 prefer...to... 結構中錯誤使用原形動詞。此句型強調主觀偏好或選擇傾向。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I prefer reading novels to watching TV in my free time.",
+      "chi": "我喜歡在閒暇時讀小說勝過看電視。",
+      "keywords": [
+        "prefer",
+        "reading",
+        "watching",
+        "動名詞比較"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She prefers coffee to tea because it helps her stay awake.",
+      "chi": "她喜歡咖啡勝過茶，因為咖啡能幫助她保持清醒。",
+      "keywords": [
+        "prefer",
+        "coffee",
+        "tea",
+        "名詞比較"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "My father prefers to travel by train rather than by plane.",
+      "chi": "我父親寧願搭火車而不願搭飛機。",
+      "keywords": [
+        "prefer to",
+        "rather than",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Students often prefer online learning to attending classes in person.",
+      "chi": "學生通常喜歡線上學習勝過親自上課。",
+      "keywords": [
+        "prefer",
+        "learning",
+        "attending",
+        "教育情境"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷關鍵：prefer 後若接名詞或動名詞需用介系詞 to；若接原形動詞需用 prefer to...rather than... 結構。兩邊結構必須對稱：prefer V-ing to V-ing（不可 prefer V-ing to V）。常誤寫成 prefer...than...，此為錯誤。",
+    "examples": [
+      {
+        "test": "❌ I prefer reading than watching TV.",
+        "result": "→ ✅ I prefer reading to watching TV.（to 是介系詞，不是 than）"
+      },
+      {
+        "test": "❌ He prefers to walk to running.",
+        "result": "→ ✅ He prefers walking to running. OR He prefers to walk rather than run.（需要結構對稱）"
+      },
+      {
+        "test": "✅ She prefers online courses to face-to-face classes.",
+        "result": "→ 正確用法：名詞對名詞比較"
+      }
+    ],
+    "note": "prefer + 同形式 + to + 同形式；或 prefer to + 原動詞 + rather than + 原動詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I ",
+        null,
+        " summer to winter because the weather is warmer."
+      ],
+      "blanks": [
+        "prefer"
+      ],
+      "sentence": "I prefer summer to winter because the weather is warmer.",
+      "translation": "我喜歡夏季勝過冬季，因為天氣較溫暖。",
+      "keywords": [
+        "prefer",
+        "名詞比較",
+        "季節"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "My brother ",
+        null,
+        " playing video games ",
+        null,
+        " doing homework."
+      ],
+      "blanks": [
+        "prefers",
+        "to"
+      ],
+      "sentence": "My brother prefers playing video games to doing homework.",
+      "translation": "我哥哥喜歡玩電玩勝過做功課。",
+      "keywords": [
+        "prefer",
+        "動名詞",
+        "playing",
+        "doing"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "They prefer ",
+        null,
+        " by car rather than ",
+        null,
+        " by bus."
+      ],
+      "blanks": [
+        "to travel",
+        "to travel"
+      ],
+      "sentence": "They prefer to travel by car rather than to travel by bus.",
+      "translation": "他們寧願開車旅行而不願搭巴士旅行。",
+      "keywords": [
+        "prefer to",
+        "rather than",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Which do you ",
+        null,
+        " : coffee ",
+        null,
+        " tea?"
+      ],
+      "blanks": [
+        "prefer",
+        "to"
+      ],
+      "sentence": "Which do you prefer: coffee to tea?",
+      "translation": "你比較喜歡哪一個：咖啡還是茶？",
+      "keywords": [
+        "prefer",
+        "選擇",
+        "飲料比較"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "reading",
+      "zh": "閱讀"
+    },
+    {
+      "adj": "writing",
+      "zh": "寫作"
+    },
+    {
+      "adj": "speaking",
+      "zh": "說話"
+    },
+    {
+      "adj": "cooking",
+      "zh": "烹飪"
+    },
+    {
+      "adj": "hiking",
+      "zh": "登山"
+    },
+    {
+      "adj": "swimming",
+      "zh": "游泳"
+    },
+    {
+      "adj": "coffee",
+      "zh": "咖啡"
+    },
+    {
+      "adj": "summer",
+      "zh": "夏季"
+    },
+    {
+      "adj": "casual clothes",
+      "zh": "休閒服裝"
+    },
+    {
+      "adj": "quiet environment",
+      "zh": "安靜的環境"
+    },
+    {
+      "adj": "independent work",
+      "zh": "獨立工作"
+    },
+    {
+      "adj": "face-to-face communication",
+      "zh": "面對面溝通"
+    }
+  ],
+  "vocab_table_label": "常用動名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的prefer句型結構，完成句子。",
+      "question_eng": "Many students _______ studying alone to studying in groups.",
+      "options": [
+        {
+          "key": "A",
+          "text": "prefer"
+        },
+        {
+          "key": "B",
+          "text": "prefers"
+        },
+        {
+          "key": "C",
+          "text": "preferred"
+        },
+        {
+          "key": "D",
+          "text": "preferring"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (prefer)。主詞 students 是複數，動詞應使用原形 prefer。prefer + V-ing + to + V-ing 是標準結構。B 項 prefers 用於單數主詞；C 項 preferred 為過去式，不符合語境；D 項 preferring 是分詞形式，不適合此位置。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入合適的動名詞或原形動詞，完成prefer比較句。",
+      "question_eng": "She prefers _______ coffee to drinking tea in the morning.",
+      "options": [
+        {
+          "key": "A",
+          "text": "drinking"
+        },
+        {
+          "key": "B",
+          "text": "drink"
+        },
+        {
+          "key": "C",
+          "text": "to drink"
+        },
+        {
+          "key": "D",
+          "text": "drinks"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (drinking)。prefer...to... 結構中，兩個比較對象都應使用動名詞形式。第一個空應填 drinking 與後面的 drinking tea 並行。B 項 drink 是原形動詞，不符合此結構；C 項 to drink 為不定式，混淆了 to 的身份；D 項 drinks 為第三人稱單數，形式不當。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的prefer複合結構，強調個人偏好。",
+      "question_eng": "Tom _______ play basketball rather than _______ football with his friends.",
+      "options": [
+        {
+          "key": "A",
+          "text": "prefers to; play"
+        },
+        {
+          "key": "B",
+          "text": "prefer; playing"
+        },
+        {
+          "key": "C",
+          "text": "prefers; to play"
+        },
+        {
+          "key": "D",
+          "text": "prefers to; playing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (prefers to; play)。prefer to V rather than V 結構中，to 是不定式標記，rather than 後接原形動詞。主詞 Tom 是單數，故用 prefers。B 項主詞動詞不符、選項形式錯誤；C 項 to play 後不應再用 to；D 項 playing 破壞了 rather than 後應接原形動詞的規則。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合判斷prefer的兩種結構用法，完成完整句子。",
+      "question_eng": "According to the survey, most employees prefer _______ remote work to _______ in the office every day, which improves their work-life balance significantly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do; working"
+        },
+        {
+          "key": "B",
+          "text": "doing; working"
+        },
+        {
+          "key": "C",
+          "text": "to do; to work"
+        },
+        {
+          "key": "D",
+          "text": "doing; come"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (doing; working)。prefer + N/V-ing + to + N/V-ing 結構要求兩個比較對象形式相同，都應用動名詞。doing remote work 對應 working in the office。A 項 do 為原形動詞，破壞並行結構；C 項過度使用不定式，不符 prefer...to... 用法；D 項 come 與 working 形式不並行，且邏輯不當。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我更喜歡在家讀書而不是在圖書館讀書。",
+      "answer": "I prefer studying at home to studying in the library.",
+      "key_points": [
+        "prefer + V-ing",
+        "to 作介系詞",
+        "兩個動名詞結構平行"
+      ],
+      "hints": [
+        "提示1：prefer 後接第一個動名詞，to 作介系詞，再接第二個動名詞",
+        "提示2：常見錯誤是在 to 後使用原形動詞或不定式（studying to study library 是錯的）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "大多數學生寧願看電影也不願看教科書。",
+      "answer": "Most students prefer watching movies to reading textbooks.",
+      "key_points": [
+        "prefer + watching/reading",
+        "to 介系詞後接動名詞",
+        "邏輯清楚的對比"
+      ],
+      "hints": [
+        "提示1：prefer 結構中兩個動作都必須用動名詞形式（V-ing），to 是介系詞不是不定式標記",
+        "提示2：避免寫成 prefer watching movies to read textbooks（混用動名詞和原形動詞）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "與其參加派對，他更傾向於一個人待在房間裡玩電玩。",
+      "answer": "He prefers staying in his room playing video games to attending parties.",
+      "key_points": [
+        "prefer + 複雜動名詞片語",
+        "to 介系詞的應用",
+        "現在分詞修飾名詞"
+      ],
+      "hints": [
+        "提示1：prefer 後可接包含修飾詞的動名詞片語（staying in his room playing...），to 仍作介系詞連接兩個動作",
+        "提示2：注意『玩電玩』要用 playing video games 而非 play video games，確保兩邊都是動名詞形式"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "相較於為了升學而讀書，他更喜歡為了興趣和個人成長而學習新技能。",
+      "answer": "He prefers learning new skills for personal growth to studying for the sake of academic advancement.",
+      "key_points": [
+        "prefer + 目的狀語的動名詞",
+        "介系詞 to 的區分",
+        "複雜句式中的平行結構"
+      ],
+      "hints": [
+        "提示1：prefer 結構中，兩個動名詞片語可包含介系詞片語（for personal growth / for academic advancement）來說明目的或理由",
+        "提示2：高中進階難點——確認 to 是介系詞（在這裡連接兩個動名詞短語）而非不定式的 to，且兩邊結構必須平行對等"
+      ]
+    }
+  ]
+}

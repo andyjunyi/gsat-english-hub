@@ -1,0 +1,362 @@
+{
+  "code": "4-18",
+  "chapter": 4,
+  "title": "whether/if + S + V（名詞子句）",
+  "formulas": [
+    {
+      "formula": "S + V + whether + S + V",
+      "zh": "主詞 + 動詞 + whether 引導的名詞子句"
+    },
+    {
+      "formula": "S + V + if + S + V",
+      "zh": "主詞 + 動詞 + if 引導的名詞子句（作受詞時）"
+    }
+  ],
+  "explanation": "whether/if 引導名詞子句表達「是否……」的不確定性。whether 可作主詞或受詞位置，具有更正式的語氣；if 只能作受詞（如作賓語），不能作主詞。whether...or not 結構強調雙重可能性。此句型常用於表達疑問、不確定、選擇或調查。注意：作主詞時必用 whether；作受詞時兩者皆可，但 whether 更正式。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She asked whether he would attend the meeting tomorrow.",
+      "chi": "她問他明天是否會參加會議。",
+      "keywords": [
+        "whether",
+        "間接問句",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Whether the project succeeds or not depends on team cooperation.",
+      "chi": "專案是否成功取決於團隊合作。",
+      "keywords": [
+        "Whether...or not",
+        "作主詞",
+        "強調兩種可能"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I wonder if you have finished your homework yet.",
+      "chi": "我想知道你是否已經完成功課。",
+      "keywords": [
+        "if",
+        "作受詞",
+        "非正式用法"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The manager will decide whether to hire more staff based on sales performance.",
+      "chi": "經理將根據銷售表現決定是否聘請更多員工。",
+      "keywords": [
+        "whether to do",
+        "決策動詞",
+        "名詞子句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否使用 whether 或 if：若填空處於句首或作主詞，必用 whether。作受詞時，whether 更正式，if 更口語。whether...or not 強調兩種結果都可能，不能用 if 替換。",
+    "examples": [
+      {
+        "test": "Whether he comes or not is still unknown. (不能用 If)",
+        "result": "→ 作主詞位置，只能用 whether；if 在此位置文法錯誤"
+      },
+      {
+        "test": "I don't know if/whether you're ready. (兩者皆可)",
+        "result": "→ 作受詞，if 更口語，whether 更正式，but whether...or not = 強調雙重可能"
+      },
+      {
+        "test": "Whether or not she agrees, we will proceed. (不能用 If or not)",
+        "result": "→ whether...or not 句型固定搭配，if 不能與 or not 並用"
+      }
+    ],
+    "note": "主詞用 whether，受詞用 whether 或 if；whether...or not 固定搭配強調兩種結果。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The teacher is asking ",
+        null,
+        " the students completed their assignments."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "The teacher is asking whether the students completed their assignments.",
+      "translation": "老師在問學生們是否完成了他們的作業。",
+      "keywords": [
+        "whether",
+        "ask",
+        "間接問句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " you travel by plane or train doesn't matter to us."
+      ],
+      "blanks": [
+        "Whether"
+      ],
+      "sentence": "Whether you travel by plane or train doesn't matter to us.",
+      "translation": "你坐飛機還是火車旅行對我們無關緊要。",
+      "keywords": [
+        "Whether...or",
+        "作主詞",
+        "選擇"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Scientists are investigating ",
+        null,
+        " climate change is affecting ocean ecosystems."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "Scientists are investigating whether climate change is affecting ocean ecosystems.",
+      "translation": "科學家正在調查氣候變化是否影響海洋生態系統。",
+      "keywords": [
+        "whether",
+        "investigate",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The success of the plan depends on ",
+        null,
+        " all team members cooperate effectively."
+      ],
+      "blanks": [
+        "whether"
+      ],
+      "sentence": "The success of the plan depends on whether all team members cooperate effectively.",
+      "translation": "計畫的成功取決於所有團隊成員是否有效合作。",
+      "keywords": [
+        "whether",
+        "depends on",
+        "條件"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "ask",
+      "zh": "問"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道"
+    },
+    {
+      "adj": "doubt",
+      "zh": "懷疑"
+    },
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "uncertain",
+      "zh": "不確定的"
+    },
+    {
+      "adj": "depends on",
+      "zh": "取決於"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "discuss",
+      "zh": "討論"
+    },
+    {
+      "adj": "investigate",
+      "zh": "調查"
+    },
+    {
+      "adj": "consider",
+      "zh": "考慮"
+    },
+    {
+      "adj": "uncertain whether",
+      "zh": "不確定是否"
+    },
+    {
+      "adj": "be concerned",
+      "zh": "擔心"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "填空選擇：選擇適當的詞彙完成句子",
+      "question_eng": "He asked me _______ I would join the club next semester.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether"
+        },
+        {
+          "key": "B",
+          "text": "if"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "B",
+      "explanation": "作受詞位置時，whether 和 if 都可使用，but 題目用 asked me 表示「問某人」的賓語子句，if 和 whether 都適當。此題 B 和 A 皆可，但 if 在口語中更常見於問句語境。C 項 that 引導陳述子句不表示「是否」；D 項 what 為特殊疑問詞。A 為更正式用法亦可接受，但 if 為日常用語的常見選擇。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確選項完成對話，體現不確定性意義",
+      "question_eng": "The manager was uncertain _______ the new marketing strategy would succeed or fail.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether"
+        },
+        {
+          "key": "B",
+          "text": "if"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "此句需強調雙重可能性「成功或失敗」，使用 whether...or not/or 結構，only whether 能與 or 搭配表達兩種對立可能。if 不可與 or 連用表達對立選擇。uncertain 後接賓語子句時，whether 更符合正式文體。B 項 if 無法表達「或」的雙重選擇；C 項 that 為陳述子句；D 項 which 為特疑詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別主詞位置的正確子句引導詞，考察語法限制",
+      "question_eng": "_______ the company will expand into Asian markets remains to be determined by the board of directors.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Whether"
+        },
+        {
+          "key": "C",
+          "text": "That"
+        },
+        {
+          "key": "D",
+          "text": "What"
+        }
+      ],
+      "answer": "B",
+      "explanation": "子句位於句子主詞位置（remains 前），must 使用 whether，不能用 if。if 只能作受詞位置（賓語子句）。Whether...or not 隱含可用於表示對立的可能性。A 項 if 作主詞違反文法；C 項 that 引導限制性陳述子句，無法表「是否」不確定；D 項 what 為特疑詞，意義不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句構測試：辨認並列結構中的子句引導詞搭配",
+      "question_eng": "The team discussed two important issues: _______ they should invest more in research and development, and _______ the current budget allocation was sufficient for operational costs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether; if"
+        },
+        {
+          "key": "B",
+          "text": "if; whether"
+        },
+        {
+          "key": "C",
+          "text": "whether; whether"
+        },
+        {
+          "key": "D",
+          "text": "if; if"
+        }
+      ],
+      "answer": "C",
+      "explanation": "兩個並列的賓語子句都作為 discussed 的受詞，表達「是否……」的不確定性。雖然 if 在受詞位置也可用，但在正式文體與並列結構中，為保持平行結構的一致性與正式性，兩者都應使用 whether。A 項混用導致平行不一；B 項順序顛倒；D 項 if 雖文法可接但不如 whether 正式和一致性強。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我不確定明天是否會下雨。",
+      "answer": "I'm not sure whether/if it will rain tomorrow.",
+      "key_points": [
+        "whether/if 引導名詞子句",
+        "作受詞位置",
+        "will rain（未來式）"
+      ],
+      "hints": [
+        "句型結構：S + V + whether/if + S + V",
+        "此處作受詞，whether 和 if 都可接受，但作主詞位置必須用 whether"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師想知道學生是否完成了功課。",
+      "answer": "The teacher wants to know whether/if the students have finished their homework.",
+      "key_points": [
+        "whether/if 引導名詞子句作受詞",
+        "have finished（現在完成式）",
+        "want to know 的賓語"
+      ],
+      "hints": [
+        "句型結構：S + V + whether/if + S + V，此時 V 為及物動詞 know",
+        "注意時態配合：homework 完成時間是過去，故使用現在完成式"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "她是否參加畢業典禮對全班同學都很重要。",
+      "answer": "Whether she attends the graduation ceremony is important to all classmates.",
+      "key_points": [
+        "whether 作主詞位置（必用 whether 不能用 if）",
+        "is important（主詞補語）",
+        "attends（一般現在式）"
+      ],
+      "hints": [
+        "句型結構：whether + S + V + ...是主詞，後接謂語 is important；作主詞時絕對不能用 if",
+        "常見錯誤：誤用 if 作主詞，或忘記主詞動詞單複數一致"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "無論你是否同意我的想法，我都會堅持這個決定。",
+      "answer": "Whether you agree with my idea or not, I will stick to this decision.",
+      "key_points": [
+        "whether...or not 結構強調雙重可能性",
+        "作介詞片語前置修飾主句",
+        "stick to（堅持）"
+      ],
+      "hints": [
+        "句型結構：whether + S + V + or not 可置於句首或句中，強調無論哪種情況都成立",
+        "注意：此時 whether or not 作介詞片語修飾整個主句，不同於作受詞的用法；or not 與 whether 搭配時可放在 V 後，也可放在句尾"
+      ]
+    }
+  ]
+}

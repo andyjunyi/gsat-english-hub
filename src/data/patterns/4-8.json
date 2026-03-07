@@ -1,0 +1,370 @@
+{
+  "code": "4-8",
+  "chapter": 4,
+  "title": "S + V + prep. + which/whom + S + V（介系詞 + 關係代名詞）",
+  "formulas": [
+    {
+      "formula": "N + prep. + which + S + V (修飾物)",
+      "zh": "名詞 + 介系詞 + which + 主詞 + 動詞（關係代名詞前置介系詞，修飾事物）"
+    },
+    {
+      "formula": "N + prep. + whom + S + V (修飾人)",
+      "zh": "名詞 + 介系詞 + whom + 主詞 + 動詞（關係代名詞前置介系詞，修飾人物）"
+    }
+  ],
+  "explanation": "此句型為正式書面英文，介系詞置於關係代名詞前，即 prep. + which/whom 形式。修飾物體用 which，修飾人物用 whom。此為 of/in/with/about/on 等介系詞 + which/whom 之組合，語氣較口語的「S + V + prep.」結構更正式。關鍵在正確判斷先行詞性質（人或物），選用正確代名詞，並掌握介系詞搭配。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The book in which he is interested is a bestseller.",
+      "chi": "他感興趣的那本書是一本暢銷書。",
+      "keywords": [
+        "in which",
+        "介系詞前置",
+        "修飾物"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The professor with whom I studied graduated from Harvard.",
+      "chi": "我與其一起學習的那位教授畢業於哈佛大學。",
+      "keywords": [
+        "with whom",
+        "介系詞前置",
+        "修飾人"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The company for which she works has expanded its operations.",
+      "chi": "她工作的那家公司已經擴展了業務。",
+      "keywords": [
+        "for which",
+        "正式書面用法",
+        "修飾物"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The students about whom the teacher spoke achieved excellent results.",
+      "chi": "老師提到的那些學生取得了優異的成績。",
+      "keywords": [
+        "about whom",
+        "介系詞前置",
+        "修飾人"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "interested",
+      "zh": "感興趣的"
+    },
+    {
+      "adj": "concerned",
+      "zh": "相關的；關心的"
+    },
+    {
+      "adj": "aware",
+      "zh": "意識到的"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責的"
+    },
+    {
+      "adj": "grateful",
+      "zh": "感謝的"
+    },
+    {
+      "adj": "familiar",
+      "zh": "熟悉的"
+    },
+    {
+      "adj": "known",
+      "zh": "已知的"
+    },
+    {
+      "adj": "based",
+      "zh": "根據的；基於的"
+    },
+    {
+      "adj": "proud",
+      "zh": "驕傲的"
+    },
+    {
+      "adj": "excited",
+      "zh": "興奮的"
+    },
+    {
+      "adj": "certain",
+      "zh": "確定的"
+    },
+    {
+      "adj": "typical",
+      "zh": "典型的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 which 或 whom 的關鍵：先確認先行詞是人還是物。若先行詞為人，用 whom；為物，用 which。介系詞選擇應依據動詞或形容詞搭配，如 interested in、responsible for、proud of 等。",
+    "examples": [
+      {
+        "test": "The tool with which she built the house → (正式)",
+        "result": "→ 正確。which 修飾物體 tool，介系詞 with 前置"
+      },
+      {
+        "test": "The man to which I spoke → (錯誤)",
+        "result": "→ 應改為 to whom I spoke，先行詞 man 為人，用 whom"
+      },
+      {
+        "test": "She works for the company about which she is excited → (正式)",
+        "result": "→ 正確。which 修飾 company，about 是固定搭配"
+      }
+    ],
+    "note": "記憶口訣：人用 whom，物用 which，介系詞緊跟關係代名詞前，正式書面不可變。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The research project ",
+        null,
+        " they dedicated five years is finally complete.",
+        null
+      ],
+      "blanks": [
+        "to which",
+        null
+      ],
+      "sentence": "The research project to which they dedicated five years is finally complete.",
+      "translation": "他們投入五年心力的那個研究項目終於完成了。",
+      "keywords": [
+        "to which",
+        "修飾物",
+        "介系詞前置"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The journalist ",
+        null,
+        " the government spoke yesterday reported important findings.",
+        null
+      ],
+      "blanks": [
+        "to whom",
+        null
+      ],
+      "sentence": "The journalist to whom the government spoke yesterday reported important findings.",
+      "translation": "政府昨天和其談話的那位記者報導了重要發現。",
+      "keywords": [
+        "to whom",
+        "修飾人",
+        "介系詞前置"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The invention ",
+        null,
+        " modern technology is based has revolutionized industry.",
+        null
+      ],
+      "blanks": [
+        "on which",
+        null
+      ],
+      "sentence": "The invention on which modern technology is based has revolutionized industry.",
+      "translation": "現代技術所基於的那項發明已經改變了工業。",
+      "keywords": [
+        "on which",
+        "修飾物",
+        "正式書面"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The athletes ",
+        null,
+        " the coach is proud achieved Olympic medals.",
+        null
+      ],
+      "blanks": [
+        "of whom",
+        null
+      ],
+      "sentence": "The athletes of whom the coach is proud achieved Olympic medals.",
+      "translation": "教練為之驕傲的那些運動員獲得了奧運獎牌。",
+      "keywords": [
+        "of whom",
+        "修飾人",
+        "proud of 搭配"
+      ]
+    }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的介系詞加關係代名詞形式，修飾物體",
+      "question_eng": "The research project _______ she is working is very important for environmental protection.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on which"
+        },
+        {
+          "key": "B",
+          "text": "on that"
+        },
+        {
+          "key": "C",
+          "text": "in which"
+        },
+        {
+          "key": "D",
+          "text": "about which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「on which」。「work on」是片語動詞，表示「從事/進行某項工作」，因此介系詞應為 on。介系詞必須置於關係代名詞 which 前方，形成「prep. + which」的正式結構。B 項「that」不能與介系詞搭配；C 項「in which」與 work 片語搭配不當；D 項「about which」雖為正式用法，但與此句的動詞片語不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷先行詞為人，選擇正確的介系詞加關係代名詞",
+      "question_eng": "The scientist _______ I collaborated on this study has won numerous awards.",
+      "options": [
+        {
+          "key": "A",
+          "text": "with whom"
+        },
+        {
+          "key": "B",
+          "text": "with which"
+        },
+        {
+          "key": "C",
+          "text": "to whom"
+        },
+        {
+          "key": "D",
+          "text": "in whom"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「with whom」。先行詞 scientist 是人，應使用 whom 而非 which。「collaborate with」是片語動詞，表示「與...合作」，搭配介系詞 with。因此形成「with whom」的正式書面英文結構。B 項錯在用 which 修飾人物；C 項介系詞搭配不當；D 項「in whom」語意不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "複雜句型，需辨別介系詞搭配與先行詞性質",
+      "question_eng": "The controversial policy _______ the government is still struggling to defend has sparked heated debates among the citizens.",
+      "options": [
+        {
+          "key": "A",
+          "text": "about which"
+        },
+        {
+          "key": "B",
+          "text": "with which"
+        },
+        {
+          "key": "C",
+          "text": "for which"
+        },
+        {
+          "key": "D",
+          "text": "in what"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「about which」。先行詞 policy 為物體，用 which。「struggle to defend」需補充說明為何困難，「about」表達「關於某政策」的含義最恰當。此句結構為「prep. + which + S + V」的標準正式書面英文。B 項「with which」搭配不當；C 項「for which」改變原意；D 項「in what」為非正式口語結構，不符題目要求的正式書面英文。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨別多個介系詞選項，需掌握片語動詞與先行詞的精確搭配",
+      "question_eng": "The ethical dilemmas _______ the medical team had to grapple throughout the pandemic raised fundamental questions about healthcare responsibility.",
+      "options": [
+        {
+          "key": "A",
+          "text": "with which"
+        },
+        {
+          "key": "B",
+          "text": "about which"
+        },
+        {
+          "key": "C",
+          "text": "for which"
+        },
+        {
+          "key": "D",
+          "text": "toward which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「with which」。片語動詞「grapple with」意為「艱難地應對/與...搏鬥」，介系詞必須是 with。先行詞「dilemmas」為物體，使用 which。此為「prep. + which + S + V」的標準形式，表達醫療團隊與道德困境的對抗過程。B 項「about which」改變動詞片語之意；C 項「for which」與片語不符；D 項「toward which」雖為正式結構，但與 grapple 搭配不當，無法準確表達「與...對抗」之意。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這是我們昨天討論過的那個計畫。",
+      "answer": "This is the project about which we discussed yesterday.",
+      "key_points": [
+        "about which",
+        "discussed（過去式）",
+        "先行詞 project（物體）"
+      ],
+      "hints": [
+        "句型框架：N + about + which + S + V，介系詞 about 置於 which 前",
+        "常見錯誤：勿寫成 which about we discussed 或 that about which"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他是我最欽佩的那位老師，他的教學方法創新。",
+      "answer": "He is the teacher whom I admire most, with whom I have learned innovative teaching methods.",
+      "key_points": [
+        "whom（修飾人物）",
+        "with whom",
+        "admire + most 最高級表達"
+      ],
+      "hints": [
+        "句型框架：N + with + whom + S + V，介系詞 with 置於 whom 前；whom 用於人物先行詞",
+        "常見錯誤：誤用 who 或將介系詞置於句末"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這就是我們賴以生存的環境，我們必須好好保護它。",
+      "answer": "This is the environment on which we depend, and we must protect it well.",
+      "key_points": [
+        "on which（介系詞 + which）",
+        "depend on（片語動詞）",
+        "先行詞 environment（物體）"
+      ],
+      "hints": [
+        "句型框架：N + on + which + S + V，depend on 的介系詞 on 移至 which 前；整體呈現正式書面語氣",
+        "常見錯誤：勿寫成 depend which on 或 on that we depend"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這些是我們正在合作的學者，他們的研究涵蓋多個領域，我們對此印象深刻。",
+      "answer": "These are the scholars with whom we are collaborating, whose research covers multiple fields, of which we are impressed.",
+      "key_points": [
+        "with whom",
+        "of which",
+        "複合句結構（多個關係子句）",
+        "先行詞辨別（人與物）"
+      ],
+      "hints": [
+        "句型框架：複數先行詞可用多個 prep. + which/whom 子句修飾；with whom 修飾人物（collaborating），of which 修飾物體（research/fields）",
+        "常見錯誤：混淆人物與物體代名詞；介系詞位置前置與後置混用；忽略動詞時態與主詞一致性"
+      ]
+    }
+  ]
+}

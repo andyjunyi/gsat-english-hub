@@ -1,0 +1,368 @@
+{
+  "code": "4-22",
+  "chapter": 4,
+  "title": "the fact that + S + V（同位語子句）",
+  "formulas": [
+    {
+      "formula": "the fact/news/idea/belief + that + S + V",
+      "zh": "同位語子句：用 that 子句說明前面名詞的具體內容"
+    },
+    {
+      "formula": "the possibility/hope/thought + that + S + V",
+      "zh": "同位語子句：表達可能性、願望或想法的名詞後接 that 子句"
+    }
+  ],
+  "explanation": "同位語子句用來說明或進一步解釋前面名詞的具體內容。該名詞通常為抽象名詞，如 fact、news、idea、belief、hope、possibility 等。that 引導的子句直接補充說明該名詞。注意：同位語子句的 that 不能省略，也不能用 which 替代。that 子句內容為肯定或否定陳述句。此結構常見於新聞報導、學術表達或正式文體中。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The fact that climate change threatens our planet is undeniable.",
+      "chi": "氣候變化威脅我們星球這個事實是不可否認的。",
+      "keywords": [
+        "fact",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The news that she won the scholarship made her family very proud.",
+      "chi": "她獲得獎學金的消息使她的家人非常驕傲。",
+      "keywords": [
+        "news",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We share the belief that education is the key to success.",
+      "chi": "我們都認為教育是成功的關鍵這一信念。",
+      "keywords": [
+        "belief",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The possibility that remote work becomes permanent is increasing rapidly.",
+      "chi": "遠距工作成為永久制度的可能性正在迅速增加。",
+      "keywords": [
+        "possibility",
+        "that",
+        "同位語子句"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否為同位語子句：若 that 子句內容直接補充說明前面名詞，且名詞為抽象名詞，則為同位語。勿與定語從句混淆：定語從句用 that/which 修飾，同位語子句的 that 不可省略且不用 which。",
+    "examples": [
+      {
+        "test": "The idea that she proposed is excellent.",
+        "result": "→ idea 後為定語從句（修飾 idea），that 可省略為 she proposed"
+      },
+      {
+        "test": "The idea that she is talented impressed everyone.",
+        "result": "→ idea 後為同位語子句（說明 idea 的內容），that 不可省略"
+      },
+      {
+        "test": "We rejected the assumption that the project would fail.",
+        "result": "→ that 子句說明 assumption 的具體內容，為同位語子句，that 必須保留"
+      }
+    ],
+    "note": "同位語子句用 that 補充說明抽象名詞內容，that 必保留，內容為完整句子。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The fact ",
+        null,
+        " online shopping has transformed retail is widely accepted.",
+        ""
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "The fact that online shopping has transformed retail is widely accepted.",
+      "translation": "線上購物改變零售業這個事實被廣泛接受。",
+      "keywords": [
+        "fact",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "We all share the belief ",
+        null,
+        " teamwork leads to better results.",
+        ""
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "We all share the belief that teamwork leads to better results.",
+      "translation": "我們都相信團隊合作能帶來更好的結果這一信念。",
+      "keywords": [
+        "belief",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The news ",
+        null,
+        " he was appointed as CEO surprised the board members.",
+        ""
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "The news that he was appointed as CEO surprised the board members.",
+      "translation": "他被任命為執行長的消息讓董事會成員感到驚訝。",
+      "keywords": [
+        "news",
+        "that",
+        "同位語子句"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The possibility ",
+        null,
+        " artificial intelligence will replace human workers cannot be ignored.",
+        ""
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "The possibility that artificial intelligence will replace human workers cannot be ignored.",
+      "translation": "人工智能將取代人類工作者的可能性不能被忽視。",
+      "keywords": [
+        "possibility",
+        "that",
+        "同位語子句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "fact",
+      "zh": "事實"
+    },
+    {
+      "adj": "news",
+      "zh": "消息、新聞"
+    },
+    {
+      "adj": "idea",
+      "zh": "想法、概念"
+    },
+    {
+      "adj": "belief",
+      "zh": "信念、信仰"
+    },
+    {
+      "adj": "hope",
+      "zh": "希望"
+    },
+    {
+      "adj": "possibility",
+      "zh": "可能性"
+    },
+    {
+      "adj": "thought",
+      "zh": "想法、思想"
+    },
+    {
+      "adj": "assumption",
+      "zh": "假設、假定"
+    },
+    {
+      "adj": "evidence",
+      "zh": "證據"
+    },
+    {
+      "adj": "argument",
+      "zh": "論點、論據"
+    },
+    {
+      "adj": "claim",
+      "zh": "宣稱、主張"
+    },
+    {
+      "adj": "concern",
+      "zh": "關切、擔憂"
+    }
+  ],
+  "vocab_table_label": "常用同位語名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適合的選項來完成句子",
+      "question_eng": "The fact _______ he succeeded in his career made his parents very proud.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "answer": "B",
+      "explanation": "同位語子句必須用 that 引導，用來說明前面的抽象名詞 fact。選項 A（which）用於非限制性關係子句，不能引導同位語子句；C（what）為複合關係代名詞，與本句結構不符；D（when）為時間副詞，不適用。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇能正確補充前面名詞的選項",
+      "question_eng": "The news _______ the company will expand to five new markets next year excited all the employees.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "in which"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "answer": "A",
+      "explanation": "news 是抽象名詞，其後的同位語子句應用 that 引導。該子句「the company will expand to five new markets next year」直接說明新聞的內容。B（which）、C（in which）和 D（where）都用於定語從句，不符合同位語子句的用法。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最適當的詞彙完成句子",
+      "question_eng": "The belief _______ education is the key to breaking the cycle of poverty has driven her to establish schools in rural areas.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "as"
+        }
+      ],
+      "answer": "C",
+      "explanation": "belief 後接同位語子句需用 that。該子句「education is the key to breaking the cycle of poverty」直接說明該信念的具體內容。A（what）為複合相對代名詞，若使用應改構句；B（which）用於定語從句；D（as）為連接詞但不用於同位語子句。",
+      "id": 3
+    },
+    {
+      "question_chi": "從文法和邏輯判斷，選擇正確的引導詞",
+      "question_eng": "The possibility _______ artificial intelligence will surpass human intelligence in specific domains is no longer merely theoretical; it is a reality we must prepare for in our educational systems.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "whereby"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answer": "B",
+      "explanation": "possibility 為抽象名詞，其同位語子句用 that 引導。子句「artificial intelligence will surpass human intelligence in specific domains」說明該可能性的具體內容。A（which）為定語關係代詞；C（whereby）為介系詞式關係副詞，用於說明方式；D（whether）引導疑問子句，不用於同位語結構。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "他考上名校的事實讓全家人都很高興。",
+      "answer": "The fact that he was admitted to a prestigious university made the whole family very happy.",
+      "key_points": [
+        "the fact that + S + V",
+        "was admitted to",
+        "made the whole family happy"
+      ],
+      "hints": [
+        "提示1：使用『the fact that + S + V』結構，that子句內容為『他被名校錄取』這個事實",
+        "提示2：注意that後接完整陳述句，不能省略that或用which替代；『考上』用被動語態『was admitted to』"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "沒有人質疑她能贏得比賽的可能性。",
+      "answer": "No one questioned the possibility that she could win the competition.",
+      "key_points": [
+        "the possibility that + S + V",
+        "could win",
+        "questioned"
+      ],
+      "hints": [
+        "提示1：使用『the possibility that + S + V』結構，that子句說明『她可能贏得比賽』的可能性內容",
+        "提示2：情態動詞can在過去式變為could；『質疑』用questioned表達"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師的信念是學生應該主動學習而不是被動接受知識。",
+      "answer": "The teacher's belief that students should take the initiative to study rather than passively accept knowledge is correct.",
+      "key_points": [
+        "the belief that + S + V",
+        "take the initiative to study",
+        "rather than passively accept"
+      ],
+      "hints": [
+        "提示1：使用『the belief that + S + V』結構，that子句內容為『學生應主動學習而非被動接受』這個信念的具體說明",
+        "提示2：that子句內含對比結構『should do A rather than do B』；注意整句動詞一致（is correct）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "國內疫情已控制的消息激勵了許多人恢復正常生活的希望，儘管有些人對此仍持懷疑態度。",
+      "answer": "The news that the domestic epidemic had been brought under control inspired many people with the hope that they could resume their normal lives, though some remained skeptical about it.",
+      "key_points": [
+        "the news that + S + V (帶news的同位語子句)",
+        "the hope that + S + V (帶hope的同位語子句)",
+        "had been brought under control",
+        "inspired...with the hope"
+      ],
+      "hints": [
+        "提示1：句子中包含兩個同位語子句——第一個『the news that the domestic epidemic had been brought under control』說明消息內容，第二個『the hope that they could resume their normal lives』說明希望的具體內容",
+        "提示2：注意時態：第一個that子句用過去完成式『had been brought』表達已完成的狀態；第二個that子句用『could resume』表達基於該消息所產生的可能性"
+      ]
+    }
+  ]
+}

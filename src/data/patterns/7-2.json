@@ -1,0 +1,365 @@
+{
+  "code": "7-2",
+  "chapter": 7,
+  "title": "There + be + N + V-ing/p.p.（存在句 + 分詞）",
+  "formulas": [
+    {
+      "formula": "There + be + N + V-ing",
+      "zh": "存在某物正在進行某動作（主動分詞作後位修飾）"
+    },
+    {
+      "formula": "There + be + N + p.p.",
+      "zh": "存在某物被執行某動作（過去分詞作後位修飾）"
+    }
+  ],
+  "explanation": "此句型在存在句中，於名詞後接分詞片語作補語或後位修飾。V-ing表示該名詞主動執行某動作，p.p.表示該名詞被動接受某動作。分詞與名詞的主被動關係決定使用主動或被動形式。結構為：There be + 名詞 + 分詞片語。使用時機為描述存在之物的動態狀態或特性。易混淆點：需判斷名詞與分詞的邏輯關係，而非句子整體的時態。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "There are several students waiting outside the classroom for the teacher.",
+      "chi": "教室外有好幾位學生在等老師。",
+      "keywords": [
+        "There are",
+        "waiting",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "There is a broken window in the old building that needs to be repaired.",
+      "chi": "那棟老建築裡有一扇破損的窗戶需要修理。",
+      "keywords": [
+        "There is",
+        "broken",
+        "過去分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "There were many tourists visiting the museum during the summer holidays.",
+      "chi": "暑假期間有許多遊客在參觀博物館。",
+      "keywords": [
+        "There were",
+        "visiting",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "There is a lot of work to be done before the deadline arrives.",
+      "chi": "在截止日期前有很多工作需要完成。",
+      "keywords": [
+        "There is",
+        "to be done",
+        "被動結構"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷分詞類型的關鍵：名詞與分詞間若為主動關係（名詞執行動作），用V-ing；若為被動關係（名詞被執行動作），用p.p.。例如：students waiting（學生在等）vs. window broken（窗戶被破損）。避免混淆be動詞的時態與分詞的選擇。",
+    "examples": [
+      {
+        "test": "There are children playing in the park. vs. There are children played in the park.",
+        "result": "→ 正確：playing（孩子主動在玩）。錯誤：played（文法不當，過去分詞不能作此用）"
+      },
+      {
+        "test": "There is a book written by Shakespeare. vs. There is a book writing by Shakespeare.",
+        "result": "→ 正確：written（書被莎翁寫的，過去分詞）。錯誤：writing（邏輯不符）"
+      },
+      {
+        "test": "There were cars parked on the street all night.",
+        "result": "→ 正確：parked（車被停放，過去分詞表被動狀態）"
+      }
+    ],
+    "note": "名詞主動用V-ing，名詞被動用p.p.；分詞選擇看名詞與動詞的邏輯關係。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "There are many birds ",
+        null,
+        " on the tree branch right now."
+      ],
+      "blanks": [
+        "singing"
+      ],
+      "sentence": "There are many birds singing on the tree branch right now.",
+      "translation": "現在樹枝上有許多鳥兒在唱歌。",
+      "keywords": [
+        "There are",
+        "singing",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "There is a lot of homework ",
+        null,
+        " by the students this week."
+      ],
+      "blanks": [
+        "assigned"
+      ],
+      "sentence": "There is a lot of homework assigned by the students this week.",
+      "translation": "這週有很多老師指派給學生的家庭作業。",
+      "keywords": [
+        "There is",
+        "assigned",
+        "過去分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "There were several cars ",
+        null,
+        " outside the hotel when we arrived."
+      ],
+      "blanks": [
+        "waiting"
+      ],
+      "sentence": "There were several cars waiting outside the hotel when we arrived.",
+      "translation": "我們到達時，飯店外有幾輛車在等候。",
+      "keywords": [
+        "There were",
+        "waiting",
+        "主動分詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "There are some documents ",
+        null,
+        " on the manager's desk that need approval."
+      ],
+      "blanks": [
+        "scattered"
+      ],
+      "sentence": "There are some documents scattered on the manager's desk that need approval.",
+      "translation": "經理桌上有一些散落的文件需要核准。",
+      "keywords": [
+        "There are",
+        "scattered",
+        "過去分詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "waiting",
+      "zh": "等待中的（主動分詞）"
+    },
+    {
+      "adj": "running",
+      "zh": "奔跑中的（主動分詞）"
+    },
+    {
+      "adj": "playing",
+      "zh": "玩耍中的（主動分詞）"
+    },
+    {
+      "adj": "broken",
+      "zh": "破損的（過去分詞）"
+    },
+    {
+      "adj": "damaged",
+      "zh": "受損的（過去分詞）"
+    },
+    {
+      "adj": "lost",
+      "zh": "遺失的（過去分詞）"
+    },
+    {
+      "adj": "sitting",
+      "zh": "坐著的（主動分詞）"
+    },
+    {
+      "adj": "sleeping",
+      "zh": "睡眠中的（主動分詞）"
+    },
+    {
+      "adj": "painted",
+      "zh": "被油漆的（過去分詞）"
+    },
+    {
+      "adj": "written",
+      "zh": "被寫的（過去分詞）"
+    },
+    {
+      "adj": "scattered",
+      "zh": "分散的（過去分詞）"
+    },
+    {
+      "adj": "gathering",
+      "zh": "聚集中的（主動分詞）"
+    }
+  ],
+  "vocab_table_label": "常用分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的存在句形式，描述教室外等待的學生",
+      "question_eng": "There are several students _______ outside the classroom.",
+      "options": [
+        {
+          "key": "A",
+          "text": "waited"
+        },
+        {
+          "key": "B",
+          "text": "waiting"
+        },
+        {
+          "key": "C",
+          "text": "to wait"
+        },
+        {
+          "key": "D",
+          "text": "wait"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。在存在句中，名詞後接V-ing形式作分詞片語補語。students是主動執行wait動作，故使用主動形式waiting。A項p.p.表被動，邏輯錯誤；C項不定詞用法不符；D項缺少-ing無法作修飾語。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當分詞形式，描述建築物中損壞的窗戶",
+      "question_eng": "There is a window _______ in the old building that needs repair.",
+      "options": [
+        {
+          "key": "A",
+          "text": "breaking"
+        },
+        {
+          "key": "B",
+          "text": "broke"
+        },
+        {
+          "key": "C",
+          "text": "broken"
+        },
+        {
+          "key": "D",
+          "text": "being broken"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。窗戶是被動接受「破損」的狀態，應使用過去分詞p.p. broken。A項breaking表主動進行中，邏輯錯誤；B項broke是簡單過去式，無法作分詞；D項過於複雜，文意已由p.p.表達完整。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷主被動關係，完成描述餐廳存在物的複雜句型",
+      "question_eng": "There were many dishes _______ on the table, _______ by the chef for the special dinner.",
+      "options": [
+        {
+          "key": "A",
+          "text": "displaying / prepared"
+        },
+        {
+          "key": "B",
+          "text": "displayed / preparing"
+        },
+        {
+          "key": "C",
+          "text": "displaying / preparing"
+        },
+        {
+          "key": "D",
+          "text": "displayed / prepared"
+        }
+      ],
+      "answer": "D",
+      "explanation": "正確答案是D。dishes被動地被陳列且被廚師準備，兩個空皆需過去分詞。A項第一個字顯示主動邏輯錯誤；B項preparing表廚師主動進行，與句意不符；C項兩者皆為主動形式，與dishes的被動角色矛盾。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型題：判斷多重分詞的主被動與時態表達",
+      "question_eng": "There are countless problems _______ in the project, _______ constant attention from the management team _______ to solve them efficiently.",
+      "options": [
+        {
+          "key": "A",
+          "text": "existed / requiring / dedicating"
+        },
+        {
+          "key": "B",
+          "text": "existing / requiring / dedicated"
+        },
+        {
+          "key": "C",
+          "text": "existing / required / dedicating"
+        },
+        {
+          "key": "D",
+          "text": "existed / required / dedicated"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。problems主動存在，用existing；這些問題要求管理層注意，requiring為分詞片語作主詞補語；management team被動地被委派（dedicated to），故用過去分詞dedicated。A項existed為過去式無法作分詞；C項required邏輯錯誤（問題不「被要求」）；D項existed同樣不符分詞用法。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "教室裡有幾個學生在做功課。",
+      "answer": "There are some students doing homework in the classroom.",
+      "key_points": [
+        "There are",
+        "students doing homework",
+        "V-ing 表主動"
+      ],
+      "hints": [
+        "提示1：使用 There + be + N + V-ing 結構，V-ing 表示學生主動執行做功課的動作",
+        "提示2：注意 doing homework 中文意為『做功課』，不要誤用被動式"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "圖書館裡有許多被借出的書籍需要整理。",
+      "answer": "There are many books borrowed from the library that need to be organized.",
+      "key_points": [
+        "There are many books",
+        "borrowed (p.p.)",
+        "p.p. 表被動"
+      ],
+      "hints": [
+        "提示1：使用 There + be + N + p.p. 結構，p.p. 表示書籍被借出的狀態",
+        "提示2：『被借出』是被動意義，故使用過去分詞 borrowed，不用 borrowing"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "學校走廊上有一些被打翻的垃圾桶和正在打掃的工人。",
+      "answer": "There are some overturned trash cans and workers cleaning in the school hallway.",
+      "key_points": [
+        "There are + 複數名詞",
+        "overturned (p.p.)",
+        "cleaning (V-ing)",
+        "兼具主動和被動分詞"
+      ],
+      "hints": [
+        "提示1：句子中有兩個名詞，分別使用 p.p.（overturned）和 V-ing（cleaning）來表示各自的狀態",
+        "提示2：判斷時要看名詞與分詞的邏輯關係：垃圾桶被打翻（被動），工人在打掃（主動）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "考試期間，辦公室裡有焦慮的學生在查詢成績，還有被張貼在牆上的各科排名單。",
+      "answer": "There are anxious students checking their exam results and class rankings posted on the wall in the office during the exam period.",
+      "key_points": [
+        "There are + N + V-ing / + N + p.p.",
+        "checking (V-ing)",
+        "posted (p.p.)",
+        "多個分詞的並列使用"
+      ],
+      "hints": [
+        "提示1：句型可承載多個分詞修飾不同的名詞，維持邏輯主被動關係：students checking（學生查詢），rankings posted（排名被張貼）",
+        "提示2：常見錯誤是混淆主被動，如誤用『rankings checking』；需根據名詞能否主動執行該動作來判斷"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "code": "6-16",
+  "chapter": 6,
+  "title": "S + object to / be opposed to + V-ing",
+  "formulas": [
+    {
+      "formula": "S + object to + V-ing",
+      "zh": "主詞反對做某事"
+    },
+    {
+      "formula": "S + be opposed to + V-ing",
+      "zh": "主詞反對做某事"
+    }
+  ],
+  "explanation": "「object to」和「be opposed to」皆表示反對，其後接動名詞（V-ing），其中 to 為介系詞而非不定詞符號。兩者意義相同但用法略異：object to 為動詞片語，be opposed to 為形容詞片語。使用時機為表達立場反對、反抗某行為或計畫。易混淆點是誤將 to 視為不定詞符號，導致接原形動詞。注意 object 為及物動詞，需搭配 to；be opposed to 中 opposed 為過去分詞作形容詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Many parents object to their children spending too much time on social media.",
+      "chi": "許多父母反對他們的孩子花太多時間在社群媒體上。",
+      "keywords": [
+        "object to",
+        "V-ing",
+        "social media"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The government is opposed to raising taxes during the economic recession.",
+      "chi": "政府反對在經濟衰退期間提高稅收。",
+      "keywords": [
+        "be opposed to",
+        "V-ing",
+        "economic"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I don't object to changing the meeting time if everyone agrees.",
+      "chi": "如果每個人都同意，我不反對改變會議時間。",
+      "keywords": [
+        "object to",
+        "changing",
+        "meeting"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The local residents are strongly opposed to building a factory near their community.",
+      "chi": "當地居民強烈反對在他們社區附近建工廠。",
+      "keywords": [
+        "be opposed to",
+        "building",
+        "factory"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷句型的關鍵是識別「object to」或「be opposed to」之後必接 V-ing 形式，而非動詞不定詞。常見錯誤是寫成「object to do」或「opposed to do」，應改為「object to doing」和「opposed to doing」。記住 to 是介系詞，不是不定詞符號。",
+    "examples": [
+      {
+        "test": "❌ The company objects to increase production costs.",
+        "result": "→ ✓ The company objects to increasing production costs.（增加改為V-ing形式）"
+      },
+      {
+        "test": "❌ They are opposed to accept the new policy.",
+        "result": "→ ✓ They are opposed to accepting the new policy.（接受改為V-ing形式）"
+      },
+      {
+        "test": "✓ We don't object to postponing the event.",
+        "result": "→ 正確用法：「postpone」變為 V-ing 形式 「postponing」"
+      }
+    ],
+    "note": "記憶口訣：「反對to的後面是-ing，不是原形動詞do。」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The teachers ",
+        null,
+        " students copying answers from each other during the exam."
+      ],
+      "blanks": [
+        "object to"
+      ],
+      "sentence": "The teachers object to students copying answers from each other during the exam.",
+      "translation": "老師們反對學生在考試中互相抄襲答案。",
+      "keywords": [
+        "object to",
+        "copying",
+        "exam"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Many environmentalists ",
+        null,
+        " harmful chemicals in agricultural production."
+      ],
+      "blanks": [
+        "are opposed to using"
+      ],
+      "sentence": "Many environmentalists are opposed to using harmful chemicals in agricultural production.",
+      "translation": "許多環保人士反對在農業生產中使用有害化學物質。",
+      "keywords": [
+        "be opposed to",
+        "using",
+        "chemicals"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Do you ",
+        null,
+        " the original plan if we find a better solution?"
+      ],
+      "blanks": [
+        "object to changing"
+      ],
+      "sentence": "Do you object to changing the original plan if we find a better solution?",
+      "translation": "如果我們找到更好的方案，你反對改變原計畫嗎？",
+      "keywords": [
+        "object to",
+        "changing",
+        "plan"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The local community ",
+        null,
+        " a new shopping mall in the residential area."
+      ],
+      "blanks": [
+        "is opposed to constructing"
+      ],
+      "sentence": "The local community is opposed to constructing a new shopping mall in the residential area.",
+      "translation": "當地社區反對在住宅區興建新商場。",
+      "keywords": [
+        "be opposed to",
+        "constructing",
+        "shopping mall"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "object to",
+      "zh": "反對（動詞片語）"
+    },
+    {
+      "adj": "be opposed to",
+      "zh": "反對（形容詞片語）"
+    },
+    {
+      "adj": "strongly",
+      "zh": "強烈地（副詞修飾反對程度）"
+    },
+    {
+      "adj": "be against",
+      "zh": "反對（相似用法，接V-ing或N）"
+    },
+    {
+      "adj": "disagree with",
+      "zh": "不同意（相似用法）"
+    },
+    {
+      "adj": "resist",
+      "zh": "抗拒、反抗"
+    },
+    {
+      "adj": "protest against",
+      "zh": "抗議"
+    },
+    {
+      "adj": "be against",
+      "zh": "反對"
+    },
+    {
+      "adj": "refuse to",
+      "zh": "拒絕（接動詞不定詞）"
+    },
+    {
+      "adj": "reject",
+      "zh": "拒絕、反對"
+    },
+    {
+      "adj": "vehemently",
+      "zh": "激烈地、強烈地"
+    },
+    {
+      "adj": "unanimously",
+      "zh": "一致地"
+    }
+  ],
+  "vocab_table_label": "常用反對片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的動詞片語形式，完成句子",
+      "question_eng": "The coach _______ his players drinking alcohol before important games.",
+      "options": [
+        {
+          "key": "A",
+          "text": "objects to"
+        },
+        {
+          "key": "B",
+          "text": "objects for"
+        },
+        {
+          "key": "C",
+          "text": "objects at"
+        },
+        {
+          "key": "D",
+          "text": "objects with"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「object to + V-ing」是固定片語，表示「反對做某事」。coach 反對球員在重要比賽前喝酒，to 為介系詞而非不定詞符號，後接動名詞 drinking。B、C、D 的介系詞搭配皆不符合 object 的用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的形容詞片語，表達政府立場",
+      "question_eng": "The government is _______ new environmental regulations that would increase production costs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "opposed to implementing"
+        },
+        {
+          "key": "B",
+          "text": "opposed to implement"
+        },
+        {
+          "key": "C",
+          "text": "opposed for implementing"
+        },
+        {
+          "key": "D",
+          "text": "oppose to implementing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。「be opposed to + V-ing」表示「反對做某事」，opposed 為形容詞，to 為介系詞。句子主詞是 government，需用被動形式 is opposed to。B 誤用不定詞；C 的介系詞錯誤；D 誤用動詞 oppose 而非形容詞 opposed。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷兩個反對片語的正確用法區別",
+      "question_eng": "Many local residents _______ the construction of a shopping mall in their neighborhood, and city officials are _______ it as well.",
+      "options": [
+        {
+          "key": "A",
+          "text": "object to / opposed to building"
+        },
+        {
+          "key": "B",
+          "text": "are opposed to / objecting to"
+        },
+        {
+          "key": "C",
+          "text": "object building / are opposed building"
+        },
+        {
+          "key": "D",
+          "text": "are objected to / opposing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一空需動詞片語 object to + V-ing（object to building），主詞 residents 為複數。第二空需形容詞片語 be opposed to + V-ing（are opposed to building），搭配 are。B 時態與片語搭配均錯；C 均缺少 to 介系詞；D 文法結構錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句式中的片語應用與時態轉換",
+      "question_eng": "Although the proposal had been discussed for months, the board still _______ and the union leaders were _______ any changes to the current work agreement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "objected to accepting it / opposed to implementing"
+        },
+        {
+          "key": "B",
+          "text": "were objecting to accept it / opposed to implement"
+        },
+        {
+          "key": "C",
+          "text": "objected to accept it / were opposed implementing"
+        },
+        {
+          "key": "D",
+          "text": "object to accepting it / opposed implementing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。第一空用過去簡單式 objected to accepting it（board 為單數，反對接受它），to 為介系詞。第二空用被動形式 were opposed to implementing（union leaders 為複數，反對實施改變），to 為介系詞。B 的 accept 應為 accepting；C 缺少 to 介系詞；D 時態與介系詞用法皆錯。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我的父母反對我熬夜讀書。",
+      "answer": "My parents object to my staying up late to study. / My parents are opposed to my staying up late to study.",
+      "key_points": [
+        "object to / be opposed to 後接 V-ing",
+        "my staying up late（所有格 + V-ing）",
+        "to study 為不定詞表示目的"
+      ],
+      "hints": [
+        "句型框架：S + object to + V-ing，注意 to 是介系詞不是不定詞符號",
+        "常見錯誤：誤寫成 object to stay 或 opposed to stay（錯誤地用原形動詞）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師反對學生在課堂上使用手機。",
+      "answer": "The teacher objects to students using mobile phones in class. / The teacher is opposed to students using mobile phones in class.",
+      "key_points": [
+        "object to / be opposed to 後接 V-ing",
+        "students using（主詞 + V-ing 構成動名詞片語）",
+        "in class 時間地點副詞片語"
+      ],
+      "hints": [
+        "句型框架：S + object to + V-ing，V-ing 前的名詞可用所有格或主詞形式",
+        "注意：students using 中 students 為動名詞的邏輯主詞，用主詞形式而非所有格也可接受"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "環保人士反對在這片森林裡建造新的住宅開發區。",
+      "answer": "Environmental activists are opposed to building a new residential development in this forest. / Environmental activists object to building a new residential development in this forest.",
+      "key_points": [
+        "be opposed to + V-ing 形容詞片語結構",
+        "building a new residential development（複雜動名詞片語帶受詞）",
+        "in this forest 地點介系詞片語修飾"
+      ],
+      "hints": [
+        "句型框架：S + be opposed to + V-ing，be opposed to 為形容詞片語，V-ing 後可接複雜受詞結構",
+        "注意：building 後接 a new residential development（受詞），整體構成複雜的動名詞片語"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管許多公民反對提高學費，政府仍然決定實施這項政策。",
+      "answer": "Although many citizens object to raising tuition fees, the government still decided to implement this policy. / Despite many citizens being opposed to raising tuition fees, the government still decided to implement this policy.",
+      "key_points": [
+        "object to / be opposed to 在讓步子句中的應用",
+        "raising tuition fees（V-ing 片語帶受詞）",
+        "対比句型結構（讓步 + 主要子句）"
+      ],
+      "hints": [
+        "句型框架可置於讓步子句：Although S + object to + V-ing, main clause；或 Despite S + being opposed to + V-ing",
+        "注意：be opposed to 在讓步子句時需加 being 以形成完整片語；object to 則直接接 V-ing"
+      ]
+    }
+  ]
+}

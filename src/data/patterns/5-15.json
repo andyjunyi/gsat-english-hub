@@ -1,0 +1,372 @@
+{
+  "code": "5-15",
+  "chapter": 5,
+  "title": "have/get + O + p.p.（使役被動）",
+  "formulas": [
+    {
+      "formula": "have + O + p.p.",
+      "zh": "請人完成某事或遭受某事（受詞與過去分詞為被動關係）"
+    },
+    {
+      "formula": "have + O + V-ing",
+      "zh": "受詞主動進行某事"
+    }
+  ],
+  "explanation": "此句型表示讓某人完成某事或遭受某事發生。主結構為「have/get + 受詞 + 過去分詞」，受詞與過去分詞構成被動關係。have 較正式，get 較口語化。need, want, would like 等動詞也可同樣用法。have + O + V-ing 則表受詞主動進行某動作。注意區分：受詞後為過去分詞表被動，為現在分詞表主動。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I had my car repaired at the garage yesterday.",
+      "chi": "我昨天在修車廠請人修理我的車。",
+      "keywords": [
+        "have",
+        "repaired",
+        "被動"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She got her hair cut at a new salon last week.",
+      "chi": "她上週在新沙龍剪了頭髮。",
+      "keywords": [
+        "got",
+        "cut",
+        "口語"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The company had its office building renovated during the pandemic.",
+      "chi": "該公司在疫情期間請人翻新了辦公樓。",
+      "keywords": [
+        "had",
+        "renovated",
+        "請人完成"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He won't have his homework done carelessly.",
+      "chi": "他不會允許他的功課被馬虎地完成。",
+      "keywords": [
+        "have",
+        "done",
+        "遭受"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：看受詞後的動詞形式。若為過去分詞形式，表受詞被動接受某事；若為現在分詞形式，表受詞主動進行。have + O + V-ing 強調受詞的主動行為或持續動作。",
+    "examples": [
+      {
+        "test": "I had my son study English.",
+        "result": "→ 我讓我的兒子學習英文（兒子主動學習）"
+      },
+      {
+        "test": "I had my essay written by a professional.",
+        "result": "→ 我請專業人士寫了我的論文（論文被寫）"
+      },
+      {
+        "test": "She got her bedroom decorated beautifully.",
+        "result": "→ 她請人把她的臥室裝飾得很漂亮（被動）"
+      }
+    ],
+    "note": "記憶要點：have/get + O + p.p. 的過去分詞表被動；have + O + V-ing 的現在分詞表主動，兩者應用場景不同，需細心區別。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "She ",
+        null,
+        " her teeth cleaned at the dentist's office twice a year."
+      ],
+      "blanks": [
+        "has"
+      ],
+      "sentence": "She has her teeth cleaned at the dentist's office twice a year.",
+      "translation": "她每年在牙醫診所潔牙兩次。",
+      "keywords": [
+        "have",
+        "cleaned",
+        "請人"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The factory ",
+        null,
+        " its machines ",
+        null,
+        " every three months to ensure quality."
+      ],
+      "blanks": [
+        "has",
+        "inspected"
+      ],
+      "sentence": "The factory has its machines inspected every three months to ensure quality.",
+      "translation": "工廠每三個月檢查一次機器以確保品質。",
+      "keywords": [
+        "has",
+        "inspected",
+        "定期維護"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "My grandfather won't ",
+        null,
+        " his antique furniture ",
+        null,
+        " carelessly."
+      ],
+      "blanks": [
+        "have",
+        "moved"
+      ],
+      "sentence": "My grandfather won't have his antique furniture moved carelessly.",
+      "translation": "我祖父不會允許他的古董家具被粗魯地移動。",
+      "keywords": [
+        "have",
+        "moved",
+        "拒絕"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "They ",
+        null,
+        " their house ",
+        null,
+        " before the important guests arrived."
+      ],
+      "blanks": [
+        "got",
+        "decorated"
+      ],
+      "sentence": "They got their house decorated before the important guests arrived.",
+      "translation": "在重要客人到達之前，他們請人裝飾了他們的房子。",
+      "keywords": [
+        "got",
+        "decorated",
+        "口語化"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "repaired",
+      "zh": "修理"
+    },
+    {
+      "adj": "cut",
+      "zh": "剪"
+    },
+    {
+      "adj": "renovated",
+      "zh": "翻新"
+    },
+    {
+      "adj": "painted",
+      "zh": "粉刷"
+    },
+    {
+      "adj": "cleaned",
+      "zh": "清潔"
+    },
+    {
+      "adj": "fixed",
+      "zh": "修復"
+    },
+    {
+      "adj": "delivered",
+      "zh": "運送"
+    },
+    {
+      "adj": "installed",
+      "zh": "安裝"
+    },
+    {
+      "adj": "printed",
+      "zh": "印刷"
+    },
+    {
+      "adj": "checked",
+      "zh": "檢查"
+    },
+    {
+      "adj": "translated",
+      "zh": "翻譯"
+    },
+    {
+      "adj": "designed",
+      "zh": "設計"
+    }
+  ],
+  "vocab_table_label": "常用過去分詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的使役被動句型，表示讓某人完成某事",
+      "question_eng": "I had my computer _______ by a technician last week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "repaired"
+        },
+        {
+          "key": "B",
+          "text": "repairing"
+        },
+        {
+          "key": "C",
+          "text": "repair"
+        },
+        {
+          "key": "D",
+          "text": "to repair"
+        }
+      ],
+      "answer": "A",
+      "explanation": "have + O + p.p.（過去分詞）表示使役被動，受詞與過去分詞構成被動關係。此句表「我讓技術員修理我的電腦」。B項repairing為現在分詞，表主動；C項repair為原形動詞；D項to repair為不定式，三者皆不符合使役被動文法。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷現在分詞與過去分詞的正確用法",
+      "question_eng": "She got her son _______ his homework before dinner.",
+      "options": [
+        {
+          "key": "A",
+          "text": "finished"
+        },
+        {
+          "key": "B",
+          "text": "finishing"
+        },
+        {
+          "key": "C",
+          "text": "to finish"
+        },
+        {
+          "key": "D",
+          "text": "finish"
+        }
+      ],
+      "answer": "B",
+      "explanation": "have/get + O + V-ing表受詞主動進行某動作。此句son與finishing構成主動關係，表「她讓兒子在晚餐前完成功課」。A項過去分詞表被動（功課被完成），與語意不符；C、D項不符合此句型結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分使役被動中受詞動作的主被動關係",
+      "question_eng": "The director had all the actors _______ their lines repeatedly until they were perfect.",
+      "options": [
+        {
+          "key": "A",
+          "text": "practiced"
+        },
+        {
+          "key": "B",
+          "text": "practicing"
+        },
+        {
+          "key": "C",
+          "text": "to practice"
+        },
+        {
+          "key": "D",
+          "text": "been practicing"
+        }
+      ],
+      "answer": "B",
+      "explanation": "句意為「導演讓演員們主動反覆練習台詞」，演員是practice的執行者，應用V-ing形式。A項practiced為被動（台詞被練習），不符語境；C項不定式；D項進行被動式，均不適當。have + O + V-ing表受詞主動執行動作。",
+      "id": 3
+    },
+    {
+      "question_chi": "整合使役被動與口語表達，選擇最恰當的選項",
+      "question_eng": "Since the storm damaged the roof, we need to have it _______ before winter arrives, or we could get the insurance company _______ it.",
+      "options": [
+        {
+          "key": "A",
+          "text": "repairing; to fix"
+        },
+        {
+          "key": "B",
+          "text": "repaired; fixing"
+        },
+        {
+          "key": "C",
+          "text": "repaired; fixed"
+        },
+        {
+          "key": "D",
+          "text": "repair; fix"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第一空have + O + p.p.表被動（屋頂被修），用repaired；第二空get + O + p.p.亦表被動（保險公司讓它被修），用fixed。have較正式，get較口語。A項repairing/to fix混用不當；B項fixing為主動與語意不符；D項repair/fix為原形動詞不符文法。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我需要修理我的手機。",
+      "answer": "I need to have my phone repaired. / I need to get my phone repaired.",
+      "key_points": [
+        "need to have/get",
+        "my phone (受詞)",
+        "repaired (過去分詞，表被動)"
+      ],
+      "hints": [
+        "句型框架：need + to have/get + O + p.p.，表示『需要讓某人做某事』",
+        "注意：repaired是過去分詞，表手機被修理（被動），不是repairing"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "父母親讓孩子每天練習英文。",
+      "answer": "Parents have their children practice English every day. / Parents get their children to practice English every day.",
+      "key_points": [
+        "have/get + O + V-ing (practice) 或 have/get + O + to V",
+        "their children (受詞)",
+        "practice (現在分詞或不定式，表主動)"
+      ],
+      "hints": [
+        "句型框架：have/get + O + V-ing 表受詞『主動進行』某動作；have + O + V原形也可",
+        "注意區分：此題children是主動practice，所以用V-ing或to V，不是過去分詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師要求學生完成作業，否則會有後果。",
+      "answer": "The teacher has her students complete their assignments, or there will be consequences. / The teacher wants to have the assignments completed by her students.",
+      "key_points": [
+        "have + O + V原形 (complete) 或 want to have + O + p.p.",
+        "her students / the assignments (受詞位置差異)",
+        "complete/completed (主動或被動的選擇)"
+      ],
+      "hints": [
+        "句型框架：have + O + V原形表『使役』（受詞主動）；want + to have + O + p.p.表『使役被動』",
+        "注意：『完成作業』可視為students的主動行為(have students complete)，或作業被完成(have assignments completed)，意思略有不同"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "由於颶風，市政府讓所有學校停課一週，並讓商店關閉。",
+      "answer": "Due to the hurricane, the city government had all schools closed for a week and had all shops shut down. / The city government got all the stores to close and had the schools remain closed.",
+      "key_points": [
+        "had + O + p.p. (closed, shut down)",
+        "all schools / all shops (受詞)",
+        "過去式 had 搭配 p.p. 表被動結果"
+      ],
+      "hints": [
+        "句型框架：have + O + p.p. 表『使役被動』，主詞讓受詞被動遭受某事；過去情境用had",
+        "注意：『停課』『關閉』都是受詞被動遭受的結果，所以用過去分詞(closed, shut down)，不是現在分詞"
+      ]
+    }
+  ]
+}

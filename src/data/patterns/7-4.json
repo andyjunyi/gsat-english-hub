@@ -1,0 +1,477 @@
+{
+  "code": "7-4",
+  "chapter": 7,
+  "title": "S + V, V-ing...（分詞構句，主動）",
+  "formulas": [
+    {
+      "formula": "V-ing + ..., S + V...",
+      "zh": "現在分詞片語置於句首，後接主句；表示與主句動作同時發生或連續動作"
+    },
+    {
+      "formula": "S + V..., V-ing + ...",
+      "zh": "主句後接現在分詞片語；表示連續的動作或附加說明"
+    }
+  ],
+  "explanation": "現在分詞構句是將時間、原因、條件等副詞子句簡化而成，用V-ing形式開頭。關鍵原則：分詞的邏輯主詞必須與主句主詞相同。若邏輯主詞不同，則需保留主詞形成獨立分詞構句（Absolute phrase）。此句型避免重複主詞，使句子更簡潔有力。常見功能包括表時間（When/After）、原因（Because）、條件（If）等，是學測常考的進階語法。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Walking down the street, she noticed a beautiful old bookstore.",
+      "chi": "走在街上時，她注意到一間美麗的老書店。",
+      "keywords": [
+        "現在分詞",
+        "同時動作",
+        "V-ing置句首"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The students discussed the project, sharing their ideas and suggestions.",
+      "chi": "學生們討論這個計畫，分享他們的想法和建議。",
+      "keywords": [
+        "現在分詞",
+        "連續動作",
+        "V-ing置句末"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Seeing the heavy rain, they decided to postpone the outdoor event.",
+      "chi": "看到大雨，他們決定延期戶外活動。",
+      "keywords": [
+        "現在分詞",
+        "原因",
+        "因果關係"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Having finished her homework, Mary watched her favorite TV show.",
+      "chi": "完成功課後，瑪麗看她最喜歡的電視節目。",
+      "keywords": [
+        "完成式分詞",
+        "先行動作",
+        "時序關係"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷邏輯主詞是否與主句主詞一致是關鍵。若分詞片語的邏輯主詞與主句主詞不同，該分詞構句為錯誤，須改用含邏輯主詞的獨立分詞構句（如：The bus being late, we missed the meeting）或完整副詞子句。同時留意分詞時態：簡單式表同時/習慣，完成式表先行。",
+    "examples": [
+      {
+        "test": "❌ Entering the classroom, the lights went off.",
+        "result": "→ ✓ Entering the classroom, he saw the lights go off. / As he entered, the lights went off.（邏輯主詞應為人，不是燈）"
+      },
+      {
+        "test": "✓ Winning the competition, Sarah felt extremely proud.",
+        "result": "→ 邏輯主詞 Sarah 與主句主詞一致，表達贏得比賽後感到驕傲的同時狀態"
+      },
+      {
+        "test": "✓ Having studied for hours, the students took the exam confidently.",
+        "result": "→ 完成式分詞表示讀書發生在考試前，強調時序關係"
+      }
+    ],
+    "note": "記住口訣：『V-ing的邏輯主詞等於主句主詞，才能用現在分詞構句；邏輯主詞不同時用獨立分詞構句。』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " the exam, the student felt confident."
+      ],
+      "blanks": [
+        "Having prepared for"
+      ],
+      "sentence": "Having prepared for the exam, the student felt confident.",
+      "translation": "做好考試準備後，那名學生感到很有自信。",
+      "keywords": [
+        "完成式分詞",
+        "先行動作",
+        "時序"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " a noise outside, the dog started barking."
+      ],
+      "blanks": [
+        "Hearing"
+      ],
+      "sentence": "Hearing a noise outside, the dog started barking.",
+      "translation": "聽到外面的聲音，狗開始吠叫。",
+      "keywords": [
+        "現在分詞",
+        "V-ing置句首",
+        "同時動作"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The children played in the park, ",
+        null,
+        " loudly and happily."
+      ],
+      "blanks": [
+        "laughing"
+      ],
+      "sentence": "The children played in the park, laughing loudly and happily.",
+      "translation": "孩子們在公園裡玩，開心地大笑。",
+      "keywords": [
+        "現在分詞",
+        "V-ing置句末",
+        "連續動作"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " a dark cloud approaching, we decided to go home immediately."
+      ],
+      "blanks": [
+        "Seeing"
+      ],
+      "sentence": "Seeing a dark cloud approaching, we decided to go home immediately.",
+      "translation": "看到烏雲接近，我們決定立即回家。",
+      "keywords": [
+        "現在分詞",
+        "原因",
+        "因果"
+      ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        null,
+        " her notes before the exam, Sarah felt more confident.",
+        ""
+      ],
+      "blanks": [
+        "Reviewing"
+      ],
+      "sentence": "Reviewing her notes before the exam, Sarah felt more confident.",
+      "translation": "在考試前複習她的筆記，莎拉感到更有信心。",
+      "keywords": [
+        "reviewing",
+        "過去分詞",
+        "時間關係"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "Knowing the deadline was approaching, ",
+        null,
+        " to work faster."
+      ],
+      "blanks": [
+        "they decided"
+      ],
+      "sentence": "Knowing the deadline was approaching, they decided to work faster.",
+      "translation": "知道截止日期臨近，他們決定加快工作速度。",
+      "keywords": [
+        "knowing",
+        "原因",
+        "現在分詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "walking",
+      "zh": "走著；行走"
+    },
+    {
+      "adj": "running",
+      "zh": "跑著；奔跑"
+    },
+    {
+      "adj": "seeing",
+      "zh": "看到；察覺"
+    },
+    {
+      "adj": "hearing",
+      "zh": "聽到；聽見"
+    },
+    {
+      "adj": "knowing",
+      "zh": "知道；明白"
+    },
+    {
+      "adj": "realizing",
+      "zh": "意識到；領悟"
+    },
+    {
+      "adj": "finishing",
+      "zh": "完成；結束"
+    },
+    {
+      "adj": "studying",
+      "zh": "研究；學習"
+    },
+    {
+      "adj": "working",
+      "zh": "工作；運作"
+    },
+    {
+      "adj": "speaking",
+      "zh": "說話；發言"
+    },
+    {
+      "adj": "reading",
+      "zh": "閱讀；讀"
+    },
+    {
+      "adj": "considering",
+      "zh": "考慮；思考"
+    }
+  ],
+  "vocab_table_label": "常用 V-ing 形式",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的分詞構句形式，表示兩個同時發生的動作",
+      "question_eng": "_______ the instructions carefully, Tom completed the task without any mistakes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Reading"
+        },
+        {
+          "key": "B",
+          "text": "Read"
+        },
+        {
+          "key": "C",
+          "text": "Having read"
+        },
+        {
+          "key": "D",
+          "text": "To read"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「Reading」。現在分詞 Reading 表示與主句 completed 同時發生的動作，邏輯主詞均為 Tom。B 項 Read 為原形動詞不符文法；C 項 Having read（完成式分詞）表先行動作，但題意為同時進行；D 項 To read 為不定詞，不符分詞構句用法。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成句子，表示一連串的連續動作",
+      "question_eng": "The runner crossed the finish line, _______ her arms in triumph and celebrating her victory.",
+      "options": [
+        {
+          "key": "A",
+          "text": "raising"
+        },
+        {
+          "key": "B",
+          "text": "raises"
+        },
+        {
+          "key": "C",
+          "text": "to raise"
+        },
+        {
+          "key": "D",
+          "text": "raised"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「raising」。現在分詞 raising 與後面的 celebrating 並列，表示跨越終點線後的一連串連續動作，邏輯主詞均為 The runner。B 項 raises 改變了句子結構且時態不符；C 項 to raise 為不定詞用法錯誤；D 項 raised 為過去式，不符分詞構句結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇合適的分詞形式，表示原因或背景說明",
+      "question_eng": "_______ that the project deadline was approaching, the team decided to work overtime during the weekend.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Knowing"
+        },
+        {
+          "key": "B",
+          "text": "Having known"
+        },
+        {
+          "key": "C",
+          "text": "To know"
+        },
+        {
+          "key": "D",
+          "text": "Known"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「Knowing」。現在分詞 Knowing 用於表示原因，相當於「Because they knew that...」，邏輯主詞為 the team。B 項 Having known 表先行完成動作，與後句邏輯關係不符；C 項 To know 為不定詞，表目的而非原因；D 項 Known 為過去分詞，表被動意義不符題意。",
+      "id": 3
+    },
+    {
+      "question_chi": "分析句子結構，選擇邏輯主詞正確的分詞構句",
+      "question_eng": "_______ the novel last night, _______ it was already midnight, Sarah still couldn't put it down and finished reading all 300 pages.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Reading / knowing"
+        },
+        {
+          "key": "B",
+          "text": "Having read / knowing"
+        },
+        {
+          "key": "C",
+          "text": "Reading / having known"
+        },
+        {
+          "key": "D",
+          "text": "Having read / having known"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「Having read / knowing」。第一空用 Having read（完成式分詞）表示先於主句的動作「她前晚讀過小說」；第二空用 knowing（現在分詞）與主句動詞並時，表示「儘管知道已是午夜」的狀況說明，邏輯主詞均為 Sarah。A 項第一空時態關係錯誤；C、D 項第二空都不符合邏輯關係。",
+      "id": 4
+    },
+    {
+      "question_chi": "選擇正確的分詞構句形式，表示時間順序。",
+      "question_eng": "_______ his work, he left the office and went home.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Finishing"
+        },
+        {
+          "key": "B",
+          "text": "Finished"
+        },
+        {
+          "key": "C",
+          "text": "Having finished"
+        },
+        {
+          "key": "D",
+          "text": "To finish"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Finishing)。分詞構句用現在分詞表示與主句同時發生的動作。分詞邏輯主詞 (he) 與主句主詞相同，應使用簡單現在分詞。B 項 (Finished) 是過去分詞，不符合主動意義。C 項 (Having finished) 強調先後順序但不必要。D 項 (To finish) 是不定詞，無法作分詞構句。",
+      "id": 5
+    },
+    {
+      "question_chi": "選擇正確的分詞構句，表示原因關係。",
+      "question_eng": "_______ the heavy traffic, Sarah arrived at the meeting late.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Being caught in"
+        },
+        {
+          "key": "B",
+          "text": "Caught in"
+        },
+        {
+          "key": "C",
+          "text": "To be caught in"
+        },
+        {
+          "key": "D",
+          "text": "Having been caught in"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (Being caught in)。分詞構句表原因時，若動詞是被動意義，應使用「being + 過去分詞」形式。Sarah 被困在車陣中（被動），所以用 being caught in。B 項 (Caught in) 省略 being，在標準文法中不正確。C 項 (To be caught in) 是不定詞。D 項 (Having been caught in) 強調完成，但無必要。",
+      "id": 6
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "小明走進教室，看到老師在黑板上寫數學題目。",
+      "answer": "Walking into the classroom, Xiaoming saw the teacher writing math problems on the blackboard. / Xiaoming walked into the classroom, seeing the teacher writing math problems on the blackboard.",
+      "key_points": [
+        "Walking into / entering the classroom（進教室）",
+        "saw the teacher writing（看到老師在寫）",
+        "邏輯主詞一致（Xiaoming both walked and saw）"
+      ],
+      "hints": [
+        "提示1：用現在分詞 V-ing 取代『走進...時』的時間副詞子句，表示同時發生的兩個動作",
+        "提示2：兩個動作的邏輯主詞必須相同（都是 Xiaoming），否則句義不清"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她完成了家庭作業，便開始複習考試內容。",
+      "answer": "Having finished her homework, she began reviewing the exam material. / She finished her homework, then began reviewing the exam material by using the structure with having done.",
+      "key_points": [
+        "Having finished（完成式分詞，表先行動作）",
+        "homework 與 exam material（功課與考試內容）",
+        "then / began reviewing（然後開始複習）"
+      ],
+      "hints": [
+        "提示1：『完成了...之後』應使用完成式分詞 Having V-ed，表先發生的動作",
+        "提示2：現在分詞 V-ing 只表同時動作；完成式分詞 Having V-ed 表已完成後才進行下一步，要注意時序"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於時間不足，他匆匆收拾書包，趕上了最後一班公車。",
+      "answer": "Running out of time, he hurriedly packed his bag, catching the last bus. / Lacking sufficient time, he packed his bag hastily, catching the last bus.",
+      "key_points": [
+        "Running out of time / Lacking time（時間不足，表原因）",
+        "packed his bag, catching（收拾書包，趕上）",
+        "V-ing 形式表原因或伴隨情況"
+      ],
+      "hints": [
+        "提示1：『由於時間不足』可用『Running out of time, ...』表原因，比『Because he ran out of time』更簡潔",
+        "提示2：後半句『趕上公車』也用 V-ing（catching）表連續動作，保持邏輯主詞一致（都是 he）"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "老師在課堂上解釋這道難題，班上的學生認真聆聽，並記下重點筆記。",
+      "answer": "Explaining the difficult problem in class, the teacher watched the students listening attentively and taking notes on key points. / The teacher explained the difficult problem in class, observing the students listening attentively and taking key notes.",
+      "key_points": [
+        "Explaining the difficult problem in class（解釋難題）",
+        "listening attentively and taking notes（認真聆聽並記筆記）",
+        "邏輯主詞一致與伴隨情況的表達"
+      ],
+      "hints": [
+        "提示1：主句主詞是『老師』，分詞構句『Explaining...』的邏輯主詞也必須是老師；後面『學生聆聽與記筆記』應作為老師『看到』的內容（賓語從句或分詞結構修飾），而非分詞構句",
+        "提示2：避免讓『學生聆聽』直接成為分詞構句，因為邏輯主詞與主句不符，應改為『the students listening and taking』作為老師『看到』的對象，或另起句子"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "聽到鈴聲響起，學生們急忙走進教室。",
+      "answer": "Hearing the bell ring, the students hurried into the classroom.",
+      "key_points": [
+        "Hearing the bell ring（分詞構句開頭）",
+        "邏輯主詞相同（students）",
+        "逗號分隔主句"
+      ],
+      "hints": [
+        "提示1：將『聽到鈴聲響起』簡化為『Hearing the bell ring』，作為時間副詞子句的替代",
+        "提示2：注意『聽』和『走進』的邏輯主詞都是『學生們』，所以可以使用分詞構句"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "因為擔心遲到，小王早早離開了家。",
+      "answer": "Worrying about being late, Xiaowang left home early.",
+      "key_points": [
+        "Worrying about being late（分詞構句表原因）",
+        "避免重複主詞『Xiaowang』",
+        "被動意義『being late』的使用"
+      ],
+      "hints": [
+        "提示1：將『因為擔心遲到』簡化為『Worrying about being late』，用V-ing形式表原因（代替Because子句）",
+        "提示2：『being late』是被動構造，但此處表示『遲到』的狀態，是分詞構句常見的用法"
+      ]
+    }
+  ]
+}

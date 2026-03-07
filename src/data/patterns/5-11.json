@@ -1,0 +1,367 @@
+{
+  "code": "5-11",
+  "chapter": 5,
+  "title": "S + be + p.p. + to V（被動 + 不定詞）",
+  "formulas": [
+    {
+      "formula": "S + be + expected/required/allowed/asked + to V",
+      "zh": "主詞+被動(是)+ 形容詞 + 不定詞，表示主詞被期望/要求/允許/要求去做某事"
+    },
+    {
+      "formula": "S + be + told/forced/encouraged/permitted + to V",
+      "zh": "主詞+被動(是)+ 過去分詞 + 不定詞，表示主詞被告知/強迫/鼓勵/允許去做某事"
+    }
+  ],
+  "explanation": "此句型是被動語態與不定詞的結合，表達對主詞的期望、要求、允許或命令。核心結構為『be + 形容詞/過去分詞 + to不定詞』。常見動詞包括expect、require、allow、ask、tell、force、encourage、permit等。使用時機為強調被動方接收到的義務或允可。注意to不定詞與被動語態動詞之間有邏輯的主受關係，不可省略to。易混淆點為不定詞前的to不能刪除，且此結構與『S + be + adj + to V』(表可能性)在形式相似但意義不同。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Students are required to submit their assignments by Friday.",
+      "chi": "學生被要求在星期五之前提交功課。",
+      "keywords": [
+        "be required to",
+        "submit",
+        "被動要求"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Children are not allowed to enter the museum without parental supervision.",
+      "chi": "沒有父母監督的情況下，兒童不被允許進入博物館。",
+      "keywords": [
+        "be allowed to",
+        "without",
+        "被動許可"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The employees were asked to attend the safety training session.",
+      "chi": "員工被要求參加安全訓練課程。",
+      "keywords": [
+        "be asked to",
+        "attend",
+        "被動要求"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "All passengers are expected to fasten their seatbelts before takeoff.",
+      "chi": "所有乘客被期望在起飛前繫好安全帶。",
+      "keywords": [
+        "be expected to",
+        "fasten",
+        "被動期望"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷句型的關鍵是識別被動語態結構『be + 形容詞/過去分詞』之後必接『to + 動詞』。常見錯誤為遺漏to或誤用為『be + 形容詞 + V-ing』。若要轉換為主動語態，則為『Someone + 及物動詞 + S + to V』，邏輯關係保持不變。",
+    "examples": [
+      {
+        "test": "Students are expected finishing their projects on time.",
+        "result": "✗ 錯誤 → Students are expected to finish their projects on time. ✓ 正確（to不能省略，不定詞不能改為V-ing）"
+      },
+      {
+        "test": "He was told to report the incident immediately. = Someone told him to report the incident immediately.",
+        "result": "✓ 正確 → 被動語態與主動語態邏輯一致，均表達命令或要求的轉達"
+      },
+      {
+        "test": "Children are allowed to stay up late on weekends. ≠ Children are allowed staying up late on weekends.",
+        "result": "✓ 前者正確 → 被動結構後必接to不定詞，不使用V-ing形式"
+      }
+    ],
+    "note": "記憶口訣：『被動期望要求允，動詞前面加to字；形容詞或過去分，be動詞銜接to不定』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "All employees ",
+        null,
+        " attend the mandatory meeting next Monday."
+      ],
+      "blanks": [
+        "are required to"
+      ],
+      "sentence": "All employees are required to attend the mandatory meeting next Monday.",
+      "translation": "所有員工被要求在下星期一參加強制會議。",
+      "keywords": [
+        "be required to",
+        "attend",
+        "mandatory"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Young people ",
+        null,
+        " work more than eight hours per day according to the new labor law."
+      ],
+      "blanks": [
+        "are not allowed to"
+      ],
+      "sentence": "Young people are not allowed to work more than eight hours per day according to the new labor law.",
+      "translation": "根據新勞動法，年輕人不被允許每天工作超過八小時。",
+      "keywords": [
+        "be allowed to",
+        "work",
+        "labor law"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The witness ",
+        null,
+        " testify in court about what he witnessed that night."
+      ],
+      "blanks": [
+        "was asked to"
+      ],
+      "sentence": "The witness was asked to testify in court about what he witnessed that night.",
+      "translation": "證人被要求在法庭上作證他那晚目睹的情況。",
+      "keywords": [
+        "be asked to",
+        "testify",
+        "witness"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Participants ",
+        null,
+        " complete the survey by providing honest and detailed answers."
+      ],
+      "blanks": [
+        "are expected to"
+      ],
+      "sentence": "Participants are expected to complete the survey by providing honest and detailed answers.",
+      "translation": "參與者被期望通過提供誠實和詳細的答案來完成調查。",
+      "keywords": [
+        "be expected to",
+        "complete",
+        "honest"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "expect",
+      "zh": "期望"
+    },
+    {
+      "adj": "require",
+      "zh": "要求"
+    },
+    {
+      "adj": "allow",
+      "zh": "允許"
+    },
+    {
+      "adj": "ask",
+      "zh": "要求"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴"
+    },
+    {
+      "adj": "force",
+      "zh": "強迫"
+    },
+    {
+      "adj": "encourage",
+      "zh": "鼓勵"
+    },
+    {
+      "adj": "permit",
+      "zh": "許可"
+    },
+    {
+      "adj": "invite",
+      "zh": "邀請"
+    },
+    {
+      "adj": "enable",
+      "zh": "使能夠"
+    },
+    {
+      "adj": "obligate",
+      "zh": "約束"
+    },
+    {
+      "adj": "suppose",
+      "zh": "假定"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "學生需要在星期五前提交作業，選擇正確的被動句型",
+      "question_eng": "Students are _______ to submit their assignments by Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "required"
+        },
+        {
+          "key": "B",
+          "text": "require"
+        },
+        {
+          "key": "C",
+          "text": "requiring"
+        },
+        {
+          "key": "D",
+          "text": "to require"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「required」。此句型為 S + be + p.p. + to V，『be required to V』表示「被要求做某事」。B 項「require」是原形動詞，不符合被動語態結構。C 項「requiring」是現在分詞，無法與 be 搭配形成被動。D 項「to require」在此位置文法錯誤，to 不定詞不能直接跟在 be 後面。",
+      "id": 1
+    },
+    {
+      "question_chi": "兒童被禁止獨自進入博物館，選擇正確的被動結構",
+      "question_eng": "Children are not _______ to enter the museum without parental supervision.",
+      "options": [
+        {
+          "key": "A",
+          "text": "allowing"
+        },
+        {
+          "key": "B",
+          "text": "allowed"
+        },
+        {
+          "key": "C",
+          "text": "allow"
+        },
+        {
+          "key": "D",
+          "text": "allows"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「allowed」。句型為 be + p.p. + to V，『be allowed to V』表示「被允許做某事」。A 項「allowing」是現在分詞，與 be 搭配應為進行式，不符本句意思。C 項「allow」是原形動詞，需要過去分詞形式。D 項「allows」是三單形式，無法用於被動語態結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "員工被期望達到高績效標準，選擇符合被動結構的選項",
+      "question_eng": "Employees are _______ to meet high performance standards in the quarterly review.",
+      "options": [
+        {
+          "key": "A",
+          "text": "expected to meet"
+        },
+        {
+          "key": "B",
+          "text": "expecting meeting"
+        },
+        {
+          "key": "C",
+          "text": "expect to meet"
+        },
+        {
+          "key": "D",
+          "text": "expected meet"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「expected to meet」。此句型要求『be + p.p. + to 不定詞』，『be expected to V』表示「被期望做某事」，to 不定詞不能省略。B 項混合了進行式與動名詞，文法錯誤。C 項「expect」是主動形式，違反被動語態結構。D 項缺少 to 不定詞中的 to，屬於關鍵詞漏置錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "運動員被激勵在國際比賽中代表國家，完成此複雜被動句型",
+      "question_eng": "The athletes were _______ by their coach to represent the country at the international competition, and they promised _______ their best.",
+      "options": [
+        {
+          "key": "A",
+          "text": "encouraged to perform / doing"
+        },
+        {
+          "key": "B",
+          "text": "encouraging to perform / to do"
+        },
+        {
+          "key": "C",
+          "text": "encouraged to perform / to do"
+        },
+        {
+          "key": "D",
+          "text": "encouraged performing / to do"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C「encouraged to perform / to do」。第一空需『be encouraged to V』表被動鼓勵；第二空『promise to V』是不定詞結構。A 項第二空「doing」為動名詞，與 promise 搭配錯誤。B 項「encouraging」非過去分詞，違反被動語態規則。D 項「encouraged performing」中不定詞改為動名詞，違反 encourage to V 的正確搭配。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學生被要求在課堂上準時交作業。",
+      "answer": "Students are required to submit their homework on time in class.",
+      "key_points": [
+        "are required to",
+        "submit",
+        "on time",
+        "被動語態 + 不定詞結構"
+      ],
+      "hints": [
+        "句型框架：S + be + required + to V，表達對學生的要求",
+        "注意：to不定詞前的to不可省略，submit前必須保留to"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "高中生被允許參加學校舉辦的課外活動。",
+      "answer": "High school students are allowed to participate in extracurricular activities organized by the school.",
+      "key_points": [
+        "are allowed to",
+        "participate in",
+        "extracurricular activities",
+        "organized by the school"
+      ],
+      "hints": [
+        "句型框架：S + be + allowed + to V，表達對主詞的許可或允許",
+        "易混淆：allowed後的to不可刪除，否則語意會不完整；區別『be allowed』（被允許）vs『allow』（主動允許）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "運動選手被鼓勵在比賽前進行充分的體能訓練，以提升他們的表現。",
+      "answer": "Athletes are encouraged to undergo adequate physical training before competitions in order to improve their performance.",
+      "key_points": [
+        "are encouraged to",
+        "undergo adequate physical training",
+        "before competitions",
+        "in order to improve"
+      ],
+      "hints": [
+        "句型框架：S + be + encouraged + to V，表達對主詞受到的鼓勵或建議",
+        "注意：『in order to』引導的不定詞片語表示目的，與主句中『are encouraged to』的to不定詞構成並列結構，兩個to都不可省"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "那些違反校規的學生被迫參加懲罰性的課程，並被告知要改正自己的行為以避免被開除。",
+      "answer": "Students who violate school regulations are forced to attend punitive courses and are told to correct their behavior in order to avoid being expelled.",
+      "key_points": [
+        "are forced to attend",
+        "are told to correct",
+        "violate school regulations",
+        "in order to avoid being expelled"
+      ],
+      "hints": [
+        "句型框架：S + be + forced/told + to V 與 S + be + told + to V，同一句中可出現多個『be + p.p. + to V』結構並列",
+        "易錯點：『avoid being expelled』中『being expelled』為動名詞的被動式，不是不定詞；『are told to correct』中to不可省，且不定詞後若接受詞（their behavior），結構仍然保持『to + V + O』的完整形式"
+      ]
+    }
+  ]
+}

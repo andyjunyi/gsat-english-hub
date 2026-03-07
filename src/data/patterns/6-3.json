@@ -1,0 +1,366 @@
+{
+  "code": "6-3",
+  "chapter": 6,
+  "title": "to V 作主詞／動名詞作主詞",
+  "formulas": [
+    {
+      "formula": "To V + is + adjective",
+      "zh": "不定詞作主詞，後接be動詞和形容詞"
+    },
+    {
+      "formula": "V-ing + is + adjective",
+      "zh": "動名詞作主詞，後接be動詞和形容詞"
+    },
+    {
+      "formula": "It + is + adjective + to V",
+      "zh": "虛主詞it，後接形容詞和不定詞，表示真正主詞"
+    }
+  ],
+  "explanation": "不定詞或動名詞可作句子主詞，兩者語法功能相同但語態略有差異。不定詞偏向具體單一動作，常用虛主詞it取代以簡化句式；動名詞偏向習慣性或抽象概念，較口語自然。兩種形式在學測中均為常考重點。虛主詞it結構特別常見，能使句子表達更簡潔優雅，避免句首過重。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "To learn English is necessary for your future career development.",
+      "chi": "學習英文對你的未來職業發展是必要的。",
+      "keywords": [
+        "To V + is",
+        "necessary",
+        "不定詞作主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Reading books regularly can improve your knowledge and vocabulary skills.",
+      "chi": "定期閱讀書籍可以提升你的知識和詞彙能力。",
+      "keywords": [
+        "V-ing + is",
+        "improve",
+        "動名詞作主詞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is important to protect the environment for future generations.",
+      "chi": "保護環境對子孫後代來說很重要。",
+      "keywords": [
+        "It is adj. + to V",
+        "虛主詞it",
+        "protect"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It is challenging to achieve success without persistence and hard work.",
+      "chi": "在沒有堅持和努力的情況下取得成功是有挑戰性的。",
+      "keywords": [
+        "It is adj. + to V",
+        "challenging",
+        "虛主詞結構"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "challenging",
+      "zh": "有挑戰性的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "essential",
+      "zh": "本質上的、必不可少的"
+    },
+    {
+      "adj": "beneficial",
+      "zh": "有益的"
+    },
+    {
+      "adj": "harmful",
+      "zh": "有害的"
+    },
+    {
+      "adj": "urgent",
+      "zh": "緊急的"
+    },
+    {
+      "adj": "practical",
+      "zh": "實用的"
+    },
+    {
+      "adj": "worthwhile",
+      "zh": "值得做的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時注意：(1)不定詞To V強調單一具體動作，常與重要性、必要性等詞搭配；(2)動名詞V-ing表習慣或抽象概念，較口語；(3)虛主詞it使句子簡潔優雅，常用於正式書面語。",
+    "examples": [
+      {
+        "test": "To study abroad is my dream.",
+        "result": "→ 正確。不定詞作主詞，強調具體單一動作（去國外唸書）"
+      },
+      {
+        "test": "Studying abroad is my dream.",
+        "result": "→ 正確。動名詞作主詞，同樣可接受，但較口語自然"
+      },
+      {
+        "test": "It is my dream to study abroad.",
+        "result": "→ 正確。虛主詞it使主詞後置，句式更優雅簡潔"
+      }
+    ],
+    "note": "記憶口訣：『不定詞單一明確，動名詞習慣抽象，虛主詞it最優雅』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " is beneficial for developing critical thinking skills."
+      ],
+      "blanks": [
+        "Reading widely"
+      ],
+      "sentence": "Reading widely is beneficial for developing critical thinking skills.",
+      "translation": "廣泛閱讀對發展批判性思維能力很有益處。",
+      "keywords": [
+        "V-ing + is",
+        "beneficial",
+        "動名詞作主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It is ",
+        null,
+        " to balance work and family life in modern society."
+      ],
+      "blanks": [
+        "challenging"
+      ],
+      "sentence": "It is challenging to balance work and family life in modern society.",
+      "translation": "在現代社會中平衡工作和家庭生活是有挑戰性的。",
+      "keywords": [
+        "It is adj. + to V",
+        "challenging",
+        "虛主詞結構"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " English fluently opens many doors for your career opportunities."
+      ],
+      "blanks": [
+        "To speak"
+      ],
+      "sentence": "To speak English fluently opens many doors for your career opportunities.",
+      "translation": "能流暢地說英文為你的職業機會打開許多大門。",
+      "keywords": [
+        "To V + is",
+        "不定詞作主詞",
+        "opens"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "It is ",
+        null,
+        " to establish good habits when you are young and energetic."
+      ],
+      "blanks": [
+        "essential"
+      ],
+      "sentence": "It is essential to establish good habits when you are young and energetic.",
+      "translation": "在年輕精力充沛時養成良好習慣是必不可少的。",
+      "keywords": [
+        "It is adj. + to V",
+        "essential",
+        "establish"
+      ]
+    }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句型完成句子，表達學習英文的重要性。",
+      "question_eng": "_______ English is important for international communication.",
+      "options": [
+        {
+          "key": "A",
+          "text": "To learn"
+        },
+        {
+          "key": "B",
+          "text": "Learning"
+        },
+        {
+          "key": "C",
+          "text": "To learning"
+        },
+        {
+          "key": "D",
+          "text": "Learn"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「To learn」。不定詞或動名詞皆可作主詞，此句強調具體單一動作「學習英文」，用不定詞to learn更自然。C選項「To learning」為文法錯誤，to後接原型動詞；D選項「Learn」為原型動詞，不能直接作主詞；B選項「Learning」雖也可作主詞，但此句用to learn更恰當。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成句子，表達閱讀書籍是一項習慣性活動帶來的益處。",
+      "question_eng": "_______ books regularly helps develop critical thinking skills.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Read"
+        },
+        {
+          "key": "B",
+          "text": "To read"
+        },
+        {
+          "key": "C",
+          "text": "Reading"
+        },
+        {
+          "key": "D",
+          "text": "Being read"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「Reading」。動名詞emphasize習慣性、重複性的動作，「定期閱讀」是一種生活習慣，用動名詞reading更合適。A選項「Read」為原型動詞，不能作主詞；B選項「To read」偏向單一具體動作，不符合此句習慣性用法；D選項「Being read」為被動動名詞，語意不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "改寫句子使其更簡潔，用虛主詞it重新表達。",
+      "question_eng": "To balance work and family responsibilities _______ challenging for many professionals.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "being"
+        },
+        {
+          "key": "D",
+          "text": "have been"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「is」。不定詞to balance為單數主詞，需用單數動詞is。此句採「To V + is + adjective」結構，不定詞作邏輯主詞，is為連綴動詞。B選項「are」為複數形式不符；C選項「being」為進行式分詞，與主詞搭配不合；D選項「have been」為完成進行式，不符句型結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "完成句子，需判斷虛主詞it結構與動名詞作主詞的差異應用。",
+      "question_eng": "It is essential _______ regular exercise to maintain good health, and _______ consistently can significantly reduce disease risk.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to do / exercising"
+        },
+        {
+          "key": "B",
+          "text": "doing / to exercise"
+        },
+        {
+          "key": "C",
+          "text": "to doing / exercise"
+        },
+        {
+          "key": "D",
+          "text": "do / exercised"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「to do / exercising」。第一空用it虛主詞結構「It is essential to do」，不定詞作真正主詞；第二空「exercising consistently」為獨立的動名詞片語作主詞，表習慣性動作。B選項前後顛倒；C選項to doing文法錯誤；D選項do與exercised詞性搭配不當。此題考查虛主詞與動名詞主詞的靈活運用。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "每天早起對我們的健康很重要。",
+      "answer": "Getting up early every day is important for our health. / It is important for our health to get up early every day.",
+      "key_points": [
+        "Getting up early / to get up early",
+        "is important",
+        "for our health"
+      ],
+      "hints": [
+        "提示1：動名詞作主詞用 V-ing is...; 不定詞作主詞用 It is... to V 結構",
+        "提示2：兩種形式均正確，但動名詞作主詞更強調習慣性動作，虛主詞it則使句子更簡潔"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "準時繳交功課是每個學生的責任。",
+      "answer": "Submitting homework on time is every student's responsibility. / It is every student's responsibility to submit homework on time.",
+      "key_points": [
+        "Submitting / to submit",
+        "on time",
+        "is...responsibility"
+      ],
+      "hints": [
+        "提示1：選用動名詞表習慣性要求，或用虛主詞it突顯個別責任",
+        "提示2：注意 responsibility 後需用 of / to，此處應為 to submit；或直接用 is...responsibility 後接同位語"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "在網路上與陌生人分享個人資訊是危險且不明智的做法。",
+      "answer": "Sharing personal information with strangers online is dangerous and unwise. / It is dangerous and unwise to share personal information with strangers online.",
+      "key_points": [
+        "Sharing / to share",
+        "with strangers online",
+        "dangerous and unwise"
+      ],
+      "hints": [
+        "提示1：動名詞強調此類行為普遍性風險；虛主詞it則凸顯具體情境下的不智",
+        "提示2：避免用 It is dangerous to sharing... 的混雜形式；兩個形容詞並列時需用 and 連接"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "學習如何有效管理時間和壓力對高中生來說至關重要，這將直接影響他們的學業成績和心理健康。",
+      "answer": "Learning how to manage time and stress effectively is crucial for high school students, which will directly affect their academic performance and mental health. / It is crucial for high school students to learn how to manage time and stress effectively, which will directly affect their academic performance and mental health.",
+      "key_points": [
+        "Learning / to learn how to...",
+        "manage time and stress effectively",
+        "crucial for...",
+        "which will directly affect"
+      ],
+      "hints": [
+        "提示1：動名詞作主詞突顯學習本身的重要性與習慣價值；虛主詞it則強調對學生群體的特定要求；後句用關係代名詞which補充說明影響",
+        "提示2：注意 how to 後接原形動詞；avoid 改為 manage；兩個受影響對象用 and 並列時應避免過度複雜，可考慮用分號或 dash 改善可讀性"
+      ]
+    }
+  ]
+}

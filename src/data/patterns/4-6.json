@@ -1,0 +1,363 @@
+{
+  "code": "4-6",
+  "chapter": 4,
+  "title": "S + V + N + whom + S + V",
+  "formulas": [
+    {
+      "formula": "N + whom + S + V...",
+      "zh": "名詞 + 受格關係代名詞whom + 主詞 + 動詞...（whom作動詞或介系詞受詞）"
+    },
+    {
+      "formula": "N + whom + S + V + O",
+      "zh": "名詞 + 受格關係代名詞whom + 主詞 + 動詞 + 受詞"
+    }
+  ],
+  "explanation": "受格關係代名詞whom用來代替先行詞（人），在形容詞子句中作動詞或介系詞的受詞。此為正式書面用語。結構為：先行詞(人) + whom + 主詞 + 動詞。whom前常有介系詞(to/for/with/about)。口語中常以who替代或完全省略。判斷是否用whom：若關係代名詞在子句中作受詞，使用whom；作主詞則用who。需注意與who的區別，以及介系詞位置。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The teacher whom I respect most has retired from the university.",
+      "chi": "我最尊敬的那位老師已從大學退休了。",
+      "keywords": [
+        "whom",
+        "受詞",
+        "敬重"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She introduced me to her friend, whom we had never met before.",
+      "chi": "她介紹我認識她的朋友，我們以前從未見過那個人。",
+      "keywords": [
+        "whom",
+        "介紹",
+        "見面"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The author whom the students studied last semester wrote many novels.",
+      "chi": "學生上學期研究的那位作家寫了許多小說。",
+      "keywords": [
+        "whom",
+        "作家",
+        "研究"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He helped several people, for whom he received a medal of honor.",
+      "chi": "他幫助了好幾個人，為此他獲得了榮譽勳章。",
+      "keywords": [
+        "whom",
+        "介系詞for",
+        "幫助"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷whom vs who：看關係代名詞在子句中的角色。若為主詞用who，若為受詞(動詞或介系詞之後)用whom。現代英語口語常用who替代whom，但學測重點測驗正式用法，務必掌握whom的用法。介系詞後必用whom。",
+    "examples": [
+      {
+        "test": "正確：The man whom I met yesterday is a doctor.",
+        "result": "→ whom作met的受詞，正確使用"
+      },
+      {
+        "test": "錯誤：The man who I met yesterday is a doctor.",
+        "result": "→ 口語可接受，但正式書面應用whom"
+      },
+      {
+        "test": "正確：The people to whom you referred are no longer here.",
+        "result": "→ 介系詞to後必用whom，不能用who"
+      }
+    ],
+    "note": "關係代名詞在動詞/介系詞後作受詞 → 用whom；作主詞 → 用who。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The professor ",
+        null,
+        " the students praised highly is now at Harvard University."
+      ],
+      "blanks": [
+        "whom"
+      ],
+      "sentence": "The professor whom the students praised highly is now at Harvard University.",
+      "translation": "學生們高度讚揚的那位教授現在在哈佛大學。",
+      "keywords": [
+        "whom",
+        "受詞",
+        "教授"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She has a cousin ",
+        null,
+        " she grew up with in Taiwan."
+      ],
+      "blanks": [
+        "whom"
+      ],
+      "sentence": "She has a cousin whom she grew up with in Taiwan.",
+      "translation": "她有一個表親，是她在台灣一起長大的。",
+      "keywords": [
+        "whom",
+        "介系詞with",
+        "表親"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The athlete ",
+        null,
+        " the coach trained became an Olympic champion."
+      ],
+      "blanks": [
+        "whom"
+      ],
+      "sentence": "The athlete whom the coach trained became an Olympic champion.",
+      "translation": "教練訓練的那位運動員成為了奧運冠軍。",
+      "keywords": [
+        "whom",
+        "運動員",
+        "訓練"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "There are many people ",
+        null,
+        " we should be grateful to for their contributions."
+      ],
+      "blanks": [
+        "whom"
+      ],
+      "sentence": "There are many people whom we should be grateful to for their contributions.",
+      "translation": "有很多人是我們應該為他們的貢獻而感謝的。",
+      "keywords": [
+        "whom",
+        "介系詞to",
+        "感謝"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "respect",
+      "zh": "尊敬、尊重"
+    },
+    {
+      "adj": "trust",
+      "zh": "信任、相信"
+    },
+    {
+      "adj": "admire",
+      "zh": "欽佩、景仰"
+    },
+    {
+      "adj": "meet",
+      "zh": "見面、遇到"
+    },
+    {
+      "adj": "know",
+      "zh": "認識、知道"
+    },
+    {
+      "adj": "help",
+      "zh": "幫助"
+    },
+    {
+      "adj": "teach",
+      "zh": "教導"
+    },
+    {
+      "adj": "support",
+      "zh": "支持、贊成"
+    },
+    {
+      "adj": "care for",
+      "zh": "在乎、關心"
+    },
+    {
+      "adj": "depend on",
+      "zh": "依賴、依靠"
+    },
+    {
+      "adj": "work with",
+      "zh": "與...共事"
+    },
+    {
+      "adj": "grateful to",
+      "zh": "感謝、感恩"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的受格關係代名詞，完成句子",
+      "question_eng": "The author _______ I interviewed last week has won a prestigious award.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whom"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "A",
+      "explanation": "關係代名詞在子句中作動詞interview的受詞，須用受格whom。B項who為主格，用於關係代名詞作主詞時；C項that雖可代人但在正式書面語中作受詞時whom更佳；D項which用於代物。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據文意選擇適當的受格關係代名詞形式",
+      "question_eng": "The businessman with _______ she collaborated on this project is a renowned entrepreneur.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "whom"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "whose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "介系詞with後應接受格形式whom，與先行詞businessman搭配。句式為：with + whom + 主詞she + 動詞。A項who為主格不可用於介系詞後；C項what為疑問代詞；D項whose為所有格。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷關係代名詞的正確用法與省略可能性",
+      "question_eng": "The students _______ Professor Chen taught five years ago are now working in various industries.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whom"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "whom或省略"
+        },
+        {
+          "key": "D",
+          "text": "who或省略"
+        }
+      ],
+      "answer": "C",
+      "explanation": "taught為及物動詞，students作其受詞，應用受格whom。口語中常省略受格關係代名詞，故whom或完全省略皆可接受，為C。B、D選項的who為主格，不適合作及物動詞的受詞。",
+      "id": 3
+    },
+    {
+      "question_chi": "複合句中多重關係代名詞與介系詞位置的應用",
+      "question_eng": "She introduced me to her colleagues, many of _______ I had worked with in previous projects and _______ were impressed by my portfolio.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whom; who"
+        },
+        {
+          "key": "B",
+          "text": "who; whom"
+        },
+        {
+          "key": "C",
+          "text": "whom; whom"
+        },
+        {
+          "key": "D",
+          "text": "who; who"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一空：介系詞of後需受格whom（of whom I had worked with）。第二空：who作were的主詞，須用主格who。此題考查同一子句中多個關係代名詞的正確搭配，以及介系詞與受格的配合原則。B、C、D選項皆混淆了主受格的用法。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我有一位老師，他每天都幫助我們學習英文。",
+      "answer": "I have a teacher whom he helps us learn English every day.",
+      "key_points": [
+        "先行詞 a teacher（人）",
+        "whom 代替受詞位置",
+        "主詞 he + 動詞 helps"
+      ],
+      "hints": [
+        "句型框架：N(人) + whom + S + V...",
+        "注意：whom 在子句中作受詞，不作主詞；此句也可省略 whom：a teacher who helps us..."
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這是我最敬佩的那位醫生，他用他的知識拯救了許多人的生命。",
+      "answer": "This is the doctor whom I admire most, and he has saved many people's lives with his knowledge.",
+      "key_points": [
+        "先行詞 the doctor（人）",
+        "whom 作動詞 admire 的受詞",
+        "介詞片語 with his knowledge 修飾動作"
+      ],
+      "hints": [
+        "句型框架：N + whom + S + V + O（S=I, V=admire, O=省略）",
+        "常見錯誤：誤用 who 代替 whom；記住 whom 作受詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我認識一位朋友，我經常和他談論功課和生活問題。",
+      "answer": "I know a friend with whom I often talk about schoolwork and life problems.",
+      "key_points": [
+        "先行詞 a friend（人）",
+        "介詞 with 置於 whom 之前",
+        "動詞片語 talk about"
+      ],
+      "hints": [
+        "句型框架：N + prep. + whom + S + V...（介詞須移至 whom 前）",
+        "正式寫法將介詞置前；口語可用 who 或省略：a friend I often talk with"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這位作家寫了一部小說，該小說激勵了許多年輕人去追求他們的夢想，而我就是其中之一。",
+      "answer": "This is the author from whom I was inspired by her novel, which motivated many young people to pursue their dreams.",
+      "key_points": [
+        "先行詞 the author（人）",
+        "介詞 from 位於 whom 之前（被動結構）",
+        "關係代名詞子句搭配複合句"
+      ],
+      "hints": [
+        "句型框架：N + prep. + whom + S + V（被動語態）...；此句涉及 be inspired by 的被動結構",
+        "進階用法：介詞的選擇取決於動詞用法（be inspired from/by）；注意介詞的正確搭配"
+      ]
+    }
+  ]
+}

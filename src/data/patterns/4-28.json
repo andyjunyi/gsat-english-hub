@@ -1,0 +1,382 @@
+{
+  "code": "4-28",
+  "chapter": 4,
+  "title": "S + find/think/consider + it + adj. + to V（虛受詞）",
+  "formulas": [
+    {
+      "formula": "S + find/think/consider + it + adj. + to V",
+      "zh": "主詞 + 認為/發現/認為 + 虛受詞 it + 形容詞 + 不定詞"
+    },
+    {
+      "formula": "S + find/think/consider + it + adj. + that 子句",
+      "zh": "主詞 + 認為/發現/認為 + 虛受詞 it + 形容詞 + that 子句"
+    }
+  ],
+  "explanation": "此句型使用虛受詞 it 來代替後方真正的受詞（不定詞或 that 子句），使句子結構更平衡。it 無實義，僅做形式受詞功能。常見動詞有 find、think、consider、make、feel 等。使用時機：當不定詞或 that 子句作為受詞過長時，提前使用 it 避免句子笨重。易混淆點：不能直接說「S + V + to V」，必須插入 it 和形容詞。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I find it difficult to learn Chinese characters efficiently.",
+      "chi": "我發現要有效率地學習中文字很困難。",
+      "keywords": [
+        "find",
+        "it",
+        "difficult",
+        "to learn"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She considers it important that her family supports her decision.",
+      "chi": "她認為家人支持她的決定是很重要的。",
+      "keywords": [
+        "consider",
+        "it",
+        "important",
+        "that"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We thought it necessary to prepare well for the exam.",
+      "chi": "我們認為充分準備考試是必要的。",
+      "keywords": [
+        "thought",
+        "it",
+        "necessary",
+        "to prepare"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Students often feel it stressful that they have too much homework.",
+      "chi": "學生們常常覺得作業太多讓人感到壓力。",
+      "keywords": [
+        "feel",
+        "it",
+        "stressful",
+        "that"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "明顯的"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的"
+    },
+    {
+      "adj": "strange",
+      "zh": "奇怪的"
+    },
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "dangerous",
+      "zh": "危險的"
+    },
+    {
+      "adj": "essential",
+      "zh": "必不可少的"
+    },
+    {
+      "adj": "useful",
+      "zh": "有用的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "虛受詞 it 與真正受詞的關係：it 只是形式位置，真正的受詞是後方的不定詞或 that 子句。判斷時，若移除 it 和形容詞，剩餘部分（to V 或 that 子句）應能單獨作為受詞使用。注意：某些動詞後的 it 不能省略，否則句子不完整或意思改變。",
+    "examples": [
+      {
+        "test": "I find difficult to finish the work. （錯誤）",
+        "result": "→ I find it difficult to finish the work.（正確，需要虛受詞 it）"
+      },
+      {
+        "test": "She considers necessary that all students attend. （錯誤）",
+        "result": "→ She considers it necessary that all students attend.（正確，it 不可省略）"
+      },
+      {
+        "test": "They think it that the plan will succeed. （錯誤）",
+        "result": "→ They think it likely that the plan will succeed.（正確，需要形容詞連接 it 和 that 子句）"
+      }
+    ],
+    "note": "虛受詞 it 的記憶口訣：it 是「橋樑」，連接動詞與真正受詞，使句子更流暢。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I ",
+        null,
+        " it necessary to review the materials before the exam.",
+        null,
+        " it helpful to discuss with classmates."
+      ],
+      "blanks": [
+        "find",
+        "think"
+      ],
+      "sentence": "I find it necessary to review the materials before the exam. I think it helpful to discuss with classmates.",
+      "translation": "我發現考試前複習教材是必要的。我認為與同學討論很有幫助。",
+      "keywords": [
+        "find",
+        "think",
+        "it",
+        "necessary",
+        "helpful"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Do you consider ",
+        null,
+        " impossible ",
+        null,
+        " achieve your goals?"
+      ],
+      "blanks": [
+        "it",
+        "to"
+      ],
+      "sentence": "Do you consider it impossible to achieve your goals?",
+      "translation": "你認為達成你的目標是不可能的嗎？",
+      "keywords": [
+        "consider",
+        "it",
+        "impossible",
+        "to achieve"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Many students feel ",
+        null,
+        " stressful ",
+        null,
+        " they have excessive pressure."
+      ],
+      "blanks": [
+        "it",
+        "that"
+      ],
+      "sentence": "Many students feel it stressful that they have excessive pressure.",
+      "translation": "許多學生感到他們有過度的壓力是很有壓力的。",
+      "keywords": [
+        "feel",
+        "it",
+        "stressful",
+        "that"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Teachers ",
+        null,
+        " it important ",
+        null,
+        " students develop critical thinking skills."
+      ],
+      "blanks": [
+        "make",
+        "that"
+      ],
+      "sentence": "Teachers make it important that students develop critical thinking skills.",
+      "translation": "教師們認為學生培養批判性思維能力是很重要的。",
+      "keywords": [
+        "make",
+        "it",
+        "important",
+        "that"
+      ]
+    }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的虛受詞句型，完成句子。",
+      "question_eng": "Many students find it _______ to memorize all the vocabulary for the exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "challenge"
+        },
+        {
+          "key": "B",
+          "text": "challenging"
+        },
+        {
+          "key": "C",
+          "text": "challenge to"
+        },
+        {
+          "key": "D",
+          "text": "being challenged"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。虛受詞句型 find it + adj. + to V 中，it 後必須接形容詞，所以用 challenging（具挑戰性的）。A 是名詞，文法錯誤；C 重複 to，結構不對；D 是分詞短語，不符合句型要求。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據虛受詞句型，選擇最適合的選項。",
+      "question_eng": "I think it _______ that you should apologize to your friend immediately.",
+      "options": [
+        {
+          "key": "A",
+          "text": "necessary"
+        },
+        {
+          "key": "B",
+          "text": "is necessary"
+        },
+        {
+          "key": "C",
+          "text": "necessarily"
+        },
+        {
+          "key": "D",
+          "text": "to be necessary"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。虛受詞句型 think it + adj. + that 子句中，it 後需直接接形容詞 necessary（必需的），無須加 is。B 多了助動詞，破壞句型；C 是副詞，修飾動詞不符；D 結構錯誤。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇能完成句子的正確虛受詞結構。",
+      "question_eng": "She considers it _______ to maintain a work-life balance in order to achieve long-term success.",
+      "options": [
+        {
+          "key": "A",
+          "text": "essential undertaking"
+        },
+        {
+          "key": "B",
+          "text": "essential to undertake"
+        },
+        {
+          "key": "C",
+          "text": "essential undertaking"
+        },
+        {
+          "key": "D",
+          "text": "essentially undertake"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。虛受詞句型為 consider it + adj. + to V，所以應為 it essential to maintain。A 和 C 缺少 to 且句型不完整；D 使用副詞且無 to 不定詞，文法錯誤。",
+      "id": 3
+    },
+    {
+      "question_chi": "進階題：辨別虛受詞 it 與真正受詞的差異。",
+      "question_eng": "The professor made it clear to all students _______ the deadline for submitting research papers would not be extended under any circumstances.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "how"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。虛受詞句型 make it + adj. + to 受詞 (that 子句) 中，真正受詞由 that 子句承接，說明具體內容。B 是關係代詞，無法引導名詞子句；C 引導方式子句；D 引導疑問子句，皆不符。此句 it 是形式受詞，that 子句才是真實受詞。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我覺得每天早起上學很困難。",
+      "answer": "I find it difficult to wake up early and go to school every day.",
+      "key_points": [
+        "find + it + difficult",
+        "to wake up early",
+        "虛受詞 it 的使用"
+      ],
+      "hints": [
+        "句型框架：S + find + it + adj. + to V，it 是形式受詞，代替後方不定詞",
+        "常見錯誤：不能直接說『I find to wake up difficult』，必須在形容詞前插入 it"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "他認為在這麼多人面前發表演講很害怕。",
+      "answer": "He thinks it scary to give a speech in front of so many people.",
+      "key_points": [
+        "thinks + it + scary",
+        "to give a speech",
+        "in front of so many people"
+      ],
+      "hints": [
+        "句型框架：S + think + it + adj. + to V，形容詞可用 scary、nervous、embarrassing 等情感形容詞",
+        "注意：『in front of』片語修飾地點，置於不定詞之後可使句意更完整"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師認為學生理解這個複雜的文法概念是有可能的。",
+      "answer": "The teacher considers it possible for students to understand this complex grammar concept.",
+      "key_points": [
+        "considers + it + possible",
+        "for students to understand",
+        "複雜受詞結構 for + N + to V"
+      ],
+      "hints": [
+        "句型框架：S + consider + it + adj. + for sb. + to V，當不定詞有明確的邏輯主詞時，用『for + 人 + to V』",
+        "『possible』是表示可能性的形容詞，也可用 necessary、important、difficult 等"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我們發現同時兼顧學業、運動和社交活動這三件事是很有挑戰性的，特別是在大學入學考試之前。",
+      "answer": "We find it challenging to balance schoolwork, sports, and social activities at the same time, especially before the university entrance exam.",
+      "key_points": [
+        "find + it + challenging",
+        "to balance + three objects",
+        "時間副詞片語『especially before the university entrance exam』"
+      ],
+      "hints": [
+        "句型框架：S + find + it + adj. + to V，當不定詞後接多個並列受詞（schoolwork, sports, and social activities）時，該結構能避免句子過於繁重",
+        "『balance』意為『平衡』，比『do at the same time』更精確；『challenging』比『difficult』更具體地表達挑戰性"
+      ]
+    }
+  ]
+}

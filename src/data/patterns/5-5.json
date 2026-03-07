@@ -1,0 +1,365 @@
+{
+  "code": "5-5",
+  "chapter": 5,
+  "title": "S + find/consider/think + O + adj./N（受詞補語）",
+  "formulas": [
+    {
+      "formula": "S + find/consider/think/believe + O + adj./N",
+      "zh": "主詞用find/consider/think/believe等動詞，後接受詞及形容詞或名詞補語，說明受詞的狀態或身分"
+    },
+    {
+      "formula": "S + find/consider/think/believe + O + to be + adj./N",
+      "zh": "在受詞補語前加to be，使句子更正式或強調"
+    },
+    {
+      "formula": "S + find/consider/think/believe + it + adj. + to V",
+      "zh": "使用虛受詞it，形容詞修飾動作本身，表示做某事是...的"
+    }
+  ],
+  "explanation": "此句型屬於受詞補語結構，find/consider/think/believe等動詞後接受詞與補語。補語可為形容詞（描述受詞特性）或名詞（說明受詞身分），也可在補語前加to be使句式更正式。另一重點用法是虛受詞it結構，形容詞修飾的是動作本身而非受詞。此句型常見於學測，需注意補語詞性選擇與to be的使用時機，避免混淆受詞補語與狀語。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I find this book very interesting and worthwhile to read.",
+      "chi": "我發現這本書非常有趣且值得閱讀。",
+      "keywords": [
+        "find",
+        "受詞補語",
+        "形容詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Many people consider him a talented musician with great potential.",
+      "chi": "許多人認為他是一位極具潛力的天才音樂家。",
+      "keywords": [
+        "consider",
+        "名詞補語",
+        "身分"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We found it difficult to concentrate during the noisy renovation.",
+      "chi": "我們發現在吵鬧的裝修期間很難專注。",
+      "keywords": [
+        "find it adj. to V",
+        "虛受詞",
+        "動作修飾"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The teacher believed the student's explanation to be honest and reasonable.",
+      "chi": "老師認為這個學生的解釋是誠實且合理的。",
+      "keywords": [
+        "believe",
+        "to be補語",
+        "正式用法"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "interesting",
+      "zh": "有趣的"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的"
+    },
+    {
+      "adj": "suitable",
+      "zh": "合適的"
+    },
+    {
+      "adj": "a talented musician",
+      "zh": "才華洋溢的音樂家"
+    },
+    {
+      "adj": "a responsible leader",
+      "zh": "負責任的領導者"
+    },
+    {
+      "adj": "true",
+      "zh": "真實的"
+    },
+    {
+      "adj": "credible",
+      "zh": "可信的"
+    },
+    {
+      "adj": "ridiculous",
+      "zh": "荒謬的"
+    },
+    {
+      "adj": "essential",
+      "zh": "必不可少的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷補語詞性：若補語為形容詞，直接修飾受詞狀態；若為名詞，說明受詞身分。虛受詞it結構中，形容詞修飾的是動詞行為本身。注意不能混淆主詞補語與受詞補語的位置。常見錯誤是漏掉補語或誤用介詞。",
+    "examples": [
+      {
+        "test": "I find the task easy. vs. I find the task is easy.",
+        "result": "→ 第一句正確，受詞easy直接補充說明task；第二句冗贅，不符合受詞補語用法"
+      },
+      {
+        "test": "We find it necessary to study hard. vs. We find to study hard necessary.",
+        "result": "→ 第一句正確，使用虛受詞it；第二句詞序錯誤，違反英文語序規則"
+      },
+      {
+        "test": "They consider him a doctor. vs. They consider him being a doctor.",
+        "result": "→ 第一句正確，名詞直接補充；第二句使用being不當，應用to be或直接用名詞"
+      }
+    ],
+    "note": "受詞補語=受詞+形容詞/名詞，直接相連無to be；若要正式用to be或用虛受詞it。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I find learning English ",
+        null,
+        " but very rewarding in the long run."
+      ],
+      "blanks": [
+        "challenging"
+      ],
+      "sentence": "I find learning English challenging but very rewarding in the long run.",
+      "translation": "我發現學英文具有挑戰性，但從長遠來看非常有收穫。",
+      "keywords": [
+        "find",
+        "形容詞補語",
+        "受詞補語"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The manager considers Sarah ",
+        null,
+        " for the promotion."
+      ],
+      "blanks": [
+        "the most qualified candidate"
+      ],
+      "sentence": "The manager considers Sarah the most qualified candidate for the promotion.",
+      "translation": "經理認為莎拉是升職最合格的候選人。",
+      "keywords": [
+        "consider",
+        "名詞補語",
+        "身分"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "We found ",
+        null,
+        " difficult to finish the project before the deadline."
+      ],
+      "blanks": [
+        "it"
+      ],
+      "sentence": "We found it difficult to finish the project before the deadline.",
+      "translation": "我們發現在截止日期前完成這個項目很困難。",
+      "keywords": [
+        "find it adj. to V",
+        "虛受詞",
+        "動作修飾"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Scientists believe the discovery ",
+        null,
+        " a major breakthrough in medical research."
+      ],
+      "blanks": [
+        "to be"
+      ],
+      "sentence": "Scientists believe the discovery to be a major breakthrough in medical research.",
+      "translation": "科學家們認為這項發現是醫學研究的重大突破。",
+      "keywords": [
+        "believe",
+        "to be補語",
+        "正式風格"
+      ]
+    }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的受詞補語形式，完成關於老師評價學生的句子",
+      "question_eng": "The teacher finds the student's work _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "very impressive and helpful"
+        },
+        {
+          "key": "B",
+          "text": "very impressive and help"
+        },
+        {
+          "key": "C",
+          "text": "impression and helpful"
+        },
+        {
+          "key": "D",
+          "text": "impressed and helping"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。find後的受詞補語應為形容詞，修飾受詞work。「impressive」（令人印象深刻的）和「helpful」（有幫助的）皆為形容詞。B項「help」為名詞，不適合；C項「impression」為名詞，不符合此處需要形容詞的語法；D項「impressed」為過去分詞當形容詞但用於被動，「helping」為現在分詞，皆不適切。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的受詞補語結構，完成關於如何評價某人的句子",
+      "question_eng": "Many colleagues consider him _______ a great leader.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to be"
+        },
+        {
+          "key": "B",
+          "text": "being"
+        },
+        {
+          "key": "C",
+          "text": "as"
+        },
+        {
+          "key": "D",
+          "text": "was"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。當補語為名詞時，可在補語前加「to be」使句式更正式：consider + O + to be + N。此結構為「consider him to be a great leader」（認為他是位偉大的領導人）。B項「being」不符此結構；C項「as」後通常需接短語，不符文法；D項「was」為過去式助動詞，不合文意。",
+      "id": 2
+    },
+    {
+      "question_chi": "判斷虛受詞it結構的正確用法，完成關於做某事難易程度的句子",
+      "question_eng": "I find _______ quite difficult to master a foreign language in such a short time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "this"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "it"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。此為虛受詞it結構：find + it + adj. + to V。形容詞「difficult」修飾的是動作「to master」本身，而非真實受詞。虛受詞it是形式上的受詞，真實受詞為不定詞片語。A項「this」和B項「that」為指示詞，不能作虛受詞；D項「which」為關係代名詞，不合此結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "區分受詞補語與狀語的差異，選擇文法正確的句子",
+      "question_eng": "Critics _______ the new film both innovative and commercially successful, despite its controversial themes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "believe to be"
+        },
+        {
+          "key": "B",
+          "text": "believe"
+        },
+        {
+          "key": "C",
+          "text": "believing"
+        },
+        {
+          "key": "D",
+          "text": "are believed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。此句「believe + O + adj. + and + adj.」為受詞補語結構，兩個形容詞（innovative、successful）並列修飾受詞「the new film」。A項「believe to be」為較正式用法，但此處補語為兩個並列形容詞，直接使用believe更自然簡潔；C項「believing」為分詞，無法正確表達此結構；D項改為被動態，改變了句子意思。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我認為這份工作很有挑戰性。",
+      "answer": "I find this job challenging. / I consider this job challenging. / I think this job (to be) challenging.",
+      "key_points": [
+        "find/consider/think + O + adj.",
+        "challenging作受詞補語",
+        "描述受詞特性而非動作"
+      ],
+      "hints": [
+        "提示1：句型為『主詞 + find/consider/think + 受詞 + 形容詞補語』",
+        "提示2：不要加狀語副詞(如very)在動詞後，形容詞直接補充受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師認為他是一位有天賦的學生。",
+      "answer": "The teacher considers him a talented student. / The teacher thinks him (to be) a talented student.",
+      "key_points": [
+        "consider/think + O + N(名詞補語)",
+        "a talented student為受詞補語",
+        "名詞補語說明受詞身分"
+      ],
+      "hints": [
+        "提示1：補語可用名詞片語，需搭配冠詞與形容詞修飾",
+        "提示2：『considers him a talented student』中，a talented student是補語而非受詞，千萬別誤作直接受詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我發現這個問題比預期的更複雜。",
+      "answer": "I find this problem more complicated than expected. / I find this problem (to be) more complicated than expected.",
+      "key_points": [
+        "find + O + adj.(比較級)",
+        "more complicated作受詞補語",
+        "to be可加可不加，加則更正式"
+      ],
+      "hints": [
+        "提示1：補語可為單純形容詞或比較級形容詞片語『more + adj. + than...』",
+        "提示2：『to be』為可選項，加上使句式更正式，但不加也正確；注意不是『find it more complicated』(虛受詞結構)"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "許多人認為利用社群媒體很容易成為浪費時間的事。",
+      "answer": "Many people find it easy to waste time on social media. / Many people think it easy to waste time on social media. / Many people consider it easy to waste time on social media.",
+      "key_points": [
+        "it為虛受詞結構",
+        "easy修飾動作(to waste time)而非受詞",
+        "it + adj. + to V的重點用法"
+      ],
+      "hints": [
+        "提示1：虛受詞it結構『S + find/think/consider + it + adj. + to V』，it代指後面的不定詞動作",
+        "提示2：勿混淆『find O adj.』(O為真實受詞)與『find it adj. to V』(it為虛受詞)；easy修飾的是『waste time』這個行為，不是某個人或物"
+      ]
+    }
+  ]
+}

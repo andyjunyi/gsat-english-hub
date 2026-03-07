@@ -1,0 +1,361 @@
+{
+  "code": "4-27",
+  "chapter": 4,
+  "title": "no matter + 疑問詞 / -ever 複合詞",
+  "formulas": [
+    {
+      "formula": "No matter what/who/how/where/when + S + V, S + V",
+      "zh": "無論……如何，主句……；讓步副詞子句，表示無條件地、不管怎樣"
+    },
+    {
+      "formula": "Whatever/Whoever/However/Wherever/Whenever + S + V, S + V",
+      "zh": "無論什麼/誰/如何/何處/何時，主句……；-ever複合關係詞用法"
+    }
+  ],
+  "explanation": "讓步副詞子句用於表達「無論如何」的概念。「no matter + 疑問詞」與「-ever複合關係詞」（whatever, whoever, however等）意義相同，可互換使用。此句型強調主句情況不受從句條件影響，呈現無條件性或確定性。主句可置於從句前後。注意：no matter後需接疑問詞；-ever詞可直接作連接詞，句法更緊湊，在學測中使用頻率較高。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "No matter how hard he studied, he still failed the exam.",
+      "chi": "無論他多努力讀書，他還是沒通過考試。",
+      "keywords": [
+        "no matter how",
+        "讓步",
+        "無條件"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Whatever you decide, I will support your choice.",
+      "chi": "無論你決定什麼，我都會支持你的選擇。",
+      "keywords": [
+        "whatever",
+        "複合關係詞",
+        "決定"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Wherever you go, you should always remember your family.",
+      "chi": "無論你去哪裡，你應該永遠記住你的家庭。",
+      "keywords": [
+        "wherever",
+        "無論何處",
+        "家庭"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "No matter who you are, everyone must follow the school rules.",
+      "chi": "無論你是誰，每個人都必須遵守校規。",
+      "keywords": [
+        "no matter who",
+        "身份",
+        "規則"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷要點：此句型強調結果的確定性或無條件性。「no matter + 疑問詞」較正式、冗長；「-ever複合關係詞」更簡潔、現代，學測偏好。兩者可互換，但-ever詞用法在英文寫作中更常見。避免混用：不可寫「no matter whatever」。",
+    "examples": [
+      {
+        "test": "No matter what happens, I will finish this project. vs Whatever happens, I will finish this project.",
+        "result": "→ 兩句意思相同，都表示「無論發生什麼事，我都會完成這個項目」；-ever版本更簡潔"
+      },
+      {
+        "test": "❌ No matter how much you study, you understand nothing. vs ✓ However much you study, you understand nothing.",
+        "result": "→ however much (無論多麼) 比 no matter how much 更自然流暢，後者在口語中較為生硬"
+      },
+      {
+        "test": "Whenever you need help, just call me. vs No matter when you need help, just call me.",
+        "result": "→ 前句更自然；no matter when 帶有強調無條件的色彩，slightly more emphatic"
+      }
+    ],
+    "note": "「no matter + 疑問詞 = -ever詞」，兩者互換，無論……都……；前句強調條件，後句表達結果確定。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "No matter ",
+        null,
+        " you try, you cannot change the past."
+      ],
+      "blanks": [
+        "how hard"
+      ],
+      "sentence": "No matter how hard you try, you cannot change the past.",
+      "translation": "無論你多努力嘗試，你都無法改變過去。",
+      "keywords": [
+        "no matter how",
+        "努力",
+        "過去"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        null,
+        " you choose to study, consistency is the key to success."
+      ],
+      "blanks": [
+        "Whatever way / However"
+      ],
+      "sentence": "Whatever way you choose to study, consistency is the key to success.",
+      "translation": "無論你選擇用什麼方式讀書，持之以恆是成功的關鍵。",
+      "keywords": [
+        "whatever way",
+        "複合關係詞",
+        "成功"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I will protect you, ",
+        null,
+        " you are in danger."
+      ],
+      "blanks": [
+        "no matter where / wherever"
+      ],
+      "sentence": "I will protect you, no matter where you are in danger.",
+      "translation": "無論你在哪裡遇到危險，我都會保護你。",
+      "keywords": [
+        "no matter where",
+        "保護",
+        "危險"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        null,
+        " happens, we must stay calm and think rationally."
+      ],
+      "blanks": [
+        "No matter what / Whatever"
+      ],
+      "sentence": "No matter what happens, we must stay calm and think rationally.",
+      "translation": "無論發生什麼事，我們必須保持冷靜並理性思考。",
+      "keywords": [
+        "no matter what",
+        "冷靜",
+        "理性"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "hard",
+      "zh": "困難地、努力地"
+    },
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "impossible",
+      "zh": "不可能的"
+    },
+    {
+      "adj": "always",
+      "zh": "總是、永遠"
+    },
+    {
+      "adj": "never",
+      "zh": "從不"
+    },
+    {
+      "adj": "whether or not",
+      "zh": "是否"
+    },
+    {
+      "adj": "succeed",
+      "zh": "成功"
+    },
+    {
+      "adj": "fail",
+      "zh": "失敗"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "happen",
+      "zh": "發生"
+    },
+    {
+      "adj": "change",
+      "zh": "改變"
+    },
+    {
+      "adj": "try",
+      "zh": "嘗試、努力"
+    }
+  ],
+  "vocab_table_label": "常用形容詞／副詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇適當的讓步副詞子句，表達無論如何都要堅持的概念",
+      "question_eng": "_______ you decide, I will always support your choice.",
+      "options": [
+        {
+          "key": "A",
+          "text": "No matter what"
+        },
+        {
+          "key": "B",
+          "text": "Whatever"
+        },
+        {
+          "key": "C",
+          "text": "No matter how"
+        },
+        {
+          "key": "D",
+          "text": "However"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「Whatever」。此處需要讓步副詞子句表達「無論你決定什麼」。Whatever和No matter what都可使用，但在空格後直接接「you decide」（無賓語重述），Whatever作連接詞最佳。A項「No matter what」需在空格後接完整句構。C項「No matter how」和D項「However」皆表示方式，不符合「決定什麼」的語義。",
+      "id": 1
+    },
+    {
+      "question_chi": "填入讓步副詞子句，表示無論多努力都達不到目標",
+      "question_eng": "No matter _______ hard she works, she cannot reach the top position in the company.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how"
+        },
+        {
+          "key": "B",
+          "text": "what"
+        },
+        {
+          "key": "C",
+          "text": "why"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「how」。「No matter how hard」表達「無論多努力」，how搭配形容詞hard修飾動詞works。B項「what」用於「無論什麼事物」，與句義不符。C項「why」表「為什麼」，D項「whether」表「是否」，皆不適合此語境。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確的讓步副詞結構，表達無論在何處都適用",
+      "question_eng": "Wherever you go, _______ you will find people who appreciate your talent.",
+      "options": [
+        {
+          "key": "A",
+          "text": "no matter where"
+        },
+        {
+          "key": "B",
+          "text": "I believe that"
+        },
+        {
+          "key": "C",
+          "text": "however"
+        },
+        {
+          "key": "D",
+          "text": "no matter how"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「I believe that」。此句已使用「Wherever」開頭的讓步副詞子句，主句應為完整句構，需加入主語和動詞。A項重複讓步子句結構不符。C項「however」和D項「no matter how」皆為讓步副詞，與已有的「Wherever」結構重疊衝突。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷which句型中，應使用哪個讓步副詞結構使句義連貫",
+      "question_eng": "The project will proceed as planned, _______ opinions you may have about it, because the deadline is immovable.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whatever"
+        },
+        {
+          "key": "B",
+          "text": "no matter what"
+        },
+        {
+          "key": "C",
+          "text": "however"
+        },
+        {
+          "key": "D",
+          "text": "no matter however"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「whatever」。空格後接「opinions you may have」（名詞片語），whatever可直接作連接詞且兼作「opinions」的賓語，用法最緊湊。B項「no matter what」句法較冗長但亦可。C項「however」表方式，不符。D項「no matter however」為文法錯誤，-ever詞與no matter不可並用。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "無論天氣如何，我們都會按時到達學校。",
+      "answer": "No matter how the weather is, we will arrive at school on time. / However the weather is, we will arrive at school on time.",
+      "key_points": [
+        "No matter how / However",
+        "weather is",
+        "will arrive on time"
+      ],
+      "hints": [
+        "提示1：此題用『how』表示天氣狀況，句型為『No matter how + S + V』或『However + S + V』",
+        "提示2：『however』直接作連接詞，後接完整子句，不需加『that』"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "無論是誰犯了錯誤，都必須為自己的行為負責。",
+      "answer": "No matter who makes the mistake, they must take responsibility for their actions. / Whoever makes the mistake must take responsibility for their actions.",
+      "key_points": [
+        "No matter who / Whoever",
+        "makes the mistake",
+        "take responsibility for"
+      ],
+      "hints": [
+        "提示1：『who』引導讓步副詞子句，表示『任何人』的概念，可用『no matter who』或『whoever』",
+        "提示2：『whoever』可直接作主語，使句子更緊湊，注意『whoever makes the mistake』本身即為主語"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "無論你去哪裡深造，家人的支持都不會改變。",
+      "answer": "No matter where you go to further your studies, your family's support will never change. / Wherever you go to further your studies, your family's support will never change.",
+      "key_points": [
+        "No matter where / Wherever",
+        "go to further one's studies",
+        "support will never change"
+      ],
+      "hints": [
+        "提示1：『where』表地點，句型為『No matter where + S + V』或『Wherever + S + V』，強調地點的多樣性不影響結果",
+        "提示2：主句用『will never change』強化『無條件性』，注意『further one's studies』是『深造、進修』的固定搭配"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "無論別人說什麼，只要你堅信自己的夢想，就不應該放棄追求。",
+      "answer": "No matter what others say, as long as you believe in your own dreams, you should never give up pursuing them. / Whatever others say, as long as you believe in your own dreams, you should never give up pursuing them.",
+      "key_points": [
+        "No matter what / Whatever",
+        "others say",
+        "believe in one's dreams + should never give up"
+      ],
+      "hints": [
+        "提示1：『what』引導讓步副詞子句表示『任何事情』，可用『no matter what』或『whatever』；主句含條件『as long as』加強文意層次",
+        "提示2：注意『give up pursuing / give up + V-ing』的用法，以及『believe in one's dreams』（相信某人的夢想）與『believe in oneself』的區別"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "code": "1-6",
+  "chapter": 1,
+  "title": "It + V + that + S + V（虛主詞 + 名詞子句）",
+  "formulas": [
+    {
+      "formula": "It + is/seems/appears + that + S + V",
+      "zh": "虛主詞 + 連綴動詞 + that 子句；真正主詞和動詞置於 that 子句中"
+    },
+    {
+      "formula": "It + is + said/known/believed/reported + that + S + V",
+      "zh": "虛主詞 + 被動句型 + that 子句；表示傳聞、已知或推測"
+    }
+  ],
+  "explanation": "此句型使用虛主詞 it，將真正的主詞子句（that 子句）後移，使句子結構更自然流暢。常見於被動語態表達，如 \"It is said that...\"、\"It is known that...\" 等，用以表達傳聞、推測、已知事實或報導。虛主詞 it 本身無實義，只是句子結構上的需要。該句型與 \"That + S + V + is + adj.\" 意義相同，但前者較為正式、中立。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It is said that he will arrive in Taiwan next week.",
+      "chi": "據說他下週將抵達台灣。",
+      "keywords": [
+        "It is said that",
+        "虛主詞",
+        "傳聞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It appears that the company is facing serious financial difficulties.",
+      "chi": "看起來該公司正面臨嚴重的財務困難。",
+      "keywords": [
+        "It appears that",
+        "推測",
+        "appears"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is believed that climate change will have significant impacts on agriculture.",
+      "chi": "人們普遍認為氣候變遷將對農業產生重大影響。",
+      "keywords": [
+        "It is believed that",
+        "被動句型",
+        "普遍認為"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It seems that most students prefer online learning to traditional classes.",
+      "chi": "看起來大多數學生更喜歡線上學習而不是傳統課堂。",
+      "keywords": [
+        "It seems that",
+        "虛主詞結構",
+        "傾向"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "虛主詞 it 必須使用，不可省略或改為其他代詞。該句型多用於正式、學術或新聞文體。注意：\"It is + adj. + that...\" 結構中的形容詞必須能搭配 that 子句，不是所有形容詞都適用。",
+    "examples": [
+      {
+        "test": "It is said that she won the award. vs. She is said to have won the award.",
+        "result": "→ 前者使用 that 子句，後者使用不定式，兩者意義相同但結構不同；學測常考兩種變體互換"
+      },
+      {
+        "test": "❌ That she will come is certain. vs. ✓ It is certain that she will come.",
+        "result": "→ 後者因使用虛主詞而更自然，是更常見的表達方式"
+      }
+    ],
+    "note": "記住：虛主詞 it 開頭 + 連綴動詞/被動動詞 + that + 完整子句，這是正式書寫的標準模式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " that the government will announce the new policy tomorrow."
+      ],
+      "blanks": [
+        "It is expected"
+      ],
+      "sentence": "It is expected that the government will announce the new policy tomorrow.",
+      "translation": "預期政府將於明天公布新政策。",
+      "keywords": [
+        "It is expected that",
+        "虛主詞",
+        "被動結構"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "",
+        null,
+        " that plastic pollution is affecting marine ecosystems globally."
+      ],
+      "blanks": [
+        "It is known"
+      ],
+      "sentence": "It is known that plastic pollution is affecting marine ecosystems globally.",
+      "translation": "眾所周知，塑膠污染正在全球影響海洋生態系統。",
+      "keywords": [
+        "It is known that",
+        "眾所周知",
+        "已知事實"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " that renewable energy will become the main power source in the future."
+      ],
+      "blanks": [
+        "It seems"
+      ],
+      "sentence": "It seems that renewable energy will become the main power source in the future.",
+      "translation": "看起來再生能源將成為未來的主要電力來源。",
+      "keywords": [
+        "It seems that",
+        "推測",
+        "虛主詞"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "",
+        null,
+        " that this novel has been translated into over fifty languages."
+      ],
+      "blanks": [
+        "It is reported"
+      ],
+      "sentence": "It is reported that this novel has been translated into over fifty languages.",
+      "translation": "據報導，這部小說已被翻譯成五十多種語言。",
+      "keywords": [
+        "It is reported that",
+        "據報導",
+        "被動句型"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "said",
+      "zh": "據說、被說"
+    },
+    {
+      "adj": "known",
+      "zh": "已知、眾所周知"
+    },
+    {
+      "adj": "believed",
+      "zh": "被認為、人們相信"
+    },
+    {
+      "adj": "reported",
+      "zh": "據報導、被報告"
+    },
+    {
+      "adj": "estimated",
+      "zh": "被估計、估計"
+    },
+    {
+      "adj": "suggested",
+      "zh": "被建議、有跡象表明"
+    },
+    {
+      "adj": "clear",
+      "zh": "清楚的、明顯的"
+    },
+    {
+      "adj": "obvious",
+      "zh": "顯然的、明顯的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的、必需的"
+    },
+    {
+      "adj": "possible",
+      "zh": "可能的、可行的"
+    },
+    {
+      "adj": "true",
+      "zh": "真實的、正確的"
+    },
+    {
+      "adj": "important",
+      "zh": "重要的、關鍵的"
+    }
+  ],
+  "vocab_table_label": "常用被動動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的虛主詞句型，表達一個眾所周知的事實。",
+      "question_eng": "_______ is known that the Earth revolves around the Sun.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It"
+        },
+        {
+          "key": "B",
+          "text": "That"
+        },
+        {
+          "key": "C",
+          "text": "This"
+        },
+        {
+          "key": "D",
+          "text": "What"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（It）。此句型使用虛主詞 it，將真正主詞的 that 子句後移。\"It is known that...\" 是標準被動語態的虛主詞句型。選項 B（That）若置於句首需搭配 be 動詞形成 \"That...is known\"，但題目已有 is，文法錯誤。選項 C（This）和 D（What）都無法與此結構搭配。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇合適的動詞，完成虛主詞句型表達推測。",
+      "question_eng": "It _______ that the new product will be launched next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is believed"
+        },
+        {
+          "key": "B",
+          "text": "believes"
+        },
+        {
+          "key": "C",
+          "text": "is believing"
+        },
+        {
+          "key": "D",
+          "text": "believed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（is believed）。虛主詞句型需使用被動語態 \"It + is + 過去分詞 + that...\"，表達傳聞或推測。\"is believed that...\" 意為「據信...」。選項 B（believes）主動語態在此結構不適用。選項 C（is believing）時態錯誤，該句不用進行式。選項 D（believed）缺少 is，文法不完整。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當的詞彙與時態，完成虛主詞句型表達報導。",
+      "question_eng": "It is reported that the famous actress _______ in a luxury car accident last night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was involved"
+        },
+        {
+          "key": "B",
+          "text": "has been involved"
+        },
+        {
+          "key": "C",
+          "text": "is involving"
+        },
+        {
+          "key": "D",
+          "text": "involves"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（was involved）。由於主句時態是現在式（is reported），而 \"last night\" 表過去特定時間，that 子句應用過去時態。\"was involved in...\" 表達「捲入...」的被動事件。選項 B（has been involved）強調持續影響，但 \"last night\" 特指過去時刻，不適用完成式。選項 C 和 D 為主動語態，與虛主詞被動句型的表達習慣不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨別虛主詞句型與直接主語句型的差異，選擇最正式表達。",
+      "question_eng": "In the official report, _______ it appears that the company has concealed significant financial irregularities for several years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It appears that the company"
+        },
+        {
+          "key": "B",
+          "text": "that the company appears"
+        },
+        {
+          "key": "C",
+          "text": "the company appears to"
+        },
+        {
+          "key": "D",
+          "text": "appearing that the company"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（It appears that the company）。虛主詞句型 \"It appears that...\" 較直接用 \"The company appears to...\" 更形式正式、中立，適合官方報告語境。此句型強調說話人的客觀推測。選項 B 語序錯誤，\"that\" 不應在句首。選項 C 雖文法正確，但不如虛主詞句型正式有力。選項 D（appearing）非動詞用法，文法錯誤。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "據說明年會有新的大學入學制度。",
+      "answer": "It is said that there will be a new university admission system next year.",
+      "key_points": [
+        "It is said that",
+        "there will be",
+        "虛主詞 it 無實義"
+      ],
+      "hints": [
+        "提示1：使用『It is said that + S + V』結構，將子句後移",
+        "提示2：注意時態與被動語態搭配，『said』表傳聞，不需加『by whom』"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "人們普遍認為運動對身體健康很重要。",
+      "answer": "It is believed that exercise is very important for physical health.",
+      "key_points": [
+        "It is believed that",
+        "exercise is",
+        "形容詞 important 搭配介詞 for"
+      ],
+      "hints": [
+        "提示1：『believed』為被動語態，表示普遍看法或共識",
+        "提示2：主詞 exercise 為單數，動詞用 is；避免誤用『It is believed that people think...』的重複結構"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "眾所周知，充足的睡眠對學生的學業表現有很大的影響。",
+      "answer": "It is well known that adequate sleep has a significant impact on students' academic performance.",
+      "key_points": [
+        "It is well known that",
+        "adequate sleep / has a significant impact on",
+        "名詞所有格 students'"
+      ],
+      "hints": [
+        "提示1：『well known』強調眾所周知的事實，『well』修飾 known；整個結構為『It + is + well known + that + S + V』",
+        "提示2：注意『impact on』為固定搭配；『academic performance』為關鍵詞；避免用『It is known that people know...』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "據報導，長時間使用社群媒體可能會導致青少年的心理健康問題，但這一點仍有許多人質疑。",
+      "answer": "It is reported that prolonged use of social media may lead to mental health problems in adolescents, though this remains questioned by many.",
+      "key_points": [
+        "It is reported that",
+        "prolonged use / may lead to",
+        "虛主詞句型搭配轉折子句"
+      ],
+      "hints": [
+        "提示1：『reported』表示新聞報導；『prolonged』修飾 use；『may lead to』表推測性因果；後半句用『though』引導轉折",
+        "提示2：避免誤用『It is reported that people report...』；注意『in adolescents』說明受影響者；『questioned by many』為被動結構，表示異議"
+      ]
+    }
+  ]
+}

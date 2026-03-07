@@ -1,0 +1,367 @@
+{
+  "code": "5-4",
+  "chapter": 5,
+  "title": "S + name/call/elect + O + N（受詞補語命名）",
+  "formulas": [
+    {
+      "formula": "S + name/call/elect/appoint/choose + O + N",
+      "zh": "主詞 + 命名/稱呼/選舉/任命/選擇 + 受詞 + 名詞（受詞補語）"
+    },
+    {
+      "formula": "S + be + called/named/elected/appointed/chosen + N (passive)",
+      "zh": "主詞 + 被 + 命名/稱呼/選舉/任命/選擇 + 名詞（被動式）"
+    }
+  ],
+  "explanation": "此句型使用命名、稱呼、選舉類動詞，後接受詞與名詞補語來說明受詞的身分或角色。受詞補語為名詞，表示被命名者、被選者或被任命者的身分。主要動詞包含name、call、elect、appoint、choose等。被動式時，受詞補語仍保留在述部。此句型常用於介紹人物身分、職位變更或正式任命場景，需注意補語名詞不加冠詞（當表職位時）或加冠詞（當表一般身分時）的差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The board appointed him director of the company last year.",
+      "chi": "董事會去年任命他為公司董事。",
+      "keywords": [
+        "appoint",
+        "director",
+        "受詞補語"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "People called her the most talented pianist in the country.",
+      "chi": "人們稱她為全國最有才華的鋼琴家。",
+      "keywords": [
+        "call",
+        "pianist",
+        "稱呼"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The citizens elected John president of their organization.",
+      "chi": "公民選舉約翰為該組織的主席。",
+      "keywords": [
+        "elect",
+        "president",
+        "選舉"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "His parents named him Robert after his grandfather.",
+      "chi": "他的父母以他祖父的名字為他取名羅伯特。",
+      "keywords": [
+        "name",
+        "Robert",
+        "命名"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時需確認受詞補語是否為名詞而非形容詞。同時注意職位名詞前的冠詞：表特定職位（如 director）通常不加 a/the，但表身分描述（如 hero, genius）可加冠詞。被動轉換時，受詞補語位置不變，仍為述部補語。",
+    "examples": [
+      {
+        "test": "We elected him president. vs. We elected him the president.",
+        "result": "→ 第一句正確。職位名詞作補語不加冠詞；第二句不符合英文慣例。"
+      },
+      {
+        "test": "She was named Maria by her parents. vs. She was named a hero by the media.",
+        "result": "→ 兩句都正確。首句為取名，第二句表身分描述，可加冠詞。"
+      },
+      {
+        "test": "They chose John captain of the team. vs. They chose John as captain of the team.",
+        "result": "→ 兩句均可接受。前者為標準句型，後者加 as 亦可，但更強調轉換意義。"
+      }
+    ],
+    "note": "受詞 + 名詞補語 = 受詞的最終身分或角色，缺一不可；被動時主詞即為原受詞。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The committee ",
+        null,
+        " her chairwoman of the organization.",
+        ""
+      ],
+      "blanks": [
+        "appointed"
+      ],
+      "sentence": "The committee appointed her chairwoman of the organization.",
+      "translation": "委員會任命她為該組織的女主席。",
+      "keywords": [
+        "appoint",
+        "chairwoman",
+        "任命"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "This researcher is ",
+        null,
+        " the pioneer of modern biology by scientists worldwide.",
+        ""
+      ],
+      "blanks": [
+        "called"
+      ],
+      "sentence": "This researcher is called the pioneer of modern biology by scientists worldwide.",
+      "translation": "這位研究者被世界各地的科學家稱為現代生物學的先驅。",
+      "keywords": [
+        "called",
+        "pioneer",
+        "稱呼"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The voters ",
+        null,
+        " her their representative in parliament.",
+        ""
+      ],
+      "blanks": [
+        "elected"
+      ],
+      "sentence": "The voters elected her their representative in parliament.",
+      "translation": "選民選舉她為他們在議會的代表。",
+      "keywords": [
+        "elect",
+        "representative",
+        "選舉"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Her grandmother ",
+        null,
+        " her Emma, a name that carries family history.",
+        ""
+      ],
+      "blanks": [
+        "named"
+      ],
+      "sentence": "Her grandmother named her Emma, a name that carries family history.",
+      "translation": "她的祖母為她取名艾瑪，這個名字承載著家族歷史。",
+      "keywords": [
+        "named",
+        "Emma",
+        "命名"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "appoint",
+      "zh": "任命、委派"
+    },
+    {
+      "adj": "elect",
+      "zh": "選舉、選出"
+    },
+    {
+      "adj": "call",
+      "zh": "稱呼、叫做"
+    },
+    {
+      "adj": "name",
+      "zh": "取名、命名"
+    },
+    {
+      "adj": "choose",
+      "zh": "選擇、挑選"
+    },
+    {
+      "adj": "designate",
+      "zh": "指定、標記"
+    },
+    {
+      "adj": "declare",
+      "zh": "宣布、聲明"
+    },
+    {
+      "adj": "make",
+      "zh": "使成為、製成"
+    },
+    {
+      "adj": "president",
+      "zh": "主席、總統"
+    },
+    {
+      "adj": "director",
+      "zh": "主任、董事"
+    },
+    {
+      "adj": "manager",
+      "zh": "經理、管理員"
+    },
+    {
+      "adj": "champion",
+      "zh": "冠軍、擁護者"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的受詞補語結構，完成關於人物身分的句子",
+      "question_eng": "The company _______ him manager of the sales department.",
+      "options": [
+        {
+          "key": "A",
+          "text": "named"
+        },
+        {
+          "key": "B",
+          "text": "was named"
+        },
+        {
+          "key": "C",
+          "text": "had named"
+        },
+        {
+          "key": "D",
+          "text": "naming"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。此句使用 name 搭配受詞補語結構：S + name + O + N（職位）。主詞 the company、動詞 named、受詞 him、補語 manager 依序排列，職位名詞不加冠詞。B 是被動式（he was named manager），改變了句子主詞。C 過去完成式不符文意。D 分詞形式無法作主要動詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷被動式中受詞補語的正確位置和形式",
+      "question_eng": "She was _______ the first female president of the university in 2020.",
+      "options": [
+        {
+          "key": "A",
+          "text": "elected"
+        },
+        {
+          "key": "B",
+          "text": "being elected"
+        },
+        {
+          "key": "C",
+          "text": "electing"
+        },
+        {
+          "key": "D",
+          "text": "elect"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。被動式結構：S + be + elected + N（身分）。She was elected 後接身分補語 the first female president，補語為一般身分需加定冠詞 the。B 進行式不符。C 主動分詞用法錯誤。D 原形動詞無法搭配 was。此句型強調被選者的身分角色。",
+      "id": 2
+    },
+    {
+      "question_chi": "識別包含受詞補語的完整句子，注意職位名詞是否加冠詞",
+      "question_eng": "The board of directors will _______ him _______ of the newly established research institute.",
+      "options": [
+        {
+          "key": "A",
+          "text": "appoint / a director"
+        },
+        {
+          "key": "B",
+          "text": "appoint / director"
+        },
+        {
+          "key": "C",
+          "text": "have appointed / the director"
+        },
+        {
+          "key": "D",
+          "text": "appointed / director"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。appoint 搭配受詞補語：S + appoint + O + N。職位名詞作補語時通常不加冠詞（director）。A 加了不定冠詞，表非特定身分，但此處強調職位任命應無冠詞。C 時態應為 will appoint（未來式），不是完成式。D 動詞形式不符，需要 will appoint。",
+      "id": 3
+    },
+    {
+      "question_chi": "比較含受詞補語的主動與被動結構，判斷邏輯完整性",
+      "question_eng": "Although critics initially dismissed him as a mere entertainer, the public eventually _______ him _______ of modern theatre, a recognition that even academic institutions could not ignore.",
+      "options": [
+        {
+          "key": "A",
+          "text": "called / a pioneer"
+        },
+        {
+          "key": "B",
+          "text": "calling / pioneer"
+        },
+        {
+          "key": "C",
+          "text": "were calling / the pioneer"
+        },
+        {
+          "key": "D",
+          "text": "have called / pioneer"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。此句使用 call 搭配受詞補語：S + call + O + N。主詞 the public、動詞 called、受詞 him、補語 a pioneer。因強調『一個先驅者』的身分（非特定或首次認可），需加不定冠詞 a。B 分詞無法作主動詞。C 複數主詞應為 were，但邏輯不符。D 定冠詞 the 用法不當，應為不定冠詞。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學校選舉時，同學們選舉李明為班長。",
+      "answer": "The classmates elected Li Ming class monitor.",
+      "key_points": [
+        "elect + O + N 結構",
+        "class monitor（職位名詞，不加冠詞）",
+        "過去式 elected"
+      ],
+      "hints": [
+        "提示1：使用 elect 搭配受詞 Li Ming 和職位補語 class monitor",
+        "提示2：職位前不加 a/an，直接使用名詞作補語"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師任命王雨為學生會主席。",
+      "answer": "The teacher appointed Wang Yu president of the Student Council.",
+      "key_points": [
+        "appoint + O + N 結構",
+        "president（職位補語，不加冠詞）",
+        "of the Student Council（職位限定修飾語）"
+      ],
+      "hints": [
+        "提示1：appoint 表示『正式任命』，後接受詞和職位名詞補語",
+        "提示2：職位名詞前不加冠詞，但可加介詞片語來限定範圍（如 of the Student Council）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這本書的作者被譯者稱為當代最偉大的文學家。",
+      "answer": "The author of the book was called the greatest contemporary writer by the translator.",
+      "key_points": [
+        "被動式：be + called + O + N",
+        "the greatest contemporary writer（帶冠詞的身分補語）",
+        "by the translator（施事者短語）"
+      ],
+      "hints": [
+        "提示1：被動式時原受詞補語保留在述部，結構為 be + called/named + N",
+        "提示2：當補語是一般身分描述而非單純職位時，要加冠詞 the；被動式中施事者用 by 引導"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "新當選的總統將被全國人民稱為人民的僕人，並且他被任命為三軍統帥。",
+      "answer": "The newly elected president will be called a servant of the people by the nation, and he was appointed commander-in-chief of the armed forces.",
+      "key_points": [
+        "複合被動式：will be called + a servant of the people",
+        "appoint + commander-in-chief（軍事職位）",
+        "a servant of the people（帶冠詞的身分補語）vs. commander-in-chief（職位無冠詞）"
+      ],
+      "hints": [
+        "提示1：本題含兩個命名/任命句型，第一個用 call（被稱為）搭配身分補語加冠詞，第二個用 appoint 搭配職位補語無冠詞",
+        "提示2：『人民的僕人』是比喻身分，需加 a；『統帥』是具體職位，不加冠詞；注意時態一致性（will be called vs. was appointed 依語境調整）"
+      ]
+    }
+  ]
+}

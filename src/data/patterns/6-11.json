@@ -1,0 +1,373 @@
+{
+  "code": "6-11",
+  "chapter": 6,
+  "title": "S + spend + 時間/金錢 + V-ing",
+  "formulas": [
+    {
+      "formula": "S + spend + 時間/金錢 + V-ing",
+      "zh": "某人花費時間/金錢做某事"
+    },
+    {
+      "formula": "S + spend + 時間/金錢 + on + N",
+      "zh": "某人花費時間/金錢在某事物上"
+    }
+  ],
+  "explanation": "spend 句型中，主詞必須是人，後接時間或金錢作受詞。可接動名詞（V-ing）表示具體活動，或接 on + 名詞表示目標對象。與 it takes 的重要區別：spend 強調主詞的主動投入，it takes 為虛主詞結構表耗時多久。例如「He spent two hours studying」vs「It takes two hours to study」。兩者都表耗時，但句式結構完全不同。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I spent three hours doing my homework yesterday evening.",
+      "chi": "我昨晚花了三小時做功課。",
+      "keywords": [
+        "spend",
+        "V-ing",
+        "時間"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She spent $500 on a new winter coat for the upcoming season.",
+      "chi": "她花了五百美元買新的冬大衣。",
+      "keywords": [
+        "spend",
+        "on + N",
+        "金錢"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "They spent the whole weekend planning their graduation trip carefully.",
+      "chi": "他們花整個週末仔細規劃畢業旅行。",
+      "keywords": [
+        "spend",
+        "V-ing",
+        "時間表達"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "My parents spend a lot of money on my education every year.",
+      "chi": "我的父母每年在我的教育上花很多錢。",
+      "keywords": [
+        "spend",
+        "on + N",
+        "金錢"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷是否用 V-ing 或 on + N：若動作明確具體用 V-ing（studying, playing）；若是物品或事物用 on + N（on clothes, on books）。注意 spend 後不能直接接不定詞（錯：spend...to do），只能接 V-ing 或 on + N。常見錯誤是混淆 spend 與 take 的主詞要求。",
+    "examples": [
+      {
+        "test": "She spent two hours to study.（錯誤）",
+        "result": "→ She spent two hours studying.（正確）或 It took her two hours to study."
+      },
+      {
+        "test": "They spend money on books regularly.（正確）",
+        "result": "→ They spend money buying books regularly.（也正確）"
+      },
+      {
+        "test": "It spends three days making the project.（錯誤）",
+        "result": "→ It takes three days to make the project.（正確，it takes 結構）"
+      }
+    ],
+    "note": "記住：spend 的主詞必須是人，後接「時間/金錢 + V-ing」或「時間/金錢 + on + 名詞」兩種形式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "He spent two hours ",
+        null,
+        " for the upcoming exam.",
+        " "
+      ],
+      "blanks": [
+        "studying / preparing"
+      ],
+      "sentence": "He spent two hours studying for the upcoming exam.",
+      "translation": "他花了兩小時為即將到來的考試做準備。",
+      "keywords": [
+        "spend",
+        "V-ing",
+        "時間"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The company spent millions of dollars ",
+        null,
+        " new technology.",
+        " "
+      ],
+      "blanks": [
+        "on developing / on investing in"
+      ],
+      "sentence": "The company spent millions of dollars on developing new technology.",
+      "translation": "該公司花費數百萬美元開發新技術。",
+      "keywords": [
+        "spend",
+        "on + N",
+        "金錢"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I ",
+        null,
+        " the whole afternoon ",
+        null,
+        " with my friends.",
+        " "
+      ],
+      "blanks": [
+        "spent",
+        "chatting / talking"
+      ],
+      "sentence": "I spent the whole afternoon chatting with my friends.",
+      "translation": "我花了整個下午與朋友聊天。",
+      "keywords": [
+        "spend",
+        "時間",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "My parents ",
+        null,
+        " significant funds ",
+        null,
+        " my music lessons.",
+        " "
+      ],
+      "blanks": [
+        "spend / have spent",
+        "on"
+      ],
+      "sentence": "My parents spend significant funds on my music lessons.",
+      "translation": "我的父母在我的音樂課上花費大量資金。",
+      "keywords": [
+        "spend",
+        "金錢",
+        "on + N"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "a lot of",
+      "zh": "許多、大量"
+    },
+    {
+      "adj": "plenty of",
+      "zh": "充足的、大量的"
+    },
+    {
+      "adj": "several hours",
+      "zh": "幾小時"
+    },
+    {
+      "adj": "the whole day",
+      "zh": "整天"
+    },
+    {
+      "adj": "considerable",
+      "zh": "相當可觀的"
+    },
+    {
+      "adj": "enormous",
+      "zh": "巨大的"
+    },
+    {
+      "adj": "modest",
+      "zh": "不多的、適度的"
+    },
+    {
+      "adj": "precious",
+      "zh": "寶貴的（時間）"
+    },
+    {
+      "adj": "countless hours",
+      "zh": "無數小時"
+    },
+    {
+      "adj": "substantial",
+      "zh": "大量的、實質的"
+    },
+    {
+      "adj": "tremendous",
+      "zh": "龐大的、巨大的"
+    },
+    {
+      "adj": "meager",
+      "zh": "微薄的、不足的"
+    }
+  ],
+  "vocab_table_label": "常用時間與數量表達",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的spend句型，表示花費時間做某事",
+      "question_eng": "Tom _______ two hours playing video games last night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "spent"
+        },
+        {
+          "key": "B",
+          "text": "spends"
+        },
+        {
+          "key": "C",
+          "text": "spend"
+        },
+        {
+          "key": "D",
+          "text": "spending"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「spent」。spend的過去式形式，與時間點「last night」相符。句型為S + spent + 時間 + V-ing。B項spends為第三人稱單數現在式，但主詞Tom與時間「last night」不符。C項spend為原型，缺少時態標記。D項spending為動名詞，無法作為主要動詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意選擇spend的正確搭配方式",
+      "question_eng": "She spent $200 _______ a new laptop for her online classes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "buying"
+        },
+        {
+          "key": "B",
+          "text": "on buying"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "for buying"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「on」。spend後接金錢時，可用「spend + 金錢 + on + N」結構，on後直接接名詞laptop。A項buying為V-ing但前面缺on，破壞句型結構。B項「on buying」屬於double preposition，用法錯誤。D項for用法不符spend搭配習慣。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分spend與it takes的用法差異，選擇適當句型",
+      "question_eng": "_______ him three days to finish the project, but he enjoyed every moment of work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "He spent"
+        },
+        {
+          "key": "B",
+          "text": "It took"
+        },
+        {
+          "key": "C",
+          "text": "He takes"
+        },
+        {
+          "key": "D",
+          "text": "There spends"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B「It took」。此句強調「耗費三天時間」的事實陳述，用虛主詞it takes結構。A項「He spent」後應接V-ing或on+N，不能直接跟時間詞。C項takes為現在式，與「finished」的過去時態不符。D項為創造的錯誤結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考驗spend句型與時態搭配，辨識最適當的完整表達",
+      "question_eng": "Although Mark _______ considerable effort _______ the presentation, the result did not meet the expectations of the committee.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has spent / on preparing"
+        },
+        {
+          "key": "B",
+          "text": "spends / preparing"
+        },
+        {
+          "key": "C",
+          "text": "spent / in preparing"
+        },
+        {
+          "key": "D",
+          "text": "is spending / on preparing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「has spent / on preparing」。Although後接完成式has spent表過去動作延續至現在，與後句「did not meet」形成對比。「on preparing」為spend的標準搭配(spend + 時間/金錢 + on + V-ing名詞)。B項spends現在式不符語境。C項in為錯誤介詞，spend不與in搭配。D項is spending現在進行式與過去事件不符。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我花了三個小時做功課。",
+      "answer": "I spent three hours doing homework.",
+      "key_points": [
+        "spent + 時間",
+        "doing homework（動名詞）",
+        "主詞為人稱代詞"
+      ],
+      "hints": [
+        "句型框架：S + spend + 時間 + V-ing",
+        "注意：homework 不可數，前面不加 a；doing 是動名詞，不是原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她在購物上花了很多錢。",
+      "answer": "She spent a lot of money on shopping.",
+      "key_points": [
+        "spent + 金錢",
+        "on + 名詞（shopping）",
+        "a lot of money 為金錢表達"
+      ],
+      "hints": [
+        "句型框架：S + spend + 金錢 + on + N（當接名詞時用 on）",
+        "常見錯誤：寫成 'spent money shopping' 缺少 on；或寫成 'spent money to shop' 用錯介詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "他們每週花兩小時在準備學測英文上。",
+      "answer": "They spend two hours every week preparing for the GSAT English exam.",
+      "key_points": [
+        "spend + 時間 + V-ing",
+        "every week（時間副詞置句末）",
+        "prepare for 搭配"
+      ],
+      "hints": [
+        "句型框架：S + spend + 時間 + V-ing，時間副詞可置句首或句末",
+        "preparing for the GSAT English exam 是動名詞片語；avoid 錯誤用法 'spend time to prepare'"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "與其花數百元買補充教材，不如投資時間自己讀書。",
+      "answer": "Rather than spending hundreds of dollars on supplementary materials, it's better to invest time reading on your own.",
+      "key_points": [
+        "Rather than + V-ing（對比結構）",
+        "spend + 金錢 + on + N",
+        "reading on your own（動名詞短語）"
+      ],
+      "hints": [
+        "進階句型：Rather than 引導對比時，spend 搭配 on；後半句可用 it's better to 或 it's wiser to",
+        "注意：supplementary materials 為複數可數名詞；reading on your own 中 on your own 是修飾語"
+      ]
+    }
+  ]
+}

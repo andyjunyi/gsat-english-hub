@@ -1,0 +1,363 @@
+{
+  "code": "2-3",
+  "chapter": 2,
+  "title": "would rather + V + than + V",
+  "formulas": [
+    {
+      "formula": "S + would rather + V (原形) + than + V (原形)",
+      "zh": "主詞寧願做某事也不願做另一事"
+    },
+    {
+      "formula": "S + would rather + that + S + V (過去式假設語氣)",
+      "zh": "主詞寧願（別人）做某事"
+    }
+  ],
+  "explanation": "would rather 表示「寧願、寧可」，用於表達強烈偏好。基本結構中兩個動詞均用原形，中間以 than 連接。若後接 that 子句，該子句需用過去式假設語氣，表示假設或期望他人的行為。此句型常見於表達個人選擇、拒絕或條件偏好。易混淆點：不可於 that 子句中用現在式；would rather 單獨使用時直接加原形動詞；would prefer 則需接 to。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I would rather stay home than go to the crowded mall this weekend.",
+      "chi": "我寧願待在家裡也不願這個週末去擁擠的購物中心。",
+      "keywords": [
+        "would rather",
+        "than",
+        "原形動詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She would rather work alone than collaborate with careless team members.",
+      "chi": "她寧願單獨工作也不願與粗心的團隊成員合作。",
+      "keywords": [
+        "would rather",
+        "than",
+        "工作偏好"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I would rather you didn't mention this secret to anyone else.",
+      "chi": "我寧願你不要把這個祕密告訴任何人。",
+      "keywords": [
+        "would rather",
+        "that子句",
+        "過去式假設語氣"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Most students would rather take the easier exam than the challenging one.",
+      "chi": "大多數學生寧願參加較簡單的考試也不願參加有挑戰性的考試。",
+      "keywords": [
+        "would rather",
+        "than",
+        "比較偏好"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：看是否在表達「寧願選擇 A 也不選 B」的比較，或「期望別人做 X」。前者用 than，後者用 that + 過去式。常見錯誤：在 that 子句用現在式（應用過去式）；忘記兩動詞都用原形；誤用 would prefer（需加 to）。",
+    "examples": [
+      {
+        "test": "I would rather eat vegetables than meat.",
+        "result": "→ 正確。表示個人偏好，兩動詞都用原形。"
+      },
+      {
+        "test": "❌ I would rather you tell me the truth.",
+        "result": "→ 錯誤。that 子句應用過去式：would rather you told me the truth."
+      },
+      {
+        "test": "I would rather watch a comedy than a horror film.",
+        "result": "→ 正確。清楚表達兩個選項的比較，用 than 連接。"
+      }
+    ],
+    "note": "記法：would rather + 原形 + than + 原形；that 子句用過去式。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I ",
+        null,
+        " stay home and study than go to parties every night."
+      ],
+      "blanks": [
+        "would rather"
+      ],
+      "sentence": "I would rather stay home and study than go to parties every night.",
+      "translation": "我寧願待在家裡讀書也不願每晚去派對。",
+      "keywords": [
+        "would rather",
+        "than",
+        "生活選擇"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She would rather ",
+        null,
+        " than work in a noisy office environment."
+      ],
+      "blanks": [
+        "work remotely"
+      ],
+      "sentence": "She would rather work remotely than work in a noisy office environment.",
+      "translation": "她寧願遠距工作也不願在嘈雜的辦公室工作。",
+      "keywords": [
+        "would rather",
+        "than",
+        "工作方式"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I would rather ",
+        null,
+        " you studied harder for the upcoming exam."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "I would rather that you studied harder for the upcoming exam.",
+      "translation": "我寧願你為即將到來的考試更努力讀書。",
+      "keywords": [
+        "would rather",
+        "that子句",
+        "過去式假設"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "My parents ",
+        null,
+        " I became a doctor than pursued my passion for art."
+      ],
+      "blanks": [
+        "would rather"
+      ],
+      "sentence": "My parents would rather I became a doctor than pursued my passion for art.",
+      "translation": "我的父母寧願我成為醫生也不願我追求藝術的熱情。",
+      "keywords": [
+        "would rather",
+        "that子句",
+        "過去式假設"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "stay home",
+      "zh": "待在家"
+    },
+    {
+      "adj": "work alone",
+      "zh": "獨自工作"
+    },
+    {
+      "adj": "tell the truth",
+      "zh": "說實話"
+    },
+    {
+      "adj": "read books",
+      "zh": "閱讀書籍"
+    },
+    {
+      "adj": "walk",
+      "zh": "散步"
+    },
+    {
+      "adj": "listen to music",
+      "zh": "聽音樂"
+    },
+    {
+      "adj": "travel abroad",
+      "zh": "出國旅遊"
+    },
+    {
+      "adj": "learn new skills",
+      "zh": "學習新技能"
+    },
+    {
+      "adj": "spend time with family",
+      "zh": "與家人相處"
+    },
+    {
+      "adj": "exercise outdoors",
+      "zh": "戶外運動"
+    },
+    {
+      "adj": "cook at home",
+      "zh": "在家做菜"
+    },
+    {
+      "adj": "watch movies",
+      "zh": "看電影"
+    }
+  ],
+  "vocab_table_label": "常用動詞片語",
+  "mc_exercises": [
+    {
+      "question_chi": "完成句子，表達對居家的偏好",
+      "question_eng": "After a long week of work, I _______ stay at home than go to the party.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would rather"
+        },
+        {
+          "key": "B",
+          "text": "would prefer"
+        },
+        {
+          "key": "C",
+          "text": "would like"
+        },
+        {
+          "key": "D",
+          "text": "would enjoy"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。would rather 後接原形動詞 stay，表示「寧願居家」。B 項 would prefer 需接 to（would prefer to stay），用法不符；C 項 would like 後也需 to；D 項 would enjoy 後需接動名詞 ing 形。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的 would rather 結構，表達個人選擇",
+      "question_eng": "She would rather _______ a quiet dinner with friends than _______ to a noisy club.",
+      "options": [
+        {
+          "key": "A",
+          "text": "having / go"
+        },
+        {
+          "key": "B",
+          "text": "have / going"
+        },
+        {
+          "key": "C",
+          "text": "have / go"
+        },
+        {
+          "key": "D",
+          "text": "having / going"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。would rather 後接兩個原形動詞：have 和 go，中間以 than 連接。A、B、D 均混用了動名詞或不定詞形式，違反 would rather 的語法規則，該句型兩動詞必須都用原形。",
+      "id": 2
+    },
+    {
+      "question_chi": "完成句子，使用 would rather that 假設語氣",
+      "question_eng": "I would rather that you _______ here earlier, but I understand you were stuck in traffic.",
+      "options": [
+        {
+          "key": "A",
+          "text": "arrive"
+        },
+        {
+          "key": "B",
+          "text": "arrived"
+        },
+        {
+          "key": "C",
+          "text": "had arrived"
+        },
+        {
+          "key": "D",
+          "text": "would arrive"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B。would rather that 子句需用過去式假設語氣，表示與現在事實相反的假設。A 項 arrive 是現在式，違反假設語氣；C 項 had arrived 是過去完成式，用於更早的過去；D 項 would arrive 則多餘了 would。B 項 arrived 的簡單過去式正確。",
+      "id": 3
+    },
+    {
+      "question_chi": "區分 would rather 與 would prefer，完成複雜句子",
+      "question_eng": "My parents would rather _______ I _______ medicine, but they respect my decision to study engineering instead.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that / studied"
+        },
+        {
+          "key": "B",
+          "text": "that / study"
+        },
+        {
+          "key": "C",
+          "text": "/ studying"
+        },
+        {
+          "key": "D",
+          "text": "to / have studied"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。would rather 後接 that 子句時，該子句須用過去式假設語氣 studied，表示對他人行為的期望或假設。B 項 study 是現在式，違反假設語氣規則；C 項缺少 that 和動詞形式混亂；D 項 would prefer 才需 to，且 have studied 時態錯誤。A 項結構完整正確。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我寧願在家讀書也不要去參加派對。",
+      "answer": "I would rather study at home than go to a party.",
+      "key_points": [
+        "would rather + V (原形)",
+        "than + V (原形)",
+        "study at home vs. go to a party"
+      ],
+      "hints": [
+        "提示1：句型框架為『would rather + 原形動詞 + than + 原形動詞』",
+        "提示2：than 後的動詞必須是原形，不可加 to 或改時態"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師寧可學生認真聽講，也不願意他們在課堂上睡覺。",
+      "answer": "The teacher would rather that students listen attentively than that they sleep in class.",
+      "key_points": [
+        "would rather + that + S + V (過去式假設語氣)",
+        "兩個 that 子句的並列結構",
+        "listen attentively / sleep in class"
+      ],
+      "hints": [
+        "提示1：當涉及他人行為時，可使用『would rather that + 主詞 + 動詞』的結構",
+        "提示2：該結構中動詞仍用原形（不是過去式），此為高中假設語氣簡化用法"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "與其花時間在社群媒體上滑手機，我寧願把時間用來運動和與朋友相聚。",
+      "answer": "I would rather spend time exercising and hanging out with friends than scrolling through social media.",
+      "key_points": [
+        "would rather + 複合原形動詞結構",
+        "than + scrolling through social media",
+        "spend time on 活動"
+      ],
+      "hints": [
+        "提示1：『would rather + V1 + than + V2』中，兩個動詞可各自搭配受詞或介詞片語，保持結構平行",
+        "提示2：注意 scrolling 和 spend 都要維持原形或動名詞形式以保持平行結構的一致性"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "如果政府不改變環保政策，我寧願看到年輕一代站出來抗爭，也不願看到他們被迫接受污染的未來。",
+      "answer": "I would rather that the younger generation stand up and protest than that they be forced to accept a polluted future if the government doesn't change its environmental policies.",
+      "key_points": [
+        "would rather + that + S + V (假設語氣)",
+        "複雜句型結構搭配條件子句",
+        "stand up and protest vs. be forced to accept"
+      ],
+      "hints": [
+        "提示1：當表達對他人行為的強烈偏好時，使用『would rather that + 主詞 + 動詞』結構，此時動詞用原形表示假設語氣",
+        "提示2：易錯點在於搞混『虛擬語氣原形』和『過去式假設』——高中階段此處用原形；另外 than that 之後的動詞同樣用原形，不可用 were forced"
+      ]
+    }
+  ]
+}

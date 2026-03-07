@@ -1,0 +1,367 @@
+{
+  "code": "4-3",
+  "chapter": 4,
+  "title": "關係代名詞 who / which / that（限定子句）",
+  "formulas": [
+    {
+      "formula": "N + who/that + V... (修飾人)",
+      "zh": "名詞＋關係代名詞(who/that)＋動詞...，用來修飾先行詞為人的情況"
+    },
+    {
+      "formula": "N + which/that + V... (修飾物)",
+      "zh": "名詞＋關係代名詞(which/that)＋動詞...，用來修飾先行詞為物的情況"
+    }
+  ],
+  "explanation": "關係代名詞引導形容詞子句，用來限定或補充說明先行詞。修飾人用 who 或 that；修飾物用 which 或 that。當關係代名詞在子句中作受詞時可省略。先行詞為 all、the only、最高級或序數詞時，習慣用 that 而非 which。形容詞子句提供必要資訊以區分先行詞，屬限定性修飾。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The student who won the competition is very intelligent and hardworking.",
+      "chi": "贏得比賽的那位學生非常聰明且勤奮。",
+      "keywords": [
+        "who",
+        "修飾人",
+        "限定子句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The book which you recommended last week is on the bestseller list now.",
+      "chi": "你上週推薦的那本書現在在暢銷書榜單上。",
+      "keywords": [
+        "which",
+        "修飾物",
+        "省略可能"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "All the teachers that work in our school are well-qualified and experienced.",
+      "chi": "在我們學校任教的所有老師都是資深且合格的。",
+      "keywords": [
+        "that",
+        "all",
+        "先行詞為all"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The only solution that can solve this problem requires careful planning and teamwork.",
+      "chi": "唯一能解決這個問題的解決方案需要細心規劃和團隊合作。",
+      "keywords": [
+        "that",
+        "the only",
+        "限定修飾"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷先行詞性質決定關係代名詞：人用 who/that，物用 which/that。注意 that 可替代 who 和 which，但 who 和 which 不可互換。先行詞為 all、the only、最高級或不定代名詞時優先用 that。檢查關係代名詞在子句中的語法功能，作受詞可省略。",
+    "examples": [
+      {
+        "test": "The girl who/that studies hard will succeed. vs. The girl which studies hard will succeed.",
+        "result": "→ 第一句正確。修飾人用 who 或 that，不能用 which。"
+      },
+      {
+        "test": "The book (that) you read is interesting. vs. The book that is interesting costs $20.",
+        "result": "→ 第一句 that 可省（作受詞）；第二句 that 不能省（作主詞）。"
+      },
+      {
+        "test": "The best student that has ever attended this school is Mary. vs. The best student which has ever attended this school is Mary.",
+        "result": "→ 第一句正確。先行詞為最高級時用 that 而非 which。"
+      }
+    ],
+    "note": "人用 who/that，物用 which/that；先行詞為 all/the only/最高級優先用 that；作受詞可省略。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The engineers ",
+        null,
+        " designed the bridge are very talented professionals."
+      ],
+      "blanks": [
+        "who/that"
+      ],
+      "sentence": "The engineers who/that designed the bridge are very talented professionals.",
+      "translation": "設計那座橋的工程師們都是非常有才華的專業人士。",
+      "keywords": [
+        "who/that",
+        "修飾人",
+        "作主詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The technology ",
+        null,
+        " we use today improves our daily lives significantly."
+      ],
+      "blanks": [
+        "that/which"
+      ],
+      "sentence": "The technology that/which we use today improves our daily lives significantly.",
+      "translation": "我們今天使用的科術大大改善了我們的日常生活。",
+      "keywords": [
+        "that/which",
+        "修飾物",
+        "作受詞可省略"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "All students ",
+        null,
+        " participate in this program benefit from the experience."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "All students that participate in this program benefit from the experience.",
+      "translation": "所有參與這個課程的學生都從中受益。",
+      "keywords": [
+        "that",
+        "all",
+        "先行詞為all"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The most difficult challenge ",
+        null,
+        " young people face requires courage and determination to overcome."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "The most difficult challenge that young people face requires courage and determination to overcome.",
+      "translation": "年輕人所面臨的最大挑戰需要勇氣和決心來克服。",
+      "keywords": [
+        "that",
+        "最高級",
+        "作受詞"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "who",
+      "zh": "修飾人的關係代名詞"
+    },
+    {
+      "adj": "which",
+      "zh": "修飾物的關係代名詞"
+    },
+    {
+      "adj": "that",
+      "zh": "可修飾人或物的關係代名詞"
+    },
+    {
+      "adj": "all",
+      "zh": "全部、所有（常搭配 that）"
+    },
+    {
+      "adj": "the only",
+      "zh": "唯一的（常搭配 that）"
+    },
+    {
+      "adj": "the first/last",
+      "zh": "第一個／最後一個（常搭配 that）"
+    },
+    {
+      "adj": "everything",
+      "zh": "所有事物（常搭配 that）"
+    },
+    {
+      "adj": "nothing",
+      "zh": "沒有什麼（常搭配 that）"
+    },
+    {
+      "adj": "限定性",
+      "zh": "形容詞子句提供必要資訊，不可省略逗號前的內容"
+    },
+    {
+      "adj": "非限定性",
+      "zh": "形容詞子句提供補充資訊，前後有逗號（不適用此句型）"
+    },
+    {
+      "adj": "作受詞",
+      "zh": "關係代名詞在子句中作受詞時可省略"
+    },
+    {
+      "adj": "作主詞",
+      "zh": "關係代名詞在子句中作主詞時不可省略"
+    }
+  ],
+  "vocab_table_label": "關係代名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇合適的關係代名詞修飾先行詞 person",
+      "question_eng": "The person _______ helped us yesterday is a volunteer from the community center.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "answer": "A",
+      "explanation": "修飾人（person）用 who 作主詞。B 選項 which 用於修飾物不適用；C 選項 where 是地點副詞；D 選項 whom 用於作受詞的情況，此處 helped 需主詞，故 who 正確。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的關係代名詞修飾先行詞 magazine",
+      "question_eng": "The magazine _______ you borrowed from the library contains interesting articles about climate change.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "A",
+      "explanation": "修飾物（magazine）用 which 或 that。此處 magazine 是 borrowed 的受詞，關係代名詞可省略或用 that。B 選項 who 用於修飾人；C 選項 where 為地點副詞；D 選項 what 為疑問詞，均不適用。",
+      "id": 2
+    },
+    {
+      "question_chi": "在習慣用法下選擇適當的關係代名詞",
+      "question_eng": "The only solution _______ can solve this problem is to invest more money in research and development.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "B",
+      "explanation": "當先行詞為「the only」時，習慣用 that 而非 which。此處 the only solution 應搭配 that 引導限定子句。A 選項 which 在此上下文不符習慣用法；C、D 選項分別為地點副詞和疑問詞，不適用此文法結構。",
+      "id": 3
+    },
+    {
+      "question_chi": "辨別限定與非限定子句，選擇正確關係代名詞與標點",
+      "question_eng": "The students _______ scored above 95 on the entrance exam, _______ represents the top 5% of all applicants, will receive scholarships.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who / that"
+        },
+        {
+          "key": "B",
+          "text": "that / which"
+        },
+        {
+          "key": "C",
+          "text": "who / which"
+        },
+        {
+          "key": "D",
+          "text": "which / that"
+        }
+      ],
+      "answer": "C",
+      "explanation": "第一空為限定子句修飾 students（人），用 who 或 that；第二空為非限定子句（已有逗號），修飾前面整個子句（物），用 which 不用 that，故用 who 和 which。A 選項第二空用 that 錯誤（非限定不用 that）；B、D 選項第一空用 that/which 修飾人不適；D 選項兩空皆錯。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我有一位老師，他總是很耐心地解答我們的問題。",
+      "answer": "I have a teacher who always patiently answers our questions.",
+      "key_points": [
+        "a teacher (先行詞)",
+        "who (修飾人用 who)",
+        "patiently answers (動詞片語)",
+        "限定子句提供必要資訊區分老師"
+      ],
+      "hints": [
+        "句型框架：N(人) + who + V...，who 在子句中作主詞",
+        "注意：修飾人用 who 或 that，此處用 who 最恰當；不能用 which"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "學校最近舉辦了一場運動會，吸引了許多學生參加。",
+      "answer": "The school recently held a sports day that attracted many students to participate.",
+      "key_points": [
+        "a sports day (先行distintà詞，可用 that)",
+        "that attracted (關係代名詞 that 作主詞)",
+        "many students",
+        "限定子句說明運動會的特徵"
+      ],
+      "hints": [
+        "句型框架：N(物) + that + V...，that 在此作主詞；修飾物可用 which 或 that",
+        "提醒：用 that 而非 which 可使句子更簡潔；attracted 是過去式，因子句修飾單數名詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我最喜歡的電影是那部探討社會議題的電影。",
+      "answer": "My favorite movie is the one that explores social issues.",
+      "key_points": [
+        "the one (先行詞為 the one，習慣用 that)",
+        "that explores (that 作主詞)",
+        "social issues (受詞)",
+        "習慣用法：the only + n. 用 that"
+      ],
+      "hints": [
+        "句型框架：N(物) + that + V...，先行詞為『the only』或『最高級』等限制詞時習慣用 that 不用 which",
+        "提醒：favorite 為最高級語境（我最喜歡），此時用 that 為習慣用法；也可說『the film that』但『the one that』更簡潔"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "班級裡有幾位同學，他們在準備大學入試，他們的努力值得尊敬。",
+      "answer": "There are several classmates in our class who are preparing for the university entrance exam, and their effort is admirable. / Several classmates (that) we have are preparing for the university entrance exam, whose effort is admirable.",
+      "key_points": [
+        "several classmates (先行詞)",
+        "who are preparing (who 作主詞，進行式表示進行中)",
+        "university entrance exam (高中生主要情境)",
+        "限定子句區分該批同學"
+      ],
+      "hints": [
+        "句型框架：N(人) + who + V...，who 作主詞時不可省略；若關係代名詞作受詞可省略",
+        "提醒：進行式 are preparing 適合表現『正在準備』的狀態；避免與定語混淆，形容詞子句須有完整動詞；複雜句可用 whose 或逗點分句進行"
+      ]
+    }
+  ]
+}

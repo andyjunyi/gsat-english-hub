@@ -1,0 +1,358 @@
+{
+  "code": "6-12",
+  "chapter": 6,
+  "title": "S + be worth + V-ing",
+  "formulas": [
+    {
+      "formula": "S + be worth + V-ing",
+      "zh": "某事值得……（動作）"
+    },
+    {
+      "formula": "S + be worth + N",
+      "zh": "某事值得……（名詞）"
+    }
+  ],
+  "explanation": "be worth 後接動名詞，表示某事物值得進行某個動作。動名詞的邏輯受詞是主句主詞，即主詞是該動作的承受者。例如 The book is worth reading 意為「這本書值得被閱讀」。此句型著重於事物本身具備的價值性。同義表達為 It is worthwhile to V 或 It is worth one's while to V。注意 worth 後不能接不定詞，只能接動名詞或名詞；主詞須是有價值的事物，不能是人。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This movie is worth watching because it has a meaningful message.",
+      "chi": "這部電影值得觀看，因為它有深刻的意義。",
+      "keywords": [
+        "be worth watching",
+        "動名詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The historical museum is definitely worth visiting when you come to the city.",
+      "chi": "當你來到這個城市時，這座歷史博物館絕對值得參觀。",
+      "keywords": [
+        "be worth visiting",
+        "definitely"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "These classic novels are worth reading for anyone interested in literature.",
+      "chi": "對於任何對文學感興趣的人來說，這些經典小說都值得閱讀。",
+      "keywords": [
+        "be worth reading",
+        "classic novels"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Your effort is worth making if it can improve your English skills significantly.",
+      "chi": "如果你的努力能顯著改進英文技能，那就值得付出。",
+      "keywords": [
+        "be worth making",
+        "effort"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷 worth 的關鍵：主詞必須是可以被「做」的事物（如物品、書、景點），不能是人。動名詞的邏輯受詞永遠是主詞。避免誤用不定詞（×worth to read）或遺漏動名詞結構。",
+    "examples": [
+      {
+        "test": "This book is worth reading.",
+        "result": "✓ 正確。主詞是物品，動名詞 reading 的邏輯受詞是 book。"
+      },
+      {
+        "test": "He is worth helping.",
+        "result": "✗ 避免。通常不用 worth 搭配人作主詞，應改用 worthy of 或 deserving。"
+      },
+      {
+        "test": "The experience is worth to have.",
+        "result": "✗ 錯誤用法。×to have → ✓having（must use gerund）"
+      }
+    ],
+    "note": "記憶口訣：be worth + V-ing = 事物本身值得被做，主詞是動作的對象，非執行者。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The latest technology is ",
+        null,
+        " because it saves much time."
+      ],
+      "blanks": [
+        "worth trying"
+      ],
+      "sentence": "The latest technology is worth trying because it saves much time.",
+      "translation": "最新技術值得嘗試，因為它節省了很多時間。",
+      "keywords": [
+        "be worth trying",
+        "latest technology"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "His autobiography is ",
+        null,
+        " for anyone who wants to understand his life journey."
+      ],
+      "blanks": [
+        "worth reading"
+      ],
+      "sentence": "His autobiography is worth reading for anyone who wants to understand his life journey.",
+      "translation": "他的自傳值得閱讀，對於任何想了解他人生之旅的人。",
+      "keywords": [
+        "be worth reading",
+        "autobiography"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "That remote island is definitely ",
+        null,
+        " during your summer vacation."
+      ],
+      "blanks": [
+        "worth visiting"
+      ],
+      "sentence": "That remote island is definitely worth visiting during your summer vacation.",
+      "translation": "那個偏遠的島嶼在夏假期間絕對值得參觀。",
+      "keywords": [
+        "be worth visiting",
+        "remote island"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "All the preparation work is ",
+        null,
+        " if we can achieve success in the competition."
+      ],
+      "blanks": [
+        "worth making"
+      ],
+      "sentence": "All the preparation work is worth making if we can achieve success in the competition.",
+      "translation": "如果我們能在比賽中取得成功，所有準備工作都值得付出。",
+      "keywords": [
+        "be worth making",
+        "preparation"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "worth",
+      "zh": "值得的"
+    },
+    {
+      "adj": "reading",
+      "zh": "閱讀（動名詞）"
+    },
+    {
+      "adj": "watching",
+      "zh": "觀看（動名詞）"
+    },
+    {
+      "adj": "visiting",
+      "zh": "參觀（動名詞）"
+    },
+    {
+      "adj": "trying",
+      "zh": "嘗試（動名詞）"
+    },
+    {
+      "adj": "considering",
+      "zh": "考慮（動名詞）"
+    },
+    {
+      "adj": "definitely",
+      "zh": "肯定地（副詞）"
+    },
+    {
+      "adj": "certainly",
+      "zh": "當然地（副詞）"
+    },
+    {
+      "adj": "hardly",
+      "zh": "幾乎不（副詞）"
+    },
+    {
+      "adj": "truly",
+      "zh": "確實地（副詞）"
+    },
+    {
+      "adj": "every penny",
+      "zh": "每一分錢（片語）"
+    },
+    {
+      "adj": "one's while",
+      "zh": "值得費力（片語）"
+    }
+  ],
+  "vocab_table_label": "常用 V-ing",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的詞彙完成句子，表達某事物值得進行。",
+      "question_eng": "This classic novel is definitely _______ reading because it offers deep insights into human nature.",
+      "options": [
+        {
+          "key": "A",
+          "text": "worth"
+        },
+        {
+          "key": "B",
+          "text": "worthy"
+        },
+        {
+          "key": "C",
+          "text": "worthwhile"
+        },
+        {
+          "key": "D",
+          "text": "deserving"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A。『be worth + V-ing』是固定句型，表示值得做某事。worth 後接動名詞 reading。B 項 worthy 後須接 of 或 to be；C 項 worthwhile 雖可表達相同意義，但須改為 It is worthwhile to read；D 項 deserving 用法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "選出使句子語法正確的選項，表達旅遊景點的價值。",
+      "question_eng": "The ancient temple in Kyoto is absolutely worth _______ if you ever travel to Japan.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to visit"
+        },
+        {
+          "key": "B",
+          "text": "visiting"
+        },
+        {
+          "key": "C",
+          "text": "visit"
+        },
+        {
+          "key": "D",
+          "text": "visited"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案為 B。『be worth + V-ing』句型中，worth 後必須接動名詞形式，表示主詞是該動作的承受者。A 項 to visit 為不定詞，不符合語法；C 項原形動詞；D 項過去分詞，都不適當。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確形式完成句子，強調付出時間與努力的價值。",
+      "question_eng": "Though the assignment seems difficult, the effort is worth _______ because you will acquire valuable skills.",
+      "options": [
+        {
+          "key": "A",
+          "text": "spending"
+        },
+        {
+          "key": "B",
+          "text": "to spend"
+        },
+        {
+          "key": "C",
+          "text": "spend"
+        },
+        {
+          "key": "D",
+          "text": "being spent"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案為 A。『be worth + V-ing』中，動名詞的邏輯受詞是主句主詞 the effort，表示『值得花費』。spending 為正確的動名詞形式。B 項不定詞用法錯誤；C 項原形動詞；D 項被動動名詞不符此句型。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據語境選擇最適當的表達方式，說明某事物的價值。",
+      "question_eng": "The documentary about climate change is _______ the time investment, even though it requires two hours to complete.",
+      "options": [
+        {
+          "key": "A",
+          "text": "worth watching for"
+        },
+        {
+          "key": "B",
+          "text": "worthy of being watched for"
+        },
+        {
+          "key": "C",
+          "text": "worth one's time to watch"
+        },
+        {
+          "key": "D",
+          "text": "worthy to watch"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案為 C。『be worth one's time to V』是標準同義句型，表示值得花費時間做某事。A 項表達不自然；B 項 worthy of being watched 結構冗長；D 項 worthy to watch 用法不當，worthy 後應接 of 而非 to。C 項最符合語境與學測等級。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影很值得看。",
+      "answer": "This movie is worth watching.",
+      "key_points": [
+        "be worth",
+        "watching（動名詞）",
+        "主詞為事物（movie）"
+      ],
+      "hints": [
+        "句型框架：S + be worth + V-ing，S 必須是有價值的事物",
+        "注意：worth 後接動名詞，不能接 to watch"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "這個古老的博物館很值得參觀，因為它有許多珍貴的文物。",
+      "answer": "This ancient museum is worth visiting because it has many precious artifacts.",
+      "key_points": [
+        "be worth",
+        "visiting（動名詞）",
+        "主詞為事物（museum）",
+        "因果關係說明"
+      ],
+      "hints": [
+        "句型框架：S + be worth + V-ing，動名詞表示『值得被進行的動作』",
+        "常見錯誤：不要寫成 worth to visit 或 worthy of visiting"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "儘管這本書很厚，但它仍然值得一讀，因為內容引人深思。",
+      "answer": "Although this book is quite thick, it is still worth reading because the content is thought-provoking.",
+      "key_points": [
+        "be worth reading",
+        "動名詞邏輯受詞是主詞",
+        "讓步句型 + worth 結合",
+        "thought-provoking 形容詞用法"
+      ],
+      "hints": [
+        "句型框架：主詞（事物）+ be worth + V-ing，此處 reading 的邏輯受詞是 book",
+        "注意：worth 無法用於人作主詞，例如『他值得去愛』不能寫成 He is worth loving"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這家餐廳以其創意菜單聞名，絕對值得光臨，即使價格稍高也不遺憾。",
+      "answer": "This restaurant is well-known for its creative menu and is definitely worth visiting, even if the price is a bit higher.",
+      "key_points": [
+        "be worth visiting",
+        "邏輯受詞隱含（visiting 的邏輯受詞是 restaurant）",
+        "be known for + N/V-ing",
+        "讓步子句"
+      ],
+      "hints": [
+        "句型框架：S + be worth + V-ing，其中 S 必須是具體的事物或地點",
+        "易錯點：worth 後面直接接動名詞，不需要任何介詞；邏輯受詞是隱含的，不用明確表達"
+      ]
+    }
+  ]
+}

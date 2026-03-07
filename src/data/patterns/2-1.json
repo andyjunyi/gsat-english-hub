@@ -1,0 +1,374 @@
+{
+  "code": "2-1",
+  "chapter": 2,
+  "title": "真實條件句 if / unless（第一條件句）",
+  "formulas": [
+    {
+      "formula": "If + S + V（現在式）, S + will/can/may + V",
+      "zh": "如果…發生（條件），主詞就會…（結果）。表達可能性與推論"
+    },
+    {
+      "formula": "Unless + S + V（現在式）, S + will/can/may + V",
+      "zh": "除非…，否則主詞將會…。等於「If...not」的反向表達"
+    }
+  ],
+  "explanation": "此句型用於陳述假設性條件與其可能結果。if 子句必須使用現在式表未來，主句則用 will/can/may 等助動詞表達結果的確定度或可能性。unless 為 if...not 的簡潔形式，表示例外情況。兩句可互換順序：條件句在前時無需逗號；在後時需逗號。學測常考 if/unless 的互換、現在式時態的正確使用、以及助動詞選擇反映的語氣差異。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "If you study hard, you will pass the exam easily.",
+      "chi": "如果你認真讀書，你將輕易通過考試。",
+      "keywords": [
+        "if",
+        "現在式",
+        "will"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Unless you arrive on time, we cannot start the meeting.",
+      "chi": "除非你準時到達，否則我們無法開始會議。",
+      "keywords": [
+        "unless",
+        "can't",
+        "條件例外"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "If it rains tomorrow, the sports day may be postponed.",
+      "chi": "如果明天下雨，運動會可能會被延期。",
+      "keywords": [
+        "if",
+        "may",
+        "可能性"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "You can achieve your dreams if you never give up.",
+      "chi": "如果你永不放棄，你就能實現你的夢想。",
+      "keywords": [
+        "can",
+        "倒裝順序",
+        "條件"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "易混淆點：(1)if 子句必須用現在式，不能用 will；(2)unless = if not，語意相反，理解時需注意邏輯；(3)主句助動詞選擇反映把握程度：will（必然）> can（能力）> may（可能）；(4)條件句在後需加逗號隔開。",
+    "examples": [
+      {
+        "test": "❌ If you will study hard, you will pass.",
+        "result": "→ ✓ If you study hard, you will pass.（if 子句用現在式）"
+      },
+      {
+        "test": "❌ Unless you study hard, you will pass.",
+        "result": "→ ✓ Unless you study hard, you will fail.（unless 表反面結果）"
+      },
+      {
+        "test": "✓ If it is sunny, we can go to the beach. = We can go to the beach if it is sunny.",
+        "result": "→ 條件句位置可換；在後時需逗號"
+      }
+    ],
+    "note": "if 用現在式代未來，unless 等於 if not，記住這三點就掌握核心概念。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "If you ",
+        null,
+        " regularly, you will become stronger.",
+        null
+      ],
+      "blanks": [
+        "exercise",
+        ""
+      ],
+      "sentence": "If you exercise regularly, you will become stronger.",
+      "translation": "如果你規律運動，你會變得更強壯。",
+      "keywords": [
+        "if",
+        "現在式",
+        "will"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Unless he ",
+        null,
+        " his attitude, he ",
+        null,
+        " succeed."
+      ],
+      "blanks": [
+        "changes",
+        "cannot"
+      ],
+      "sentence": "Unless he changes his attitude, he cannot succeed.",
+      "translation": "除非他改變態度，否則他無法成功。",
+      "keywords": [
+        "unless",
+        "cannot",
+        "條件例外"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "If it ",
+        null,
+        " tomorrow, the outdoor event ",
+        null,
+        " cancelled."
+      ],
+      "blanks": [
+        "snows",
+        "will be"
+      ],
+      "sentence": "If it snows tomorrow, the outdoor event will be cancelled.",
+      "translation": "如果明天下雪，戶外活動將被取消。",
+      "keywords": [
+        "if",
+        "現在式",
+        "will be"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "You may ",
+        null,
+        " the scholarship if you ",
+        null,
+        " high grades."
+      ],
+      "blanks": [
+        "get",
+        "maintain"
+      ],
+      "sentence": "You may get the scholarship if you maintain high grades.",
+      "translation": "如果你保持高成績，你可能會獲得獎學金。",
+      "keywords": [
+        "may",
+        "if",
+        "條件"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "study hard",
+      "zh": "認真讀書"
+    },
+    {
+      "adj": "arrive on time",
+      "zh": "準時到達"
+    },
+    {
+      "adj": "rain",
+      "zh": "下雨"
+    },
+    {
+      "adj": "give up",
+      "zh": "放棄"
+    },
+    {
+      "adj": "pass the exam",
+      "zh": "通過考試"
+    },
+    {
+      "adj": "start the meeting",
+      "zh": "開始會議"
+    },
+    {
+      "adj": "be postponed",
+      "zh": "被延期"
+    },
+    {
+      "adj": "achieve dreams",
+      "zh": "實現夢想"
+    },
+    {
+      "adj": "work hard",
+      "zh": "努力工作"
+    },
+    {
+      "adj": "make a mistake",
+      "zh": "犯錯"
+    },
+    {
+      "adj": "finish homework",
+      "zh": "完成功課"
+    },
+    {
+      "adj": "eat healthy food",
+      "zh": "吃健康食物"
+    }
+  ],
+  "vocab_table_label": "常用動詞片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的條件句助動詞，表示確定的結果",
+      "question_eng": "If you don't eat breakfast, you _______ feel tired all day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will"
+        },
+        {
+          "key": "B",
+          "text": "would"
+        },
+        {
+          "key": "C",
+          "text": "may"
+        },
+        {
+          "key": "D",
+          "text": "might"
+        }
+      ],
+      "answer": "A",
+      "explanation": "第一條件句（現在式 → 未來）主句應使用 will 表達必然結果。would 用於第二條件句；may/might 表可能性較弱。此句強調不吃早餐必然導致疲憊，故用 will。",
+      "id": 1
+    },
+    {
+      "question_chi": "判斷條件句時態，if子句應使用現在式",
+      "question_eng": "Unless the weather _______ nice tomorrow, we cannot go to the beach.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is"
+        },
+        {
+          "key": "B",
+          "text": "will be"
+        },
+        {
+          "key": "C",
+          "text": "would be"
+        },
+        {
+          "key": "D",
+          "text": "has been"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Unless 為條件句，子句必須用現在式表未來，故用 is。will be 為未來式（錯誤）；would be 為第二條件句形式；has been 為現在完成式，皆不符第一條件句結構。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別 if/unless 互換及助動詞選擇表不確定性",
+      "question_eng": "_______ you study consistently, you may not understand the material completely. = Unless you study consistently, you _______ understand the material completely.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If / will"
+        },
+        {
+          "key": "B",
+          "text": "Unless / may"
+        },
+        {
+          "key": "C",
+          "text": "If / can"
+        },
+        {
+          "key": "D",
+          "text": "Unless / will"
+        }
+      ],
+      "answer": "B",
+      "explanation": "If...not = Unless，兩句意義相同。主句用 may 表可能性（不完全確定）較適切。A 項邏輯反亂；C 項 can 表能力不符；D 項 will 過於確定，與原句表達的不確定性不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "綜合考查條件句句序、時態與邏輯表達的複雜運用",
+      "question_eng": "The project will proceed on schedule if the budget _______ approved by next Friday, unless there _______ unforeseen circumstances that _______ delay the process.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is / are / might"
+        },
+        {
+          "key": "B",
+          "text": "will be / would be / can"
+        },
+        {
+          "key": "C",
+          "text": "is / be / will"
+        },
+        {
+          "key": "D",
+          "text": "will be / are / may"
+        }
+      ],
+      "answer": "A",
+      "explanation": "此句含兩個條件子句：if 子句用 is（現在式表未來）；unless 子句用 are（現在式表可能性）；最後用 might 表示可能延遲。B項第一個為未來式錯誤；C項第三個為未來式不符邏輯；D項第一個為未來式錯誤。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "如果你明天不來學校，我會告訴老師。",
+      "answer": "If you don't come to school tomorrow, I will tell the teacher. / Unless you come to school tomorrow, I will tell the teacher.",
+      "key_points": [
+        "unless 與 if...not 的互換",
+        "現在式 don't come 表未來",
+        "will tell 表確定結果"
+      ],
+      "hints": [
+        "提示1：unless 子句後接現在式動詞，主句用 will + V；或用 if 搭配否定形式 if...not",
+        "提示2：常見錯誤是在 if/unless 子句中誤用 will，應使用現在式表未來"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "除非你加倍努力，否則你可能無法通過這次考試。",
+      "answer": "Unless you work twice as hard, you may not pass this exam. / If you don't work twice as hard, you may not pass this exam.",
+      "key_points": [
+        "unless 子句用現在式 work",
+        "may not 表可能性與否定",
+        "twice as hard 的表達"
+      ],
+      "hints": [
+        "提示1：may/might 用於表示可能性較弱的結果，比 will 更委婉；unless 後接肯定形式，if 後接否定形式",
+        "提示2：注意 may not 與 will not 的語氣差異；may 表示不確定，will 表示確定"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "如果氣候繼續變暖，海平面就會上升，沿海城市的居民將面臨風險。",
+      "answer": "If the climate continues to warm, sea levels will rise, and coastal residents will face risks. / If the climate keeps warming, the sea level will rise, and residents in coastal cities can face potential risks.",
+      "key_points": [
+        "複合條件句：單一 if 子句搭配多個結果",
+        "現在式 continues/keeps 表未來持續狀態",
+        "連接詞 and 連接多個結果"
+      ],
+      "hints": [
+        "提示1：一個 if 子句可搭配多個 will/can 主句，用 and 連接各結果，表現因果的連鎖反應",
+        "提示2：表示客觀事實或科學現象時優先用 will；若強調能力或可能性可用 can；避免在 if 子句重複使用主詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "除非我們現在採取行動減少碳排放，否則未來世代將承受氣候變遷的嚴重後果，而我們也將無法實現永續發展的目標。",
+      "answer": "Unless we take action now to reduce carbon emissions, future generations will suffer severe consequences of climate change, and we will not be able to achieve our goals of sustainable development. / If we don't take action now to reduce carbon emissions, future generations will suffer severe consequences of climate change, and we cannot achieve our sustainable development goals.",
+      "key_points": [
+        "unless 引導環境問題的真實條件",
+        "現在式 take 與 do 表未來急迫行動",
+        "連接詞 and 連接相關的多個結果或影響"
+      ],
+      "hints": [
+        "提示1：社會議題條件句中，unless 子句常搭配現在式表達當下必須採取的行動，多個結果用 and 連接以展現問題的嚴重性",
+        "提示2：常見錯誤是在 unless 子句中用 don't 來強調否定（應直接用肯定動詞），或在主句混用 will 與 can/cannot 而不夠一致；此類題型著重語氣的層遞感"
+      ]
+    }
+  ]
+}

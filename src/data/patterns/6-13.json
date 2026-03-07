@@ -1,0 +1,363 @@
+{
+  "code": "6-13",
+  "chapter": 6,
+  "title": "S + cannot help + V-ing",
+  "formulas": [
+    {
+      "formula": "S + cannot help + V-ing",
+      "zh": "忍不住……；禁不住……"
+    },
+    {
+      "formula": "S + cannot help but + V",
+      "zh": "忍不住……；禁不住……（cannot but + 原形動詞）"
+    }
+  ],
+  "explanation": "cannot help + 動名詞表示「無法控制地做某事」或「忍不住做某事」。結構上，help後接V-ing形式，強調某個動作是不由自主或難以抗拒的。同義表達為cannot help but + 原形動詞或cannot but + 原形。此句型常用於描述情感反應、本能反應或控制不住的行為。注意：cannot help doing是較正式且常見的用法，而cannot help but do則較口語。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "When I heard the funny joke, I could not help laughing out loud in the classroom.",
+      "chi": "當我聽到那個有趣的笑話時，我忍不住在教室裡大聲笑了出來。",
+      "keywords": [
+        "could not help",
+        "laughing",
+        "忍不住"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She cannot help worrying about her son's safety when he travels alone.",
+      "chi": "當她兒子獨自旅行時，她忍不住擔心他的安全。",
+      "keywords": [
+        "cannot help",
+        "worrying",
+        "無法控制"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The students could not help admiring the teacher's dedication and patience.",
+      "chi": "學生們禁不住對老師的奉獻精神和耐心感到敬佩。",
+      "keywords": [
+        "could not help",
+        "admiring",
+        "情感反應"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "I cannot help noticing that you seem troubled by something recently.",
+      "chi": "我忍不住注意到你最近似乎在為某事煩惱。",
+      "keywords": [
+        "cannot help",
+        "noticing",
+        "觀察"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "cannot help + V-ing是固定搭配，不能用cannot help + to V。其同義表達為cannot help but + 原形動詞（如cannot help but laugh = cannot help laughing）。在學測中，cannot help doing為最常見的出題形式。注意時態變化：過去式為could not help + V-ing。",
+    "examples": [
+      {
+        "test": "She cannot help to cry when watching sad movies.",
+        "result": "✗ 錯誤（cannot help後不接to）→ She cannot help crying when watching sad movies. ✓"
+      },
+      {
+        "test": "He could not help but smile at her kindness.",
+        "result": "✓ 正確（cannot help but + 原形）= He could not help smiling at her kindness. ✓"
+      },
+      {
+        "test": "They cannot help admiring the beautiful scenery during their trip.",
+        "result": "✓ 正確（cannot help + V-ing表示忍不住做某事）"
+      }
+    ],
+    "note": "cannot help + V-ing = cannot help but + V，記住這兩種互換形式，考試中都可能出現。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "She ",
+        null,
+        " when she saw her old friend at the supermarket."
+      ],
+      "blanks": [
+        "could not help smiling"
+      ],
+      "sentence": "She could not help smiling when she saw her old friend at the supermarket.",
+      "translation": "當她在超市看到老朋友時，她忍不住微笑了。",
+      "keywords": [
+        "could not help",
+        "smiling",
+        "見面反應"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The audience ",
+        null,
+        " at the comedian's hilarious performance."
+      ],
+      "blanks": [
+        "could not help laughing"
+      ],
+      "sentence": "The audience could not help laughing at the comedian's hilarious performance.",
+      "translation": "觀眾忍不住在喜劇演員滑稽的表演中笑了出來。",
+      "keywords": [
+        "could not help",
+        "laughing",
+        "情感反應"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Parents ",
+        null,
+        " about their children's future education and career."
+      ],
+      "blanks": [
+        "cannot help worrying"
+      ],
+      "sentence": "Parents cannot help worrying about their children's future education and career.",
+      "translation": "父母親忍不住為孩子的未來教育和職業擔心。",
+      "keywords": [
+        "cannot help",
+        "worrying",
+        "本能反應"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "You ",
+        null,
+        " that her English pronunciation has improved significantly."
+      ],
+      "blanks": [
+        "cannot help noticing"
+      ],
+      "sentence": "You cannot help noticing that her English pronunciation has improved significantly.",
+      "translation": "你忍不住注意到她的英文發音進步很多。",
+      "keywords": [
+        "cannot help",
+        "noticing",
+        "觀察"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "laughing",
+      "zh": "笑"
+    },
+    {
+      "adj": "crying",
+      "zh": "哭"
+    },
+    {
+      "adj": "worrying",
+      "zh": "擔心"
+    },
+    {
+      "adj": "thinking",
+      "zh": "思考"
+    },
+    {
+      "adj": "smiling",
+      "zh": "微笑"
+    },
+    {
+      "adj": "admiring",
+      "zh": "敬佩"
+    },
+    {
+      "adj": "noticing",
+      "zh": "注意到"
+    },
+    {
+      "adj": "feeling",
+      "zh": "感受"
+    },
+    {
+      "adj": "loving",
+      "zh": "愛"
+    },
+    {
+      "adj": "complaining",
+      "zh": "抱怨"
+    },
+    {
+      "adj": "comparing",
+      "zh": "比較"
+    },
+    {
+      "adj": "remembering",
+      "zh": "記住"
+    }
+  ],
+  "vocab_table_label": "常用動名詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句子完成方式，表達無法控制的行為。",
+      "question_eng": "When she saw the adorable puppy, she _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cannot help but smile"
+        },
+        {
+          "key": "B",
+          "text": "cannot help to smile"
+        },
+        {
+          "key": "C",
+          "text": "cannot help smiling"
+        },
+        {
+          "key": "D",
+          "text": "cannot help smile"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。『cannot help + V-ing』是標準用法，表示「忍不住做某事」。A項『cannot help but + 原形』雖也正確但較口語；B項『help to do』結構錯誤；D項缺少助動詞或動名詞，句法不完整。C和A都對，但依題意選最常用的V-ing形式。",
+      "id": 1
+    },
+    {
+      "question_chi": "完成句子，表示無法控制地出現某種情感反應。",
+      "question_eng": "Facing the sad ending of the movie, the audience could not help _______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "crying"
+        },
+        {
+          "key": "B",
+          "text": "but cry"
+        },
+        {
+          "key": "C",
+          "text": "to cry"
+        },
+        {
+          "key": "D",
+          "text": "from crying"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。『could not help + V-ing』表示「忍不住哭」。B項『but cry』搭配『could not help』時需要be動詞（could not help but cry），在此句中不適用；C項『help to do』用法錯誤；D項『help from doing』不是正確搭配。只有A項符合『cannot help + 動名詞』的句型。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最恰當的句型，描述對他人言論的無法控制反應。",
+      "question_eng": "His rude comments were so offensive that I could not help _______ my frustration with him.",
+      "options": [
+        {
+          "key": "A",
+          "text": "expressing"
+        },
+        {
+          "key": "B",
+          "text": "to express"
+        },
+        {
+          "key": "C",
+          "text": "but to express"
+        },
+        {
+          "key": "D",
+          "text": "express"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。『could not help + V-ing』用於表示控制不住的反應。A項『expressing』為動名詞形式，符合句型要求。B項『to express』為不定詞，與『help』搭配需要『help to do』結構但不符此句型；C項『but to express』結構冗贅且不當；D項缺少動名詞標記，句法不完整。",
+      "id": 3
+    },
+    {
+      "question_chi": "從四個選項選出最合適的表達，描述對過去事件的無法控制的回憶反應。",
+      "question_eng": "Every time she thinks about that embarrassing incident from her childhood, she cannot help _______ at how foolish she was back then.",
+      "options": [
+        {
+          "key": "A",
+          "text": "but laughing"
+        },
+        {
+          "key": "B",
+          "text": "laughing"
+        },
+        {
+          "key": "C",
+          "text": "having laughed"
+        },
+        {
+          "key": "D",
+          "text": "to have laughed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。『cannot help + V-ing』是最標準且常見的句型。A項『but laughing』在『cannot help』後應為『but laugh』（原形），『cannot help but + V-ing』為非標準用法；C項『having laughed』為完成式動名詞，表達不符邏輯；D項『to have laughed』為完成不定詞，與『help』搭配錯誤。B項『laughing』正確表達「忍不住笑」的意思。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "看到同學的搞笑影片，我忍不住笑了出來。",
+      "answer": "I cannot help laughing when I see my classmate's funny video.",
+      "key_points": [
+        "cannot help + laughing（動名詞形式）",
+        "when引導時間狀語",
+        "funny video（搞笑影片）"
+      ],
+      "hints": [
+        "提示1：cannot help後直接接V-ing形式，不需加to",
+        "提示2：常見錯誤是寫成cannot help to laugh或cannot help laugh"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "聽到這個悲傷的消息，她忍不住哭了。",
+      "answer": "She cannot help but cry upon hearing the sad news.",
+      "key_points": [
+        "cannot help but + cry（原形動詞的口語用法）",
+        "upon hearing（聽到……時）",
+        "sad news（悲傷的消息）"
+      ],
+      "hints": [
+        "提示1：cannot help but + V是cannot help + V-ing的同義表達，但較為口語",
+        "提示2：注意upon/on hearing是分詞片語，表示「一……就……」的時間關係"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "面對老師不公平的評分，全班同學都忍不住提出抗議。",
+      "answer": "Faced with the teacher's unfair grading, all students in the class cannot help but protest.",
+      "key_points": [
+        "Faced with（面對）分詞片語作句首狀語",
+        "cannot help but + protest",
+        "unfair grading（不公平的評分）"
+      ],
+      "hints": [
+        "提示1：分詞片語可置於句首強調背景或原因，cannot help句型緊跟其後",
+        "提示2：主詞是all students，謂語動詞應保持複數形式cannot help（第三人稱複數），protest也保持原形"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "儘管他試圖冷靜，但看到不公正的事情時，他還是忍不住發表自己的意見。",
+      "answer": "Although he tried to stay calm, he cannot help voicing his opinion whenever he witnesses something unjust.",
+      "key_points": [
+        "cannot help voicing（無法抗拒地表達）",
+        "whenever引導條件狀語從句",
+        "stay calm與voicing opinion的對比"
+      ],
+      "hints": [
+        "提示1：雖然前半句用Although引導讓步狀語從句，但主句仍須使用cannot help + V-ing表達主要意思",
+        "提示2：注意V-ing的邏輯主詞應與主句主詞he一致；avoid常見錯誤：cannot help to voice"
+      ]
+    }
+  ]
+}

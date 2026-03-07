@@ -1,0 +1,477 @@
+{
+  "code": "8-10",
+  "chapter": 8,
+  "title": "目的副詞子句 so that / in order that",
+  "formulas": [
+    {
+      "formula": "S + V + so that/in order that + S + can/will/may + V",
+      "zh": "主詞 + 動詞 + 為了讓/以便 + 主詞 + 能夠/將會/可能 + 動詞"
+    },
+    {
+      "formula": "S + V + in order to V / so as to V (不定詞改寫)",
+      "zh": "主詞 + 動詞 + 為了/以便 + 不定詞（當主詞相同時使用）"
+    }
+  ],
+  "explanation": "此句型用於表達動作的目的，分為兩種形式：(1)完整子句形式使用「so that/in order that」，後接帶助動詞的完整子句；(2)簡化形式使用「in order to/so as to」直接加不定詞。兩者在意義相同但結構不同。使用時機為需明確表達「為什麼做某事」。易混淆點是助動詞的選擇（can用現在，will用未來）及與結果副詞子句的區分。注意「so that」既可表目的也可表結果，需由上下文判斷。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She studies hard so that she can pass the entrance exam.",
+      "chi": "她努力讀書，好讓她能通過升學考試。",
+      "keywords": [
+        "so that",
+        "can pass",
+        "目的"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "They saved money in order that their children will have a better education.",
+      "chi": "他們存錢，以便他們的孩子能接受更好的教育。",
+      "keywords": [
+        "in order that",
+        "will have",
+        "目的"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The teacher speaks slowly so as to help students understand the lesson.",
+      "chi": "老師說話很慢，以便幫助學生理解課程。",
+      "keywords": [
+        "so as to",
+        "不定詞",
+        "目的"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Athletes train every day in order to achieve their goals and win competitions.",
+      "chi": "運動員每天訓練，為了達成目標並贏得比賽。",
+      "keywords": [
+        "in order to",
+        "achieve",
+        "目的"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷時機：當句子表達「為了達成某個目的」時使用此句型。主詞相同時優先使用 in order to/so as to 簡化句子；主詞不同時必須用 so that/in order that 搭配助動詞。切勿混淆 so...that（如此...以至於）與 so that（為了）的用法。",
+    "examples": [
+      {
+        "test": "正確：He left early so that he could catch the train. / He left early in order to catch the train.",
+        "result": "→ 兩句都對，但主詞相同時用不定詞版本更簡潔"
+      },
+      {
+        "test": "錯誤：He left early so that to catch the train. / He left early for to catch the train.",
+        "result": "→ so that 後不能接不定詞，應改用 in order to；for to 為非文法式用法"
+      },
+      {
+        "test": "對比：It was so difficult that he could not solve it. vs. He explained clearly so that students could understand.",
+        "result": "→ 前者表結果（so...that），後者表目的（so that）"
+      }
+    ],
+    "note": "記住：so that = 為了讓別人；in order to = 為了讓自己（當主詞相同時最常使用）。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The government built more hospitals ",
+        null,
+        " more people can receive medical care."
+      ],
+      "blanks": [
+        "so that"
+      ],
+      "sentence": "The government built more hospitals so that more people can receive medical care.",
+      "translation": "政府建造了更多醫院，好讓更多人可以獲得醫療照護。",
+      "keywords": [
+        "so that",
+        "目的",
+        "can receive"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She practiced her speech many times ",
+        null,
+        " deliver it confidently at the conference."
+      ],
+      "blanks": [
+        "in order to"
+      ],
+      "sentence": "She practiced her speech many times in order to deliver it confidently at the conference.",
+      "translation": "她多次練習演講，為了在會議上自信地發表。",
+      "keywords": [
+        "in order to",
+        "不定詞",
+        "deliver"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Parents work hard ",
+        null,
+        " their children will have better opportunities in the future."
+      ],
+      "blanks": [
+        "in order that"
+      ],
+      "sentence": "Parents work hard in order that their children will have better opportunities in the future.",
+      "translation": "父母努力工作，以便他們的孩子將來能有更好的機會。",
+      "keywords": [
+        "in order that",
+        "will have",
+        "目的"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The company reduced prices ",
+        null,
+        " to attract more customers and increase sales."
+      ],
+      "blanks": [
+        "in order"
+      ],
+      "sentence": "The company reduced prices in order to attract more customers and increase sales.",
+      "translation": "公司降價，為了吸引更多顧客並增加銷售量。",
+      "keywords": [
+        "in order to",
+        "attract",
+        "目的"
+      ]
+    },
+    {
+      "id": 5,
+      "parts": [
+        "The parents save money ",
+        null,
+        " they can send their children to university."
+      ],
+      "blanks": [
+        "so that"
+      ],
+      "sentence": "The parents save money so that they can send their children to university.",
+      "translation": "父母存錢為了能夠送孩子上大學。",
+      "keywords": [
+        "so that",
+        "can",
+        "目的"
+      ]
+    },
+    {
+      "id": 6,
+      "parts": [
+        "The government built new roads ",
+        null,
+        " traffic congestion would decrease."
+      ],
+      "blanks": [
+        "in order that"
+      ],
+      "sentence": "The government built new roads in order that traffic congestion would decrease.",
+      "translation": "政府建造新道路以便交通擁堵會減少。",
+      "keywords": [
+        "in order that",
+        "would",
+        "目的子句"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "study hard",
+      "zh": "努力讀書"
+    },
+    {
+      "adj": "work overtime",
+      "zh": "加班工作"
+    },
+    {
+      "adj": "save money",
+      "zh": "存錢"
+    },
+    {
+      "adj": "speak slowly",
+      "zh": "說話緩慢"
+    },
+    {
+      "adj": "arrive early",
+      "zh": "提早到達"
+    },
+    {
+      "adj": "practice regularly",
+      "zh": "定期練習"
+    },
+    {
+      "adj": "use technology",
+      "zh": "使用科技"
+    },
+    {
+      "adj": "take notes",
+      "zh": "做筆記"
+    },
+    {
+      "adj": "exercise daily",
+      "zh": "每日運動"
+    },
+    {
+      "adj": "communicate clearly",
+      "zh": "清楚溝通"
+    },
+    {
+      "adj": "prepare well",
+      "zh": "充分準備"
+    },
+    {
+      "adj": "manage time efficiently",
+      "zh": "有效管理時間"
+    }
+  ],
+  "vocab_table_label": "常用動詞片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的選項完成句子，表達目的",
+      "question_eng": "He wakes up early every morning _______ he can catch the first bus to work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that"
+        },
+        {
+          "key": "B",
+          "text": "so as to"
+        },
+        {
+          "key": "C",
+          "text": "in order to"
+        },
+        {
+          "key": "D",
+          "text": "because"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A。句子主詞「He」為單數，空格後接「he can catch」（含主詞與助動詞），必須用「so that + S + can/will + V」的結構。B 項 so as to 和 C 項 in order to 後接不定詞，且不需要主詞。D 項 because 表原因而非目的，語意不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的目的副詞子句形式，主詞相同",
+      "question_eng": "The company invested heavily in technology _______ improve their production efficiency.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that they can"
+        },
+        {
+          "key": "B",
+          "text": "in order that they will"
+        },
+        {
+          "key": "C",
+          "text": "so as to"
+        },
+        {
+          "key": "D",
+          "text": "so that to"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。因為主詞相同（都是 company/they），可使用不定詞形式 so as to + V。A 項雖文法正確但不夠簡潔。B 項 in order that 後應用 can 而非 will。D 項「so that to V」為常見錯誤，so that 後必須接助動詞，不能直接接不定詞。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別目的子句與結果子句的差異，選擇適切表達",
+      "question_eng": "The government implemented stricter environmental policies _______ reduce air pollution in major cities.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that it can"
+        },
+        {
+          "key": "B",
+          "text": "in order that industries will"
+        },
+        {
+          "key": "C",
+          "text": "in order to"
+        },
+        {
+          "key": "D",
+          "text": "so that to be able to"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。主詞相同（政府實施政策→為了減少污染），應改寫為 in order to 或 so as to 搭配不定詞，更簡潔有力。A 項 so that 後主詞應與前句一致。B 項改變了主詞，造成邏輯混亂。D 項「so that to be able to」混合了兩種句型，為錯誤用法。",
+      "id": 3
+    },
+    {
+      "question_chi": "複雜句型判斷，考慮主詞變更與時態搭配",
+      "question_eng": "They distributed free masks throughout the neighborhood _______ vulnerable populations would have access to protective equipment during the health crisis.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in order to"
+        },
+        {
+          "key": "B",
+          "text": "so as to make sure"
+        },
+        {
+          "key": "C",
+          "text": "in order that"
+        },
+        {
+          "key": "D",
+          "text": "in order that they can provide"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C。主詞變更（they → populations），目的子句有自己的主詞時，須用「in order that + S + would/can + V」的完整從句結構；空格後「vulnerable populations would have」符合此需求。A 項 in order to 和 B 項 so as to 皆為不定詞形，主詞必須相同。D 項改變了原句邏輯結構。",
+      "id": 4
+    },
+    {
+      "question_chi": "選擇適當的目的子句形式，完成句子",
+      "question_eng": "He wakes up early every day _______ he can catch the first bus to work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "so that"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "because"
+        },
+        {
+          "key": "D",
+          "text": "therefore"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A「so that」。此句表示目的（為了能趕上公車），需用「so that + S + can + V」的完整子句形式。B「so」是連接詞但不能引導目的子句；C「because」表原因而非目的；D「therefore」是副詞無法引導子句。",
+      "id": 5
+    },
+    {
+      "question_chi": "判斷目的子句中的助動詞選用是否正確",
+      "question_eng": "The teacher explained the grammar rule slowly in order that all students _______ understand it clearly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will"
+        },
+        {
+          "key": "B",
+          "text": "would"
+        },
+        {
+          "key": "C",
+          "text": "can"
+        },
+        {
+          "key": "D",
+          "text": "could"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C「can」。「in order that + S + can + V」表示現在或一般性的目的，should use 「can」表可能性。A「will」用於未來確定事件；B「would」和D「could」為過去或假設用法，不適合此正式教學情境。",
+      "id": 6
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我每天早起，以便準時上學。",
+      "answer": "I get up early every day so that I can arrive at school on time. / I get up early every day in order to arrive at school on time.",
+      "key_points": [
+        "so that + can",
+        "in order to + V",
+        "arrive at school on time"
+      ],
+      "hints": [
+        "提示1：主詞相同時可用 so that + can 或 in order to 改寫",
+        "提示2：注意 so that 後接 can/will/may 搭配動詞，不能直接接不定詞"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "學生認真讀書，為了在大學入學考試中取得好成績。",
+      "answer": "Students study hard so that they can get good grades in the university entrance exam. / Students study hard in order that they may achieve good results in the university entrance exam.",
+      "key_points": [
+        "so that/in order that + S + can/may",
+        "study hard",
+        "get good grades in the entrance exam"
+      ],
+      "hints": [
+        "提示1：主詞不同時需用 so that 或 in order that 搭配助動詞（can/may/will）",
+        "提示2：avoid 誤用『so that to get』—so that 後必須有助動詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師用了許多例子來解釋這個文法概念，以便學生能夠清楚地理解。",
+      "answer": "The teacher used many examples to explain the grammar concept so that students could understand it clearly. / The teacher used many examples to explain the grammar concept in order that the students might understand clearly.",
+      "key_points": [
+        "so that + could/might",
+        "in order that",
+        "use examples to explain"
+      ],
+      "hints": [
+        "提示1：當表達過去情景或假設時，so that 後可用 could/might 替代 can/may",
+        "提示2：so that 子句表達目的時，助動詞選擇應符合主要子句時態"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "政府制定了新的環保政策，使得企業能夠減少碳排放，從而保護地球環境。",
+      "answer": "The government established new environmental policies so that enterprises could reduce carbon emissions in order to protect the Earth's environment. / The government established new environmental policies in order that companies might be able to decrease their carbon footprint and thus preserve the planetary ecosystem.",
+      "key_points": [
+        "so that + could + V",
+        "in order that + might",
+        "reduce carbon emissions / decrease carbon footprint"
+      ],
+      "hints": [
+        "提示1：複雜句中可結合多個目的子句，第一個 so that 後用 could 表達可能性，第二個可用 in order to 或另一個 so that",
+        "提示2：注意主詞一致性—若企業與政府不同，需用 so that/in order that + S + could/might，不能簡化為不定詞"
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_chi": "我每天早起讀英文，以便能在學測中取得好成績。",
+      "answer": "I get up early every day so that I can get a good score on the college entrance exam.",
+      "key_points": [
+        "so that + S + can + V 的完整結構",
+        "get up early（早起）",
+        "college entrance exam（學測）"
+      ],
+      "hints": [
+        "提示1：目的子句使用『so that + S + can + V』，其中 can 表示現在或一般情況下的能力/可能性",
+        "提示2：注意不要寫成 so I can...（缺少主詞），也不要用 will 代替 can"
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_chi": "老師把重點寫在黑板上，為的是讓所有學生都能理解這個概念。",
+      "answer": "The teacher writes the key points on the blackboard in order that all students can understand this concept.",
+      "key_points": [
+        "in order that + S + can + V 的目的子句",
+        "key points（重點）",
+        "understand the concept（理解概念）"
+      ],
+      "hints": [
+        "提示1：『in order that』與『so that』意義相同，都表達目的，後面接帶助動詞 can 的完整子句",
+        "提示2：注意『in order that』較正式，在學術或書面英文中較常見；『so that』更口語化"
+      ]
+    }
+  ]
+}

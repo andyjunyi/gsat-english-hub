@@ -1,0 +1,362 @@
+{
+  "code": "5-28",
+  "chapter": 5,
+  "title": "S + be supposed to + V",
+  "formulas": [
+    {
+      "formula": "S + be supposed to + V",
+      "zh": "某人應該做某事；某事理應發生"
+    },
+    {
+      "formula": "S + was/were supposed to + V",
+      "zh": "某人本應做某事（但實際未做）"
+    }
+  ],
+  "explanation": "be supposed to 表達義務、期望或推測，含「應該」之意，暗示存在預期或規範。現在式表示目前應該做的事；過去式 was/were supposed to 則表達「本應但未能」的遺憾感，通常暗示該行動未完成或未達成。此句型常見於日常交流、規則說明及事實敘述中，與 should 相似但語氣略顯正式。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "You are supposed to submit your homework by Friday.",
+      "chi": "你應該在星期五之前提交你的功課。",
+      "keywords": [
+        "be supposed to",
+        "義務",
+        "期限"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The meeting was supposed to start at 9 AM, but it was delayed.",
+      "chi": "會議原本應該在上午9點開始，但被延遲了。",
+      "keywords": [
+        "was supposed to",
+        "本應",
+        "延遲"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Students are supposed to follow the school regulations.",
+      "chi": "學生應該遵守學校規定。",
+      "keywords": [
+        "be supposed to",
+        "規範",
+        "遵守"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He was supposed to arrive yesterday, but his flight was cancelled.",
+      "chi": "他本應昨天到達，但他的班機被取消了。",
+      "keywords": [
+        "was supposed to",
+        "計畫改變",
+        "意外"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "be supposed to 帶有未達成或期望落空的隱含意義，尤其在過去式；should 則較為直接的建議或義務。在陳述規則、計畫或期望時優先使用 be supposed to，比 should 更正式、更具約束力。注意與 be expected to 的區別：前者強調應該/規範，後者強調期望。",
+    "examples": [
+      {
+        "test": "He should finish the project by next week. vs. He is supposed to finish the project by next week.",
+        "result": "→ 前者為建議，後者為明確義務或規範；後者更正式、更具約束力"
+      },
+      {
+        "test": "You were supposed to call me yesterday. vs. You should have called me yesterday.",
+        "result": "→ 前者暗示有既定計畫未完成，後者則為後悔的建議；前者實際性更強"
+      },
+      {
+        "test": "The package is supposed to arrive tomorrow. vs. The package should arrive tomorrow.",
+        "result": "→ 前者指預期/計畫狀態，後者指邏輯推測；前者更確定"
+      }
+    ],
+    "note": "現在式是「應該現在做」，過去式是「本應當時做但沒做」——時態決定是否含遺憾感。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "Students ",
+        null,
+        " arrive at school before 8 AM."
+      ],
+      "blanks": [
+        "are supposed to"
+      ],
+      "sentence": "Students are supposed to arrive at school before 8 AM.",
+      "translation": "學生應該在上午8點前到校。",
+      "keywords": [
+        "be supposed to",
+        "學校規定"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "The project ",
+        null,
+        " complete by the end of this month."
+      ],
+      "blanks": [
+        "is supposed to be"
+      ],
+      "sentence": "The project is supposed to be complete by the end of this month.",
+      "translation": "該專案應該在本月底前完成。",
+      "keywords": [
+        "be supposed to",
+        "被動語態",
+        "期限"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She ",
+        null,
+        " attend the conference, but she got sick."
+      ],
+      "blanks": [
+        "was supposed to"
+      ],
+      "sentence": "She was supposed to attend the conference, but she got sick.",
+      "translation": "她本應參加會議，但她生病了。",
+      "keywords": [
+        "was supposed to",
+        "計畫改變",
+        "意外事件"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "We ",
+        null,
+        " know the truth about what happened last year."
+      ],
+      "blanks": [
+        "are supposed to"
+      ],
+      "sentence": "We are supposed to know the truth about what happened last year.",
+      "translation": "我們應該知道去年發生的事情的真相。",
+      "keywords": [
+        "be supposed to",
+        "推測",
+        "事實"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "on time",
+      "zh": "準時"
+    },
+    {
+      "adj": "on schedule",
+      "zh": "按時間表"
+    },
+    {
+      "adj": "in advance",
+      "zh": "提前"
+    },
+    {
+      "adj": "immediately",
+      "zh": "立即"
+    },
+    {
+      "adj": "carefully",
+      "zh": "小心地"
+    },
+    {
+      "adj": "properly",
+      "zh": "適當地"
+    },
+    {
+      "adj": "together",
+      "zh": "一起"
+    },
+    {
+      "adj": "alone",
+      "zh": "獨自"
+    },
+    {
+      "adj": "responsible",
+      "zh": "負責任的"
+    },
+    {
+      "adj": "obligated",
+      "zh": "有義務的"
+    },
+    {
+      "adj": "required",
+      "zh": "被要求的"
+    },
+    {
+      "adj": "expected",
+      "zh": "被期望的"
+    }
+  ],
+  "vocab_table_label": "常用副詞片語",
+  "mc_exercises": [
+    {
+      "question_chi": "描述學生應該完成的作業截止日期",
+      "question_eng": "You _______ to submit your homework by Friday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are supposed"
+        },
+        {
+          "key": "B",
+          "text": "are suppose"
+        },
+        {
+          "key": "C",
+          "text": "suppose to be"
+        },
+        {
+          "key": "D",
+          "text": "are supposing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「are supposed」。be supposed to 為固定片語，表示「應該」的義務。選項 B 缺少過去分詞 supposed，文法錯誤。選項 C 改變了片語結構，意思不符。選項 D supposing 為現在分詞，無法搭配 are 形成此句型。",
+      "id": 1
+    },
+    {
+      "question_chi": "說明會議本應但未能準時開始的情況",
+      "question_eng": "The meeting _______ to start at 9 AM, but it was delayed by an hour.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was supposed"
+        },
+        {
+          "key": "B",
+          "text": "is supposed"
+        },
+        {
+          "key": "C",
+          "text": "has been supposed"
+        },
+        {
+          "key": "D",
+          "text": "would be supposed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「was supposed」。過去式 was supposed to 表示「本應但未能」的遺憾感，搭配後文「延遲」的事實。選項 B 現在式不符合已發生的過去事件。選項 C 現在完成式與後文過去時態不搭配。選項 D would be 帶有假設意味，不適合陳述事實。",
+      "id": 2
+    },
+    {
+      "question_chi": "表達對某人應該知道某事的期望",
+      "question_eng": "As a professional accountant, you _______ to be familiar with the latest tax regulations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are expected"
+        },
+        {
+          "key": "B",
+          "text": "are supposed"
+        },
+        {
+          "key": "C",
+          "text": "should be"
+        },
+        {
+          "key": "D",
+          "text": "ought to be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「are supposed」。be supposed to 表達基於職業角色的期望和規範。選項 A expect 意思相近但搭配不同，通常用「be expected to」。選項 C D 雖文法正確，但題目強調規範性期望時，be supposed to 最恰當，語氣更正式。",
+      "id": 3
+    },
+    {
+      "question_chi": "推測過去應該發生但未確認的事件",
+      "question_eng": "According to the itinerary, they _______ to have arrived in Tokyo by yesterday evening, yet we haven't heard from them.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were supposed"
+        },
+        {
+          "key": "B",
+          "text": "were supposing"
+        },
+        {
+          "key": "C",
+          "text": "had supposed"
+        },
+        {
+          "key": "D",
+          "text": "are being supposed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「were supposed」。be supposed to + have + 過去分詞表示「本應已完成但未確認」的推測。選項 B supposing 為現在分詞，無法表達此意。選項 C had supposed 為過去完成式但非 be supposed to 結構。選項 D 進行式不適合此語境，且文意不符。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學生應該準時到校。",
+      "answer": "Students are supposed to arrive at school on time.",
+      "key_points": [
+        "be supposed to",
+        "arrive at school",
+        "on time"
+      ],
+      "hints": [
+        "提示1：現在式 be supposed to 表示目前應該做的事",
+        "提示2：注意 arrive at（到達地點）的搭配，不可用 go to"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "你本來應該昨天完成這份作業的。",
+      "answer": "You were supposed to finish this homework yesterday.",
+      "key_points": [
+        "were supposed to",
+        "過去式暗示未完成",
+        "yesterday"
+      ],
+      "hints": [
+        "提示1：過去式 was/were supposed to 表達『本應但未能』的遺憾感",
+        "提示2：過去式用於描述昨天的預期行動，暗示該作業可能未完成"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "根據天氣預報，明天應該會下雨，所以我們不應該去登山。",
+      "answer": "According to the weather forecast, it is supposed to rain tomorrow, so we are not supposed to go hiking.",
+      "key_points": [
+        "is supposed to rain",
+        "天氣推測用法",
+        "are not supposed to（否定形式）"
+      ],
+      "hints": [
+        "提示1：be supposed to 除表義務外，也可用於推測或預期情況",
+        "提示2：注意否定形式為 be not supposed to，表示『不應該』或『不該』"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "醫生告訴他應該每天運動至少三十分鐘，但他上週本應遵守這個建議卻沒有做到。",
+      "answer": "The doctor told him he is supposed to exercise for at least thirty minutes every day, but he was supposed to follow this advice last week but didn't.",
+      "key_points": [
+        "is supposed to exercise",
+        "過去式 was supposed to 搭配but didn't",
+        "時態轉換"
+      ],
+      "hints": [
+        "提示1：同一句子中結合現在式（一般規則）與過去式（未達成的期望）",
+        "提示2：『but didn't』強化過去式『本應但未能』的遺憾感，避免單用過去式造成歧義"
+      ]
+    }
+  ]
+}

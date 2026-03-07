@@ -1,0 +1,361 @@
+{
+  "code": "1-9",
+  "chapter": 1,
+  "title": "What + S + V + is/was + (that) 子句／名詞",
+  "formulas": [
+    {
+      "formula": "What + S + V + is + 名詞子句 (that + S + V ...)",
+      "zh": "……的事情是……（強調後方資訊）"
+    },
+    {
+      "formula": "What + S + V + is + 名詞 / 名詞片語",
+      "zh": "……的東西／事情是……（用 What 子句當主詞，突顯補語重點）"
+    }
+  ],
+  "explanation": "此句型以 What 引導的名詞子句作為句子主詞，再用 be 動詞連接補語，目的是將最重要的資訊放在 is 之後，達到強調效果。What 在此等於 the thing(s) that，整個 What 子句視為第三人稱單數，故 be 動詞通常用 is / was。補語可以是名詞、名詞片語，也可以是 that 引導的名詞子句。注意不可與 It is... that... 的分裂句混淆，兩者強調對象不同。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "What the teacher said in class is that we should never give up on our dreams.",
+      "chi": "老師在課堂上說的是，我們絕不應該放棄夢想。",
+      "keywords": [
+        "What",
+        "is that"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "What she needs most right now is a good rest and some quiet time alone.",
+      "chi": "她現在最需要的是好好休息和一些獨處的安靜時光。",
+      "keywords": [
+        "What",
+        "needs",
+        "is"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "What surprised us the most was the kindness of the strangers we met on the trip.",
+      "chi": "最讓我們驚訝的是旅途中遇到的陌生人的善意。",
+      "keywords": [
+        "What",
+        "surprised",
+        "was"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "What makes this city special is its rich history and diverse cultural traditions.",
+      "chi": "讓這座城市與眾不同的是它豐富的歷史和多元的文化傳統。",
+      "keywords": [
+        "What",
+        "makes",
+        "is"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：看到句首 What 後面接「主詞＋動詞」，而非問號結尾，就知道這是名詞子句當主詞，不是疑問句。What 子句整體視為單數，be 動詞用 is / was。若要強調的資訊是一件事，用 is + that 子句；若是具體事物，直接接名詞即可。",
+    "examples": [
+      {
+        "test": "What he said is important. ← What 子句當主詞，is 後接形容詞補語",
+        "result": "→ 正確，但此句強調的是形容詞描述，非本句型的核心焦點用法。"
+      },
+      {
+        "test": "What he said is that we must work harder. ← is 後接 that 子句",
+        "result": "→ 正確，完全符合本句型，強調 that 子句的內容。"
+      },
+      {
+        "test": "That he said is surprising. ← 用 That 開頭想代替 What",
+        "result": "→ 錯誤。What = the thing that，不可直接用 That 替代。應改為 What he said is surprising."
+      }
+    ],
+    "note": "「What 帶頭當主詞，is 後面放重點」——前因後果一目了然。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "",
+        null,
+        " me most was her courage to speak up in front of the whole school."
+      ],
+      "blanks": [
+        "What impressed"
+      ],
+      "sentence": "What impressed me most was her courage to speak up in front of the whole school.",
+      "translation": "最令我印象深刻的是她在全校面前勇敢發言的勇氣。",
+      "keywords": [
+        "What",
+        "impressed",
+        "was"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "What the research shows ",
+        null,
+        " regular exercise can greatly improve our mental health."
+      ],
+      "blanks": [
+        "is that"
+      ],
+      "sentence": "What the research shows is that regular exercise can greatly improve our mental health.",
+      "translation": "研究顯示的是，規律運動能大幅改善我們的心理健康。",
+      "keywords": [
+        "What",
+        "is that"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "",
+        null,
+        " is a clear plan and strong teamwork among all the members."
+      ],
+      "blanks": [
+        "What we need most"
+      ],
+      "sentence": "What we need most is a clear plan and strong teamwork among all the members.",
+      "translation": "我們最需要的是一個明確的計畫和所有成員之間的緊密合作。",
+      "keywords": [
+        "What",
+        "need",
+        "is"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "What makes this book worth reading ",
+        null,
+        " its honest description of teenage life."
+      ],
+      "blanks": [
+        "is"
+      ],
+      "sentence": "What makes this book worth reading is its honest description of teenage life.",
+      "translation": "讓這本書值得一讀的是它對青少年生活的真實描寫。",
+      "keywords": [
+        "What",
+        "makes",
+        "is"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "What ... need(s)",
+      "zh": "……所需要的"
+    },
+    {
+      "adj": "What ... want(s)",
+      "zh": "……所想要的"
+    },
+    {
+      "adj": "What ... matter(s)",
+      "zh": "……重要的事"
+    },
+    {
+      "adj": "What ... surprise(s)",
+      "zh": "……令人驚訝的事"
+    },
+    {
+      "adj": "What ... concern(s)",
+      "zh": "……令人擔憂的事"
+    },
+    {
+      "adj": "What ... impress(es)",
+      "zh": "……令人印象深刻的事"
+    },
+    {
+      "adj": "What ... bother(s)",
+      "zh": "……令人困擾的事"
+    },
+    {
+      "adj": "What ... inspire(s)",
+      "zh": "……激勵人的事"
+    },
+    {
+      "adj": "What ... lack(s)",
+      "zh": "……所缺乏的"
+    },
+    {
+      "adj": "What ... value(s)",
+      "zh": "……所重視的"
+    },
+    {
+      "adj": "What ... mean(s)",
+      "zh": "……所意味的"
+    },
+    {
+      "adj": "What ... make(s) ... special",
+      "zh": "讓……特別的事"
+    }
+  ],
+  "vocab_table_label": "核心句型結構",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的選項完成句子，強調最重要的需求。",
+      "question_eng": "What the patient needs most right now _______ a healthy diet and regular exercise.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "were"
+        },
+        {
+          "key": "D",
+          "text": "be"
+        }
+      ],
+      "answer": "B",
+      "explanation": "What 引導的名詞子句作主詞，視為第三人稱單數，需用 is。補語為 a healthy diet and regular exercise（名詞片語）。A 選項 are 為複數動詞，與單數主詞不符；C 選項 were 為過去式，時態不符；D 選項 be 為原形動詞，缺乏時態標記。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的動詞形式完成句子，表達強調的意思。",
+      "question_eng": "What the director emphasized in the meeting _______ that all team members should improve their communication skills.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were"
+        },
+        {
+          "key": "B",
+          "text": "has been"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "have been"
+        }
+      ],
+      "answer": "C",
+      "explanation": "What 子句為主詞，用第三人稱單數形式，現在式用 is。補語為 that 引導的名詞子句（director emphasized something）。A 選項 were 為複數過去式；B 選項 has been 為現在完成式，不適合此強調結構；D 選項 have been 為複數現在完成式，皆不符。",
+      "id": 2
+    },
+    {
+      "question_chi": "完成句子，表達強調學生最缺乏的技能是什麼。",
+      "question_eng": "What many high school students lack _______ the ability to think critically and solve problems independently in complex situations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have"
+        },
+        {
+          "key": "B",
+          "text": "are"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "were being"
+        }
+      ],
+      "answer": "C",
+      "explanation": "What 名詞子句為單數主詞，搭配現在式 is。補語為 the ability to think critically and solve problems independently（名詞片語）。A 選項 have 為複數現在式；B 選項 are 為複數式；D 選項 were being 為過去進行式，皆不符單數現在式的要求。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當的選項，完成強調環境保護重要性的句子。",
+      "question_eng": "What our generation should prioritize _______ not just economic growth, but sustainable development that preserves natural resources for future generations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are"
+        },
+        {
+          "key": "B",
+          "text": "is"
+        },
+        {
+          "key": "C",
+          "text": "being"
+        },
+        {
+          "key": "D",
+          "text": "have been"
+        }
+      ],
+      "answer": "B",
+      "explanation": "What 引導的名詞子句為單數主詞，需用現在式單數 is。補語為複雜名詞片語 not just economic growth, but sustainable development...（並列結構但整體視為單數概念）。A 選項 are 為複數；C 選項 being 為進行式；D 選項 have been 為現在完成複數式，均不符此結構要求。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我最擔心的是考不及格。",
+      "answer": "What I worry about most is failing the exam.",
+      "key_points": [
+        "What 引導名詞子句作主詞",
+        "is 後接名詞/動名詞作補語",
+        "worry about 的用法"
+      ],
+      "hints": [
+        "句型框架：What + S + V + is + 名詞（或動名詞）",
+        "注意：fail the exam 要改為動名詞 failing the exam 當補語"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "令老師最感到失望的是學生們沒有好好準備。",
+      "answer": "What disappointed the teacher most was that the students didn't prepare well.",
+      "key_points": [
+        "What 子句後接 was（過去式）",
+        "補語為 that 引導的名詞子句",
+        "disappoint 的用法"
+      ],
+      "hints": [
+        "句型框架：What + S + V + was + that 子句，表達過去事件或狀態",
+        "注意：that 可省略，但保留時更清楚；補語子句內需有主詞和動詞"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這次科學展覽令人印象深刻的地方就是學生們展現了創新的設計思維。",
+      "answer": "What impressed people about this science exhibition was that the students demonstrated innovative design thinking.",
+      "key_points": [
+        "What 子句中含介詞片語 about",
+        "was 後接較複雜的 that 名詞子句",
+        "impress 的被動意義表達"
+      ],
+      "hints": [
+        "句型框架：What + S + V (+ prep. phrase) + was + that 子句",
+        "注意：『令人印象深刻』可用 impress people / be impressive，這裡用 What impressed people about... 強調 that 後的內容"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我們在這次校際辯論賽中獲得成功的關鍵就是全隊成員的密切合作與充分準備。",
+      "answer": "What made our team successful in this inter-school debate competition was the close cooperation and thorough preparation of all team members.",
+      "key_points": [
+        "What 子句中含複雜修飾成分 in...",
+        "補語為複合名詞片語 the... and...",
+        "make + O + C 結構轉換為被動意義"
+      ],
+      "hints": [
+        "句型框架：What + S + V (+ complex modifier) + was + 複合名詞片語，補語可包含 and 連接的多個名詞",
+        "注意：『成功的關鍵』不直譯為 key，應用 What made... successful / What contributed to... 等結構；補語中的兩個名詞片語要平行對稱"
+      ]
+    }
+  ]
+}

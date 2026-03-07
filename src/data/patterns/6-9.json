@@ -1,0 +1,361 @@
+{
+  "code": "6-9",
+  "chapter": 6,
+  "title": "too + adj. + to V / adj. + enough + to V",
+  "formulas": [
+    {
+      "formula": "too + adj./adv. + to V",
+      "zh": "太…以致不能；表示程度過高導致無法進行某動作"
+    },
+    {
+      "formula": "adj./adv. + enough + to V",
+      "zh": "足夠…可以；表示程度足夠可以進行某動作"
+    },
+    {
+      "formula": "too + adj./adv. + (for + sb./sth.) + to V",
+      "zh": "對於…來說太…以致不能"
+    },
+    {
+      "formula": "adj./adv. + enough + (for + sb./sth.) + to V",
+      "zh": "對於…來說足夠…可以"
+    }
+  ],
+  "explanation": "此句型用不定詞表結果，區分程度的肯定與否定。「too...to」強調超過限度而無法進行，常見於negative情境；「enough...to」表程度達標可進行，多用positive情境。兩者皆可加「for + 受詞」明確指出主體，其中for後接人稱代詞時需用受格(me/him/her)。務必注意enough置於形容詞或副詞之後，而too總在形容詞或副詞之前。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This book is too difficult for beginners to understand completely.",
+      "chi": "這本書對初學者來說太困難了，無法完全理解。",
+      "keywords": [
+        "too...to",
+        "for + 受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She is old enough to make her own decisions about her future.",
+      "chi": "她已經夠大了，可以為自己的未來做決定。",
+      "keywords": [
+        "enough...to",
+        "old enough"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "The music was too loud to have a conversation.",
+      "chi": "音樂太大聲了，以至於無法進行對話。",
+      "keywords": [
+        "too...to",
+        "無for子句"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "He spoke clearly enough for everyone in the back to hear him.",
+      "chi": "他說得足夠清楚，後排的每個人都能聽到他。",
+      "keywords": [
+        "enough...to",
+        "for + 受詞"
+      ]
+    }
+  ],
+  "adj_table_for": [
+    {
+      "adj": "difficult",
+      "zh": "困難的"
+    },
+    {
+      "adj": "easy",
+      "zh": "容易的"
+    },
+    {
+      "adj": "young",
+      "zh": "年輕的"
+    },
+    {
+      "adj": "old",
+      "zh": "年老的"
+    },
+    {
+      "adj": "small",
+      "zh": "小的"
+    },
+    {
+      "adj": "large",
+      "zh": "大的"
+    },
+    {
+      "adj": "fast",
+      "zh": "快的"
+    },
+    {
+      "adj": "slow",
+      "zh": "慢的"
+    },
+    {
+      "adj": "strong",
+      "zh": "強壯的"
+    },
+    {
+      "adj": "weak",
+      "zh": "虛弱的"
+    },
+    {
+      "adj": "loud",
+      "zh": "大聲的"
+    },
+    {
+      "adj": "intelligent",
+      "zh": "聰明的"
+    }
+  ],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷要點：「too...to」表能力不足、程度過高（否定含義），句子通常傳達消極訊息；「enough...to」表能力足夠、程度達標（肯定含義），通常傳達積極訊息。注意enough位置必在形容詞/副詞後；too必在前。常見錯誤：寫成「enough too」或「too enough」，兩者不能並用。",
+    "examples": [
+      {
+        "test": "He is too young to drive.",
+        "result": "✓ 正確。年紀太小無法駕駛（too在形容詞前）"
+      },
+      {
+        "test": "He is young enough to learn quickly.",
+        "result": "✓ 正確。夠年輕可以學得快（enough在形容詞後）"
+      },
+      {
+        "test": "The movie was too long for the children to sit through.",
+        "result": "✓ 正確。電影對孩子來說太長了（含for + 受詞說明主體）"
+      }
+    ],
+    "note": "記憶訣竅：「too」在前表「太過」無法，「enough」在後表「足夠」可以；需要時加「for+人/物」明確指出受影響者。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The exam was ",
+        null,
+        " for most students to finish in the given time."
+      ],
+      "blanks": [
+        "too difficult"
+      ],
+      "sentence": "The exam was too difficult for most students to finish in the given time.",
+      "translation": "那場考試對大多數學生來說太困難了，無法在規定時間內完成。",
+      "keywords": [
+        "too...to",
+        "for + 受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She is experienced ",
+        null,
+        " to handle this challenging project alone."
+      ],
+      "blanks": [
+        "enough"
+      ],
+      "sentence": "She is experienced enough to handle this challenging project alone.",
+      "translation": "她有足夠的經驗可以獨自處理這個具挑戰性的專案。",
+      "keywords": [
+        "enough...to",
+        "experienced"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The package is ",
+        null,
+        " for one person to carry up the stairs."
+      ],
+      "blanks": [
+        "too heavy"
+      ],
+      "sentence": "The package is too heavy for one person to carry up the stairs.",
+      "translation": "這個包裹對一個人來說太重了，無法搬上樓梯。",
+      "keywords": [
+        "too...to",
+        "for單數"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "He spoke ",
+        null,
+        " for the audience in the back row to hear what he said."
+      ],
+      "blanks": [
+        "loudly enough"
+      ],
+      "sentence": "He spoke loudly enough for the audience in the back row to hear what he said.",
+      "translation": "他說話的聲音足夠大，後排觀眾能聽到他說的話。",
+      "keywords": [
+        "副詞+enough",
+        "for+受詞"
+      ]
+    }
+  ],
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的句型表達：這件事太複雜了，小孩無法理解。",
+      "question_eng": "This matter is _______ for children to understand.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too complicated"
+        },
+        {
+          "key": "B",
+          "text": "complicated enough"
+        },
+        {
+          "key": "C",
+          "text": "enough complicated"
+        },
+        {
+          "key": "D",
+          "text": "too enough complicated"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「too complicated」。「too + 形容詞 + to V」表示超過限度而無法進行，符合「太複雜了無法理解」的負面情境。B 選項「complicated enough」語意相反，表示足夠複雜（能理解困難）。C 選項 enough 置於形容詞前，用法錯誤。D 選項同時使用 too 和 enough 是雙重否定，文法不合。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確句型：她年紀大到能夠自己做決定。",
+      "question_eng": "She is _______ to make decisions about her own life.",
+      "options": [
+        {
+          "key": "A",
+          "text": "old enough"
+        },
+        {
+          "key": "B",
+          "text": "too old"
+        },
+        {
+          "key": "C",
+          "text": "enough old"
+        },
+        {
+          "key": "D",
+          "text": "too enough old"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「old enough」。「形容詞/副詞 + enough + to V」表示程度達標能進行，符合肯定情境「年紀足夠大，能自己決定」。B 選項「too old」意思錯誤，表年紀太大反而無法決定。C 選項 enough 置於形容詞前，位置錯誤。D 選項雙重修飾，文法不合。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇正確句型：這個游泳池對初學者來說太深了。",
+      "question_eng": "The swimming pool is _______ for beginners.",
+      "options": [
+        {
+          "key": "A",
+          "text": "deep enough to swim in"
+        },
+        {
+          "key": "B",
+          "text": "too deep to swim safely in"
+        },
+        {
+          "key": "C",
+          "text": "too deep enough"
+        },
+        {
+          "key": "D",
+          "text": "deeply enough to use"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「too deep to swim safely in」。「too + 形容詞 + (for + 受詞) + to V」表超過限度，符合「太深無法安全游泳」的負面情境。A 選項「deep enough」語意相反。C 選項雙重修飾文法錯誤。D 選項用副詞 deeply 和 enough 組合，且與情境不符。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確句型：這間飯店的服務質量很高，能滿足最挑剔的顧客。",
+      "question_eng": "The hotel's service is _______ even for the most demanding customers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "excellent enough to satisfy"
+        },
+        {
+          "key": "B",
+          "text": "too excellent to satisfy"
+        },
+        {
+          "key": "C",
+          "text": "enough excellent to please"
+        },
+        {
+          "key": "D",
+          "text": "too good enough"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A「excellent enough to satisfy」。「形容詞 + enough + to V」表程度達標、能夠達成目標，符合「服務質量高到能滿足」的肯定情境。B 選項「too excellent」語意相反，表太優秀反而無法滿足（邏輯不通）。C 選項 enough 置於形容詞前，位置錯誤。D 選項混用 too 和 enough，文法不合。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這個數學題太難了，我無法解決。",
+      "answer": "This math problem is too difficult for me to solve.",
+      "key_points": [
+        "too...to 表示超過限度而無法進行",
+        "for me 明確指出受詞，me 為受格",
+        "solve 作不定詞動詞"
+      ],
+      "hints": [
+        "句型框架：too + adj. + (for + 受詞) + to V",
+        "注意：too 置於形容詞前，人稱代詞必須用受格（me/him/her）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她足夠聰明，能夠理解這個複雜的概念。",
+      "answer": "She is intelligent enough to understand this complex concept.",
+      "key_points": [
+        "enough 置於形容詞之後",
+        "intelligent 作為形容詞修飾主詞",
+        "understand 表結果的不定詞"
+      ],
+      "hints": [
+        "句型框架：adj. + enough + to V，注意 enough 的位置在形容詞之後",
+        "enough...to 表程度達標可進行，多用於肯定情境"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這個盒子太重了，小孩子無法搬動它。",
+      "answer": "The box is too heavy for children to carry.",
+      "key_points": [
+        "too...to 結合 for + 複數名詞",
+        "heavy 為形容詞修飾主詞",
+        "carry 為不定詞表示結果性動作"
+      ],
+      "hints": [
+        "句型框架：too + adj. + for + 名詞/代詞 + to V",
+        "for 後接複數名詞時不用改變形式（children），只有人稱代詞才改為受格"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "這部電影足夠有趣，足以讓全家人坐著看兩個小時而不感到無聊。",
+      "answer": "The movie is interesting enough for the whole family to sit through for two hours without getting bored.",
+      "key_points": [
+        "enough 置於形容詞後，for 後接複合名詞片語",
+        "sit through 片語動詞表耐心看完",
+        "without + V-ing 表否定結果狀態"
+      ],
+      "hints": [
+        "句型框架：adj. + enough + for + 複雜名詞結構 + to V，可搭配副詞片語（for two hours）增加複雜度",
+        "注意不定詞後的否定表達用 without + V-ing，而非 not to V"
+      ]
+    }
+  ]
+}

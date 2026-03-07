@@ -1,0 +1,377 @@
+{
+  "code": "5-2",
+  "chapter": 5,
+  "title": "S + 授與動詞 + IO + DO（雙受詞）",
+  "formulas": [
+    {
+      "formula": "S + give/send/teach/show + IO + DO",
+      "zh": "主詞 + 授與動詞 + 間接受詞（人）+ 直接受詞（物）"
+    },
+    {
+      "formula": "S + give/send/teach/show + DO + to/for + IO",
+      "zh": "主詞 + 授與動詞 + 直接受詞（物）+ to/for + 間接受詞（人）"
+    }
+  ],
+  "explanation": "授與動詞表示將某物給予或傳遞給他人。結構中IO（間接受詞）為人，DO（直接受詞）為物。雙賓語結構可改寫為「DO + to/for + IO」形式。選用to或for的規則：give/send/teach/show後接to；make/buy/cook後接for。此句型是英文中常見的雙賓語結構，理解兩種改寫形式對學生掌握句型變化至關重要。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "The teacher gave the students a detailed explanation about the chemistry experiment.",
+      "chi": "老師給學生們一份關於化學實驗的詳細說明。",
+      "keywords": [
+        "give",
+        "IO + DO",
+        "teacher",
+        "students"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She sent her grandmother a handmade card on Mother's Day.",
+      "chi": "她在母親節寄給祖母一張親手製作的卡片。",
+      "keywords": [
+        "send",
+        "IO + DO",
+        "grandmother",
+        "card"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Could you show me how to use this new software properly?",
+      "chi": "你能示範給我如何正確使用這個新軟體嗎？",
+      "keywords": [
+        "show",
+        "IO + DO",
+        "me",
+        "how"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The coach taught the young athletes several effective training techniques.",
+      "chi": "教練教年輕運動員們幾項有效的訓練技巧。",
+      "keywords": [
+        "teach",
+        "IO + DO",
+        "athletes",
+        "techniques"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷to或for的關鍵：give/send/teach/show + to（表轉移或傳遞）；make/buy/cook + for（表製作或準備目的）。注意某些動詞如send可接to（寄給）或for（派人去取），意思不同。錯用介詞會導致意思偏離。",
+    "examples": [
+      {
+        "test": "I gave a book to my friend. vs. I gave a gift for my friend.",
+        "result": "→ 前句表直接給予所有權（to）；後句可能表為了朋友的目的準備禮物（for），但通常用to更自然"
+      },
+      {
+        "test": "She cooked dinner for her family. vs. She sent the package to the office.",
+        "result": "→ 前句用for（為家人準備食物）；後句用to（物件轉移至辦公室）"
+      },
+      {
+        "test": "Please show this document to the manager. vs. Make a schedule for the team.",
+        "result": "→ 前句用to（展示給某人看）；後句用for（為團隊製作）"
+      }
+    ],
+    "note": "記憶口訣：「give/send/teach/show用to轉移物件給人；make/buy/cook用for為人準備東西」"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The principal ",
+        null,
+        " all the new teachers useful teaching materials at the beginning of the school year.",
+        null
+      ],
+      "blanks": [
+        "gave",
+        "to"
+      ],
+      "sentence": "The principal gave all the new teachers useful teaching materials to at the beginning of the school year.",
+      "translation": "校長在學年開始時把有用的教學資料給了所有新老師。",
+      "keywords": [
+        "give",
+        "IO + DO",
+        "materials"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "My grandmother ",
+        null,
+        " me a wonderful recipe that has been in our family for generations.",
+        null
+      ],
+      "blanks": [
+        "taught",
+        "to"
+      ],
+      "sentence": "My grandmother taught me a wonderful recipe that has been in our family for generations.",
+      "translation": "我祖母教了我一份在我們家族代代相傳的美妙食譜。",
+      "keywords": [
+        "teach",
+        "IO + DO",
+        "recipe"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "The museum director ",
+        null,
+        " the new artifact ",
+        null,
+        " all the visiting researchers with great enthusiasm."
+      ],
+      "blanks": [
+        "showed",
+        "to"
+      ],
+      "sentence": "The museum director showed the new artifact to all the visiting researchers with great enthusiasm.",
+      "translation": "博物館館長滿腔熱情地向所有訪問的研究人員展示了新文物。",
+      "keywords": [
+        "show",
+        "DO + to + IO",
+        "artifact"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Please ",
+        null,
+        " this important letter ",
+        null,
+        " the finance department by tomorrow morning."
+      ],
+      "blanks": [
+        "send",
+        "to"
+      ],
+      "sentence": "Please send this important letter to the finance department by tomorrow morning.",
+      "translation": "請在明早前把這封重要信件寄給財務部門。",
+      "keywords": [
+        "send",
+        "DO + to + IO",
+        "letter"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "give",
+      "zh": "給予"
+    },
+    {
+      "adj": "send",
+      "zh": "寄送"
+    },
+    {
+      "adj": "teach",
+      "zh": "教導"
+    },
+    {
+      "adj": "show",
+      "zh": "展示、說明"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴"
+    },
+    {
+      "adj": "offer",
+      "zh": "提供"
+    },
+    {
+      "adj": "pass",
+      "zh": "傳遞"
+    },
+    {
+      "adj": "lend",
+      "zh": "借出"
+    },
+    {
+      "adj": "write",
+      "zh": "寫"
+    },
+    {
+      "adj": "read",
+      "zh": "讀"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "promise",
+      "zh": "承諾"
+    }
+  ],
+  "vocab_table_label": "常用授與動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的雙賓語結構，表示老師給學生們一份詳細的說明。",
+      "question_eng": "The teacher gave _______ a detailed explanation about the chemistry experiment.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the students"
+        },
+        {
+          "key": "B",
+          "text": "to the students"
+        },
+        {
+          "key": "C",
+          "text": "for the students"
+        },
+        {
+          "key": "D",
+          "text": "the students to"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。授與動詞 give 後接雙賓語結構時，間接受詞（IO）直接跟在動詞後，不需任何介詞。B 項的 to 與 give 搭配時應改寫形式才用；C 項的 for 用於 make/buy/cook；D 項詞序錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇適當的介詞改寫該雙賓語句子，維持相同意思。",
+      "question_eng": "The teacher gave the students a detailed explanation about the chemistry experiment. = The teacher gave a detailed explanation about the chemistry experiment _______ the students.",
+      "options": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "to"
+        },
+        {
+          "key": "D",
+          "text": "with"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。授與動詞 give 改寫為『DO + to + IO』形式時，需用介詞 to。A 項的 for 用於 make/buy/cook；B 項 at 無此用法；D 項 with 表伴隨不表授與。",
+      "id": 2
+    },
+    {
+      "question_chi": "從四個選項中選出最恰當的授與動詞及介詞組合，完成句子。",
+      "question_eng": "She _______ her grandmother a handmade card _______ Mother's Day.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sent / at"
+        },
+        {
+          "key": "B",
+          "text": "sent / on"
+        },
+        {
+          "key": "C",
+          "text": "gave / at"
+        },
+        {
+          "key": "D",
+          "text": "made / to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。sent 是合適的授與動詞，表『寄送』；on 用於特定日期的習語『on Mother's Day』。A 項時間介詞錯誤；C 項的 gave 語境不如 sent 自然；D 項 made...to 應改為 made...for，且語義不當。",
+      "id": 3
+    },
+    {
+      "question_chi": "判斷下列哪個句子正確使用授與動詞的雙賓語結構及其改寫形式。",
+      "question_eng": "Which sentence is grammatically correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The baker cooked his family a delicious cake for the celebration."
+        },
+        {
+          "key": "B",
+          "text": "The coach taught the players the new strategy to the game."
+        },
+        {
+          "key": "C",
+          "text": "The professor showed the class an interesting discovery on the research."
+        },
+        {
+          "key": "D",
+          "text": "The musician bought his friend a ticket to the concert for the show."
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。cook 搭配雙賓語時應用 for，句子正確。B 項 taught 應為『taught the players to 或 taught the game to the players』，介詞用法錯誤；C 項 showed 應用 to，『on the research』詞序不當；D 項『to the concert for the show』重複冗余，介詞搭配不當。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "老師教我們英文文法。",
+      "answer": "The teacher taught us English grammar. / The teacher taught English grammar to us.",
+      "key_points": [
+        "teach + IO + DO 雙賓語結構",
+        "IO（us）為人，DO（English grammar）為物",
+        "改寫形式：teach + DO + to + IO"
+      ],
+      "hints": [
+        "提示1：句型框架為 S + teach + IO + DO，其中 teach 後可直接跟間接受詞再跟直接受詞",
+        "提示2：teach 改寫時用 to 不用 for，常見錯誤為用 for"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我媽媽為我做了一份營養午餐。",
+      "answer": "My mother made me a nutritious lunch. / My mother made a nutritious lunch for me.",
+      "key_points": [
+        "make + IO + DO 雙賓語結構",
+        "IO（me）為人，DO（a nutritious lunch）為物",
+        "make 改寫用 for 不用 to"
+      ],
+      "hints": [
+        "提示1：make/buy/cook 等「製作類」授與動詞改寫時用 for，與 give/send/teach 不同",
+        "提示2：注意不定冠詞 a 在 nutritious 前，因為 nutritious 以輔音開頭"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "同學們給老師買了一束花來感謝他的教導。",
+      "answer": "The students bought the teacher a bunch of flowers to thank him for his teaching. / The students bought a bunch of flowers for the teacher to thank him for his teaching.",
+      "key_points": [
+        "buy + IO + DO 雙賓語結構",
+        "IO（the teacher）為人，DO（a bunch of flowers）為物",
+        "buy 改寫時用 for，並注意不定式片語來表達目的"
+      ],
+      "hints": [
+        "提示1：本題結合雙賓語句型與不定式片語 to thank，句型為 S + buy + IO + DO + 不定式",
+        "提示2：buy 屬製作/購買類動詞，改寫時一定要用 for；易錯為誤用 to"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "為了準備聯誼活動，班長發給每位同學一份詳細的任務清單，並向大家展示了活動的宣傳海報。",
+      "answer": "To prepare for the social event, the class president sent each student a detailed task list and showed them the event's promotional poster. / To prepare for the social event, the class president sent a detailed task list to each student and showed the event's promotional poster to them.",
+      "key_points": [
+        "send + IO + DO 雙賓語結構",
+        "show + IO + DO 雙賓語結構",
+        "send 和 show 改寫時都用 to，並注意複數代詞 them 的使用"
+      ],
+      "hints": [
+        "提示1：本題包含兩個授與動詞 send 和 show，兩者改寫都用 to；結構為『S + V1 + IO + DO and V2 + IO + DO』",
+        "提示2：易錯點為混淆 send/show 的改寫介詞，誤用 for；另注意 each student（單數）後用 them 代替時應改為 him/her 或保持用複數形式"
+      ]
+    }
+  ]
+}

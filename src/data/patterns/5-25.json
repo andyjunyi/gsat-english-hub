@@ -1,0 +1,363 @@
+{
+  "code": "5-25",
+  "chapter": 5,
+  "title": "S + must/have to + V（義務必要）",
+  "formulas": [
+    {
+      "formula": "S + must + V",
+      "zh": "主詞必須做某事（主觀強烈義務）"
+    },
+    {
+      "formula": "S + have to + V",
+      "zh": "主詞必須做某事（客觀必要條件）"
+    }
+  ],
+  "explanation": "must 表達說話者主觀上認為強烈必須做的事；have to 則表客觀環境或規則要求必須做。否定形式意思完全不同：must not 表「禁止、不允許」；don't have to 表「不必、無義務」。兩者肯定形式在考試中常互通，但否定形式是區別重點。此句型為高中必掌握基礎語法。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "Students must submit their homework before Friday.",
+      "chi": "學生必須在星期五前提交作業。",
+      "keywords": [
+        "must",
+        "主觀義務",
+        "submit"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "You have to wear a uniform at this school.",
+      "chi": "你必須在這所學校穿制服。",
+      "keywords": [
+        "have to",
+        "客觀規則",
+        "wear"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I must finish this project today; it's very important.",
+      "chi": "我今天必須完成這個專案；這很重要。",
+      "keywords": [
+        "must",
+        "強烈主觀",
+        "finish"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "They don't have to come to the meeting if they're busy.",
+      "chi": "如果他們很忙，就不必來參加會議。",
+      "keywords": [
+        "don't have to",
+        "非義務",
+        "unnecessary"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷使用 must 或 have to 的關鍵：若含有個人意見、判斷、強烈想法用 must；若是外在規定、法律、學校制度、他人要求用 have to。否定時最易出錯：must not ≠ don't have to，前者禁止，後者不必。",
+    "examples": [
+      {
+        "test": "正確：You must wear shoes in this restaurant.（我堅持認為必須）vs You have to wear shoes in this restaurant.（店規規定）",
+        "result": "→ 兩句肯定形式都可接受，但 must 更強調主觀看法"
+      },
+      {
+        "test": "You must not smoke here.（禁止吸菸）vs You don't have to smoke here.（不必吸菸）",
+        "result": "→ 第一句表禁止，第二句表無義務，意思完全不同"
+      },
+      {
+        "test": "I must finish this homework today.（我認為很重要）vs I have to finish this homework today.（老師規定或學校要求）",
+        "result": "→ must 強調個人決心，have to 強調外在壓力"
+      }
+    ],
+    "note": "must 是主觀強調，have to 是客觀規則；否定時 must not 禁止，don't have to 無需。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "All employees ",
+        null,
+        " follow the company safety regulations carefully."
+      ],
+      "blanks": [
+        "must / have to"
+      ],
+      "sentence": "All employees must / have to follow the company safety regulations carefully.",
+      "translation": "所有員工必須仔細遵守公司安全規定。",
+      "keywords": [
+        "must/have to",
+        "employees",
+        "regulations"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "You ",
+        null,
+        " attend the meeting tomorrow; your presence is required by management."
+      ],
+      "blanks": [
+        "have to"
+      ],
+      "sentence": "You have to attend the meeting tomorrow; your presence is required by management.",
+      "translation": "你明天必須參加會議；管理層要求你出席。",
+      "keywords": [
+        "have to",
+        "required",
+        "mandatory"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Students ",
+        null,
+        " submit their assignments on time, or they will lose marks."
+      ],
+      "blanks": [
+        "must / have to"
+      ],
+      "sentence": "Students must / have to submit their assignments on time, or they will lose marks.",
+      "translation": "學生必須按時提交作業，否則會扣分。",
+      "keywords": [
+        "must/have to",
+        "submit",
+        "assignments"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "You ",
+        null,
+        " speak English fluently for this job, but it would be helpful."
+      ],
+      "blanks": [
+        "don't have to"
+      ],
+      "sentence": "You don't have to speak English fluently for this job, but it would be helpful.",
+      "translation": "這份工作你不必說流利的英文，但這樣會有幫助。",
+      "keywords": [
+        "don't have to",
+        "not necessary",
+        "not required"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "important",
+      "zh": "重要的"
+    },
+    {
+      "adj": "necessary",
+      "zh": "必要的"
+    },
+    {
+      "adj": "urgent",
+      "zh": "緊急的"
+    },
+    {
+      "adj": "required",
+      "zh": "被要求的"
+    },
+    {
+      "adj": "strict",
+      "zh": "嚴格的"
+    },
+    {
+      "adj": "mandatory",
+      "zh": "強制的"
+    },
+    {
+      "adj": "immediately",
+      "zh": "立即地"
+    },
+    {
+      "adj": "right now",
+      "zh": "現在"
+    },
+    {
+      "adj": "today",
+      "zh": "今天"
+    },
+    {
+      "adj": "by law",
+      "zh": "根據法律"
+    },
+    {
+      "adj": "no choice",
+      "zh": "別無選擇"
+    },
+    {
+      "adj": "absolutely",
+      "zh": "絕對地"
+    }
+  ],
+  "vocab_table_label": "常用形容詞",
+  "mc_exercises": [
+    {
+      "question_chi": "學校規定學生必須穿制服，填空應選擇哪個選項？",
+      "question_eng": "All students _______ wear uniforms to school according to the school regulations.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "have to"
+        },
+        {
+          "key": "C",
+          "text": "should"
+        },
+        {
+          "key": "D",
+          "text": "can"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「have to」。因為句中「according to the school regulations」表示這是客觀的學校規則要求，不是說話者主觀判斷，所以用 have to。A 選項 must 強調主觀必須感，但此句強調的是客觀規則。C 選項 should 表示建議或應該，語氣太弱。D 選項 can 表示能力或許可，完全不符。",
+      "id": 1
+    },
+    {
+      "question_chi": "醫生基於專業判斷告訴病人必須戒菸，應填空哪個選項？",
+      "question_eng": "The doctor says you _______ quit smoking immediately for your health.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have to"
+        },
+        {
+          "key": "B",
+          "text": "must"
+        },
+        {
+          "key": "C",
+          "text": "may"
+        },
+        {
+          "key": "D",
+          "text": "might"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「must」。醫生基於專業判斷認為患者強烈需要戒菸，這是說話者的主觀判斷和強烈建議，所以用 must。A 選項 have to 強調客觀環境或規則要求，但這裡是專業判斷。C、D 選項表示可能性，不符合義務強制的語境。",
+      "id": 2
+    },
+    {
+      "question_chi": "區分 must not 和 don't have to 的否定意思，填空應選哪個？",
+      "question_eng": "Employees _______ enter the laboratory without protective gear. It is strictly forbidden.",
+      "options": [
+        {
+          "key": "A",
+          "text": "don't have to"
+        },
+        {
+          "key": "B",
+          "text": "must not"
+        },
+        {
+          "key": "C",
+          "text": "have not to"
+        },
+        {
+          "key": "D",
+          "text": "mustn't have"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「must not」。句尾「strictly forbidden」表示禁止、不允許，所以用 must not（禁止）。A 選項 don't have to 表示「不必、無義務」，意思是可以選擇不做，不是禁止。C 選項「have not to」文法錯誤。D 選項「mustn't have」是過去推測用法，不符合本句。",
+      "id": 3
+    },
+    {
+      "question_chi": "考生無義務參加補習班，但若參加就必須遵守規則，填空應選何者？",
+      "question_eng": "You _______ attend cram schools, but if you do, you _______ follow their rules strictly.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must not; have to"
+        },
+        {
+          "key": "B",
+          "text": "don't have to; must"
+        },
+        {
+          "key": "C",
+          "text": "have to; must not"
+        },
+        {
+          "key": "D",
+          "text": "don't have to; have to"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B「don't have to; must」。第一空：「無義務參加補習班」用 don't have to（不必、無強制義務）。第二空：「必須遵守規則」是說話者根據邏輯判斷的強烈要求，用 must。A 選項第一空 must not 表禁止，不符合「無義務」。C 選項順序反覆。D 選項第二空用 have to 強調客觀規則，但此處是主觀判斷。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "學生必須在期末考前完成所有作業。",
+      "answer": "Students must/have to complete all assignments before the final exam.",
+      "key_points": [
+        "must/have to + V原形",
+        "complete all assignments",
+        "before the final exam時間副詞片語"
+      ],
+      "hints": [
+        "提示1：肯定形式，must和have to皆可，表示強制性義務",
+        "提示2：動詞必須用原形，不可用completed或completing"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "根據校規，學生不可以在走廊上奔跑。",
+      "answer": "According to school regulations, students must not run in the hallway.",
+      "key_points": [
+        "must not表禁止",
+        "according to school regulations",
+        "in the hallway"
+      ],
+      "hints": [
+        "提示1：『不可以/禁止』要用must not，而非don't have to（後者表不必）",
+        "提示2：must not後接動詞原形，must和not之間不能分開"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "由於簽證要求，他必須在出發前提交護照副本。",
+      "answer": "Due to visa requirements, he must/has to submit a copy of his passport before departure.",
+      "key_points": [
+        "due to + 名詞片語表原因",
+        "submit a copy of his passport",
+        "before departure時間狀語"
+      ],
+      "hints": [
+        "提示1：『因為客觀規定』可用have to強調客觀性，也可用must；兩者在肯定形式通常互通",
+        "提示2：copy of his passport為固定搭配，submit後直接接受詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "明年起，所有新員工不必參加為期三週的培訓課程，除非他們之前沒有相關經驗。",
+      "answer": "Starting next year, all new employees don't have to attend a three-week training program unless they lack relevant experience beforehand.",
+      "key_points": [
+        "don't have to表無義務/不必",
+        "attend a three-week training program",
+        "unless條件句連接"
+      ],
+      "hints": [
+        "提示1：『不必』用don't have to（無義務），絕非must not（禁止）；must not會變成『禁止參加』反義",
+        "提示2：注意三週training program的表達：three-week為複合形容詞修飾program，中間用連字號"
+      ]
+    }
+  ]
+}

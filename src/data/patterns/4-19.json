@@ -1,0 +1,382 @@
+{
+  "code": "4-19",
+  "chapter": 4,
+  "title": "疑問詞 + S + V（間接問句）",
+  "formulas": [
+    {
+      "formula": "S + V + wh- + S + V（直述句語序）",
+      "zh": "主詞 + 動詞 + 疑問詞 + 主詞 + 動詞，間接問句使用直述句語序，不倒裝"
+    },
+    {
+      "formula": "S + V + wh- + S + V + O/C（擴展形式）",
+      "zh": "間接問句可包含受詞或補語，整體句型保持直述語序"
+    }
+  ],
+  "explanation": "間接問句（indirect question）是以名詞子句形式出現的疑問，由know、wonder、tell、ask等動詞引導。關鍵特徵是wh-疑問詞後接直述句語序（主詞+動詞），不需倒裝。這與直接問句（Do you know where is the station?為誤用）形成對比。常用於報導或詢問他人資訊時，使語氣更婉轉禮貌。務必區分：直接問句倒裝，間接問句不倒裝。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I don't know what time the meeting starts tomorrow.",
+      "chi": "我不知道明天會議幾點開始。",
+      "keywords": [
+        "know",
+        "what time",
+        "直述句語序",
+        "間接問句"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "Can you tell me where your friend lives in Taipei?",
+      "chi": "你能告訴我你朋友住在台北哪裡嗎？",
+      "keywords": [
+        "tell",
+        "where",
+        "lives",
+        "間接問句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "She wondered why he didn't attend the important conference.",
+      "chi": "她想知道他為什麼沒有參加那場重要的會議。",
+      "keywords": [
+        "wonder",
+        "why",
+        "didn't attend",
+        "過去式"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Ask him how long he has been working for that company.",
+      "chi": "問他在那家公司工作多久了。",
+      "keywords": [
+        "ask",
+        "how long",
+        "has been working",
+        "現在完成式"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "區分直接問句與間接問句的語序：直接問句需倒裝（Where does he live?），間接問句用直述句語序（I know where he lives）。記住wh-疑問詞後面跟著正常的主詞+動詞順序，不要將直接問句的倒裝套用於間接問句。",
+    "examples": [
+      {
+        "test": "❌ I don't know where does he come from. / ✓ I don't know where he comes from.",
+        "result": "→ 間接問句中『where he comes from』使用直述句語序，不倒裝『does he』"
+      },
+      {
+        "test": "❌ Can you tell me what time starts the movie? / ✓ Can you tell me what time the movie starts?",
+        "result": "→ 『what time the movie starts』為間接問句，『the movie』是主詞應置於『starts』之前"
+      },
+      {
+        "test": "✓ I wonder why she didn't come to the party. / ❌ I wonder why didn't she come to the party.",
+        "result": "→ 『why she didn't come』為間接問句語序，過去式否定形式『didn't』跟在主詞後"
+      }
+    ],
+    "note": "間接問句口訣：『問詞後面接直述，主詞動詞不倒裝』"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I want to know ",
+        null,
+        " your English teacher is.",
+        null,
+        " the exam will be held."
+      ],
+      "blanks": [
+        "who",
+        "when"
+      ],
+      "sentence": "I want to know who your English teacher is, and when the exam will be held.",
+      "translation": "我想知道誰是你的英文老師，以及考試什麼時候舉行。",
+      "keywords": [
+        "know",
+        "who",
+        "when",
+        "間接問句",
+        "複合句"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Can you tell me ",
+        null,
+        " you finished this difficult project?"
+      ],
+      "blanks": [
+        "how"
+      ],
+      "sentence": "Can you tell me how you finished this difficult project?",
+      "translation": "你能告訴我你怎樣完成這個困難的專案嗎？",
+      "keywords": [
+        "tell",
+        "how",
+        "finished",
+        "直述句語序"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "She asked me ",
+        null,
+        " I had been living in this city, and ",
+        null,
+        " I liked it."
+      ],
+      "blanks": [
+        "how long",
+        "whether/if"
+      ],
+      "sentence": "She asked me how long I had been living in this city, and whether I liked it.",
+      "translation": "她問我在這個城市住了多久，以及我是否喜歡它。",
+      "keywords": [
+        "asked",
+        "how long",
+        "whether",
+        "過去完成式"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Nobody understood ",
+        null,
+        " the ancient temple ",
+        null,
+        " such an important place in the region."
+      ],
+      "blanks": [
+        "why",
+        "was"
+      ],
+      "sentence": "Nobody understood why the ancient temple was such an important place in the region.",
+      "translation": "沒有人明白為什麼那座古廟在該地區是如此重要的地方。",
+      "keywords": [
+        "understood",
+        "why",
+        "was",
+        "間接問句",
+        "過去式"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道、好奇"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴"
+    },
+    {
+      "adj": "ask",
+      "zh": "詢問"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解、明白"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "discover",
+      "zh": "發現"
+    },
+    {
+      "adj": "realize",
+      "zh": "意識到"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得"
+    },
+    {
+      "adj": "forget",
+      "zh": "忘記"
+    },
+    {
+      "adj": "figure out",
+      "zh": "弄清楚"
+    },
+    {
+      "adj": "investigate",
+      "zh": "調查"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "完成句子：選擇正確的間接問句形式",
+      "question_eng": "I wonder _______ the new shopping mall opens next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "when does it"
+        },
+        {
+          "key": "B",
+          "text": "when it does"
+        },
+        {
+          "key": "C",
+          "text": "when it opens"
+        },
+        {
+          "key": "D",
+          "text": "does it when open"
+        }
+      ],
+      "answer": "C",
+      "explanation": "間接問句使用直述句語序，須用『疑問詞+S+V』，不倒裝。C項『when it opens』正確。A項倒裝了，B項語序錯誤，D項語序完全混亂。間接問句後接子句應保持直述順序。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇最適當的間接問句，補完空格",
+      "question_eng": "Can you tell me _______ to get to the train station from here?",
+      "options": [
+        {
+          "key": "A",
+          "text": "how should I"
+        },
+        {
+          "key": "B",
+          "text": "how I should"
+        },
+        {
+          "key": "C",
+          "text": "how do I"
+        },
+        {
+          "key": "D",
+          "text": "how I can"
+        }
+      ],
+      "answer": "D",
+      "explanation": "間接問句『how I can』使用直述句語序(S+V+O)。A項『how should I』為倒裝形式，C項『how do I』也是倒裝。B項『how I should』語序正確但意思不自然，D項最自然流暢。tell me後需接名詞子句，保持直述語序。",
+      "id": 2
+    },
+    {
+      "question_chi": "辨別正確的間接問句，填入空格",
+      "question_eng": "She asked me _______ I had completed the project on schedule.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether"
+        },
+        {
+          "key": "B",
+          "text": "if"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "A",
+      "explanation": "是非疑問的間接問句用『whether』或『if』。此句已用直述語序『I had completed』，需填是非疑問詞。A項『whether』最正式適當。B項『if』雖可用但不如whether恰當，C項『that』用於肯定句，D項『what』為特殊疑問詞，不符合是非問句。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適切的間接問句，且考量時態和語氣",
+      "question_eng": "The manager wants to know _______ the quarterly sales report before the board meeting next week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether will the team submit"
+        },
+        {
+          "key": "B",
+          "text": "if the team will submit"
+        },
+        {
+          "key": "C",
+          "text": "whether the team submits"
+        },
+        {
+          "key": "D",
+          "text": "if will the team submit"
+        }
+      ],
+      "answer": "B",
+      "explanation": "間接問句需直述語序『S+V』。B項『if the team will submit』正確：whether/if均可，但needs助動詞will表未來。A項倒裝『will the team』錯誤，C項用現在式不符邏輯（應用未來式），D項倒裝且時態混亂。在正式文體中whether比if更佳，但B項if搭配直述語序已可接受。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我想知道這次考試什麼時候舉行。",
+      "answer": "I want to know when the exam will be held.",
+      "key_points": [
+        "want to know + 間接問句",
+        "when作疑問詞",
+        "S + V直述語序（exam will be held）"
+      ],
+      "hints": [
+        "句型框架：S + V + wh- + S + V，wh-詞後用直述語序",
+        "常見錯誤：誤寫為『when will the exam be held』（倒裝語序）"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師要求我們告訴他為什麼我們遲到了。",
+      "answer": "The teacher asked us to tell him why we were late.",
+      "key_points": [
+        "ask + to tell + 間接問句",
+        "why作疑問詞",
+        "S + V直述語序（we were late）"
+      ],
+      "hints": [
+        "句型框架：ask/tell + 人 + to + V + wh- + S + V",
+        "注意：wh-詞後接『we were late』（直述語序），不是『were we late』"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "我很好奇他為什麼選擇放棄這個出國留學的機會。",
+      "answer": "I'm curious about why he decided to give up the opportunity to study abroad.",
+      "key_points": [
+        "be curious about + wh- 引導名詞片語",
+        "why + S + V直述語序",
+        "動詞decided引導不定式短語"
+      ],
+      "hints": [
+        "句型框架可為『be + adj. + wh- + S + V』或『wonder + wh- + S + V』",
+        "注意：『why he decided to give up』中S+V需直述語序，不倒裝"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "她想弄清楚為什麼她的同學們認為這個新政策對學生們來說是不公平的。",
+      "answer": "She wants to figure out why her classmates think that the new policy is unfair to students.",
+      "key_points": [
+        "want to figure out + 間接問句",
+        "why引導複雜間接問句",
+        "嵌套結構：why + S + V（think） + that + S + V（is）"
+      ],
+      "hints": [
+        "句型框架：S + V + wh- + S + V + that + S + V，整體保持直述語序",
+        "常見錯誤：在『think』後錯誤倒裝『is the policy unfair』，應保留『the policy is unfair』的直述語序"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "code": "1-7",
+  "chapter": 1,
+  "title": "It + be + no use/good + V-ing",
+  "formulas": [
+    {
+      "formula": "It is no use + V-ing",
+      "zh": "做……是沒有用的"
+    },
+    {
+      "formula": "It is no good + V-ing",
+      "zh": "做……是不好的、沒效果的"
+    }
+  ],
+  "explanation": "此句型用「It is no use/good + 動名詞」表達某動作缺乏效益或無法達成目的。結構上，it為虛主語，真正主語為後面的動名詞短語。使用時機為勸阻他人無謂的嘗試或陳述事實上無用功。易混淆點：應用動名詞而非不定詞；「no use」後接動名詞，不可接名詞；類似表達還有「There is no use in V-ing」或「It is useless to V」。注意「no good」可表達消極結果，「no use」強調無效用。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "It is no use crying over spilled milk.",
+      "chi": "覆水難收，為已發生的事哭泣是徒勞的。",
+      "keywords": [
+        "no use",
+        "V-ing",
+        "徒勞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "It is no good trying to convince him because he is too stubborn.",
+      "chi": "試圖說服他是沒有用的，因為他太固執了。",
+      "keywords": [
+        "no good",
+        "trying",
+        "徒勞"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "It is no use complaining about the weather without taking action.",
+      "chi": "光是抱怨天氣而不採取行動是沒有用的。",
+      "keywords": [
+        "no use",
+        "complaining",
+        "無效"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "It is no good waiting for him because he has already left the city.",
+      "chi": "等他是沒有用的，因為他已經離開這個城市了。",
+      "keywords": [
+        "no good",
+        "waiting",
+        "徒勞"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷技巧：「It is no use + V-ing」用於陳述事實上的無效，帶有規勸或勸阻意涵。常見錯誤：誤用「It is no use to V」或「It is no use + 名詞」。記住搭配必須是動名詞，表達「做某事於事無補」的客觀事實。",
+    "examples": [
+      {
+        "test": "It is no use to complain. ✗",
+        "result": "→ It is no use complaining. ✓（應用動名詞，不用不定詞）"
+      },
+      {
+        "test": "It is no use crying over spilled milk. ✓",
+        "result": "→ 正確用法，表示後悔過去的事是徒勞的"
+      },
+      {
+        "test": "There is no use in arguing with him. ✓",
+        "result": "→ 替代表達方式，意思相同，都表達爭論無效"
+      }
+    ],
+    "note": "「It is no use + V-ing」=「It is useless to V」，動名詞為此句型的標準搭配，傳達「做……於事無補」之意。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "It is no good ",
+        null,
+        " to change the situation now."
+      ],
+      "blanks": [
+        "trying"
+      ],
+      "sentence": "It is no good trying to change the situation now.",
+      "translation": "現在試圖改變情況是沒有用的。",
+      "keywords": [
+        "no good",
+        "trying",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "It is no use ",
+        null,
+        " about what cannot be changed."
+      ],
+      "blanks": [
+        "worrying"
+      ],
+      "sentence": "It is no use worrying about what cannot be changed.",
+      "translation": "為無法改變的事擔憂是徒勞的。",
+      "keywords": [
+        "no use",
+        "worrying",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "It is no good ",
+        null,
+        " that you did not know the truth."
+      ],
+      "blanks": [
+        "pretending"
+      ],
+      "sentence": "It is no good pretending that you did not know the truth.",
+      "translation": "假裝你不知道真相是沒有用的。",
+      "keywords": [
+        "no good",
+        "pretending",
+        "V-ing"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "It is no use ",
+        null,
+        " him because he has made up his mind."
+      ],
+      "blanks": [
+        "arguing with"
+      ],
+      "sentence": "It is no use arguing with him because he has made up his mind.",
+      "translation": "與他爭論是沒有用的，因為他已經下定決心了。",
+      "keywords": [
+        "no use",
+        "arguing with",
+        "V-ing"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "no use",
+      "zh": "沒有用的、徒勞的"
+    },
+    {
+      "adj": "no good",
+      "zh": "沒有效果的、不好的"
+    },
+    {
+      "adj": "crying",
+      "zh": "哭泣"
+    },
+    {
+      "adj": "trying",
+      "zh": "嘗試"
+    },
+    {
+      "adj": "complaining",
+      "zh": "抱怨"
+    },
+    {
+      "adj": "waiting",
+      "zh": "等待"
+    },
+    {
+      "adj": "arguing",
+      "zh": "爭論"
+    },
+    {
+      "adj": "worrying",
+      "zh": "擔憂"
+    },
+    {
+      "adj": "pretending",
+      "zh": "假裝"
+    },
+    {
+      "adj": "blaming",
+      "zh": "責備"
+    },
+    {
+      "adj": "denying",
+      "zh": "否認"
+    },
+    {
+      "adj": "asking",
+      "zh": "詢問"
+    }
+  ],
+  "vocab_table_label": "常用片語",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇合適的句型補充，表示做某事沒有用處",
+      "question_eng": "It is no use _______ to change his mind because he is very determined.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to try"
+        },
+        {
+          "key": "B",
+          "text": "trying"
+        },
+        {
+          "key": "C",
+          "text": "try"
+        },
+        {
+          "key": "D",
+          "text": "to trying"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B（trying）。此句型為「It is no use + 動名詞」，表達某動作缺乏效益。A 項用不定詞錯誤，違反句型結構；C 項缺少 to，不完整；D 項 to trying 混合了不定詞與動名詞，文法錯誤。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據語境選擇正確的否定表達，表示某事無益",
+      "question_eng": "It is no good _______ you the truth if you refuse to listen to me.",
+      "options": [
+        {
+          "key": "A",
+          "text": "telling"
+        },
+        {
+          "key": "B",
+          "text": "to tell"
+        },
+        {
+          "key": "C",
+          "text": "tell"
+        },
+        {
+          "key": "D",
+          "text": "being told"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（telling）。「It is no good + 動名詞」用來表達某動作無效果。B 項不定詞違反句型；C 項缺 to，非完整不定詞；D 項被動動名詞改變了意思邏輯。句子主語應為 telling 的執行者。",
+      "id": 2
+    },
+    {
+      "question_chi": "補充合適動詞形式，表達無謂的嘗試",
+      "question_eng": "It is no use _______ about the past because we cannot change what has already happened.",
+      "options": [
+        {
+          "key": "A",
+          "text": "worry"
+        },
+        {
+          "key": "B",
+          "text": "to worry"
+        },
+        {
+          "key": "C",
+          "text": "worrying"
+        },
+        {
+          "key": "D",
+          "text": "being worried"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是 C（worrying）。「It is no use + 動名詞」是固定句型，表示做某事沒有益處。A 項原形動詞不符文法；B 項不定詞違反句型結構；D 項被動語態改變邏輯且不合此句型。只有動名詞符合此表達方式。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據句義選擇正確形式，理解此句型與類似表達的差異",
+      "question_eng": "It is no good _______ him that he should quit smoking; there is no use _______ to make him understand.",
+      "options": [
+        {
+          "key": "A",
+          "text": "telling / trying"
+        },
+        {
+          "key": "B",
+          "text": "to tell / trying"
+        },
+        {
+          "key": "C",
+          "text": "telling / to try"
+        },
+        {
+          "key": "D",
+          "text": "to tell / to try"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A（telling / trying）。兩個空格都應填入動名詞。第一空「It is no good + telling」；第二空「There is no use + V-ing」（「in trying」的簡化形式）。B、C、D 項都混入不定詞，違反「It is no use/good + 動名詞」的結構，且「There is no use in V-ing」也須用動名詞。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "跟他爭辯是沒用的，他已經決定了。",
+      "answer": "It is no use arguing with him; he has already made up his mind.",
+      "key_points": [
+        "It is no use + V-ing",
+        "arguing (動名詞，非argue)",
+        "分號連接獨立子句"
+      ],
+      "hints": [
+        "提示1：虛主語 It + be + no use + 動名詞，動名詞是真正主語",
+        "提示2：常見錯誤是用 to argue（不定詞）或 argue（原形動詞），記住一定要用動名詞形式"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "後悔沒有好處，我們應該向前看。",
+      "answer": "It is no good regretting what happened; we should look forward.",
+      "key_points": [
+        "It is no good + V-ing",
+        "regretting (動名詞)",
+        "no good 強調消極結果或後悔無益"
+      ],
+      "hints": [
+        "提示1：no good 和 no use 都適用此句型，但 no good 更強調情感或結果的負面性",
+        "提示2：注意 regretting 後面可接受詞 what happened，但不需要加介詞 about"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "既然他們不願意合作，試圖說服他們也是徒勞的。",
+      "answer": "Since they are unwilling to cooperate, it is no use trying to persuade them.",
+      "key_points": [
+        "It is no use + V-ing (trying)",
+        "trying to persuade (動名詞短語搭配不定詞)",
+        "no use 強調行動無效用"
+      ],
+      "hints": [
+        "提示1：動名詞可搭配不定詞，如 trying to persuade；整個短語 'trying to persuade them' 作為真正主語",
+        "提示2：易誤用 persuade 為動名詞 persuading，但此處 trying to persuade 是標準搭配，trying 是主要動名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "一旦決定發佈，再想著刪除貼文就沒好處了，因為網路上的東西永遠不會完全消失。",
+      "answer": "Once you post it, it is no good thinking about deleting the post, because nothing on the internet ever disappears completely.",
+      "key_points": [
+        "It is no good + V-ing (thinking about V-ing)",
+        "thinking about deleting (動名詞短語)",
+        "no good 表達無法改變既定事實的後悔或遺憾"
+      ],
+      "hints": [
+        "提示1：動名詞可搭配介詞，如 thinking about V-ing；整句強調事後悔恨無益",
+        "提示2：區分 it is no good thinking about deleting（沒好處去想著刪除）與 there is no good in V-ing（兩種形式都正確，但本題用 It 開頭符合句型要求）"
+      ]
+    }
+  ]
+}

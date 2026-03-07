@@ -1,0 +1,363 @@
+{
+  "code": "5-9",
+  "chapter": 5,
+  "title": "S + have/has been + p.p.（現在完成被動）",
+  "formulas": [
+    {
+      "formula": "S + have/has been + p.p.",
+      "zh": "現在完成式被動語態，表示從過去到現在已被完成的動作或狀態"
+    },
+    {
+      "formula": "S + have/has been + p.p. + (since/for + 時間)",
+      "zh": "現在完成式被動語態加上時間狀語，強調被動動作持續的時間段"
+    }
+  ],
+  "explanation": "現在完成式被動語態由助動詞 have/has + been + 過去分詞組成。用於表示過去發生但對現在有影響的被動動作，或從過去開始持續到現在的被動狀態。與現在完成主動式的關鍵差異在於：主動式強調「主詞做了什麼」，被動式強調「主詞被做了什麼」。常搭配 since（自從）或 for（持續多久）等時間狀語。注意：過去分詞必須來自及物動詞，否則無法形成被動語態。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "This bridge has been built for over fifty years.",
+      "chi": "這座橋已經被建造超過五十年了。",
+      "keywords": [
+        "has been built",
+        "被動語態",
+        "時間狀語"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The project has been completed by the team successfully.",
+      "chi": "該項目已經被團隊成功完成了。",
+      "keywords": [
+        "has been completed",
+        "現在完成式被動",
+        "by+施事者"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "Several mistakes have been found in the document.",
+      "chi": "文件中已經被發現幾個錯誤。",
+      "keywords": [
+        "have been found",
+        "被動語態",
+        "對現在的影響"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "The museum has been visited by thousands of tourists since it opened.",
+      "chi": "自從開放以來，這家博物館已經被數千名遊客參訪過。",
+      "keywords": [
+        "has been visited",
+        "since時間狀語",
+        "持續到現在"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷現在完成被動式的關鍵：①確認主詞是「被作用者」而非「施事者」；②助動詞 have/has 決定時態，been 表示被動；③過去分詞來自及物動詞；④若強調「誰做的」，在過去分詞後加 by + 施事者。常見錯誤是混用主動語態，如誤寫 The bridge has built 而應為 The bridge has been built。",
+    "examples": [
+      {
+        "test": "主動 The company has developed this software. vs 被動 This software has been developed by the company.",
+        "result": "→ 主動強調公司的行動，被動強調軟體被開發的結果；兩者皆現在完成式，但語態不同"
+      },
+      {
+        "test": "錯誤 The report has written since last week. vs 正確 The report has been written since last week.",
+        "result": "→ 務必在過去分詞前加上 been，才能構成被動語態，否則意義不通"
+      },
+      {
+        "test": "現在完成被動 The document has been translated into five languages. vs 現在簡單被動 The document is translated into five languages.",
+        "result": "→ 被動表示「已翻譯完成」（已完成的狀態），簡單被動表示「現在被翻譯」（進行中或習慣性）"
+      }
+    ],
+    "note": "現在完成被動 = have/has + been + p.p.，記住「被」(been) 是被動的靈魂。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The new school building ",
+        null,
+        " since 2020."
+      ],
+      "blanks": [
+        "has been constructed"
+      ],
+      "sentence": "The new school building has been constructed since 2020.",
+      "translation": "新學校建築自從2020年以來已經被建造好了。",
+      "keywords": [
+        "has been constructed",
+        "現在完成式被動",
+        "since時間狀語"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Many strategies ",
+        null,
+        " to improve the company's performance."
+      ],
+      "blanks": [
+        "have been proposed"
+      ],
+      "sentence": "Many strategies have been proposed to improve the company's performance.",
+      "translation": "許多策略已經被提出來以改善公司的績效。",
+      "keywords": [
+        "have been proposed",
+        "被動語態",
+        "現在完成式"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "Three new novels ",
+        null,
+        " by this famous author this year."
+      ],
+      "blanks": [
+        "have been published"
+      ],
+      "sentence": "Three new novels have been published by this famous author this year.",
+      "translation": "三部新小說今年已經被這位著名作家出版了。",
+      "keywords": [
+        "have been published",
+        "by+施事者",
+        "現在完成被動"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The ancient ruins ",
+        null,
+        " extensively over the past decade."
+      ],
+      "blanks": [
+        "have been studied"
+      ],
+      "sentence": "The ancient ruins have been studied extensively over the past decade.",
+      "translation": "這些古代遺跡在過去十年內已經被廣泛研究過了。",
+      "keywords": [
+        "have been studied",
+        "被動語態",
+        "時間狀語"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "build",
+      "zh": "建造、建立"
+    },
+    {
+      "adj": "complete",
+      "zh": "完成"
+    },
+    {
+      "adj": "find",
+      "zh": "發現、找到"
+    },
+    {
+      "adj": "visit",
+      "zh": "參訪、造訪"
+    },
+    {
+      "adj": "damage",
+      "zh": "損害、破壞"
+    },
+    {
+      "adj": "publish",
+      "zh": "出版、發表"
+    },
+    {
+      "adj": "discover",
+      "zh": "發現"
+    },
+    {
+      "adj": "develop",
+      "zh": "開發、發展"
+    },
+    {
+      "adj": "influence",
+      "zh": "影響"
+    },
+    {
+      "adj": "recognize",
+      "zh": "認可、承認"
+    },
+    {
+      "adj": "translate",
+      "zh": "翻譯"
+    },
+    {
+      "adj": "improve",
+      "zh": "改善、改進"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇正確的現在完成被動式，完成句子。",
+      "question_eng": "This website _______ by thousands of users since it launched last year.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has been visited"
+        },
+        {
+          "key": "B",
+          "text": "has visited"
+        },
+        {
+          "key": "C",
+          "text": "have been visited"
+        },
+        {
+          "key": "D",
+          "text": "have visited"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。主詞 'This website' 是單數，搭配 has been + 過去分詞 'visited'，表示該網站從去年推出後至今一直被使用者訪問。B項是主動式不符；C和D項主詞為單數不用 have，應用 has。",
+      "id": 1
+    },
+    {
+      "question_chi": "根據句意，選擇最適當的現在完成被動式。",
+      "question_eng": "The documents _______ for two weeks, so we need to follow up with the client.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have not been reviewed"
+        },
+        {
+          "key": "B",
+          "text": "have not reviewed"
+        },
+        {
+          "key": "C",
+          "text": "has not been reviewed"
+        },
+        {
+          "key": "D",
+          "text": "are not being reviewed"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。主詞 'documents' 為複數，需用 have been + 過去分詞。'have not been reviewed' 表示這些文件在過去兩週內未被審查。B項是主動式；C項主詞複數不用 has；D項是現在進行被動式，無法表達「兩週內」的完成意義。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇適當形式，完成關於工程進度的句子。",
+      "question_eng": "The bridge _______ since 2015 and has become a major landmark in the city.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has built"
+        },
+        {
+          "key": "B",
+          "text": "has been building"
+        },
+        {
+          "key": "C",
+          "text": "has been built"
+        },
+        {
+          "key": "D",
+          "text": "was built"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。主詞 'bridge' 為單數，須用 has been + 過去分詞 'built'，表示大橋從2015年起被建造完成至今。A項主動式且不符合語意；B項進行式不合邏輯；D項過去簡單式無法表達「從2015年至今」的持續影響。",
+      "id": 3
+    },
+    {
+      "question_chi": "根據上文邏輯，選擇最恰當的現在完成被動式及時間搭配。",
+      "question_eng": "The research findings _______ extensively by international experts, and several peer-reviewed journals _______ their findings in recent publications.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have been discussed; have published"
+        },
+        {
+          "key": "B",
+          "text": "have been discussed; have been published"
+        },
+        {
+          "key": "C",
+          "text": "have discussed; have published"
+        },
+        {
+          "key": "D",
+          "text": "have discussed; have been published"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。第一空『研究發現被國際專家廣泛討論』應用被動式 have been discussed；第二空『期刊發表他們的研究結果』中，journals 主動發表，應用被動式 have been published（強調發現結果被發表）。A項第二空主動式不符；C項兩空皆為主動式，無法表達『被討論』和『被發表』的被動意義；D項第一空為主動式。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "這部電影已經被看過很多次了。",
+      "answer": "This movie has been watched many times.",
+      "key_points": [
+        "has been + watched（過去分詞）",
+        "many times（時間狀語）",
+        "被動語態強調電影被觀看"
+      ],
+      "hints": [
+        "提示1：現在完成被動 = has/have + been + p.p.，主詞是被動者",
+        "提示2：注意 watch 的過去分詞是 watched，不是 watching"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "我的手機已經被修理了三個星期。",
+      "answer": "My phone has been repaired for three weeks.",
+      "key_points": [
+        "has been repaired（過去分詞）",
+        "for three weeks（持續時間）",
+        "強調被修理的狀態持續至今"
+      ],
+      "hints": [
+        "提示1：搭配 for + 時間段表示『已經持續多久』",
+        "提示2：repair 的過去分詞是 repaired，for 後接時間長度（不用 since）"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "這棟新宿舍樓已經被建造了將近一年，但還沒有被投入使用。",
+      "answer": "The new dormitory building has been constructed for nearly a year, but it hasn't been put into use yet.",
+      "key_points": [
+        "has been constructed（過去分詞）",
+        "for nearly a year（持續時間）",
+        "hasn't been put into use yet（否定式現在完成被動）"
+      ],
+      "hints": [
+        "提示1：句子較長時，注意兩個被動結構的並列使用",
+        "提示2：put 的過去分詞是 put（不規則動詞），『投入使用』用 put into use"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "自從去年暑假以來，這個舊校舍一直被改建成多功能教室，現在終於完成了。",
+      "answer": "Since last summer, the old school building has been renovated into multipurpose classrooms, and it has finally been completed.",
+      "key_points": [
+        "has been renovated（過去分詞）",
+        "since last summer（自從過去某個時點）",
+        "has finally been completed（現在完成被動的完成性）"
+      ],
+      "hints": [
+        "提示1：since 引導時間點，搭配現在完成被動表示『自從...至今』的被動狀態",
+        "提示2：renovate 意為『翻新/改建』，完成用 complete；注意 since 後接具體時間點（不用 for）"
+      ]
+    }
+  ]
+}

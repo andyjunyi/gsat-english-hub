@@ -1,0 +1,367 @@
+{
+  "code": "4-20",
+  "chapter": 4,
+  "title": "S + know/wonder/ask + wh- + to V",
+  "formulas": [
+    {
+      "formula": "S + V + wh- + to V",
+      "zh": "主詞＋動詞＋疑問詞＋不定詞，疑問詞加不定詞作動詞受詞"
+    },
+    {
+      "formula": "S + V + wh- + to V (= wh- + S + V)",
+      "zh": "疑問詞加不定詞可轉換為疑問詞引導的名詞子句"
+    }
+  ],
+  "explanation": "此句型中，疑問詞（what、how、where、when、which等）與不定詞結合，作為動詞的受詞。這種結構常用於know、decide、learn、understand、remember等動詞之後，表達不確定或需要思考的事項。疑問詞加不定詞等於該疑問詞引導的名詞子句。注意疑問詞和不定詞之間通常無主詞，因為主詞通常與句子主詞相同。此句型語言簡潔，廣泛用於日常表達。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "She doesn't know what to do with the broken phone.",
+      "chi": "她不知道用那台壞掉的手機該怎麼辦。",
+      "keywords": [
+        "know",
+        "what to do",
+        "不定詞受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "The teacher explained how to solve this difficult math problem.",
+      "chi": "老師解釋如何解決這道困難的數學問題。",
+      "keywords": [
+        "explain",
+        "how to solve",
+        "方法"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "I haven't decided whether to study abroad or stay at home.",
+      "chi": "我還沒決定是否出國留學或留在家裡。",
+      "keywords": [
+        "decide",
+        "whether to study",
+        "抉擇"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Can you remember where to meet your friends tomorrow evening?",
+      "chi": "你記得明天晚上要在哪裡和朋友碰面嗎？",
+      "keywords": [
+        "remember",
+        "where to meet",
+        "地點"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷此句型的關鍵：疑問詞後直接接不定詞（to V），無需加主詞或助動詞。若疑問詞後有主詞和完整動詞，則為疑問詞引導的子句，不屬此句型。兩種形式意義相同但結構不同。",
+    "examples": [
+      {
+        "test": "正確：I know what to say. / 錯誤：I know what I should say.",
+        "result": "→ 前者為疑問詞加不定詞句型，後者為疑問詞子句，兩者意義相同但結構不同"
+      },
+      {
+        "test": "She learned how to make coffee. / She learned that coffee is made this way.",
+        "result": "→ 前者強調方法技能，後者強調事實說明，句型結構迥異"
+      },
+      {
+        "test": "He couldn't decide whether to go or stay. / He couldn't decide if he should go or stay.",
+        "result": "→ 前者為簡潔的疑問詞不定詞，後者為條件子句，皆可用但句型分類不同"
+      }
+    ],
+    "note": "疑問詞＋to V＝簡潔表達疑問詞子句，主詞通常與句子主詞相同，省略無誤。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "The student asked the teacher ",
+        null,
+        " this complicated problem.",
+        "Sentence: The student asked the teacher how to solve this complicated problem."
+      ],
+      "blanks": [
+        "how to solve"
+      ],
+      "sentence": "The student asked the teacher how to solve this complicated problem.",
+      "translation": "學生問老師如何解決這道複雜的問題。",
+      "keywords": [
+        "ask",
+        "how to solve",
+        "疑問詞不定詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "She has never learned ",
+        null,
+        " a presentation in front of many people.",
+        "Sentence: She has never learned how to deliver a presentation in front of many people."
+      ],
+      "blanks": [
+        "how to deliver"
+      ],
+      "sentence": "She has never learned how to deliver a presentation in front of many people.",
+      "translation": "她從未學過如何在眾人面前做演講。",
+      "keywords": [
+        "learn",
+        "how to deliver",
+        "技能習得"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "I'm still trying to decide ",
+        null,
+        " my summer vacation.",
+        "Sentence: I'm still trying to decide where to spend my summer vacation."
+      ],
+      "blanks": [
+        "where to spend"
+      ],
+      "sentence": "I'm still trying to decide where to spend my summer vacation.",
+      "translation": "我還在決定要在哪裡度過暑假。",
+      "keywords": [
+        "decide",
+        "where to spend",
+        "位置選擇"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "Nobody could figure out ",
+        null,
+        " the old machine without instructions.",
+        "Sentence: Nobody could figure out how to operate the old machine without instructions."
+      ],
+      "blanks": [
+        "how to operate"
+      ],
+      "sentence": "Nobody could figure out how to operate the old machine without instructions.",
+      "translation": "沒有人在沒有說明書的情況下能搞清楚如何操作這台老機器。",
+      "keywords": [
+        "figure out",
+        "how to operate",
+        "能力與理解"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "decide",
+      "zh": "決定"
+    },
+    {
+      "adj": "learn",
+      "zh": "學習、了解"
+    },
+    {
+      "adj": "understand",
+      "zh": "理解"
+    },
+    {
+      "adj": "remember",
+      "zh": "記得"
+    },
+    {
+      "adj": "forget",
+      "zh": "忘記"
+    },
+    {
+      "adj": "explain",
+      "zh": "解釋"
+    },
+    {
+      "adj": "show",
+      "zh": "展示、教導"
+    },
+    {
+      "adj": "wonder",
+      "zh": "想知道、納悶"
+    },
+    {
+      "adj": "consider",
+      "zh": "考慮"
+    },
+    {
+      "adj": "ask",
+      "zh": "問"
+    },
+    {
+      "adj": "tell",
+      "zh": "告訴"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "填入適當的疑問詞和不定詞組合，完成句子。",
+      "question_eng": "I don't know _______ the computer. Can you help me?",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to use"
+        },
+        {
+          "key": "B",
+          "text": "how use"
+        },
+        {
+          "key": "C",
+          "text": "to how use"
+        },
+        {
+          "key": "D",
+          "text": "what to use"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是A。疑問詞how與不定詞to use結合作為know的受詞，表示「不知道如何使用」。B項缺少不定詞to，文法錯誤。C項詞序錯誤，疑問詞應在不定詞前。D項what意思不符，what to use表示選擇何物使用，不符語境。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確的疑問詞加不定詞結構，表達不確定性。",
+      "question_eng": "The students wondered _______ to the museum after school.",
+      "options": [
+        {
+          "key": "A",
+          "text": "whether go"
+        },
+        {
+          "key": "B",
+          "text": "if to go"
+        },
+        {
+          "key": "C",
+          "text": "whether to go"
+        },
+        {
+          "key": "D",
+          "text": "to whether go"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正確答案是C。疑問詞whether與不定詞to go結合表「是否去」的含義。A項缺少不定詞to。B項用if替代whether，但在此句型中應用whether。D項詞序錯誤。注意：whether to V（是否…）是常見表達，表達兩者選擇或不確定性。",
+      "id": 2
+    },
+    {
+      "question_chi": "選擇最適合的疑問詞加不定詞，表示時間選擇的不確定。",
+      "question_eng": "She hasn't decided _______ to submit her application for the scholarship program.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which to submit"
+        },
+        {
+          "key": "B",
+          "text": "when to submit"
+        },
+        {
+          "key": "C",
+          "text": "how to submit"
+        },
+        {
+          "key": "D",
+          "text": "what to submit"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。句子語境涉及時間選擇（「何時提交申請」），故應用when to submit。A項which適用於在多項選擇中挑選。C項how用於方式，不符語境。D項what表選擇物品，此處已知提交的是application，不需what。只有when符合「決定時間」的語義。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇正確結構，表達完成任務所需步驟的不確定。",
+      "question_eng": "The manual clearly explains _______ the software correctly, including _______ to install the necessary drivers first.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to use; what"
+        },
+        {
+          "key": "B",
+          "text": "how to use; whether"
+        },
+        {
+          "key": "C",
+          "text": "how to use; which"
+        },
+        {
+          "key": "D",
+          "text": "what to use; how"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是B。第一空「如何正確使用軟體」應用how to use。第二空需表「是否優先安裝驅動程式」的選擇性，應用whether to install。A項what不符前文語境。C項which用於多選，但安裝驅動程式不是選擇問題。D項前空錯誤，what to use表選物品。only whether to V正確表達「是否…」的不確定性。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我不知道明天的考試要帶什麼。",
+      "answer": "I don't know what to bring for tomorrow's exam.",
+      "key_points": [
+        "don't know + what to V",
+        "what 作疑問詞",
+        "bring 為及物動詞"
+      ],
+      "hints": [
+        "句型框架：S + don't know + wh- + to V",
+        "注意：what 後面直接接 to bring，無需加受詞代詞 it"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "她想知道如何平衡課業和興趣。",
+      "answer": "She wonders how to balance schoolwork and hobbies.",
+      "key_points": [
+        "wonder + how to V",
+        "how 修飾動詞 balance",
+        "balance 表示「平衡」"
+      ],
+      "hints": [
+        "句型框架：S + wonder + wh- + to V，表達思考或不確定",
+        "注意：how to V 不需要主詞，因為主詞與句子主詞相同"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "老師問學生們是否知道應該如何準備大學申請。",
+      "answer": "The teacher asked the students whether/if they knew how to prepare for university applications.",
+      "key_points": [
+        "ask + whether/how to V",
+        "know how to V 表達能力或方法",
+        "賓語子句時態後退"
+      ],
+      "hints": [
+        "句型框架：S + ask + (O) + wh- + to V，可用 whether 或 how",
+        "注意：ask 後若有受詞，需判斷是否為間接問句，時態要一致"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "隨著社會變化，許多學生開始思考應該選擇哪一條職業道路，以及何時做出決定。",
+      "answer": "As society changes, many students begin to wonder which career path to choose and when to make the decision.",
+      "key_points": [
+        "wonder + which + to V",
+        "wonder + when + to V",
+        "複合句型結構"
+      ],
+      "hints": [
+        "句型框架：S + wonder + wh- + to V，可重複使用多個 wh- + to V 結構並以 and 連接",
+        "注意：which 可加名詞修飾（which path），when/how/where/why 後通常無名詞；兩個不定詞主詞相同時可省略重複的 to"
+      ]
+    }
+  ]
+}

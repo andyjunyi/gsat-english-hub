@@ -1,0 +1,366 @@
+{
+  "code": "4-16",
+  "chapter": 4,
+  "title": "that + S + V（名詞子句作受詞）",
+  "formulas": [
+    {
+      "formula": "S + V + that + S + V",
+      "zh": "主詞＋動詞＋that引導的名詞子句（受詞）"
+    },
+    {
+      "formula": "S + V + (that) + S + V",
+      "zh": "that 可省略，受詞名詞子句常採此用法"
+    }
+  ],
+  "explanation": "此句型中 that 引導的子句作為主要動詞的受詞，該受詞子句內部具有完整的主詞和動詞。常見動詞包括 know、think、believe、say、hope、expect、suppose 等。重要特點是 that 作為受詞時經常被省略，特別在口語和非正式文體中。需注意區別：that 引導受詞子句（名詞功能）vs. that 引導形容詞子句（修飾名詞）。前者 that 可省，後者 that 在非限制用法時不可省。",
+  "examples": [
+    {
+      "id": 1,
+      "eng": "I believe that he will succeed in the exam next month.",
+      "chi": "我相信他下個月的考試會成功。",
+      "keywords": [
+        "believe",
+        "that子句",
+        "受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "eng": "She thinks (that) her sister is the most talented student in school.",
+      "chi": "她認為她的妹妹是學校裡最有天賦的學生。",
+      "keywords": [
+        "thinks",
+        "that省略",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 3,
+      "eng": "We hope that you will join our club and share your experience with us.",
+      "chi": "我們希望你會加入我們的俱樂部並與我們分享你的經驗。",
+      "keywords": [
+        "hope",
+        "that子句",
+        "動詞受詞"
+      ]
+    },
+    {
+      "id": 4,
+      "eng": "Everyone knows (that) climate change is becoming a serious global problem.",
+      "chi": "每個人都知道氣候變遷正成為一個嚴重的全球問題。",
+      "keywords": [
+        "knows",
+        "that省略",
+        "事實陳述"
+      ]
+    }
+  ],
+  "adj_table_for": [],
+  "adj_table_of": [],
+  "extension": {
+    "tip": "判斷該使用受詞名詞子句的關鍵：看動詞後方是否有完整的主語+動詞組合。若有，通常需要用 that 連接；that 在受詞位置可省，但在形容詞子句（修飾名詞）中，當涉及人物時通常用 who，不用 that。記住受詞子句的 that 是可選連詞，不是必須的。",
+    "examples": [
+      {
+        "test": "I think (that) he is right. vs. I saw the boy (that/who) you mentioned.",
+        "result": "→ 前者 that 可省為受詞子句；後者 that/who 為形容詞子句，修飾 boy，不可省略"
+      },
+      {
+        "test": "She hopes that her parents will be proud of her achievements.",
+        "result": "→ 完整的受詞名詞子句，that 可省略為 She hopes her parents will be proud of her achievements."
+      },
+      {
+        "test": "They said (that) the project would be delayed due to bad weather.",
+        "result": "→ 受詞名詞子句，that 省略後更符合日常口語表達習慣"
+      }
+    ],
+    "note": "受詞 that 子句 = 名詞子句做受詞，that 可省不可不知；形容詞子句修飾名詞，that/who 不可省。"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "parts": [
+        "I strongly believe ",
+        null,
+        " she has the potential to become a successful entrepreneur."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "I strongly believe that she has the potential to become a successful entrepreneur.",
+      "translation": "我強烈相信她有成為成功企業家的潛力。",
+      "keywords": [
+        "believe",
+        "that子句",
+        "受詞"
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        "Most people think ",
+        null,
+        " the Internet has changed our daily lives significantly."
+      ],
+      "blanks": [
+        "(that)"
+      ],
+      "sentence": "Most people think (that) the Internet has changed our daily lives significantly.",
+      "translation": "大多數人認為網際網路顯著改變了我們的日常生活。",
+      "keywords": [
+        "think",
+        "that省略",
+        "名詞子句"
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        "We all hope ",
+        null,
+        " the economy will recover soon and create more job opportunities."
+      ],
+      "blanks": [
+        "that"
+      ],
+      "sentence": "We all hope that the economy will recover soon and create more job opportunities.",
+      "translation": "我們都希望經濟會很快復甦並創造更多工作機會。",
+      "keywords": [
+        "hope",
+        "that子句",
+        "表達期望"
+      ]
+    },
+    {
+      "id": 4,
+      "parts": [
+        "The scientist claimed ",
+        null,
+        " her research would revolutionize the treatment of cancer."
+      ],
+      "blanks": [
+        "(that)"
+      ],
+      "sentence": "The scientist claimed (that) her research would revolutionize the treatment of cancer.",
+      "translation": "這位科學家聲稱她的研究將使癌症治療方式產生革命性改變。",
+      "keywords": [
+        "claimed",
+        "that省略",
+        "主張陳述"
+      ]
+    }
+  ],
+  "vocab_table": [
+    {
+      "adj": "believe",
+      "zh": "相信、認為"
+    },
+    {
+      "adj": "think",
+      "zh": "認為、思考"
+    },
+    {
+      "adj": "know",
+      "zh": "知道"
+    },
+    {
+      "adj": "hope",
+      "zh": "希望"
+    },
+    {
+      "adj": "expect",
+      "zh": "預期、期望"
+    },
+    {
+      "adj": "suppose",
+      "zh": "假設、認為"
+    },
+    {
+      "adj": "say",
+      "zh": "說、表示"
+    },
+    {
+      "adj": "claim",
+      "zh": "聲稱、主張"
+    },
+    {
+      "adj": "admit",
+      "zh": "承認"
+    },
+    {
+      "adj": "deny",
+      "zh": "否認"
+    },
+    {
+      "adj": "assume",
+      "zh": "假定、認為"
+    },
+    {
+      "adj": "suggest",
+      "zh": "建議、暗示"
+    }
+  ],
+  "vocab_table_label": "常用動詞",
+  "mc_exercises": [
+    {
+      "question_chi": "選擇最適當的選項完成句子，該空格應填入名詞子句。",
+      "question_eng": "I think _______ you will enjoy the concert tomorrow night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (that)。此句使用「think + that + S + V」結構，that 引導名詞子句作為 think 的受詞。B 選項 which 用於形容詞子句，C 選項 what 引導名詞子句但不能跟在 think 後面表示「認為」之意，D 選項 where 為地點副詞。",
+      "id": 1
+    },
+    {
+      "question_chi": "選擇正確選項完成句子，注意 that 的使用規則。",
+      "question_eng": "She hopes (______) her brother will pass the driving test on his first attempt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "to"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "if"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (that)。hope 後接名詞子句時使用 that，此處用括號表示 that 可以省略（hope 是能省略 that 的常見動詞）。B 選項 to 用於不定詞結構，但 hope 後若接不定詞主詞必須相同；C 選項 for 無此用法；D 選項 if 引導條件子句不符此文脈。",
+      "id": 2
+    },
+    {
+      "question_chi": "根據句意選擇正確選項，注意名詞子句與形容詞子句的區別。",
+      "question_eng": "The manager believes _______ the new marketing strategy will increase sales by 30% next quarter.",
+      "options": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "answer": "A",
+      "explanation": "正確答案是 A (that)。believe 後須接名詞子句，用 that 引導；子句內有完整主詞 the new marketing strategy 和動詞 will increase。B 選項 which 引導形容詞子句或非限制子句，C 選項 whose 為所有格關係詞，D 選項 when 為時間關係副詞，皆不符此文脈。",
+      "id": 3
+    },
+    {
+      "question_chi": "選擇最適當選項完成句子，考慮多個可能的句型結構。",
+      "question_eng": "Scientists have discovered _______ consuming moderate amounts of coffee daily may actually reduce the risk of certain diseases.",
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "how"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正確答案是 B (that)。discover 後接名詞子句表示「發現某事實」時用 that；子句「consuming moderate amounts of coffee daily may reduce the risk」是完整的主詞動詞結構。A 選項 what 作為名詞子句引詞時子句內無完整主詞；C 選項 how 表方式；D 選項 whether 表是否選擇，文意不符。",
+      "id": 4
+    }
+  ],
+  "translation_exercises": [
+    {
+      "id": 1,
+      "sentence_chi": "我認為明天會下雨。",
+      "answer": "I think (that) it will rain tomorrow.",
+      "key_points": [
+        "think 作主動詞",
+        "that 可省略",
+        "it will rain 為完整子句"
+      ],
+      "hints": [
+        "句型框架：S + V + (that) + S + V",
+        "注意：that 在受詞子句中可省，但省略後意思不變"
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_chi": "老師希望所有學生都能通過這次考試。",
+      "answer": "The teacher hopes (that) all students will pass the exam.",
+      "key_points": [
+        "hopes 作主動詞",
+        "that 可省略",
+        "all students will pass 為完整子句",
+        "受詞子句內有複雜主詞"
+      ],
+      "hints": [
+        "句型框架：S + V + (that) + S + V，注意受詞子句內主詞可以是複數或帶有修飾詞",
+        "易錯點：不要在子句前加介詞 of，受詞子句直接跟在及物動詞後"
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_chi": "科學家相信全球暖化會對環境造成嚴重的影響。",
+      "answer": "Scientists believe (that) global warming will have a serious impact on the environment.",
+      "key_points": [
+        "believe 作主動詞",
+        "that 可省略",
+        "global warming will have 為完整子句",
+        "受詞子句內有複雜述語"
+      ],
+      "hints": [
+        "句型框架：S + V + (that) + S + V，受詞子句內的述語可包含複雜結構如 have a...impact",
+        "易錯點：勿混淆與形容詞子句，此句 that 引導名詞子句作 believe 的受詞，而非修飾名詞"
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_chi": "我期望你已經完成了家庭作業，並且你會在明天的課堂上提交它。",
+      "answer": "I expect (that) you have finished your homework and (that) you will submit it in class tomorrow.",
+      "key_points": [
+        "expect 作主動詞",
+        "兩個 that 引導的並列受詞子句",
+        "that 通常省略但結構仍完整",
+        "並列子句間用 and 連接"
+      ],
+      "hints": [
+        "句型框架：S + V + (that) + S + V and (that) + S + V，多個受詞子句時第二個 that 可省或保留",
+        "易錯點：注意時態搭配（have finished 為現在完成式表示已完成；will submit 為未來式表示將來動作），勿使用非限制用法的形容詞子句"
+      ]
+    }
+  ]
+}
