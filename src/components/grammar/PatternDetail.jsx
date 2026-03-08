@@ -322,10 +322,10 @@ function AdjTable({ color, title, entries }) {
       <div className="adj-grid">
         {entries.map((entry, i) => (
           <div key={i} style={{ padding: '6px 10px', borderRight: '1px solid #E8EEF5', borderBottom: '1px solid #E8EEF5' }}>
-            <div style={{ fontFamily: '"Courier New", Courier, monospace', fontWeight: 700, color: '#1A3A5C', fontSize: '13px' }}>
+            <div style={{ fontFamily: '"Courier New", Courier, monospace', fontWeight: 700, color: '#1A3A5C', fontSize: '15px' }}>
               {entry.adj}
             </div>
-            <div style={{ fontSize: '12px', color: '#4A4A4A' }}>{entry.zh}</div>
+            <div style={{ fontSize: '13px', color: '#4A4A4A' }}>{entry.zh}</div>
           </div>
         ))}
       </div>

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>均一教育平台・英文工具</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+      background: #f0f4ff;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: linear-gradient(135deg, #1d4ed8 0%, #0ea5e9 100%);
+      color: #fff;
+      padding: 2.5rem 1.5rem 2rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: "";
+      position: absolute;
+      top: -40px; right: -40px;
+      width: 200px; height: 200px;
+      border-radius: 50%;
+      background: rgba(255,255,255,.08);
+    }
+    header::after {
+      content: "";
+      position: absolute;
+      bottom: -30px; left: -20px;
+      width: 150px; height: 150px;
+      border-radius: 50%;
+      background: rgba(255,255,255,.06);
+    }
+    .logo-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .5rem;
+      background: rgba(255,255,255,.2);
+      border: 1px solid rgba(255,255,255,.3);
+      border-radius: 999px;
+      padding: .35rem 1rem;
+      font-size: .8rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+    header h1 {
+      font-size: clamp(1.6rem, 4vw, 2.2rem);
+      font-weight: 800;
+      letter-spacing: -.5px;
+      margin-bottom: .5rem;
+    }
+    header p {
+      color: #bae6fd;
+      font-size: .95rem;
+    }
+
+    /* ── Back link ── */
+    .back-bar {
+      max-width: 860px;
+      margin: 1.2rem auto 0;
+      padding: 0 1.5rem;
+      display: flex;
+      align-items: center;
+    }
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: .4rem;
+      font-size: .85rem;
+      color: #3b82f6;
+      text-decoration: none;
+      font-weight: 500;
+      padding: .35rem .75rem;
+      border-radius: .5rem;
+      transition: background .15s;
+    }
+    .back-link:hover { background: #eff6ff; }
+
+    /* ── Grid ── */
+    .grid {
+      max-width: 860px;
+      margin: 1.5rem auto 3rem;
+      padding: 0 1.5rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 1rem;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: #fff;
+      border-radius: 1rem;
+      padding: 1.4rem 1.2rem;
+      text-decoration: none;
+      color: inherit;
+      border: 2px solid transparent;
+      box-shadow: 0 2px 8px rgba(0,0,0,.07);
+      transition: transform .2s, box-shadow .2s, border-color .2s;
+      display: flex;
+      flex-direction: column;
+      gap: .7rem;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,.12);
+      border-color: #93c5fd;
+    }
+
+    .card-icon {
+      width: 48px; height: 48px;
+      border-radius: .75rem;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+
+    .card h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #1e3a5f;
+      line-height: 1.3;
+    }
+    .card p {
+      font-size: .82rem;
+      color: #6b7280;
+      line-height: 1.55;
+    }
+    .card-arrow {
+      margin-top: auto;
+      font-size: .82rem;
+      font-weight: 600;
+      color: #3b82f6;
+    }
+
+    /* colour variants */
+    .c1 { background: linear-gradient(135deg,#2563eb,#38bdf8); }
+    .c2 { background: linear-gradient(135deg,#059669,#34d399); }
+    .c3 { background: linear-gradient(135deg,#7c3aed,#a78bfa); }
+    .c4 { background: linear-gradient(135deg,#ea580c,#fbbf24); }
+    .c5 { background: linear-gradient(135deg,#db2777,#f472b6); }
+    .c6 { background: linear-gradient(135deg,#0284c7,#22d3ee); }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: .8rem;
+      color: #9ca3af;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo-badge">🏫 均一教育平台</div>
+  <h1>英文學習工具箱</h1>
+  <p>六大練習工具・免費使用・學測英文最佳夥伴</p>
+</header>
+
+<div class="back-bar">
+  <a class="back-link" href="javascript:window.close()">← 關閉此頁</a>
+</div>
+
+<div class="grid">
+
+  <a class="card" href="https://learn-gasat.vercel.app/" target="_blank" rel="noopener">
+    <div class="card-icon c1">🎯</div>
+    <h3>學測英文・沈浸式練習</h3>
+    <p>搭配詞沈浸式學習，互動查詢與練習系統，涵蓋 1,200+ 高頻搭配詞。</p>
+    <span class="card-arrow">立即前往 →</span>
+  </a>
+
+  <a class="card" href="https://www.jutor.ai/event/wordgym/index.html" target="_blank" rel="noopener">
+    <div class="card-icon c2">💪</div>
+    <h3>單字練功坊 WordGym</h3>
+    <p>反覆記憶高效訓練，強化高中必備單字量，備戰學測詞彙題型。</p>
+    <span class="card-arrow">立即前往 →</span>
+  </a>
+
+  <a class="card" href="https://www.jutor.ai/event/speak/sentence/index.html" target="_blank" rel="noopener">
+    <div class="card-icon c3">🎤</div>
+    <h3>單句跟讀</h3>
+    <p>逐句跟讀練習，提升英文口說與聽力，建立自然語感。</p>
+    <span class="card-arrow">立即前往 →</span>
+  </a>
+
+  <a class="card" href="https://www.jutor.ai/event/speak/passage/index.html" target="_blank" rel="noopener">
+    <div class="card-icon c4">📢</div>
+    <h3>文章朗讀</h3>
+    <p>完整文章朗讀練習，增進語感與流暢度，適合閱讀測驗備考。</p>
+    <span class="card-arrow">立即前往 →</span>
+  </a>
+
+  <a class="card" href="https://www.jutor.ai/event/vocabgem/index.html" target="_blank" rel="noopener">
+    <div class="card-icon c5">💎</div>
+    <h3>詞彙寶石 WordGem</h3>
+    <p>遊戲化詞彙學習，以趣味互動方式強化記憶，讓背單字不再枯燥。</p>
+    <span class="card-arrow">立即前往 →</span>
+  </a>
+
+  <a class="card" href="https://www.jutor.ai/event/junior-qa/index.html" target="_blank" rel="noopener">
+    <div class="card-icon c6">🤖</div>
+    <h3>英文問題提問</h3>
+    <p>有任何英文文法或單字問題？立即向 AI 老師發問，即時解惑。</p>
+    <span class="card-arrow">立即前往 →</span>
+  </a>
+
+</div>
+
+<footer>均一教育平台工具集・學測英文自學網站整合資源</footer>
+
+</body>
+</html>

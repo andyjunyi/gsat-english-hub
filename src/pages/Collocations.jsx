@@ -2,14 +2,14 @@ import CollocationSearch from '../components/CollocationSearch'
 
 export default function Collocations() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
-      <div className="mb-6 flex flex-col items-center text-center">
-        <div className="mb-2">
-          <h1 className="text-2xl font-black text-gray-800">英文搭配詞查詢</h1>
-          <p className="text-gray-500 text-sm">學測高頻搭配詞資料庫・支援英文與中文搜尋</p>
-        </div>
+    <div>
+      <header className="bg-gradient-to-r from-blue-700 via-blue-600 to-indigo-600 text-white py-10 px-4 text-center">
+        <h1 className="text-3xl font-black tracking-tight">英文搭配詞查詢</h1>
+        <p className="text-blue-100 text-sm mt-2">學測高頻搭配詞資料庫・支援英文與中文搜尋</p>
+      </header>
+      <div className="max-w-4xl mx-auto px-4 py-8">
+        <CollocationSearch />
       </div>
-      <CollocationSearch />
     </div>
   )
 }

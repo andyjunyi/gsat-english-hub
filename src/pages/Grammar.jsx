@@ -48,22 +48,9 @@ export default function Grammar() {
 
   return (
     <div>
-      {/* Page Header */}
-      <header style={{
-        background: '#1A3A5C',
-        color: '#fff',
-        padding: '48px 24px 40px',
-        textAlign: 'center',
-      }}>
-        <h1 style={{ fontSize: '32px', fontWeight: 800, margin: 0, letterSpacing: '-0.02em' }}>
-          學測英文必備句型
-        </h1>
-        <p style={{ fontSize: '16px', color: '#a8c4e0', margin: '10px 0 0' }}>
-          系統化學習 · 互動練習 · AI 即時解析
-        </p>
-        <p style={{ fontSize: '13px', color: '#7aa5c8', margin: '6px 0 0' }}>
-          共 {patterns.length} 個句型 · {new Set(patterns.map(p => p.chapter)).size} 大章節
-        </p>
+      <header className="bg-gradient-to-r from-blue-700 via-blue-600 to-indigo-600 text-white py-10 px-4 text-center">
+        <h1 className="text-3xl font-black tracking-tight">學測英文必備句型</h1>
+        <p className="text-blue-100 text-sm mt-2">系統化學習・互動練習・AI 即時解析</p>
       </header>
 
       <PatternSearch patterns={patterns} />

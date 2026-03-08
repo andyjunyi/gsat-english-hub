@@ -27,15 +27,9 @@ export default function Home() {
   return (
     <div>
       {/* Header */}
-      <section className="bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 text-white py-10 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-black mb-4 leading-tight tracking-tight">
-            學測英文自學網站
-          </h1>
-          <p className="text-blue-200 text-lg md:text-xl">
-            專為台灣高中生設計・大學學測必備
-          </p>
-        </div>
+      <section className="bg-gradient-to-r from-blue-700 via-blue-600 to-indigo-600 text-white py-10 px-4 text-center">
+        <h1 className="text-3xl font-black tracking-tight">學測英文自學網站</h1>
+        <p className="text-blue-200 text-sm mt-2">專為台灣高中生設計・大學學測必備</p>
       </section>
 
       {/* Module Cards */}

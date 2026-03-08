@@ -8,6 +8,7 @@ import GrammarPattern from './pages/GrammarPattern'
 import Vocabulary from './pages/Vocabulary'
 import Translation from './pages/Translation'
 import CollocationChecker from './components/CollocationChecker'
+import JunyiPage from './pages/JunyiPage'
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             <Route path="/vocabulary" element={<Vocabulary />} />
             <Route path="/translation" element={<Translation />} />
             <Route path="/checker" element={<CollocationChecker />} />
+            <Route path="/junyi" element={<JunyiPage />} />
           </Routes>
         </main>
         <Footer />

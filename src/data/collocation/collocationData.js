@@ -93571,5 +93571,1500 @@ export const collocationData = [
     pattern: "S + was honoured as a distinguished member of + N",
     example: "He was honoured as a distinguished member of the National Science Foundation."
   }
-},
+},{
+    phrase: "directly hit",
+    type: "副詞 + 動詞",
+    chinese: "直接擊中 / 直接衝擊",
+    keywords: ["directly", "hit"],
+    example: {
+      english: "The coastal village was directly hit by the typhoon, leaving hundreds of families homeless.",
+      chinese: "這個沿海村莊直接遭颱風侵襲，數百個家庭因此無家可歸。",
+      grammar_point: "過去式被動概念：was directly hit by + N（直接被…擊中）"
+    },
+    vocabulary: [
+      { word: "coastal", pos: "adj.", chinese: "沿海的" },
+      { word: "typhoon", pos: "n.", chinese: "颱風" },
+      { word: "homeless", pos: "adj.", chinese: "無家可歸的" }
+    ],
+    sentence_pattern: {
+      pattern: "N + was directly hit by + N, + V-ing + O",
+      example: "The factory was directly hit by the explosion, causing serious damage."
+    }
+  },
+{
+    phrase: "hard-hit",
+    type: "複合形容詞",
+    chinese: "受創嚴重的 / 深受打擊的",
+    keywords: ["hard", "hit"],
+    example: {
+      english: "The government announced a relief package to support hard-hit small businesses during the economic crisis.",
+      chinese: "政府宣布了一項救助方案，以支持在經濟危機中受創嚴重的小型企業。",
+      grammar_point: "hard-hit + N（複合形容詞修飾名詞，連字號用法）"
+    },
+    vocabulary: [
+      { word: "relief", pos: "n.", chinese: "救助、紓困" },
+      { word: "package", pos: "n.", chinese: "方案、套餐" },
+      { word: "crisis", pos: "n.", chinese: "危機" }
+    ],
+    sentence_pattern: {
+      pattern: "S + announced + N + to support + hard-hit + N + during + N",
+      example: "Aid was sent to the hard-hit regions after the earthquake."
+    }
+  },
+{
+    phrase: "score a hit",
+    type: "動詞 + 名詞",
+    chinese: "獲得成功 / 大受歡迎",
+    keywords: ["score", "hit"],
+    example: {
+      english: "The young director scored a hit with her debut film, which won three international awards.",
+      chinese: "這位年輕導演以她的首部電影大獲成功，贏得了三項國際獎項。",
+      grammar_point: "which + V（非限定關係子句，補充說明先行詞）"
+    },
+    vocabulary: [
+      { word: "director", pos: "n.", chinese: "導演" },
+      { word: "debut", pos: "adj.", chinese: "首次的、初登場的" },
+      { word: "award", pos: "n.", chinese: "獎項" }
+    ],
+    sentence_pattern: {
+      pattern: "S + scored a hit with + N, which + V",
+      example: "The band scored a hit with their first single released last summer."
+    }
+  },
+{
+    phrase: "become a hit",
+    type: "動詞片語",
+    chinese: "成為熱門 / 大受歡迎",
+    keywords: ["become", "hit"],
+    example: {
+      english: "The café's signature lavender latte became a hit on social media and attracted visitors from across the city.",
+      chinese: "這家咖啡廳的招牌薰衣草拿鐵在社群媒體上爆紅，吸引了來自全城的訪客。",
+      grammar_point: "became a hit + on + N（在…上爆紅）；and + V（並列動詞）"
+    },
+    vocabulary: [
+      { word: "signature", pos: "adj.", chinese: "招牌的、獨特的" },
+      { word: "lavender", pos: "n.", chinese: "薰衣草" },
+      { word: "attract", pos: "v.", chinese: "吸引" }
+    ],
+    sentence_pattern: {
+      pattern: "N + became a hit + on + N + and + V + O",
+      example: "Her handmade jewelry became a hit at the local market."
+    }
+  },
+{
+    phrase: "hit at",
+    type: "動詞片語",
+    chinese: "針對 / 間接批評",
+    keywords: ["hit", "at"],
+    example: {
+      english: "In her speech, the senator clearly hit at the administration's failure to address climate change.",
+      chinese: "在演講中，這位參議員明確地批評了政府在應對氣候變遷上的失敗。",
+      grammar_point: "hit at + N（間接批評或針對某事）；failure to + V（未能做到…）"
+    },
+    vocabulary: [
+      { word: "senator", pos: "n.", chinese: "參議員" },
+      { word: "administration", pos: "n.", chinese: "政府、行政部門" },
+      { word: "address", pos: "v.", chinese: "處理、應對" }
+    ],
+    sentence_pattern: {
+      pattern: "S + hit at + N's + failure to + V",
+      example: "The report hit at the company's lack of transparency in its financial dealings."
+    }
+  },
+{
+    phrase: "hit out at",
+    type: "動詞片語",
+    chinese: "猛烈抨擊 / 強烈批評",
+    keywords: ["hit", "out", "at"],
+    example: {
+      english: "The athlete hit out at the media for spreading false rumors about his personal life.",
+      chinese: "這名運動員猛烈抨擊媒體散布有關他私生活的不實謠言。",
+      grammar_point: "hit out at + N + for + V-ing（為某事抨擊某人）"
+    },
+    vocabulary: [
+      { word: "athlete", pos: "n.", chinese: "運動員" },
+      { word: "rumor", pos: "n.", chinese: "謠言" },
+      { word: "spread", pos: "v.", chinese: "散布、傳播" }
+    ],
+    sentence_pattern: {
+      pattern: "S + hit out at + N + for + V-ing + O",
+      example: "The CEO hit out at rivals for copying their product design."
+    }
+  },
+{
+    phrase: "hit a record",
+    type: "動詞 + 名詞",
+    chinese: "創下紀錄",
+    keywords: ["hit", "record"],
+    example: {
+      english: "Summer temperatures in the capital hit a record this year, prompting health warnings for the elderly.",
+      chinese: "首都今年夏季氣溫創下紀錄，促使當局對老年人發出健康警告。",
+      grammar_point: "V-ing（分詞構句表結果）；prompting + N（導致…）"
+    },
+    vocabulary: [
+      { word: "temperature", pos: "n.", chinese: "氣溫" },
+      { word: "prompt", pos: "v.", chinese: "促使、引發" },
+      { word: "elderly", pos: "n.", chinese: "老年人" }
+    ],
+    sentence_pattern: {
+      pattern: "N + hit a record + 時間, + V-ing + N",
+      example: "Sales hit a record last quarter, exceeding all forecasts."
+    }
+  },
+{
+    phrase: "hit a snag",
+    type: "動詞 + 名詞",
+    chinese: "遇到困難 / 碰到阻礙",
+    keywords: ["hit", "snag"],
+    example: {
+      english: "The construction project hit a snag when engineers discovered an underground water pipe at the site.",
+      chinese: "這項建設工程遇到了阻礙，因為工程師在工地發現了地下水管。",
+      grammar_point: "when + S + V（時間副詞子句，說明阻礙發生的原因）"
+    },
+    vocabulary: [
+      { word: "construction", pos: "n.", chinese: "建設、施工" },
+      { word: "engineer", pos: "n.", chinese: "工程師" },
+      { word: "underground", pos: "adj.", chinese: "地下的" }
+    ],
+    sentence_pattern: {
+      pattern: "N + hit a snag when + S + V + O",
+      example: "Our plans hit a snag when the main sponsor pulled out at the last minute."
+    }
+  },
+{
+    phrase: "hit the road",
+    type: "慣用語",
+    chinese: "出發上路 / 動身",
+    keywords: ["hit", "road"],
+    example: {
+      english: "We need to hit the road by six in the morning if we want to reach the campsite before dark.",
+      chinese: "如果我們想在天黑前抵達營地，就必須在早上六點前出發。",
+      grammar_point: "if + S + V（條件子句）；need to + V（需要做…）"
+    },
+    vocabulary: [
+      { word: "campsite", pos: "n.", chinese: "營地" },
+      { word: "depart", pos: "v.", chinese: "出發、離開" },
+      { word: "journey", pos: "n.", chinese: "旅程" }
+    ],
+    sentence_pattern: {
+      pattern: "S + need to hit the road by + 時間 + if + S + want to + V",
+      example: "It's getting late — we'd better hit the road now."
+    }
+  },
+{
+    phrase: "hit the nail on the head",
+    type: "慣用語",
+    chinese: "說得完全正確 / 一針見血",
+    keywords: ["hit", "nail", "head"],
+    example: {
+      english: "When she said the problem was poor communication, she really hit the nail on the head.",
+      chinese: "當她說問題出在溝通不良時，她真的是一針見血。",
+      grammar_point: "when + S + V（時間副詞子句）；really + V（副詞強調）"
+    },
+    vocabulary: [
+      { word: "communication", pos: "n.", chinese: "溝通" },
+      { word: "identify", pos: "v.", chinese: "指出、識別" },
+      { word: "precisely", pos: "adv.", chinese: "精確地" }
+    ],
+    sentence_pattern: {
+      pattern: "When + S + said + (that) + N, S + hit the nail on the head",
+      example: "You hit the nail on the head — that's exactly what we need to fix."
+    }
+  },
+{
+    phrase: "hit the ceiling",
+    type: "慣用語",
+    chinese: "勃然大怒 / 大發雷霆",
+    keywords: ["hit", "ceiling"],
+    example: {
+      english: "My dad hit the ceiling when he found out I had crashed his car without telling him.",
+      chinese: "當我爸發現我撞壞他的車卻沒告訴他時，他勃然大怒。",
+      grammar_point: "when + S + found out + (that) + S + had V-p.p.（過去完成式，表更早發生之事）"
+    },
+    vocabulary: [
+      { word: "furious", pos: "adj.", chinese: "極度憤怒的" },
+      { word: "crash", pos: "v.", chinese: "撞壞、碰撞" },
+      { word: "react", pos: "v.", chinese: "反應" }
+    ],
+    sentence_pattern: {
+      pattern: "S + hit the ceiling when + S + found out + (that) + S + had + V-p.p.",
+      example: "The manager hit the ceiling when he saw the quarterly losses."
+    }
+  },
+{
+    phrase: "hit the headlines",
+    type: "動詞 + 名詞",
+    chinese: "登上頭條 / 引發廣泛關注",
+    keywords: ["hit", "headlines"],
+    example: {
+      english: "The scientist's groundbreaking discovery hit the headlines worldwide and sparked debate among experts.",
+      chinese: "這位科學家的突破性發現登上了全球頭條，並在專家之間引發了辯論。",
+      grammar_point: "and + V（並列動詞）；among + N（在…之間）"
+    },
+    vocabulary: [
+      { word: "groundbreaking", pos: "adj.", chinese: "突破性的" },
+      { word: "discovery", pos: "n.", chinese: "發現" },
+      { word: "spark", pos: "v.", chinese: "引發、激起" }
+    ],
+    sentence_pattern: {
+      pattern: "N + hit the headlines + 範圍 + and + V + N",
+      example: "The scandal hit the headlines just days before the election."
+    }
+  },
+{
+    phrase: "hit the jackpot",
+    type: "慣用語",
+    chinese: "中大獎 / 大獲成功 / 走好運",
+    keywords: ["hit", "jackpot"],
+    example: {
+      english: "The small bakery really hit the jackpot when a famous food blogger reviewed their croissants online.",
+      chinese: "這家小烘焙坊真的走了大運，因為一位知名美食部落客在網上評論了他們的可頌。",
+      grammar_point: "when + S + V（時間副詞子句，說明好運的時機）"
+    },
+    vocabulary: [
+      { word: "blogger", pos: "n.", chinese: "部落客" },
+      { word: "review", pos: "v.", chinese: "評論、評測" },
+      { word: "fortunate", pos: "adj.", chinese: "幸運的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + hit the jackpot when + S + V + O",
+      example: "He hit the jackpot with his first investment in the stock market."
+    }
+  },
+{
+    phrase: "hit the ground running",
+    type: "慣用語",
+    chinese: "立即全力投入 / 一開始就全速運轉",
+    keywords: ["hit", "ground", "running"],
+    example: {
+      english: "The new manager was expected to hit the ground running and deliver results within the first month.",
+      chinese: "新任經理被期望一上任就全力投入，並在第一個月內交出成果。",
+      grammar_point: "be expected to + V（被期望做…）；within + 時間（在…之內）"
+    },
+    vocabulary: [
+      { word: "deliver", pos: "v.", chinese: "交出、達成" },
+      { word: "efficient", pos: "adj.", chinese: "有效率的" },
+      { word: "transition", pos: "n.", chinese: "過渡、轉換" }
+    ],
+    sentence_pattern: {
+      pattern: "S + was expected to hit the ground running and + V + O + within + 時間",
+      example: "With so much experience, she was able to hit the ground running on her first day."
+    }
+  },
+{
+    phrase: "a big hit",
+    type: "形容詞 + 名詞",
+    chinese: "大受歡迎的人事物 / 轟動一時",
+    keywords: ["big", "hit"],
+    example: {
+      english: "The interactive science exhibition was a big hit with children and adults alike during the school holidays.",
+      chinese: "這個互動科學展覽在學校假期期間大受大人小孩的歡迎。",
+      grammar_point: "be a big hit with + N（深受…喜愛）；alike（同樣地，置於並列名詞之後）"
+    },
+    vocabulary: [
+      { word: "interactive", pos: "adj.", chinese: "互動的" },
+      { word: "exhibition", pos: "n.", chinese: "展覽" },
+      { word: "alike", pos: "adv.", chinese: "同樣地" }
+    ],
+    sentence_pattern: {
+      pattern: "N + was a big hit with + N + and + N + alike",
+      example: "The new dessert menu was a big hit with customers from the very first day."
+    }
+  },{
+    phrase: "take office",
+    type: "動詞 + 名詞",
+    chinese: "就職、上任",
+    keywords: ["take", "office"],
+    example: {
+      english: "The newly elected president will take office in January after a formal inauguration ceremony.",
+      chinese: "這位新當選的總統將在正式就職典禮後於一月份上任。",
+      grammar_point: "will + V（未來式，表預定事件）；after + N（介系詞片語表時間）"
+    },
+    vocabulary: [
+      { word: "elected", pos: "adj.", chinese: "當選的" },
+      { word: "inauguration", pos: "n.", chinese: "就職典禮" },
+      { word: "formal", pos: "adj.", chinese: "正式的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + will take office + 時間 + after + N",
+      example: "The new mayor will take office next Monday at city hall."
+    }
+  },
+{
+    phrase: "take office as",
+    type: "動詞片語",
+    chinese: "以…身分就任、擔任…一職",
+    keywords: ["take", "office", "as"],
+    example: {
+      english: "She made history when she took office as the first female prime minister of the country.",
+      chinese: "她創下歷史，成為該國第一位女性首相並就任此職。",
+      grammar_point: "when + S + V（時間副詞子句）；take office as + 職稱（以某職銜就任）"
+    },
+    vocabulary: [
+      { word: "prime minister", pos: "n.", chinese: "首相" },
+      { word: "historic", pos: "adj.", chinese: "歷史性的" },
+      { word: "female", pos: "adj.", chinese: "女性的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + made history when + S + took office as + 職稱",
+      example: "He took office as director of the agency following a unanimous vote."
+    }
+  },
+{
+    phrase: "be sworn into office",
+    type: "動詞片語",
+    chinese: "宣誓就職",
+    keywords: ["sworn", "office"],
+    example: {
+      english: "The new cabinet members were sworn into office in a ceremony held at the presidential palace.",
+      chinese: "新任內閣成員在總統府舉行的典禮中宣誓就職。",
+      grammar_point: "be + V-p.p.（被動語態）；held at + 地點（過去分詞片語修飾前面的名詞）"
+    },
+    vocabulary: [
+      { word: "cabinet", pos: "n.", chinese: "內閣" },
+      { word: "ceremony", pos: "n.", chinese: "典禮、儀式" },
+      { word: "presidential", pos: "adj.", chinese: "總統的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + were sworn into office in + N + held at + 地點",
+      example: "The governor was sworn into office before a crowd of thousands."
+    }
+  },
+{
+    phrase: "run for office",
+    type: "動詞片語",
+    chinese: "競選公職",
+    keywords: ["run", "office"],
+    example: {
+      english: "After years of community work, she finally decided to run for office and represent her district in parliament.",
+      chinese: "在多年的社區服務後，她終於決定競選公職，在議會代表她的選區。",
+      grammar_point: "after + 時間 + of + N（在…年的…後）；decide to + V（決定做…）"
+    },
+    vocabulary: [
+      { word: "community", pos: "n.", chinese: "社區" },
+      { word: "represent", pos: "v.", chinese: "代表" },
+      { word: "parliament", pos: "n.", chinese: "議會" }
+    ],
+    sentence_pattern: {
+      pattern: "After + 時間 + of + N, S + decided to run for office",
+      example: "He announced his intention to run for office at a press conference."
+    }
+  },
+{
+    phrase: "hold office",
+    type: "動詞 + 名詞",
+    chinese: "擔任職務、在任",
+    keywords: ["hold", "office"],
+    example: {
+      english: "Under the constitution, no individual may hold office for more than two consecutive terms.",
+      chinese: "根據憲法，任何人擔任職務不得超過兩個連續任期。",
+      grammar_point: "under + N（根據…）；no individual may + V（情態動詞否定，任何人都不得…）"
+    },
+    vocabulary: [
+      { word: "constitution", pos: "n.", chinese: "憲法" },
+      { word: "consecutive", pos: "adj.", chinese: "連續的" },
+      { word: "individual", pos: "n.", chinese: "個人" }
+    ],
+    sentence_pattern: {
+      pattern: "Under + N, no one may hold office for more than + N",
+      example: "She held office for three terms before stepping down voluntarily."
+    }
+  },
+{
+    phrase: "leave office",
+    type: "動詞片語",
+    chinese: "卸任、離開職位",
+    keywords: ["leave", "office"],
+    example: {
+      english: "When the prime minister left office after twelve years, supporters gathered outside to bid farewell.",
+      chinese: "當首相在十二年後卸任時，支持者聚集在外面送別。",
+      grammar_point: "when + S + V（時間副詞子句）；gathered to + V（聚集做某事）"
+    },
+    vocabulary: [
+      { word: "supporter", pos: "n.", chinese: "支持者" },
+      { word: "farewell", pos: "n.", chinese: "告別" },
+      { word: "voluntary", pos: "adj.", chinese: "自願的" }
+    ],
+    sentence_pattern: {
+      pattern: "When + S + left office after + 時間, S + V",
+      example: "The president left office with high approval ratings from the public."
+    }
+  },
+{
+    phrase: "resign from office",
+    type: "動詞片語",
+    chinese: "辭去職務、辭職下台",
+    keywords: ["resign", "office"],
+    example: {
+      english: "Facing mounting pressure over the scandal, the minister had no choice but to resign from office.",
+      chinese: "面對醜聞帶來的巨大壓力，這位部長別無選擇，只能辭職下台。",
+      grammar_point: "facing + N（分詞構句表原因）；have no choice but to + V（別無選擇只能…）"
+    },
+    vocabulary: [
+      { word: "mounting", pos: "adj.", chinese: "不斷增加的" },
+      { word: "scandal", pos: "n.", chinese: "醜聞" },
+      { word: "pressure", pos: "n.", chinese: "壓力" }
+    ],
+    sentence_pattern: {
+      pattern: "Facing + N + over + N, S + had no choice but to resign from office",
+      example: "The official resigned from office after the investigation revealed serious misconduct."
+    }
+  },
+{
+    phrase: "seek office",
+    type: "動詞 + 名詞",
+    chinese: "謀求公職、尋求擔任職務",
+    keywords: ["seek", "office"],
+    example: {
+      english: "Many young graduates are now seeking office in local government to bring about meaningful change.",
+      chinese: "許多年輕畢業生如今正在尋求地方政府的公職，以帶來有意義的改變。",
+      grammar_point: "seek office in + 地方（在…謀求公職）；to + V（不定詞表目的）"
+    },
+    vocabulary: [
+      { word: "graduate", pos: "n.", chinese: "畢業生" },
+      { word: "meaningful", pos: "adj.", chinese: "有意義的" },
+      { word: "local government", pos: "n.", chinese: "地方政府" }
+    ],
+    sentence_pattern: {
+      pattern: "S + are seeking office in + N + to + V + O",
+      example: "He made it clear that he intended to seek office in the upcoming election."
+    }
+  },
+{
+    phrase: "term of office",
+    type: "名詞片語",
+    chinese: "任期",
+    keywords: ["term", "office"],
+    example: {
+      english: "The senator completed her term of office with a strong record on environmental legislation.",
+      chinese: "這位參議員以亮眼的環境立法紀錄圓滿完成了她的任期。",
+      grammar_point: "complete + N（完成某事）；with + N（伴隨狀態）"
+    },
+    vocabulary: [
+      { word: "senator", pos: "n.", chinese: "參議員" },
+      { word: "legislation", pos: "n.", chinese: "立法、法規" },
+      { word: "environmental", pos: "adj.", chinese: "環境的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + completed + N's + term of office with + N",
+      example: "His term of office was extended by one year due to the national emergency."
+    }
+  },
+{
+    phrase: "abuse of office",
+    type: "名詞片語",
+    chinese: "濫用職權",
+    keywords: ["abuse", "office"],
+    example: {
+      english: "The judge was charged with abuse of office after evidence showed he had accepted bribes from defendants.",
+      chinese: "這名法官被控濫用職權，因為證據顯示他曾收受被告賄賂。",
+      grammar_point: "be charged with + N（被控…）；after + S + V（時間副詞子句）"
+    },
+    vocabulary: [
+      { word: "charge", pos: "v.", chinese: "控告、指控" },
+      { word: "bribe", pos: "n.", chinese: "賄賂" },
+      { word: "defendant", pos: "n.", chinese: "被告" }
+    ],
+    sentence_pattern: {
+      pattern: "S + was charged with abuse of office after + S + V",
+      example: "The investigation uncovered widespread abuse of office within the department."
+    }
+  },
+{
+    phrase: "oath of office",
+    type: "名詞片語",
+    chinese: "就職宣誓、職務誓言",
+    keywords: ["oath", "office"],
+    example: {
+      english: "Before assuming power, every president must take the oath of office in front of the nation.",
+      chinese: "在掌握權力之前，每位總統都必須在全國面前進行就職宣誓。",
+      grammar_point: "before + V-ing（在…之前）；must + V（情態動詞表義務）"
+    },
+    vocabulary: [
+      { word: "oath", pos: "n.", chinese: "誓言、宣誓" },
+      { word: "assume", pos: "v.", chinese: "承擔、就任" },
+      { word: "solemn", pos: "adj.", chinese: "莊嚴的" }
+    ],
+    sentence_pattern: {
+      pattern: "Before + V-ing, S + must take the oath of office + 地點",
+      example: "She recited the oath of office clearly and confidently before the assembled crowd."
+    }
+  },
+{
+    phrase: "public office",
+    type: "形容詞 + 名詞",
+    chinese: "公職",
+    keywords: ["public", "office"],
+    example: {
+      english: "Those who hold public office are expected to act with integrity and serve the interests of the people.",
+      chinese: "擔任公職的人被期望誠信行事，並服務於人民的利益。",
+      grammar_point: "those who + V（凡是…的人）；be expected to + V（被期望做…）"
+    },
+    vocabulary: [
+      { word: "integrity", pos: "n.", chinese: "誠信、廉潔" },
+      { word: "serve", pos: "v.", chinese: "服務、為…效力" },
+      { word: "interest", pos: "n.", chinese: "利益" }
+    ],
+    sentence_pattern: {
+      pattern: "Those who hold public office are expected to + V + with + N",
+      example: "Running for public office requires both courage and a clear vision for the future."
+    }
+  },
+{
+    phrase: "elected office",
+    type: "形容詞 + 名詞",
+    chinese: "民選職位",
+    keywords: ["elected", "office"],
+    example: {
+      english: "He had never held elected office before, yet his grassroots campaign won over thousands of voters.",
+      chinese: "他從未擔任過任何民選職位，但他的草根選戰卻贏得了數千名選民的支持。",
+      grammar_point: "had never + V-p.p.（過去完成式，表從未有過的經驗）；yet（轉折連接詞）"
+    },
+    vocabulary: [
+      { word: "grassroots", pos: "adj.", chinese: "草根的、基層的" },
+      { word: "campaign", pos: "n.", chinese: "競選活動" },
+      { word: "voter", pos: "n.", chinese: "選民" }
+    ],
+    sentence_pattern: {
+      pattern: "S + had never held elected office before, yet + S + V + O",
+      example: "Winning elected office for the first time is both exciting and humbling."
+    }
+  },
+{
+    phrase: "come to power",
+    type: "動詞片語",
+    chinese: "掌權、上台執政",
+    keywords: ["come", "power"],
+    example: {
+      english: "When the reform party came to power, it immediately introduced new policies to tackle corruption.",
+      chinese: "改革黨上台執政後，立即推出了新政策來打擊腐敗。",
+      grammar_point: "when + S + V（時間副詞子句）；immediately + V（副詞強調立即行動）"
+    },
+    vocabulary: [
+      { word: "reform", pos: "n.", chinese: "改革" },
+      { word: "corruption", pos: "n.", chinese: "腐敗、貪污" },
+      { word: "tackle", pos: "v.", chinese: "應對、處理" }
+    ],
+    sentence_pattern: {
+      pattern: "When + S + came to power, S + immediately + V + O",
+      example: "The party promised sweeping changes when it came to power."
+    }
+  },
+{
+    phrase: "be in office",
+    type: "介系詞片語",
+    chinese: "在任中、執政中",
+    keywords: ["in", "office"],
+    example: {
+      english: "During the decade she was in office, the country saw significant improvements in public health care.",
+      chinese: "在她執政的十年間，這個國家在公共醫療保健方面有了顯著的改善。",
+      grammar_point: "during + N（在…期間）；see + N（見證、出現某情況）"
+    },
+    vocabulary: [
+      { word: "decade", pos: "n.", chinese: "十年" },
+      { word: "significant", pos: "adj.", chinese: "顯著的" },
+      { word: "improvement", pos: "n.", chinese: "改善、進步" }
+    ],
+    sentence_pattern: {
+      pattern: "During the + 時間 + S + was in office, N + saw + N",
+      example: "While he was in office, the economy grew at an impressive rate."
+    }
+  },{
+    phrase: "at times",
+    type: "介系詞片語",
+    chinese: "有時候、偶爾",
+    keywords: ["at", "times"],
+    example: {
+      english: "Living abroad can be exciting, but at times it can also feel incredibly lonely and isolating.",
+      chinese: "住在國外可以很刺激，但有時也會感到非常孤獨和與世隔絕。",
+      grammar_point: "but + at times + S + can + V（轉折連接詞帶出偶發情況）"
+    },
+    vocabulary: [
+      { word: "abroad", pos: "adv.", chinese: "在國外" },
+      { word: "incredibly", pos: "adv.", chinese: "難以置信地、非常" },
+      { word: "isolating", pos: "adj.", chinese: "使人孤立的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + can be + adj., but at times + S + can + V + adv.",
+      example: "Parenting is rewarding, but at times it can be utterly exhausting."
+    }
+  },
+{
+    phrase: "at all times",
+    type: "介系詞片語",
+    chinese: "隨時、始終、任何時候都",
+    keywords: ["at", "all", "times"],
+    example: {
+      english: "Passengers are required to keep their seatbelts fastened at all times during the flight.",
+      chinese: "乘客在飛行全程中被要求隨時繫好安全帶。",
+      grammar_point: "be required to + V（被要求做…）；at all times（置於句尾強調持續性）"
+    },
+    vocabulary: [
+      { word: "passenger", pos: "n.", chinese: "乘客" },
+      { word: "fasten", pos: "v.", chinese: "繫緊、扣上" },
+      { word: "seatbelt", pos: "n.", chinese: "安全帶" }
+    ],
+    sentence_pattern: {
+      pattern: "S + are required to + V + O + at all times",
+      example: "Security personnel must remain alert at all times while on duty."
+    }
+  },
+{
+    phrase: "at no time",
+    type: "介系詞片語",
+    chinese: "從未、絕對不、在任何時候都不",
+    keywords: ["at", "no", "time"],
+    example: {
+      english: "At no time did the company disclose the risks to its investors, which later led to a major lawsuit.",
+      chinese: "該公司從未向投資者揭露風險，這後來導致了一場重大訴訟。",
+      grammar_point: "At no time + 助動詞倒裝（否定副詞片語置首，引發主詞與助動詞倒裝）"
+    },
+    vocabulary: [
+      { word: "disclose", pos: "v.", chinese: "揭露、公開" },
+      { word: "investor", pos: "n.", chinese: "投資者" },
+      { word: "lawsuit", pos: "n.", chinese: "訴訟" }
+    ],
+    sentence_pattern: {
+      pattern: "At no time + did + S + V + O, which + V",
+      example: "At no time was the public informed of the potential danger."
+    }
+  },
+{
+    phrase: "at the same time",
+    type: "介系詞片語",
+    chinese: "同時；話雖如此、然而",
+    keywords: ["at", "same", "time"],
+    example: {
+      english: "She managed to raise three children and build a successful career at the same time.",
+      chinese: "她同時撫養了三個孩子並建立了成功的事業。",
+      grammar_point: "manage to + V（設法做到…）；at the same time（置於句尾表同步進行）"
+    },
+    vocabulary: [
+      { word: "manage", pos: "v.", chinese: "設法、管理" },
+      { word: "career", pos: "n.", chinese: "職涯、事業" },
+      { word: "simultaneously", pos: "adv.", chinese: "同時地" }
+    ],
+    sentence_pattern: {
+      pattern: "S + managed to + V + O + and + V + O + at the same time",
+      example: "You can't listen to music and study effectively at the same time."
+    }
+  },
+{
+    phrase: "at times like these",
+    type: "介系詞片語",
+    chinese: "在這樣的時刻、在此艱難時期",
+    keywords: ["at", "times", "like", "these"],
+    example: {
+      english: "At times like these, it is more important than ever to support one another and stay united.",
+      chinese: "在這樣的時刻，比以往任何時候都更重要的是互相支持、保持團結。",
+      grammar_point: "At times like these（置首作時間狀語）；it is + adj. + to + V（虛主詞句型）"
+    },
+    vocabulary: [
+      { word: "support", pos: "v.", chinese: "支持" },
+      { word: "united", pos: "adj.", chinese: "團結的" },
+      { word: "crucial", pos: "adj.", chinese: "至關重要的" }
+    ],
+    sentence_pattern: {
+      pattern: "At times like these, it is + adj. + to + V + O",
+      example: "At times like these, a kind word from a friend can make all the difference."
+    }
+  },
+{
+    phrase: "now and then",
+    type: "副詞片語",
+    chinese: "偶爾、有時候",
+    keywords: ["now", "then"],
+    example: {
+      english: "Even dedicated athletes need to rest now and then to allow their bodies to recover fully.",
+      chinese: "即使是專注的運動員也需要偶爾休息，讓身體充分恢復。",
+      grammar_point: "even + N（即使是…也）；to allow + N + to + V（不定詞表目的）"
+    },
+    vocabulary: [
+      { word: "dedicated", pos: "adj.", chinese: "專注的、全心投入的" },
+      { word: "athlete", pos: "n.", chinese: "運動員" },
+      { word: "recover", pos: "v.", chinese: "恢復" }
+    ],
+    sentence_pattern: {
+      pattern: "Even + N + need(s) to + V + now and then + to + V",
+      example: "It's good to treat yourself to something special every now and then."
+    }
+  },
+{
+    phrase: "every now and then",
+    type: "副詞片語",
+    chinese: "時不時地、不時地",
+    keywords: ["every", "now", "then"],
+    example: {
+      english: "Every now and then, she would return to her hometown to visit her aging grandparents.",
+      chinese: "她時不時地會回到家鄉探望年邁的祖父母。",
+      grammar_point: "Every now and then + S + would + V（would 表過去習慣性動作）"
+    },
+    vocabulary: [
+      { word: "hometown", pos: "n.", chinese: "家鄉" },
+      { word: "aging", pos: "adj.", chinese: "年邁的" },
+      { word: "occasionally", pos: "adv.", chinese: "偶爾、不時" }
+    ],
+    sentence_pattern: {
+      pattern: "Every now and then, S + would + V + to + V + O",
+      example: "Every now and then a brilliant idea comes along that changes everything."
+    }
+  },
+{
+    phrase: "once in a while",
+    type: "副詞片語",
+    chinese: "偶爾、間或",
+    keywords: ["once", "while"],
+    example: {
+      english: "It is perfectly fine to indulge in your favorite dessert once in a while without feeling guilty.",
+      chinese: "偶爾縱情享用你最喜歡的甜點是完全沒問題的，不必感到愧疚。",
+      grammar_point: "It is + adj. + to + V（虛主詞句型）；without + V-ing（無需…）"
+    },
+    vocabulary: [
+      { word: "indulge", pos: "v.", chinese: "縱情享受、放縱" },
+      { word: "guilty", pos: "adj.", chinese: "愧疚的" },
+      { word: "occasionally", pos: "adv.", chinese: "偶爾" }
+    ],
+    sentence_pattern: {
+      pattern: "It is + adj. + to + V + O + once in a while + without + V-ing",
+      example: "Everyone deserves to take a break once in a while."
+    }
+  },
+{
+    phrase: "more often than not",
+    type: "副詞片語",
+    chinese: "往往、多半、十之八九",
+    keywords: ["more", "often", "not"],
+    example: {
+      english: "More often than not, students who struggle in class simply need more encouragement than extra homework.",
+      chinese: "在課堂上感到吃力的學生，往往需要的是更多鼓勵，而非更多作業。",
+      grammar_point: "More often than not（置首作頻率狀語）；simply + V（副詞強調）"
+    },
+    vocabulary: [
+      { word: "struggle", pos: "v.", chinese: "掙扎、感到吃力" },
+      { word: "encouragement", pos: "n.", chinese: "鼓勵" },
+      { word: "typically", pos: "adv.", chinese: "通常地" }
+    ],
+    sentence_pattern: {
+      pattern: "More often than not, S + simply + V + O + rather than + N",
+      example: "More often than not, the simplest solution turns out to be the best one."
+    }
+  },
+{
+    phrase: "sooner or later",
+    type: "副詞片語",
+    chinese: "遲早、早晚",
+    keywords: ["sooner", "later"],
+    example: {
+      english: "If you keep ignoring the warning signs, sooner or later the problem will become impossible to fix.",
+      chinese: "如果你持續忽視這些警示訊號，這個問題遲早會變得無法解決。",
+      grammar_point: "If + S + keep + V-ing（條件子句）；sooner or later + S + will + V（主要子句）"
+    },
+    vocabulary: [
+      { word: "ignore", pos: "v.", chinese: "忽視" },
+      { word: "warning sign", pos: "n.", chinese: "警示訊號" },
+      { word: "inevitable", pos: "adj.", chinese: "不可避免的" }
+    ],
+    sentence_pattern: {
+      pattern: "If + S + keep + V-ing, sooner or later + S + will + V",
+      example: "Sooner or later, hard work and dedication will pay off."
+    }
+  },
+{
+    phrase: "ahead of time",
+    type: "介系詞片語",
+    chinese: "提前、提早",
+    keywords: ["ahead", "time"],
+    example: {
+      english: "The project was completed two weeks ahead of time, impressing both the client and senior management.",
+      chinese: "這個專案提前兩週完工，令客戶和高層管理人員都印象深刻。",
+      grammar_point: "was completed + 時間 + ahead of time（提前完成）；V-ing（分詞構句表結果）"
+    },
+    vocabulary: [
+      { word: "complete", pos: "v.", chinese: "完成" },
+      { word: "impress", pos: "v.", chinese: "使印象深刻" },
+      { word: "management", pos: "n.", chinese: "管理階層" }
+    ],
+    sentence_pattern: {
+      pattern: "N + was completed + 時間 + ahead of time, V-ing + O",
+      example: "Please submit your application at least three days ahead of time."
+    }
+  },
+{
+    phrase: "behind the times",
+    type: "介系詞片語",
+    chinese: "落伍的、跟不上時代的",
+    keywords: ["behind", "times"],
+    example: {
+      english: "Critics argued that the company's marketing strategy was completely behind the times in the age of social media.",
+      chinese: "批評者認為，該公司的行銷策略在社群媒體時代完全落伍了。",
+      grammar_point: "argue + that + S + V（argue 接 that 子句）；in the age of + N（在…時代）"
+    },
+    vocabulary: [
+      { word: "critic", pos: "n.", chinese: "批評者、評論家" },
+      { word: "strategy", pos: "n.", chinese: "策略" },
+      { word: "outdated", pos: "adj.", chinese: "過時的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + argued that + N + was + behind the times + in + N",
+      example: "Some teachers feel their school's curriculum is behind the times."
+    }
+  },
+{
+    phrase: "keep up with the times",
+    type: "動詞片語",
+    chinese: "跟上時代、與時俱進",
+    keywords: ["keep", "up", "times"],
+    example: {
+      english: "Businesses that fail to keep up with the times risk losing their competitive edge to more innovative rivals.",
+      chinese: "無法與時俱進的企業，面臨將競爭優勢拱手讓給更具創新力的對手的風險。",
+      grammar_point: "that + V（關係子句修飾主詞）；risk + V-ing（冒著…的風險）"
+    },
+    vocabulary: [
+      { word: "competitive", pos: "adj.", chinese: "競爭的" },
+      { word: "innovative", pos: "adj.", chinese: "創新的" },
+      { word: "rival", pos: "n.", chinese: "對手、競爭者" }
+    ],
+    sentence_pattern: {
+      pattern: "S + that fail to keep up with the times + risk + V-ing + O",
+      example: "You need to keep up with the times if you want to stay relevant in your field."
+    }
+  },
+{
+    phrase: "in no time",
+    type: "介系詞片語",
+    chinese: "立刻、馬上、轉眼間",
+    keywords: ["in", "no", "time"],
+    example: {
+      english: "With her natural talent for languages, she picked up conversational Japanese in no time.",
+      chinese: "憑藉她天生的語言天賦，她很快就學會了日常日語會話。",
+      grammar_point: "With + N（介系詞片語表憑藉）；pick up + N（習得、學會）"
+    },
+    vocabulary: [
+      { word: "talent", pos: "n.", chinese: "天賦" },
+      { word: "conversational", pos: "adj.", chinese: "會話的、日常交談的" },
+      { word: "fluent", pos: "adj.", chinese: "流利的" }
+    ],
+    sentence_pattern: {
+      pattern: "With + N, S + V + O + in no time",
+      example: "Follow these steps and you'll have the app up and running in no time."
+    }
+  },
+{
+    phrase: "time after time",
+    type: "副詞片語",
+    chinese: "一次又一次、屢次、反覆地",
+    keywords: ["time", "after", "time"],
+    example: {
+      english: "The team proved time after time that dedication and teamwork could overcome even the toughest challenges.",
+      chinese: "這支團隊一次又一次地證明，奉獻精神與團隊合作能克服即使是最艱難的挑戰。",
+      grammar_point: "proved + that + S + could + V（prove 接 that 子句）；even + 最高級（強調程度）"
+    },
+    vocabulary: [
+      { word: "dedication", pos: "n.", chinese: "奉獻精神" },
+      { word: "teamwork", pos: "n.", chinese: "團隊合作" },
+      { word: "overcome", pos: "v.", chinese: "克服" }
+    ],
+    sentence_pattern: {
+      pattern: "S + proved time after time that + S + could + V + O",
+      example: "She has shown time after time that she is the most reliable person on the team."
+    }
+  },{
+    phrase: "while + S + V（對比）",
+    type: "連接詞片語",
+    chinese: "雖然…；儘管…（表對比或讓步）",
+    keywords: ["while"],
+    example: {
+      english: "While the city offers countless opportunities, it also comes with high living costs and intense competition.",
+      chinese: "雖然這座城市提供了無數機會，但它也伴隨著高生活成本和激烈競爭。",
+      grammar_point: "While + S + V（讓步副詞子句置首）；it also + V（主要子句以 also 強調對比）"
+    },
+    vocabulary: [
+      { word: "countless", pos: "adj.", chinese: "無數的" },
+      { word: "opportunity", pos: "n.", chinese: "機會" },
+      { word: "competition", pos: "n.", chinese: "競爭" }
+    ],
+    sentence_pattern: {
+      pattern: "While + S + V + O, S + also + V + with + N",
+      example: "While technology brings convenience, it also raises serious privacy concerns."
+    }
+  },
+{
+    phrase: "while at the same time",
+    type: "連接詞片語",
+    chinese: "在此同時、同步地",
+    keywords: ["while", "same", "time"],
+    example: {
+      english: "The new policy aims to boost economic growth while at the same time reducing carbon emissions.",
+      chinese: "這項新政策旨在促進經濟成長，同時減少碳排放。",
+      grammar_point: "aim to + V（旨在做…）；while at the same time + V-ing（同步進行另一動作）"
+    },
+    vocabulary: [
+      { word: "boost", pos: "v.", chinese: "促進、提升" },
+      { word: "emission", pos: "n.", chinese: "排放（物）" },
+      { word: "carbon", pos: "n.", chinese: "碳" }
+    ],
+    sentence_pattern: {
+      pattern: "S + aims to + V + O + while at the same time + V-ing + O",
+      example: "She studied full-time while at the same time working part-time at a café."
+    }
+  },
+{
+    phrase: "for a while",
+    type: "介系詞片語",
+    chinese: "一段時間、暫時",
+    keywords: ["for", "while"],
+    example: {
+      english: "After graduation, he moved to a small town and lived there quietly for a while before returning to the city.",
+      chinese: "畢業後，他搬到一個小鎮安靜地住了一段時間，之後才回到城市。",
+      grammar_point: "before + V-ing（在…之前）；for a while（持續一段時間）"
+    },
+    vocabulary: [
+      { word: "graduation", pos: "n.", chinese: "畢業" },
+      { word: "quietly", pos: "adv.", chinese: "安靜地" },
+      { word: "temporary", pos: "adj.", chinese: "暫時的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + V + for a while + before + V-ing",
+      example: "Let's sit down and rest for a while before we continue hiking."
+    }
+  },
+{
+    phrase: "after a while",
+    type: "介系詞片語",
+    chinese: "過了一會兒、不久之後",
+    keywords: ["after", "while"],
+    example: {
+      english: "The crowd was restless at first, but after a while they settled down and listened attentively.",
+      chinese: "群眾一開始很騷動，但過了一會兒他們安靜下來並專心聆聽。",
+      grammar_point: "at first（起初）；but after a while + S + V（轉折後表時間推移）"
+    },
+    vocabulary: [
+      { word: "restless", pos: "adj.", chinese: "躁動的、不安的" },
+      { word: "settle down", pos: "v.", chinese: "安靜下來" },
+      { word: "attentively", pos: "adv.", chinese: "專心地" }
+    ],
+    sentence_pattern: {
+      pattern: "S + V + at first, but after a while + S + V",
+      example: "Learning a new language is frustrating at first, but after a while it becomes more natural."
+    }
+  },
+{
+    phrase: "in a while",
+    type: "介系詞片語",
+    chinese: "不久、過一會兒（指未來）",
+    keywords: ["in", "while"],
+    example: {
+      english: "Just be patient — the doctor will be with you in a while and answer all your questions.",
+      chinese: "請耐心等候——醫生不久就會來為您服務並回答您所有的問題。",
+      grammar_point: "Just + V（祈使句表安慰）；will + V + in a while（未來式表即將發生）"
+    },
+    vocabulary: [
+      { word: "patient", pos: "adj.", chinese: "有耐心的" },
+      { word: "shortly", pos: "adv.", chinese: "不久" },
+      { word: "available", pos: "adj.", chinese: "有空的、可用的" }
+    ],
+    sentence_pattern: {
+      pattern: "Just + V — S + will + V + in a while",
+      example: "Dinner will be ready in a while, so don't fill up on snacks."
+    }
+  },
+{
+    phrase: "a long while",
+    type: "名詞片語",
+    chinese: "很長一段時間",
+    keywords: ["long", "while"],
+    example: {
+      english: "It had been a long while since the two old friends had last seen each other, yet they talked as if no time had passed.",
+      chinese: "這兩位老朋友已有很長一段時間未曾見面，但他們交談起來卻好像時間從未流逝。",
+      grammar_point: "It had been + 時間 + since + S + V（現在完成式的過去式用法）；as if + S + had V-p.p.（假設語氣）"
+    },
+    vocabulary: [
+      { word: "reunite", pos: "v.", chinese: "重聚" },
+      { word: "pass", pos: "v.", chinese: "流逝" },
+      { word: "reminisce", pos: "v.", chinese: "追憶往事" }
+    ],
+    sentence_pattern: {
+      pattern: "It had been a long while since + S + V, yet S + V + as if + S + had V-p.p.",
+      example: "I haven't felt this relaxed in a long while."
+    }
+  },
+{
+    phrase: "quite a while",
+    type: "名詞片語",
+    chinese: "相當長的一段時間",
+    keywords: ["quite", "while"],
+    example: {
+      english: "Mastering a musical instrument takes quite a while, but the sense of achievement makes it all worthwhile.",
+      chinese: "精通一種樂器需要相當長的時間，但那種成就感讓一切都值得。",
+      grammar_point: "takes + quite a while（花相當長的時間）；make + it + adj.（使某事變得…）"
+    },
+    vocabulary: [
+      { word: "master", pos: "v.", chinese: "精通、掌握" },
+      { word: "instrument", pos: "n.", chinese: "樂器" },
+      { word: "achievement", pos: "n.", chinese: "成就" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + takes quite a while, but + N + makes it + adj.",
+      example: "We've been waiting here for quite a while — where could they be?"
+    }
+  },
+{
+    phrase: "worth one's while",
+    type: "慣用語",
+    chinese: "值得花時間、值得去做",
+    keywords: ["worth", "while"],
+    example: {
+      english: "If you are serious about photography, investing in a quality camera is definitely worth your while.",
+      chinese: "如果你認真看待攝影，投資一台高品質相機絕對值得你花這個時間與金錢。",
+      grammar_point: "If + S + be + adj. + about + N（條件子句）；worth + N's + while（值得某人花時間）"
+    },
+    vocabulary: [
+      { word: "invest", pos: "v.", chinese: "投資" },
+      { word: "photography", pos: "n.", chinese: "攝影" },
+      { word: "quality", pos: "adj.", chinese: "高品質的" }
+    ],
+    sentence_pattern: {
+      pattern: "If + S + be + adj., V-ing + N + is worth + N's + while",
+      example: "It is worth your while to read the contract carefully before signing."
+    }
+  },
+{
+    phrase: "worthwhile",
+    type: "形容詞",
+    chinese: "有價值的、值得的",
+    keywords: ["worthwhile"],
+    example: {
+      english: "Volunteering at the local shelter was a truly worthwhile experience that changed her perspective on life.",
+      chinese: "在當地收容所擔任志工是一段真正有價值的經歷，改變了她對生活的看法。",
+      grammar_point: "a + adv. + adj. + N（副詞修飾形容詞）；that + 關係子句（修飾先行詞 experience）"
+    },
+    vocabulary: [
+      { word: "volunteer", pos: "v.", chinese: "擔任志工" },
+      { word: "shelter", pos: "n.", chinese: "收容所、庇護所" },
+      { word: "perspective", pos: "n.", chinese: "觀點、看法" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N + was a truly worthwhile + N + that + V",
+      example: "No matter how hard it is, raising children is always a worthwhile endeavor."
+    }
+  },
+{
+    phrase: "while away",
+    type: "動詞片語",
+    chinese: "消磨時間、打發時間",
+    keywords: ["while", "away"],
+    example: {
+      english: "Stranded at the airport due to a delay, the passengers whiled away the hours playing cards and chatting.",
+      chinese: "因班機延誤被困在機場，乘客們靠玩牌和聊天來打發時間。",
+      grammar_point: "Stranded + 地點（分詞構句表原因）；whiled away + N + V-ing（以…消磨時間）"
+    },
+    vocabulary: [
+      { word: "strand", pos: "v.", chinese: "使滯留、使困住" },
+      { word: "delay", pos: "n.", chinese: "延誤" },
+      { word: "passenger", pos: "n.", chinese: "乘客" }
+    ],
+    sentence_pattern: {
+      pattern: "S + whiled away + 時間 + V-ing + and + V-ing",
+      example: "We whiled away the afternoon browsing through the old bookshop."
+    }
+  },
+{
+    phrase: "all the while",
+    type: "副詞片語",
+    chinese: "始終、一直、自始至終",
+    keywords: ["all", "while"],
+    example: {
+      english: "She smiled and nodded politely throughout the meeting, but all the while she disagreed with everything being said.",
+      chinese: "她在整個會議中微笑著有禮地點頭，但自始至終她都不同意所說的一切。",
+      grammar_point: "but all the while + S + V（轉折強調隱藏的真實狀態）；everything being said（動名詞被動式）"
+    },
+    vocabulary: [
+      { word: "politely", pos: "adv.", chinese: "有禮貌地" },
+      { word: "throughout", pos: "prep.", chinese: "在整個…期間" },
+      { word: "disagree", pos: "v.", chinese: "不同意" }
+    ],
+    sentence_pattern: {
+      pattern: "S + V + throughout + N, but all the while + S + V",
+      example: "He claimed to support the plan, but all the while he was working to undermine it."
+    }
+  },
+{
+    phrase: "every once in a while",
+    type: "副詞片語",
+    chinese: "偶爾、有時候",
+    keywords: ["every", "once", "while"],
+    example: {
+      english: "Every once in a while, it is good to step back from your routine and reflect on what truly matters.",
+      chinese: "偶爾從日常中抽身，反思真正重要的事情，是很有益處的。",
+      grammar_point: "Every once in a while（置首作頻率狀語）；it is + adj. + to + V（虛主詞句型）"
+    },
+    vocabulary: [
+      { word: "routine", pos: "n.", chinese: "日常、例行事務" },
+      { word: "reflect", pos: "v.", chinese: "反思、深思" },
+      { word: "occasionally", pos: "adv.", chinese: "偶爾" }
+    ],
+    sentence_pattern: {
+      pattern: "Every once in a while, it is + adj. + to + V + and + V",
+      example: "Every once in a while, I like to cook something completely new just for fun."
+    }
+  },
+{
+    phrase: "while still + V-ing",
+    type: "連接詞片語",
+    chinese: "在仍然…的同時、趁還在…之際",
+    keywords: ["while", "still"],
+    example: {
+      english: "She published her first novel while still studying for her undergraduate degree at university.",
+      chinese: "她在仍就讀大學本科的同時就出版了她的第一部小說。",
+      grammar_point: "while + still + V-ing（時間副詞子句省略主詞與 be 動詞的縮減形式）"
+    },
+    vocabulary: [
+      { word: "publish", pos: "v.", chinese: "出版" },
+      { word: "undergraduate", pos: "adj.", chinese: "大學本科的" },
+      { word: "degree", pos: "n.", chinese: "學位" }
+    ],
+    sentence_pattern: {
+      pattern: "S + V + O + while still + V-ing + for + N",
+      example: "You should travel as much as possible while still young and free of responsibilities."
+    }
+  },
+{
+    phrase: "be worthwhile to",
+    type: "形容詞片語",
+    chinese: "值得（做某事）",
+    keywords: ["worthwhile", "to"],
+    example: {
+      english: "It is worthwhile to seek feedback from your peers before submitting your final report.",
+      chinese: "在提交最終報告之前，向同儕尋求回饋是很值得的。",
+      grammar_point: "It is worthwhile to + V（虛主詞句型，worthwhile 為形容詞）；before + V-ing（在…之前）"
+    },
+    vocabulary: [
+      { word: "feedback", pos: "n.", chinese: "回饋、意見" },
+      { word: "peer", pos: "n.", chinese: "同儕、同輩" },
+      { word: "submit", pos: "v.", chinese: "提交" }
+    ],
+    sentence_pattern: {
+      pattern: "It is worthwhile to + V + O + before + V-ing + N",
+      example: "It is worthwhile to double-check your work before handing it in."
+    }
+  },
+{
+    phrase: "it is worth + V-ing",
+    type: "慣用語",
+    chinese: "值得做…",
+    keywords: ["worth", "V-ing"],
+    example: {
+      english: "If you ever visit Kyoto, it is absolutely worth spending a full day exploring the ancient temples.",
+      chinese: "如果你有機會造訪京都，絕對值得花一整天探索那些古老的寺廟。",
+      grammar_point: "it is worth + V-ing（固定句型，worth 後接動名詞）；spend + 時間 + V-ing（花時間做…）"
+    },
+    vocabulary: [
+      { word: "ancient", pos: "adj.", chinese: "古老的" },
+      { word: "temple", pos: "n.", chinese: "寺廟" },
+      { word: "explore", pos: "v.", chinese: "探索" }
+    ],
+    sentence_pattern: {
+      pattern: "It is (absolutely) worth + V-ing + O + when + S + V",
+      example: "It is worth reading the entire book — the ending makes everything click."
+    }
+  },{
+    phrase: "when + S + V",
+    type: "連接詞片語",
+    chinese: "當…的時候（時間副詞子句）",
+    keywords: ["when"],
+    example: {
+      english: "When she finally received the acceptance letter, she burst into tears of joy and called her parents immediately.",
+      chinese: "當她終於收到錄取通知書時，她喜極而泣，立刻打電話給父母。",
+      grammar_point: "When + S + V（時間副詞子句置首）；burst into tears（突然哭出來）"
+    },
+    vocabulary: [
+      { word: "acceptance", pos: "n.", chinese: "錄取、接受" },
+      { word: "immediately", pos: "adv.", chinese: "立刻、馬上" },
+      { word: "burst", pos: "v.", chinese: "突然爆發" }
+    ],
+    sentence_pattern: {
+      pattern: "When + S + V + O, S + V + and + V",
+      example: "When the alarm went off, everyone in the building evacuated calmly."
+    }
+  },
+{
+    phrase: "just when",
+    type: "連接詞片語",
+    chinese: "就在…的時候（表意外轉折）",
+    keywords: ["just", "when"],
+    example: {
+      english: "Just when the hikers thought they were lost, a local farmer appeared and guided them back to the trail.",
+      chinese: "就在登山者以為自己迷路的時候，一位當地農夫出現並帶領他們回到步道。",
+      grammar_point: "Just when + S + V（強調時間的意外性）；appeared and V（出現並做某事）"
+    },
+    vocabulary: [
+      { word: "hiker", pos: "n.", chinese: "登山者、健行者" },
+      { word: "appear", pos: "v.", chinese: "出現" },
+      { word: "trail", pos: "n.", chinese: "步道、小徑" }
+    ],
+    sentence_pattern: {
+      pattern: "Just when + S + thought + S + V, S + V + and + V",
+      example: "Just when we were about to give up, the missing data was finally recovered."
+    }
+  },
+{
+    phrase: "even when",
+    type: "連接詞片語",
+    chinese: "即使在…的時候、就算當…",
+    keywords: ["even", "when"],
+    example: {
+      english: "A true professional delivers quality work even when working under pressure and tight deadlines.",
+      chinese: "真正的專業人士即使在壓力下和緊迫期限中工作，也能交出高品質的成果。",
+      grammar_point: "even when + V-ing（即使在…時，省略相同主詞）；under pressure（在壓力下）"
+    },
+    vocabulary: [
+      { word: "professional", pos: "n.", chinese: "專業人士" },
+      { word: "deliver", pos: "v.", chinese: "交出、達成" },
+      { word: "deadline", pos: "n.", chinese: "截止日期" }
+    ],
+    sentence_pattern: {
+      pattern: "S + V + O + even when + V-ing + under + N",
+      example: "She remained calm and focused even when everything around her was falling apart."
+    }
+  },
+{
+    phrase: "when necessary",
+    type: "連接詞片語",
+    chinese: "必要時、在需要的時候",
+    keywords: ["when", "necessary"],
+    example: {
+      english: "A good leader knows how to delegate tasks and step back when necessary to let others shine.",
+      chinese: "好的領導者知道如何分派任務，並在必要時退居幕後讓他人發光發熱。",
+      grammar_point: "when necessary（省略主詞與 be 動詞的副詞子句縮減形式）；let + O + V（使役動詞）"
+    },
+    vocabulary: [
+      { word: "delegate", pos: "v.", chinese: "授權、委派" },
+      { word: "step back", pos: "v.", chinese: "退後、退居幕後" },
+      { word: "shine", pos: "v.", chinese: "發光、表現出色" }
+    ],
+    sentence_pattern: {
+      pattern: "S + knows how to + V + O + and + V + when necessary",
+      example: "Students should ask for help when necessary rather than struggling alone."
+    }
+  },
+{
+    phrase: "when it comes to",
+    type: "連接詞片語",
+    chinese: "說到…、談及…、在…方面",
+    keywords: ["when", "comes", "to"],
+    example: {
+      english: "When it comes to solving complex problems, creativity and logical thinking are equally important.",
+      chinese: "說到解決複雜問題，創造力和邏輯思維同樣重要。",
+      grammar_point: "When it comes to + N / V-ing（固定句型，後接名詞或動名詞）；equally + adj.（同等地…）"
+    },
+    vocabulary: [
+      { word: "creativity", pos: "n.", chinese: "創造力" },
+      { word: "logical", pos: "adj.", chinese: "邏輯的" },
+      { word: "equally", pos: "adv.", chinese: "同等地" }
+    ],
+    sentence_pattern: {
+      pattern: "When it comes to + V-ing + N, N + and + N + are equally + adj.",
+      example: "When it comes to nutrition, balance is far more important than strict dieting."
+    }
+  },
+{
+    phrase: "know when to + V",
+    type: "動詞片語",
+    chinese: "知道何時該做…、懂得時機",
+    keywords: ["know", "when"],
+    example: {
+      english: "Experienced negotiators know when to push for a better deal and when to accept what is on the table.",
+      chinese: "有經驗的談判者知道何時該爭取更好的條件，何時該接受眼前的提案。",
+      grammar_point: "know when to + V（know + 疑問詞 + 不定詞，表判斷時機的能力）"
+    },
+    vocabulary: [
+      { word: "negotiator", pos: "n.", chinese: "談判者" },
+      { word: "experienced", pos: "adj.", chinese: "有經驗的" },
+      { word: "accept", pos: "v.", chinese: "接受" }
+    ],
+    sentence_pattern: {
+      pattern: "S + know(s) when to + V + O + and when to + V",
+      example: "Part of growing up is knowing when to speak and when to stay silent."
+    }
+  },
+{
+    phrase: "that's when",
+    type: "連接詞片語",
+    chinese: "就是在那時候、正是那個時刻",
+    keywords: ["that", "when"],
+    example: {
+      english: "I had been searching for my purpose for years, and that's when I discovered my passion for teaching.",
+      chinese: "我多年來一直在尋找自己的人生目標，就是在那時我發現了對教學的熱情。",
+      grammar_point: "and that's when + S + V（引出關鍵轉折時刻）；discover + N（發現某事物）"
+    },
+    vocabulary: [
+      { word: "purpose", pos: "n.", chinese: "目的、人生目標" },
+      { word: "passion", pos: "n.", chinese: "熱情" },
+      { word: "discover", pos: "v.", chinese: "發現" }
+    ],
+    sentence_pattern: {
+      pattern: "S + had been + V-ing, and that's when + S + V + O",
+      example: "The lights went out, and that's when we realized the storm had knocked out the power."
+    }
+  },
+{
+    phrase: "the moment when",
+    type: "名詞片語",
+    chinese: "…的那一刻、在…的瞬間",
+    keywords: ["moment", "when"],
+    example: {
+      english: "The moment when the curtain rose and the audience fell silent was one she would never forget.",
+      chinese: "幕布升起、觀眾陷入寂靜的那一刻，是她永遠不會忘記的。",
+      grammar_point: "The moment when + S + V（when 引導關係子句修飾 moment）；one she would never forget（省略關係代名詞）"
+    },
+    vocabulary: [
+      { word: "curtain", pos: "n.", chinese: "幕布、窗簾" },
+      { word: "audience", pos: "n.", chinese: "觀眾" },
+      { word: "unforgettable", pos: "adj.", chinese: "難忘的" }
+    ],
+    sentence_pattern: {
+      pattern: "The moment when + S + V + was one + S + would never forget",
+      example: "He still remembers the moment when he first held his newborn daughter."
+    }
+  },
+{
+    phrase: "when in doubt",
+    type: "連接詞片語",
+    chinese: "有疑問時、拿不定主意時",
+    keywords: ["when", "doubt"],
+    example: {
+      english: "When in doubt about a medical symptom, it is always safer to consult a doctor rather than self-diagnose.",
+      chinese: "對醫療症狀有疑問時，諮詢醫生總是比自我診斷更安全。",
+      grammar_point: "When in doubt（省略主詞與 be 動詞的副詞子句縮減形式）；rather than + V（而非…）"
+    },
+    vocabulary: [
+      { word: "symptom", pos: "n.", chinese: "症狀" },
+      { word: "consult", pos: "v.", chinese: "諮詢" },
+      { word: "diagnose", pos: "v.", chinese: "診斷" }
+    ],
+    sentence_pattern: {
+      pattern: "When in doubt + about + N, it is + adj. + to + V + rather than + V",
+      example: "When in doubt, leave it out — that's a good rule for editing writing."
+    }
+  },
+{
+    phrase: "when all is said and done",
+    type: "慣用語",
+    chinese: "說到底、終究、一切塵埃落定後",
+    keywords: ["said", "done"],
+    example: {
+      english: "When all is said and done, what matters most is not your wealth but the relationships you have built.",
+      chinese: "說到底，最重要的不是你的財富，而是你所建立的人際關係。",
+      grammar_point: "When all is said and done（慣用語置首）；what matters most is + N（強調句型）"
+    },
+    vocabulary: [
+      { word: "wealth", pos: "n.", chinese: "財富" },
+      { word: "relationship", pos: "n.", chinese: "關係" },
+      { word: "ultimately", pos: "adv.", chinese: "終究、最終" }
+    ],
+    sentence_pattern: {
+      pattern: "When all is said and done, what matters most is + N + but + N",
+      example: "When all is said and done, we did our best under the circumstances."
+    }
+  },
+{
+    phrase: "when the time comes",
+    type: "連接詞片語",
+    chinese: "時機到了、到時候、機會來臨時",
+    keywords: ["when", "time", "comes"],
+    example: {
+      english: "She has been preparing diligently so that when the time comes, she will be ready to take on any challenge.",
+      chinese: "她一直勤奮地做準備，這樣等時機到了，她便能準備好迎接任何挑戰。",
+      grammar_point: "so that + when + S + V, S + will + V（目的子句帶出時間條件）"
+    },
+    vocabulary: [
+      { word: "diligently", pos: "adv.", chinese: "勤奮地" },
+      { word: "prepare", pos: "v.", chinese: "準備" },
+      { word: "challenge", pos: "n.", chinese: "挑戰" }
+    ],
+    sentence_pattern: {
+      pattern: "S + has been + V-ing + so that when the time comes, S + will + V",
+      example: "Don't worry about it now — we'll deal with it when the time comes."
+    }
+  },
+{
+    phrase: "when least expected",
+    type: "連接詞片語",
+    chinese: "在最意想不到的時候",
+    keywords: ["when", "least", "expected"],
+    example: {
+      english: "Inspiration often strikes when least expected, which is why creative people always keep a notebook nearby.",
+      chinese: "靈感往往在最意想不到的時候降臨，這就是為什麼有創意的人總是隨身帶著筆記本。",
+      grammar_point: "when least expected（省略主詞與 be 動詞的副詞子句）；which is why + S + V（解釋原因）"
+    },
+    vocabulary: [
+      { word: "inspiration", pos: "n.", chinese: "靈感" },
+      { word: "strike", pos: "v.", chinese: "突然出現、降臨" },
+      { word: "nearby", pos: "adv.", chinese: "在附近" }
+    ],
+    sentence_pattern: {
+      pattern: "N + often + V + when least expected, which is why + S + V",
+      example: "Good luck tends to arrive when least expected, so always stay prepared."
+    }
+  },
+{
+    phrase: "since when",
+    type: "副詞片語",
+    chinese: "從什麼時候開始（表質疑或驚訝）",
+    keywords: ["since", "when"],
+    example: {
+      english: "Since when did following the rules become optional in this workplace?",
+      chinese: "從什麼時候開始，遵守規定在這個職場變成可有可無的事了？",
+      grammar_point: "Since when + did + S + V（疑問句倒裝，帶有質疑或諷刺語氣）"
+    },
+    vocabulary: [
+      { word: "optional", pos: "adj.", chinese: "可選擇的、非強制的" },
+      { word: "workplace", pos: "n.", chinese: "職場" },
+      { word: "rule", pos: "n.", chinese: "規定" }
+    ],
+    sentence_pattern: {
+      pattern: "Since when + did + S + V + adj.?",
+      example: "Since when has she been in charge of the whole department?"
+    }
+  },
+{
+    phrase: "as and when",
+    type: "連接詞片語",
+    chinese: "隨時、視情況而定、一旦…就…",
+    keywords: ["as", "when"],
+    example: {
+      english: "The manager assured the team that resources would be allocated as and when they were needed throughout the project.",
+      chinese: "經理向團隊保證，資源將在整個專案過程中視需要隨時分配。",
+      grammar_point: "assure + O + that + S + would + V（保證某人…）；as and when + S + V（視情況而定）"
+    },
+    vocabulary: [
+      { word: "assure", pos: "v.", chinese: "保證、使確信" },
+      { word: "allocate", pos: "v.", chinese: "分配、撥出" },
+      { word: "resource", pos: "n.", chinese: "資源" }
+    ],
+    sentence_pattern: {
+      pattern: "S + assured + O + that + N + would be + V-p.p. + as and when + S + V",
+      example: "We will make decisions as and when new information becomes available."
+    }
+  },
+{
+    phrase: "when push comes to shove",
+    type: "慣用語",
+    chinese: "緊要關頭、迫不得已時、事到臨頭",
+    keywords: ["push", "shove"],
+    example: {
+      english: "They argued about the plan for weeks, but when push came to shove, everyone agreed to follow the leader's decision.",
+      chinese: "他們就計畫爭論了好幾個星期，但事到臨頭，所有人都同意遵從領導者的決定。",
+      grammar_point: "when push came to shove（慣用語，過去式用於敘述）；agree to + V（同意做…）"
+    },
+    vocabulary: [
+      { word: "argue", pos: "v.", chinese: "爭論、爭辯" },
+      { word: "decision", pos: "n.", chinese: "決定" },
+      { word: "critical", pos: "adj.", chinese: "關鍵的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + V + for + 時間, but when push came to shove, S + agreed to + V",
+      example: "When push comes to shove, you can always count on her to do the right thing."
+    }
+  },
 ]; // <--- 大陣列的結尾！
