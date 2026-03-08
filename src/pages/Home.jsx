@@ -27,6 +27,14 @@ const modules = [
     border: 'hover:border-red-300',
   },
   {
+    path: '/grammar-videos',
+    emoji: '📚',
+    title: '文法教學影片',
+    desc: '高中英文文法完整影片講解，涵蓋不定詞、分詞、假設語氣、倒裝句等 8 大主題',
+    iconBg: 'from-green-500 to-emerald-700',
+    border: 'hover:border-green-300',
+  },
+  {
     path: '/junyi',
     emoji: '🛠️',
     title: '均一自學工具',

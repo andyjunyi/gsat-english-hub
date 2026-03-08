@@ -10,6 +10,7 @@ import Translation from './pages/Translation'
 import CollocationChecker from './components/CollocationChecker'
 import JunyiPage from './pages/JunyiPage'
 import VideoPage from './pages/VideoPage'
+import GrammarVideoPage from './pages/GrammarVideoPage'
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
             <Route path="/checker" element={<CollocationChecker />} />
             <Route path="/junyi" element={<JunyiPage />} />
             <Route path="/videos" element={<VideoPage />} />
+            <Route path="/grammar-videos" element={<GrammarVideoPage />} />
           </Routes>
         </main>
         <Footer />
