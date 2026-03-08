@@ -95066,5 +95066,603 @@ export const collocationData = [
       pattern: "S + V + for + 時間, but when push came to shove, S + agreed to + V",
       example: "When push comes to shove, you can always count on her to do the right thing."
     }
+  },{
+    phrase: "build strength",
+    type: "動詞 + 名詞",
+    chinese: "增強體力／實力、培養力量",
+    keywords: ["build", "strength"],
+    example: {
+      english: "Regular resistance training is one of the most effective ways to build strength and improve overall fitness.",
+      chinese: "規律的阻力訓練是增強體力和改善整體體能最有效的方法之一。",
+      grammar_point: "one of the most + adj. + ways to + V（最有效的方法之一）"
+    },
+    vocabulary: [
+      { word: "resistance", pos: "n.", chinese: "阻力、抵抗" },
+      { word: "effective", pos: "adj.", chinese: "有效的" },
+      { word: "fitness", pos: "n.", chinese: "體能、健康狀態" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + is one of the most + adj. + ways to build strength and + V + N",
+      example: "Consistent practice is the only real way to build strength in any skill."
+    }
+  },
+{
+    phrase: "draw strength from",
+    type: "動詞片語",
+    chinese: "從…汲取力量、從…獲得支撐",
+    keywords: ["draw", "strength", "from"],
+    example: {
+      english: "During her long recovery, she drew strength from the unwavering support of her family and close friends.",
+      chinese: "在漫長的康復期間，她從家人和密友堅定不移的支持中汲取力量。",
+      grammar_point: "During + N（介系詞片語表時間）；drew strength from + N（從…獲得力量）"
+    },
+    vocabulary: [
+      { word: "recovery", pos: "n.", chinese: "康復、恢復" },
+      { word: "unwavering", pos: "adj.", chinese: "堅定不移的" },
+      { word: "support", pos: "n.", chinese: "支持" }
+    ],
+    sentence_pattern: {
+      pattern: "During + N, S + drew strength from + N + of + N",
+      example: "He drew strength from his faith during the most difficult period of his life."
+    }
+  },
+{
+    phrase: "regain strength",
+    type: "動詞 + 名詞",
+    chinese: "恢復體力、重拾力量",
+    keywords: ["regain", "strength"],
+    example: {
+      english: "After weeks of illness, she was finally beginning to regain her strength and return to her daily routine.",
+      chinese: "在數週的病程之後，她終於開始恢復體力，並重回日常作息。",
+      grammar_point: "After + 時間 + of + N（在…之後）；begin to + V（開始做…）"
+    },
+    vocabulary: [
+      { word: "illness", pos: "n.", chinese: "疾病" },
+      { word: "routine", pos: "n.", chinese: "日常作息" },
+      { word: "gradually", pos: "adv.", chinese: "逐漸地" }
+    ],
+    sentence_pattern: {
+      pattern: "After + 時間 + of + N, S + was finally beginning to regain + N's + strength",
+      example: "Rest and proper nutrition are essential for athletes to regain strength after injury."
+    }
+  },
+{
+    phrase: "test one's strength",
+    type: "動詞 + 名詞",
+    chinese: "考驗某人的實力／體力",
+    keywords: ["test", "strength"],
+    example: {
+      english: "Climbing the mountain in winter truly tested the hikers' strength and pushed them to their limits.",
+      chinese: "在冬天攀登這座山真正考驗了登山者的體力，並將他們逼到了極限。",
+      grammar_point: "truly + V（副詞強調）；push + O + to + N's + limits（將某人逼至極限）"
+    },
+    vocabulary: [
+      { word: "climb", pos: "v.", chinese: "攀登" },
+      { word: "limit", pos: "n.", chinese: "極限" },
+      { word: "endurance", pos: "n.", chinese: "耐力" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + truly tested + N's + strength and pushed + O + to + N's + limits",
+      example: "The final round of the competition tested every contestant's strength and determination."
+    }
+  },
+{
+    phrase: "underestimate the strength of",
+    type: "動詞片語",
+    chinese: "低估…的力量／實力",
+    keywords: ["underestimate", "strength"],
+    example: {
+      english: "Many opponents underestimated the strength of the grassroots movement and were caught off guard by its rapid growth.",
+      chinese: "許多反對者低估了這場草根運動的力量，被它的快速成長打了個措手不及。",
+      grammar_point: "underestimate + N（低估…）；be caught off guard（措手不及）"
+    },
+    vocabulary: [
+      { word: "opponent", pos: "n.", chinese: "反對者、對手" },
+      { word: "grassroots", pos: "adj.", chinese: "草根的、基層的" },
+      { word: "rapid", pos: "adj.", chinese: "快速的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + underestimated the strength of + N + and + were + V-p.p. + by + N",
+      example: "Never underestimate the strength of a determined person with a clear goal."
+    }
+  },
+{
+    phrase: "inner strength",
+    type: "形容詞 + 名詞",
+    chinese: "內在力量、內心的堅強",
+    keywords: ["inner", "strength"],
+    example: {
+      english: "Facing the diagnosis with courage, she discovered an inner strength she never knew she possessed.",
+      chinese: "她以勇氣面對診斷結果，發現了一種她從未知曉自己擁有的內在力量。",
+      grammar_point: "V-ing（分詞構句表伴隨情況）；never knew + S + V-p.p.（從不知道自己…）"
+    },
+    vocabulary: [
+      { word: "diagnosis", pos: "n.", chinese: "診斷（結果）" },
+      { word: "courage", pos: "n.", chinese: "勇氣" },
+      { word: "possess", pos: "v.", chinese: "擁有、具備" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N + with + N, S + discovered an inner strength + S + never knew + S + V",
+      example: "Meditation can help you tap into your inner strength during times of stress."
+    }
+  },
+{
+    phrase: "mental strength",
+    type: "形容詞 + 名詞",
+    chinese: "心理強度、心智韌性",
+    keywords: ["mental", "strength"],
+    example: {
+      english: "Elite athletes train not only their bodies but also their mental strength to stay focused under pressure.",
+      chinese: "頂尖運動員不僅鍛鍊身體，也培養心理強度以在壓力下保持專注。",
+      grammar_point: "not only...but also...（不僅…也…，並列連接詞）；to + V（不定詞表目的）"
+    },
+    vocabulary: [
+      { word: "elite", pos: "adj.", chinese: "頂尖的、精英的" },
+      { word: "focused", pos: "adj.", chinese: "專注的" },
+      { word: "resilience", pos: "n.", chinese: "韌性、復原力" }
+    ],
+    sentence_pattern: {
+      pattern: "S + train not only + N + but also + N + to + V + under + N",
+      example: "Mental strength is what separates good performers from truly great ones."
+    }
+  },
+{
+    phrase: "sheer strength",
+    type: "形容詞 + 名詞",
+    chinese: "純粹的力量、單憑蠻力",
+    keywords: ["sheer", "strength"],
+    example: {
+      english: "By sheer strength and determination, the rescue team managed to lift the collapsed beam and free the trapped worker.",
+      chinese: "靠著純粹的力量和決心，救援隊設法抬起了倒塌的橫梁，解救了被困的工人。",
+      grammar_point: "By + N（藉由…）；manage to + V（設法做到…）"
+    },
+    vocabulary: [
+      { word: "determination", pos: "n.", chinese: "決心" },
+      { word: "collapse", pos: "v.", chinese: "倒塌、崩潰" },
+      { word: "beam", pos: "n.", chinese: "橫梁" }
+    ],
+    sentence_pattern: {
+      pattern: "By sheer strength and + N, S + managed to + V + O + and + V + O",
+      example: "He opened the jammed door by sheer strength when no tools were available."
+    }
+  },
+{
+    phrase: "remarkable strength",
+    type: "形容詞 + 名詞",
+    chinese: "驚人的毅力／力量",
+    keywords: ["remarkable", "strength"],
+    example: {
+      english: "The young activist showed remarkable strength in standing up for her beliefs despite facing fierce opposition.",
+      chinese: "這位年輕的社運人士在面對激烈反對的情況下，展現出驚人的毅力為自己的信念發聲。",
+      grammar_point: "show + N + in + V-ing（在…方面展現出…）；despite + V-ing（儘管…）"
+    },
+    vocabulary: [
+      { word: "activist", pos: "n.", chinese: "社運人士、倡議者" },
+      { word: "fierce", pos: "adj.", chinese: "激烈的、猛烈的" },
+      { word: "opposition", pos: "n.", chinese: "反對、阻力" }
+    ],
+    sentence_pattern: {
+      pattern: "S + showed remarkable strength in + V-ing + despite + V-ing + N",
+      example: "The community showed remarkable strength in rebuilding after the devastating flood."
+    }
+  },
+{
+    phrase: "strength of character",
+    type: "名詞片語",
+    chinese: "品格的力量、堅強的個性",
+    keywords: ["strength", "character"],
+    example: {
+      english: "It takes real strength of character to admit your mistakes publicly and commit to doing better.",
+      chinese: "公開承認自己的錯誤並承諾做得更好，需要真正的品格力量。",
+      grammar_point: "It takes + N + to + V（需要…才能做…）；commit to + V-ing（承諾做…）"
+    },
+    vocabulary: [
+      { word: "admit", pos: "v.", chinese: "承認" },
+      { word: "publicly", pos: "adv.", chinese: "公開地" },
+      { word: "integrity", pos: "n.", chinese: "誠信、正直" }
+    ],
+    sentence_pattern: {
+      pattern: "It takes real strength of character to + V + O + and + V",
+      example: "Her strength of character was evident in the way she handled the crisis with grace."
+    }
+  },
+{
+    phrase: "strength of will",
+    type: "名詞片語",
+    chinese: "意志力、毅力",
+    keywords: ["strength", "will"],
+    example: {
+      english: "Overcoming a serious addiction requires immense strength of will and a strong support network.",
+      chinese: "克服嚴重的成癮問題需要巨大的意志力和強大的支持網絡。",
+      grammar_point: "V-ing（動名詞作主詞）；require + N + and + N（需要…與…）"
+    },
+    vocabulary: [
+      { word: "overcome", pos: "v.", chinese: "克服" },
+      { word: "addiction", pos: "n.", chinese: "成癮" },
+      { word: "immense", pos: "adj.", chinese: "巨大的" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N + requires immense strength of will and + N",
+      example: "Sticking to a strict diet demands a great deal of strength of will."
+    }
+  },
+{
+    phrase: "at full strength",
+    type: "介系詞片語",
+    chinese: "以全力、以完整陣容、全員到齊",
+    keywords: ["full", "strength"],
+    example: {
+      english: "The team will be competing at full strength for the first time this season after a string of injuries.",
+      chinese: "這支球隊在經歷一連串傷病後，將在本賽季首次以完整陣容出賽。",
+      grammar_point: "compete at full strength（以完整陣容參賽）；after + N（在…之後）"
+    },
+    vocabulary: [
+      { word: "compete", pos: "v.", chinese: "競賽、參賽" },
+      { word: "injury", pos: "n.", chinese: "傷病、受傷" },
+      { word: "season", pos: "n.", chinese: "賽季" }
+    ],
+    sentence_pattern: {
+      pattern: "S + will be + V-ing + at full strength + for the first time + after + N",
+      example: "With all key members present, the department is finally operating at full strength."
+    }
+  },
+{
+    phrase: "go from strength to strength",
+    type: "慣用語",
+    chinese: "不斷進步、蒸蒸日上、越來越成功",
+    keywords: ["strength", "strength"],
+    example: {
+      english: "Since launching their new product line, the company has gone from strength to strength and doubled its revenue.",
+      chinese: "自從推出新產品線以來，這家公司蒸蒸日上，營收翻倍。",
+      grammar_point: "Since + V-ing（自從…以來）；have gone from strength to strength（現在完成式，強調持續進步）"
+    },
+    vocabulary: [
+      { word: "launch", pos: "v.", chinese: "推出、發布" },
+      { word: "revenue", pos: "n.", chinese: "營收" },
+      { word: "thrive", pos: "v.", chinese: "蓬勃發展" }
+    ],
+    sentence_pattern: {
+      pattern: "Since + V-ing + N, S + has gone from strength to strength and + V + O",
+      example: "Under her leadership, the school has gone from strength to strength every year."
+    }
+  },
+{
+    phrase: "on the strength of",
+    type: "介系詞片語",
+    chinese: "憑藉…、基於…、依靠…",
+    keywords: ["on", "strength", "of"],
+    example: {
+      english: "He was hired on the strength of his outstanding portfolio rather than his academic qualifications.",
+      chinese: "他是憑藉出色的作品集而非學術資歷被錄用的。",
+      grammar_point: "be hired on the strength of + N（憑藉…被錄用）；rather than + N（而非…）"
+    },
+    vocabulary: [
+      { word: "portfolio", pos: "n.", chinese: "作品集" },
+      { word: "qualification", pos: "n.", chinese: "資歷、資格" },
+      { word: "outstanding", pos: "adj.", chinese: "出色的、傑出的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + was + V-p.p. + on the strength of + N + rather than + N",
+      example: "The proposal was approved on the strength of the detailed research behind it."
+    }
+  },
+{
+    phrase: "tower of strength",
+    type: "慣用語",
+    chinese: "精神支柱、堅強的依靠",
+    keywords: ["tower", "strength"],
+    example: {
+      english: "Throughout the family's hardships, their grandmother was a tower of strength who kept everyone together.",
+      chinese: "在家人歷經的種種困境中，祖母是讓大家凝聚在一起的精神支柱。",
+      grammar_point: "Throughout + N（在整個…期間）；who + V（關係子句修飾先行詞）"
+    },
+    vocabulary: [
+      { word: "hardship", pos: "n.", chinese: "困境、艱辛" },
+      { word: "pillar", pos: "n.", chinese: "支柱" },
+      { word: "dependable", pos: "adj.", chinese: "可靠的" }
+    ],
+    sentence_pattern: {
+      pattern: "Throughout + N, N + was a tower of strength who + V + O + together",
+      example: "My best friend has been a tower of strength during the most challenging time of my life."
+    }
+  },{
+    phrase: "strong foundation",
+    type: "形容詞 + 名詞",
+    chinese: "穩固的基礎、堅實的根基",
+    keywords: ["strong", "foundation"],
+    example: {
+      english: "A strong foundation in mathematics is essential for students who wish to pursue a career in engineering.",
+      chinese: "對於希望從事工程職業的學生來說，數學方面的紮實基礎是不可或缺的。",
+      grammar_point: "A strong foundation in + N（在…方面的紮實基礎）；who + V（關係子句修飾先行詞）"
+    },
+    vocabulary: [
+      { word: "foundation", pos: "n.", chinese: "基礎、根基" },
+      { word: "essential", pos: "adj.", chinese: "不可或缺的" },
+      { word: "pursue", pos: "v.", chinese: "追求、從事" }
+    ],
+    sentence_pattern: {
+      pattern: "A strong foundation in + N + is essential for + N + who + V",
+      example: "Building a strong foundation of trust is key to any successful relationship."
+    }
+  },
+{
+    phrase: "strong performance",
+    type: "形容詞 + 名詞",
+    chinese: "出色的表現、強勁的成績",
+    keywords: ["strong", "performance"],
+    example: {
+      english: "The company reported a strong performance in the third quarter, exceeding analysts' expectations by a wide margin.",
+      chinese: "該公司報告第三季度表現出色，大幅超越了分析師的預期。",
+      grammar_point: "report + N（報告…）；exceeding + N（分詞構句表結果，超越…）"
+    },
+    vocabulary: [
+      { word: "quarter", pos: "n.", chinese: "季度" },
+      { word: "analyst", pos: "n.", chinese: "分析師" },
+      { word: "margin", pos: "n.", chinese: "差距、幅度" }
+    ],
+    sentence_pattern: {
+      pattern: "S + reported a strong performance in + N, V-ing + N + by + N",
+      example: "Her strong performance in the final exam secured her a place at the top university."
+    }
+  },
+{
+    phrase: "strong leadership",
+    type: "形容詞 + 名詞",
+    chinese: "強而有力的領導",
+    keywords: ["strong", "leadership"],
+    example: {
+      english: "The nation's recovery from the disaster was largely attributed to the strong leadership shown by the prime minister.",
+      chinese: "這個國家從災難中復原，很大程度上歸功於首相所展現的強而有力的領導。",
+      grammar_point: "be attributed to + N（歸因於…）；shown by + N（過去分詞片語修飾前面的名詞）"
+    },
+    vocabulary: [
+      { word: "recovery", pos: "n.", chinese: "復原、恢復" },
+      { word: "attribute", pos: "v.", chinese: "歸因於" },
+      { word: "prime minister", pos: "n.", chinese: "首相" }
+    ],
+    sentence_pattern: {
+      pattern: "N's + recovery from + N + was attributed to the strong leadership shown by + N",
+      example: "Strong leadership is especially critical during times of uncertainty and change."
+    }
+  },
+{
+    phrase: "strong suit",
+    type: "名詞片語",
+    chinese: "強項、最擅長的事",
+    keywords: ["strong", "suit"],
+    example: {
+      english: "Public speaking has never been her strong suit, but she has worked hard to overcome her fear of the stage.",
+      chinese: "公開演講從來不是她的強項，但她努力克服了對舞台的恐懼。",
+      grammar_point: "has never been + N's + strong suit（從未是某人的強項）；but + S + has + V-p.p.（轉折）"
+    },
+    vocabulary: [
+      { word: "public speaking", pos: "n.", chinese: "公開演講" },
+      { word: "overcome", pos: "v.", chinese: "克服" },
+      { word: "fear", pos: "n.", chinese: "恐懼" }
+    ],
+    sentence_pattern: {
+      pattern: "N + has never been + N's + strong suit, but S + has + V-p.p. + to + V",
+      example: "Patience is not his strong suit, but he tries his best to stay calm under pressure."
+    }
+  },
+{
+    phrase: "strong-willed",
+    type: "複合形容詞",
+    chinese: "意志堅定的、有主見的",
+    keywords: ["strong", "willed"],
+    example: {
+      english: "She is an exceptionally strong-willed individual who refuses to give up no matter how difficult the situation becomes.",
+      chinese: "她是一個意志格外堅定的人，無論情況變得多麼困難都不肯放棄。",
+      grammar_point: "an exceptionally + adj. + N（副詞修飾形容詞）；no matter how + adj. + S + V（無論多麼…）"
+    },
+    vocabulary: [
+      { word: "exceptionally", pos: "adv.", chinese: "格外地、異常地" },
+      { word: "refuse", pos: "v.", chinese: "拒絕" },
+      { word: "determined", pos: "adj.", chinese: "堅定的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + is a strong-willed + N + who + V + no matter how + adj. + S + V",
+      example: "Raising a strong-willed child can be challenging but ultimately very rewarding."
+    }
+  },
+{
+    phrase: "heavy reliance on",
+    type: "形容詞 + 名詞",
+    chinese: "對…的高度依賴",
+    keywords: ["heavy", "reliance", "on"],
+    example: {
+      english: "The country's heavy reliance on fossil fuels has made it difficult to meet its carbon reduction targets.",
+      chinese: "這個國家對化石燃料的高度依賴，使其難以達成碳減排目標。",
+      grammar_point: "N's + heavy reliance on + N（對…的高度依賴）；make it + adj. + to + V（使…變得困難）"
+    },
+    vocabulary: [
+      { word: "fossil fuel", pos: "n.", chinese: "化石燃料" },
+      { word: "carbon", pos: "n.", chinese: "碳" },
+      { word: "target", pos: "n.", chinese: "目標" }
+    ],
+    sentence_pattern: {
+      pattern: "N's + heavy reliance on + N + has made it + adj. + to + V",
+      example: "The team's heavy reliance on one star player proved to be their downfall."
+    }
+  },
+{
+    phrase: "heavy investment",
+    type: "形容詞 + 名詞",
+    chinese: "大量投資、重金投入",
+    keywords: ["heavy", "investment"],
+    example: {
+      english: "Heavy investment in renewable energy over the past decade has helped drive down the cost of solar panels significantly.",
+      chinese: "過去十年在再生能源方面的大量投資，已大幅幫助降低了太陽能板的成本。",
+      grammar_point: "Heavy investment in + N（在…方面的大量投資）；help + V（幫助做…）"
+    },
+    vocabulary: [
+      { word: "renewable", pos: "adj.", chinese: "可再生的" },
+      { word: "decade", pos: "n.", chinese: "十年" },
+      { word: "significantly", pos: "adv.", chinese: "顯著地" }
+    ],
+    sentence_pattern: {
+      pattern: "Heavy investment in + N + over + 時間 + has helped + V + N + significantly",
+      example: "The city's heavy investment in public transport has reduced traffic congestion considerably."
+    }
+  },
+{
+    phrase: "heavy emphasis on",
+    type: "形容詞 + 名詞",
+    chinese: "大力強調、高度重視",
+    keywords: ["heavy", "emphasis", "on"],
+    example: {
+      english: "The school places a heavy emphasis on critical thinking and encourages students to question assumptions rather than memorize facts.",
+      chinese: "這所學校大力強調批判性思維，鼓勵學生質疑假設，而非死記事實。",
+      grammar_point: "place a heavy emphasis on + N（大力強調…）；rather than + V（而非…）"
+    },
+    vocabulary: [
+      { word: "critical thinking", pos: "n.", chinese: "批判性思維" },
+      { word: "assumption", pos: "n.", chinese: "假設" },
+      { word: "memorize", pos: "v.", chinese: "記憶、背誦" }
+    ],
+    sentence_pattern: {
+      pattern: "S + places a heavy emphasis on + N + and + V + O + rather than + V",
+      example: "Modern workplaces put heavy emphasis on teamwork and communication skills."
+    }
+  },
+{
+    phrase: "light sleeper",
+    type: "形容詞 + 名詞",
+    chinese: "淺眠者、容易被吵醒的人",
+    keywords: ["light", "sleeper"],
+    example: {
+      english: "As a light sleeper, she always wears earplugs when staying in hotels to block out any noise.",
+      chinese: "身為一個淺眠者，她在住旅館時總是戴耳塞來隔絕任何噪音。",
+      grammar_point: "As a + N（作為…，表身分）；to + V（不定詞表目的）"
+    },
+    vocabulary: [
+      { word: "earplug", pos: "n.", chinese: "耳塞" },
+      { word: "block out", pos: "v.", chinese: "隔絕、屏蔽" },
+      { word: "disturb", pos: "v.", chinese: "打擾、吵醒" }
+    ],
+    sentence_pattern: {
+      pattern: "As a light sleeper, S + always + V + O + when + V-ing + to + V + N",
+      example: "Being a light sleeper, he woke up every time the neighbors made noise."
+    }
+  },
+{
+    phrase: "travel light",
+    type: "動詞片語",
+    chinese: "輕裝出行、只帶少量行李",
+    keywords: ["travel", "light"],
+    example: {
+      english: "Seasoned backpackers learn to travel light, bringing only the essentials to avoid the hassle of heavy luggage.",
+      chinese: "有經驗的背包客學會輕裝出行，只攜帶必需品以避免沉重行李的麻煩。",
+      grammar_point: "learn to + V（學會做…）；to avoid + N（不定詞表目的）"
+    },
+    vocabulary: [
+      { word: "seasoned", pos: "adj.", chinese: "有經驗的、老練的" },
+      { word: "essential", pos: "n.", chinese: "必需品" },
+      { word: "hassle", pos: "n.", chinese: "麻煩、困擾" }
+    ],
+    sentence_pattern: {
+      pattern: "S + learn(s) to travel light, V-ing only + N + to avoid + N",
+      example: "I always try to travel light on business trips so I can move around quickly."
+    }
+  },
+{
+    phrase: "see the light",
+    type: "慣用語",
+    chinese: "幡然醒悟；終於明白；看到曙光",
+    keywords: ["see", "light"],
+    example: {
+      english: "After years of ignoring the environmental warnings, the community finally saw the light and voted to ban single-use plastics.",
+      chinese: "在多年忽視環境警告之後，這個社區終於幡然醒悟，投票決定禁止一次性塑膠用品。",
+      grammar_point: "After + 時間 + of + V-ing（在多年…之後）；finally + V（副詞表終於）"
+    },
+    vocabulary: [
+      { word: "ignore", pos: "v.", chinese: "忽視" },
+      { word: "ban", pos: "v.", chinese: "禁止" },
+      { word: "single-use", pos: "adj.", chinese: "一次性的" }
+    ],
+    sentence_pattern: {
+      pattern: "After + 時間 + of + V-ing + N, S + finally saw the light and + V",
+      example: "It took a serious health scare for him to finally see the light and quit smoking."
+    }
+  },
+{
+    phrase: "make light of",
+    type: "動詞片語",
+    chinese: "輕描淡寫、不認真看待、一笑置之",
+    keywords: ["make", "light", "of"],
+    example: {
+      english: "He tends to make light of his own achievements, often dismissing compliments with a joke.",
+      chinese: "他往往對自己的成就輕描淡寫，常常用一個玩笑來化解讚美。",
+      grammar_point: "tend to + V（傾向於…）；V-ing（分詞構句表伴隨方式）"
+    },
+    vocabulary: [
+      { word: "achievement", pos: "n.", chinese: "成就" },
+      { word: "dismiss", pos: "v.", chinese: "輕視、打發" },
+      { word: "compliment", pos: "n.", chinese: "讚美、恭維" }
+    ],
+    sentence_pattern: {
+      pattern: "S + tends to make light of + N, V-ing + N + with + N",
+      example: "Please don't make light of the situation — it is far more serious than you think."
+    }
+  },
+{
+    phrase: "light at the end of the tunnel",
+    type: "慣用語",
+    chinese: "隧道盡頭的光、希望的曙光",
+    keywords: ["light", "tunnel"],
+    example: {
+      english: "After months of financial struggle, the family finally saw a light at the end of the tunnel when a new job offer arrived.",
+      chinese: "在數月的財務困境之後，當一份新的工作機會出現時，這個家庭終於看到了希望的曙光。",
+      grammar_point: "After + 時間 + of + N（在數月…之後）；when + S + V（時間副詞子句）"
+    },
+    vocabulary: [
+      { word: "struggle", pos: "n.", chinese: "掙扎、困境" },
+      { word: "financial", pos: "adj.", chinese: "財務的" },
+      { word: "hope", pos: "n.", chinese: "希望" }
+    ],
+    sentence_pattern: {
+      pattern: "After + 時間 + of + N, S + finally saw a light at the end of the tunnel when + S + V",
+      example: "Things have been tough, but I can finally see a light at the end of the tunnel."
+    }
+  },
+{
+    phrase: "be light on one's feet",
+    type: "慣用語",
+    chinese: "腳步輕盈、行動敏捷",
+    keywords: ["light", "feet"],
+    example: {
+      english: "Despite his large build, the basketball player was remarkably light on his feet and could change direction instantly.",
+      chinese: "儘管身材魁梧，這位籃球員腳步卻出奇輕盈，能夠瞬間改變方向。",
+      grammar_point: "Despite + N（儘管…）；could + V（過去式情態動詞表能力）"
+    },
+    vocabulary: [
+      { word: "build", pos: "n.", chinese: "身材、體型" },
+      { word: "remarkably", pos: "adv.", chinese: "出奇地、顯著地" },
+      { word: "agile", pos: "adj.", chinese: "敏捷的" }
+    ],
+    sentence_pattern: {
+      pattern: "Despite + N, S + was remarkably light on + N's + feet and + could + V",
+      example: "Years of dance training made her incredibly light on her feet."
+    }
+  },
+{
+    phrase: "light-handed",
+    type: "複合形容詞",
+    chinese: "手法輕巧的；管理寬鬆的",
+    keywords: ["light", "handed"],
+    example: {
+      english: "The director took a light-handed approach to managing her team, giving each member the freedom to work independently.",
+      chinese: "這位主管對管理團隊採取寬鬆的方式，給予每位成員獨立工作的自由。",
+      grammar_point: "take a light-handed approach to + V-ing（採取寬鬆的方式管理…）；giving + O + N（分詞構句）"
+    },
+    vocabulary: [
+      { word: "approach", pos: "n.", chinese: "方式、方法" },
+      { word: "freedom", pos: "n.", chinese: "自由" },
+      { word: "independently", pos: "adv.", chinese: "獨立地" }
+    ],
+    sentence_pattern: {
+      pattern: "S + took a light-handed approach to + V-ing + N, V-ing + O + N + to + V",
+      example: "A light-handed editing style preserved the author's unique voice throughout the book."
+    }
   },
 ]; // <--- 大陣列的結尾！

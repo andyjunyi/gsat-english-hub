@@ -9,6 +9,7 @@ import Vocabulary from './pages/Vocabulary'
 import Translation from './pages/Translation'
 import CollocationChecker from './components/CollocationChecker'
 import JunyiPage from './pages/JunyiPage'
+import VideoPage from './pages/VideoPage'
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
             <Route path="/translation" element={<Translation />} />
             <Route path="/checker" element={<CollocationChecker />} />
             <Route path="/junyi" element={<JunyiPage />} />
+            <Route path="/videos" element={<VideoPage />} />
           </Routes>
         </main>
         <Footer />

@@ -4,6 +4,7 @@ const navItems = [
   { path: '/', label: '首頁', end: true },
   { path: '/collocations', label: '搭配詞' },
   { path: '/grammar', label: '英文必備句型' },
+  { path: '/videos', label: '學測文意字彙' },
   { path: '/junyi', label: '均一自學工具' },
 ]
 

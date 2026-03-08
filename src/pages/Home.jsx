@@ -19,12 +19,18 @@ const modules = [
     border: 'hover:border-indigo-300',
   },
   {
+    path: '/videos',
+    emoji: '🎬',
+    title: '學測文意字彙',
+    desc: '歷屆學測 Andy 老師逐題講解，涵蓋 93–115 學年度，附學生自學講義下載',
+    iconBg: 'from-red-500 to-rose-700',
+    border: 'hover:border-red-300',
+  },
+  {
     path: '/junyi',
     emoji: '🛠️',
     title: '均一自學工具',
     desc: '精選均一教育平台英文練習工具，涵蓋單字、跟讀、詞彙等多元練習',
-    badge: '6 個工具',
-    badgeColor: 'bg-orange-100 text-orange-700',
     iconBg: 'from-orange-400 to-yellow-500',
     border: 'hover:border-orange-300',
   },
@@ -63,13 +69,13 @@ export default function Home() {
 
       {/* Header */}
       <section className="bg-gradient-to-r from-blue-700 via-blue-600 to-indigo-600 text-white py-10 px-4 text-center">
-        <h1 className="text-3xl font-black tracking-tight">學測英文自學網站</h1>
+        <h1 className="text-3xl font-black tracking-tight">大學學測英文自學網站</h1>
         <p className="text-blue-200 text-sm mt-2">專為台灣高中生設計・大學學測必備</p>
       </section>
 
       {/* Module Cards */}
       <section className="max-w-3xl mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-6">
           {modules.map(m => (
             <Link
               key={m.path}
