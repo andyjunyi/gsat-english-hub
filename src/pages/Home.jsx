@@ -22,6 +22,16 @@ const modules = [
     iconBg: 'from-indigo-500 to-indigo-700',
     border: 'hover:border-indigo-300',
   },
+  {
+    path: '/junyi',
+    emoji: '🛠️',
+    title: '均一自學工具',
+    desc: '精選均一教育平台英文練習工具，涵蓋單字、跟讀、詞彙等多元練習',
+    badge: '6 個工具',
+    badgeColor: 'bg-orange-100 text-orange-700',
+    iconBg: 'from-orange-400 to-yellow-500',
+    border: 'hover:border-orange-300',
+  },
 ]
 
 export default function Home() {
