@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { useEffect, useState } from 'react'
 
 const modules = [
   {
@@ -24,8 +25,36 @@ const modules = [
 ]
 
 export default function Home() {
+  const [visitors, setVisitors] = useState(null)
+
+  useEffect(() => {
+    const run = async () => {
+      const cached = sessionStorage.getItem('visitorCount')
+      if (cached) {
+        setVisitors(Number(cached))
+        return
+      }
+      try {
+        const res = await fetch('https://api.counterapi.dev/v1/gsat-english-hub/visitors/up')
+        const data = await res.json()
+        const count = data.count ?? null
+        setVisitors(count)
+        if (count !== null) sessionStorage.setItem('visitorCount', String(count))
+      } catch {
+        setVisitors(-1)
+      }
+    }
+    run()
+  }, [])
+
   return (
     <div>
+      {/* Visitor Counter */}
+      <div style={{ position: 'fixed', right: '1rem', top: '4.5rem', zIndex: 40 }}
+        className="bg-white rounded-lg shadow px-3 py-1.5 text-xs text-gray-500">
+        👁 累計訪客：{visitors === null ? '---' : visitors === -1 ? '---' : visitors.toLocaleString()} 人
+      </div>
+
       {/* Header */}
       <section className="bg-gradient-to-r from-blue-700 via-blue-600 to-indigo-600 text-white py-10 px-4 text-center">
         <h1 className="text-3xl font-black tracking-tight">學測英文自學網站</h1>
