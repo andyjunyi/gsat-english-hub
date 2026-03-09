@@ -252,6 +252,12 @@ export default function CollocationSearch() {
         ? wordRegex.test(item.phrase) || (item.keywords && item.keywords.some((k) => wordRegex.test(k)))
         : item.chinese.includes(q)
     )
+    matches.sort((a, b) => {
+      const aWords = a.phrase.trim().split(/\s+/).length;
+      const bWords = b.phrase.trim().split(/\s+/).length;
+      if (aWords !== bWords) return aWords - bWords;
+      return a.phrase.localeCompare(b.phrase);
+    })
     setResults(matches)
     setSearched(true)
     setLastQuery(q)
