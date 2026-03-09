@@ -51004,26 +51004,6 @@ export const collocationData1 = [
     }
   },
 {
-    phrase: "academic integrity",
-    type: "形容詞 + 名詞",
-    chinese: "學術誠信",
-    keywords: ["academic", "integrity"],
-    example: {
-      english: "Upholding academic integrity means avoiding plagiarism, citing sources properly, and submitting only original work.",
-      chinese: "維護學術誠信意味著避免抄襲、正確引用來源，並只提交原創作品。",
-      grammar_point: "academic integrity 為不可數名詞；uphold / maintain / violate academic integrity（維護 / 違反學術誠信）；plagiarism（抄襲）為常見違反行為。"
-    },
-    vocabulary: [
-      { word: "uphold", pos: "v.", chinese: "維護" },
-      { word: "plagiarism", pos: "n.", chinese: "抄襲" },
-      { word: "cite", pos: "v.", chinese: "引用" }
-    ],
-    sentence_pattern: {
-      pattern: "Upholding academic integrity mean + V-ing + N and + V-ing + N",
-      example: "Upholding academic integrity means doing your own work and giving credit to others."
-    }
-  },
-{
     phrase: "public speaking",
     type: "名詞片語",
     chinese: "公開演講",
@@ -52241,6 +52221,2166 @@ export const collocationData1 = [
     sentence_pattern: {
       pattern: "Critics of standardized testing argue that + S + V + N and + V to + V",
       example: "Critics of standardized testing argue that it creates unfair pressure and ignores creativity."
+    }
+  },
+  {
+    phrase: "argue for",
+    type: "動詞片語",
+    chinese: "為...辯護 / 主張",
+    keywords: ["argue", "for"],
+    example: {
+      english: "Environmental activists argue for stricter regulations on carbon emissions, claiming that voluntary measures by corporations are insufficient to address the crisis.",
+      chinese: "環保人士主張對碳排放實施更嚴格的法規，認為企業的自願措施不足以應對危機。",
+      grammar_point: "argue for + N / V-ing（主張 / 支持...）；反義：argue against；argue for a cause（為某事業辯護）；argue that + 子句（主張...）也常見。"
+    },
+    vocabulary: [
+      { word: "regulation", pos: "n.", chinese: "法規" },
+      { word: "voluntary", pos: "adj.", chinese: "自願的" },
+      { word: "insufficient", pos: "adj.", chinese: "不足的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + argue for + adj. + N, claiming that + N + be + adj.",
+      example: "Researchers argue for more funding in mental health, claiming that current resources are grossly inadequate."
+    }
+  },
+{
+    phrase: "cause concern",
+    type: "動詞片語",
+    chinese: "引起關切 / 令人擔憂",
+    keywords: ["cause", "concern"],
+    example: {
+      english: "The rapid spread of misinformation on social media platforms has caused concern among educators, policymakers, and public health officials worldwide.",
+      chinese: "社群媒體平台上錯誤資訊的快速傳播，在全球教育工作者、政策制定者和公共衛生官員之間引起了關切。",
+      grammar_point: "cause concern（引起關切，不可數）；cause concern among + N（在...之間引起關切）；a cause for concern（關切的原因）。"
+    },
+    vocabulary: [
+      { word: "misinformation", pos: "n.", chinese: "錯誤資訊" },
+      { word: "policymaker", pos: "n.", chinese: "政策制定者" },
+      { word: "official", pos: "n.", chinese: "官員" }
+    ],
+    sentence_pattern: {
+      pattern: "N + cause concern among + N, + N, and + N",
+      example: "Rising dropout rates have caused concern among teachers, parents, and school administrators alike."
+    }
+  },
+{
+    phrase: "concern about",
+    type: "動詞片語",
+    chinese: "擔心 / 對...感到憂慮",
+    keywords: ["concern", "about"],
+    example: {
+      english: "Many parents are deeply concerned about the amount of unsupervised screen time their children are exposed to each day.",
+      chinese: "許多家長對孩子每天接觸的無人監督螢幕時間感到深切憂慮。",
+      grammar_point: "be concerned about + N / V-ing（擔心...）；concern（名詞）：concerns about N；raise concerns about（對...提出關切）。"
+    },
+    vocabulary: [
+      { word: "unsupervised", pos: "adj.", chinese: "無人監督的" },
+      { word: "expose", pos: "v.", chinese: "接觸" },
+      { word: "raise", pos: "v.", chinese: "提出" }
+    ],
+    sentence_pattern: {
+      pattern: "S + be deeply concerned about + N + S + be exposed to",
+      example: "Citizens are deeply concerned about the level of pollution they are exposed to in urban areas."
+    }
+  },
+{
+    phrase: "cut down on",
+    type: "動詞片語",
+    chinese: "減少 / 削減",
+    keywords: ["cut", "down", "on"],
+    example: {
+      english: "Doctors recommend cutting down on processed foods and sugary drinks as a simple but powerful first step toward better cardiovascular health.",
+      chinese: "醫生建議減少加工食品和含糖飲料的攝取，作為改善心血管健康簡單而有效的第一步。",
+      grammar_point: "cut down on + N / V-ing（減少...）；= reduce；反義：increase；cut back on（減少支出）語意相近但更偏向節省。"
+    },
+    vocabulary: [
+      { word: "processed", pos: "adj.", chinese: "加工的" },
+      { word: "cardiovascular", pos: "adj.", chinese: "心血管的" },
+      { word: "recommend", pos: "v.", chinese: "建議" }
+    ],
+    sentence_pattern: {
+      pattern: "S + recommend + V-ing down on + N as + N toward + N",
+      example: "Experts recommend cutting down on red meat as a practical step toward reducing one's carbon footprint."
+    }
+  },
+{
+    phrase: "fall on",
+    type: "動詞片語",
+    chinese: "落在...身上 / 由...承擔",
+    keywords: ["fall", "on"],
+    example: {
+      english: "When institutions fail to provide adequate support, the burden of caregiving often falls on family members, particularly women, who sacrifice their own careers.",
+      chinese: "當機構未能提供足夠支持時，照顧的重擔往往落在家庭成員身上，尤其是犧牲自己職業的女性。",
+      grammar_point: "fall on + N（責任 / 重擔落在...身上）；the burden falls on + N；也可指日期：Christmas falls on a Monday。"
+    },
+    vocabulary: [
+      { word: "burden", pos: "n.", chinese: "重擔" },
+      { word: "caregiving", pos: "n.", chinese: "照顧" },
+      { word: "sacrifice", pos: "v.", chinese: "犧牲" }
+    ],
+    sentence_pattern: {
+      pattern: "When + N + V to + V + N, the burden of + N + fall on + N",
+      example: "When budgets are cut, the burden of extra work often falls on the most junior staff members."
+    }
+  },
+{
+    phrase: "give up on",
+    type: "動詞片語",
+    chinese: "放棄 / 對...不再抱希望",
+    keywords: ["give", "up", "on"],
+    example: {
+      english: "A great teacher never gives up on a struggling student, believing that with the right support, every learner has the potential to succeed.",
+      chinese: "優秀的老師從不放棄掙扎中的學生，相信有了適當的支持，每位學習者都有成功的潛力。",
+      grammar_point: "give up on + N / V-ing（放棄對...的希望）；比 give up 更強調放棄對某人或某事的信念；never give up on yourself（永不放棄自己）。"
+    },
+    vocabulary: [
+      { word: "struggling", pos: "adj.", chinese: "掙扎的" },
+      { word: "potential", pos: "n.", chinese: "潛力" },
+      { word: "persevere", pos: "v.", chinese: "堅持" }
+    ],
+    sentence_pattern: {
+      pattern: "S + never give up on + N, believing that + S + have + N to + V",
+      example: "Good coaches never give up on their athletes, believing that consistent effort will eventually lead to improvement."
+    }
+  },
+{
+    phrase: "move on from",
+    type: "動詞片語",
+    chinese: "從...中走出 / 超越",
+    keywords: ["move", "on", "from"],
+    example: {
+      english: "Learning to move on from past mistakes, rather than dwelling on them, is one of the most important skills for maintaining long-term mental resilience.",
+      chinese: "學會從過去的錯誤中走出，而非沉溺其中，是維持長期心理韌性最重要的技能之一。",
+      grammar_point: "move on from + N（從...中走出，繼續前進）；= get over / let go of；move on（不接 from）也可表示轉移話題。"
+    },
+    vocabulary: [
+      { word: "dwell on", pos: "phr.v.", chinese: "沉溺於" },
+      { word: "resilience", pos: "n.", chinese: "韌性" },
+      { word: "overcome", pos: "v.", chinese: "克服" }
+    ],
+    sentence_pattern: {
+      pattern: "Learning to move on from + N, rather than + V-ing, + be + N for + N",
+      example: "Moving on from failure, rather than hiding it, is a key trait of highly successful entrepreneurs."
+    }
+  },
+{
+    phrase: "speak about",
+    type: "動詞片語",
+    chinese: "談論 / 公開討論",
+    keywords: ["speak", "about"],
+    example: {
+      english: "It takes courage to speak about personal struggles with mental health, but doing so can inspire others and reduce the stigma surrounding these issues.",
+      chinese: "公開談論心理健康的個人掙扎需要勇氣，但這樣做可以激勵他人並減少圍繞這些議題的汙名。",
+      grammar_point: "speak about + N（談論...）；= talk about；speak about + N publicly（公開談論）；speak up about（更強調勇敢發聲）。"
+    },
+    vocabulary: [
+      { word: "stigma", pos: "n.", chinese: "汙名" },
+      { word: "inspire", pos: "v.", chinese: "激勵" },
+      { word: "surrounding", pos: "adj.", chinese: "圍繞的" }
+    ],
+    sentence_pattern: {
+      pattern: "It takes courage to speak about + N, but + V-ing + can + V + N and + V + N",
+      example: "It takes courage to speak about injustice, but doing so can shift public opinion and drive real change."
+    }
+  },
+{
+    phrase: "turn away from",
+    type: "動詞片語",
+    chinese: "背離 / 轉離 / 拒絕",
+    keywords: ["turn", "away", "from"],
+    example: {
+      english: "Young people are increasingly turning away from traditional media sources in favor of online platforms that offer more personalized and interactive content.",
+      chinese: "年輕人越來越多地轉離傳統媒體來源，轉而青睞提供更個人化和互動內容的線上平台。",
+      grammar_point: "turn away from + N（背離 / 放棄...）；= move away from / abandon；turn away from + N in favor of + N（轉離...偏向...）。"
+    },
+    vocabulary: [
+      { word: "traditional", pos: "adj.", chinese: "傳統的" },
+      { word: "personalized", pos: "adj.", chinese: "個人化的" },
+      { word: "interactive", pos: "adj.", chinese: "互動的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + turn away from + N in favor of + N that + V + N",
+      example: "Consumers are turning away from fast fashion in favor of brands that prioritize ethical production."
+    }
+  },
+{
+    phrase: "admit to",
+    type: "動詞片語",
+    chinese: "承認 / 坦承",
+    keywords: ["admit", "to"],
+    example: {
+      english: "Many public figures find it difficult to admit to making mistakes, fearing that transparency will damage their reputation or credibility.",
+      chinese: "許多公眾人物發現承認犯錯很困難，擔心透明度會損害他們的聲譽或可信度。",
+      grammar_point: "admit to + N / V-ing（承認...）；= confess to；admit that + 子句（承認...）；to 為介系詞，後接動名詞。"
+    },
+    vocabulary: [
+      { word: "transparency", pos: "n.", chinese: "透明度" },
+      { word: "reputation", pos: "n.", chinese: "聲譽" },
+      { word: "credibility", pos: "n.", chinese: "可信度" }
+    ],
+    sentence_pattern: {
+      pattern: "S + find it difficult to admit to + V-ing + N, fearing that + N + will + V + N",
+      example: "Leaders who admit to errors often gain more respect, as honesty signals genuine accountability."
+    }
+  },
+{
+    phrase: "apologize to",
+    type: "動詞片語",
+    chinese: "向...道歉",
+    keywords: ["apologize", "to"],
+    example: {
+      english: "It demonstrates emotional maturity to genuinely apologize to someone you have hurt, without making excuses or minimizing the impact of your actions.",
+      chinese: "真誠地向你傷害過的人道歉，而不找藉口或淡化你行為的影響，這展現了情感成熟度。",
+      grammar_point: "apologize to + N（向某人道歉）；apologize for + N（為某事道歉）；常與 sincerely / genuinely 搭配；= say sorry to。"
+    },
+    vocabulary: [
+      { word: "maturity", pos: "n.", chinese: "成熟度" },
+      { word: "genuinely", pos: "adv.", chinese: "真誠地" },
+      { word: "minimize", pos: "v.", chinese: "淡化" }
+    ],
+    sentence_pattern: {
+      pattern: "It demonstrate + N to + V to + N without + V-ing + N or + V-ing + N",
+      example: "It demonstrates strength to apologize to a colleague without deflecting blame or making excuses."
+    }
+  },
+{
+    phrase: "boast of",
+    type: "動詞片語",
+    chinese: "誇耀 / 自豪地擁有",
+    keywords: ["boast", "of"],
+    example: {
+      english: "The city boasts of a world-class public transport network, making it one of the most livable and environmentally friendly urban centers in the region.",
+      chinese: "該城市自豪地擁有世界級的大眾運輸網絡，使其成為該地區最宜居和最環保的城市中心之一。",
+      grammar_point: "boast of / about + N（誇耀 / 以...為榮）；= take pride in；boast that + 子句（聲稱...）；表達自豪時中性，語氣略正式。"
+    },
+    vocabulary: [
+      { word: "world-class", pos: "adj.", chinese: "世界級的" },
+      { word: "livable", pos: "adj.", chinese: "宜居的" },
+      { word: "environmentally friendly", pos: "adj.", chinese: "環保的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + boast of + N, making it one of the most + adj. + N",
+      example: "The university boasts of a diverse student body, making it one of the most internationally recognized institutions."
+    }
+  },
+{
+    phrase: "caution against",
+    type: "動詞片語",
+    chinese: "警告不要 / 告誡",
+    keywords: ["caution", "against"],
+    example: {
+      english: "Health professionals caution against excessive use of antibiotics, warning that overuse leads to drug-resistant bacteria that are difficult and costly to treat.",
+      chinese: "衛生專業人員警告不要過度使用抗生素，警告過度使用會導致難以且昂貴治療的耐藥細菌。",
+      grammar_point: "caution against + N / V-ing（警告不要...）；= warn against；caution + N against + V-ing（警告某人不要...）。"
+    },
+    vocabulary: [
+      { word: "antibiotic", pos: "n.", chinese: "抗生素" },
+      { word: "overuse", pos: "n.", chinese: "過度使用" },
+      { word: "drug-resistant", pos: "adj.", chinese: "耐藥的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + caution against + V-ing + N, warning that + N + lead to + N",
+      example: "Experts caution against rushing major decisions, warning that haste often leads to costly mistakes."
+    }
+  },
+{
+    phrase: "collaborate on",
+    type: "動詞片語",
+    chinese: "在...上合作 / 共同完成",
+    keywords: ["collaborate", "on"],
+    example: {
+      english: "Scientists from over thirty countries collaborated on the research project, pooling data and expertise to accelerate the development of a vaccine.",
+      chinese: "來自三十多個國家的科學家合作研究該項目，匯集數據和專業知識以加速疫苗的開發。",
+      grammar_point: "collaborate on + N（在某個計畫 / 項目上合作）；collaborate with + N（與某人合作）；collaboration on（名詞形式）。"
+    },
+    vocabulary: [
+      { word: "pool", pos: "v.", chinese: "匯集" },
+      { word: "expertise", pos: "n.", chinese: "專業知識" },
+      { word: "accelerate", pos: "v.", chinese: "加速" }
+    ],
+    sentence_pattern: {
+      pattern: "S + collaborate on + N, + V-ing + N and + N to + V + N",
+      example: "Artists and engineers collaborated on the exhibition, combining creativity and technology to create an immersive experience."
+    }
+  },
+{
+    phrase: "collaborate with",
+    type: "動詞片語",
+    chinese: "與...合作",
+    keywords: ["collaborate", "with"],
+    example: {
+      english: "Schools that collaborate with local businesses gain access to real-world resources, mentors, and internship opportunities that enhance student learning.",
+      chinese: "與當地企業合作的學校能獲得現實世界的資源、導師和實習機會，從而提升學生的學習體驗。",
+      grammar_point: "collaborate with + N（與某人 / 機構合作）；collaborate on + N（在某個項目上合作）；collaboration with（名詞形式）。"
+    },
+    vocabulary: [
+      { word: "mentor", pos: "n.", chinese: "導師" },
+      { word: "internship", pos: "n.", chinese: "實習" },
+      { word: "enhance", pos: "v.", chinese: "提升" }
+    ],
+    sentence_pattern: {
+      pattern: "S + that collaborate with + N + gain access to + N, + N, and + N",
+      example: "NGOs that collaborate with governments gain access to funding, data, and policy platforms."
+    }
+  },
+{
+    phrase: "draw attention to",
+    type: "動詞片語",
+    chinese: "引起注意 / 使人關注",
+    keywords: ["draw", "attention", "to"],
+    example: {
+      english: "The documentary drew attention to the often overlooked issue of food deserts in urban areas, where residents lack access to affordable fresh produce.",
+      chinese: "這部紀錄片引起了人們對城市地區常被忽視的食物荒漠問題的關注，那裡的居民無法獲得負擔得起的新鮮農產品。",
+      grammar_point: "draw attention to + N（引起對...的注意）；= call attention to / highlight；draw + N's attention to + N（使某人注意到...）。"
+    },
+    vocabulary: [
+      { word: "documentary", pos: "n.", chinese: "紀錄片" },
+      { word: "overlooked", pos: "adj.", chinese: "被忽視的" },
+      { word: "affordable", pos: "adj.", chinese: "負擔得起的" }
+    ],
+    sentence_pattern: {
+      pattern: "N + draw attention to + N, where + S + V + N",
+      example: "The report drew attention to rural schools, where students lacked access to technology and qualified teachers."
+    }
+  },
+{
+    phrase: "fail at",
+    type: "動詞片語",
+    chinese: "在...上失敗 / 未能成功",
+    keywords: ["fail", "at"],
+    example: {
+      english: "Many great innovators failed at their first attempts, but they used those experiences as valuable feedback to refine their approach and eventually succeed.",
+      chinese: "許多偉大的創新者在第一次嘗試時失敗了，但他們將這些經歷作為寶貴的反饋，以完善方法並最終取得成功。",
+      grammar_point: "fail at + N / V-ing（在...方面失敗）；= be unsuccessful at；反義：succeed at / in；fail at + N + but learn from it（在...失敗但從中學習）。"
+    },
+    vocabulary: [
+      { word: "innovator", pos: "n.", chinese: "創新者" },
+      { word: "refine", pos: "v.", chinese: "完善" },
+      { word: "feedback", pos: "n.", chinese: "反饋" }
+    ],
+    sentence_pattern: {
+      pattern: "S + fail at + N, but + V + those + N as + N to + V + N",
+      example: "Entrepreneurs who fail at their first business use the experience as a lesson to build something stronger."
+    }
+  },
+{
+    phrase: "head toward",
+    type: "動詞片語",
+    chinese: "朝...前進 / 趨向",
+    keywords: ["head", "toward"],
+    example: {
+      english: "Without stronger international cooperation on climate policy, the world is heading toward a future of more frequent extreme weather events and rising sea levels.",
+      chinese: "如果沒有在氣候政策上更強有力的國際合作，世界正朝著更頻繁的極端天氣事件和海平面上升的未來前進。",
+      grammar_point: "head toward + N（朝...前進 / 趨向...）；= move toward；heading in the right direction（朝正確方向前進）。"
+    },
+    vocabulary: [
+      { word: "cooperation", pos: "n.", chinese: "合作" },
+      { word: "frequent", pos: "adj.", chinese: "頻繁的" },
+      { word: "extreme", pos: "adj.", chinese: "極端的" }
+    ],
+    sentence_pattern: {
+      pattern: "Without + N, S + be heading toward + N of + adj. + N",
+      example: "Without intervention, the company is heading toward a serious financial crisis within two years."
+    }
+  },
+{
+    phrase: "knock on",
+    type: "動詞片語",
+    chinese: "敲（門）/ 產生連鎖影響",
+    keywords: ["knock", "on"],
+    example: {
+      english: "Rising fuel prices have a knock-on effect on the cost of goods and services, ultimately increasing the financial burden on ordinary households.",
+      chinese: "燃料價格上漲對商品和服務的成本產生連鎖效應，最終增加了普通家庭的財務負擔。",
+      grammar_point: "knock on + N（敲...）；knock-on effect（連鎖效應，形容詞用法）；have a knock-on effect on + N（對...產生連鎖影響）。"
+    },
+    vocabulary: [
+      { word: "fuel", pos: "n.", chinese: "燃料" },
+      { word: "knock-on effect", pos: "n.", chinese: "連鎖效應" },
+      { word: "burden", pos: "n.", chinese: "負擔" }
+    ],
+    sentence_pattern: {
+      pattern: "N + have a knock-on effect on + N, ultimately + V-ing + N",
+      example: "School closures have a knock-on effect on working parents, ultimately straining family finances and well-being."
+    }
+  },
+{
+    phrase: "lack in",
+    type: "動詞片語",
+    chinese: "缺乏 / 不足",
+    keywords: ["lack", "in"],
+    example: {
+      english: "A diet that lacks in essential vitamins and minerals can lead to fatigue, weakened immunity, and long-term health complications.",
+      chinese: "缺乏必要維生素和礦物質的飲食可能導致疲勞、免疫力下降和長期健康併發症。",
+      grammar_point: "lack in + N（在...方面缺乏）；= be lacking in；lack + N（直接及物，不加 in）；lacking in confidence（缺乏自信）。"
+    },
+    vocabulary: [
+      { word: "essential", pos: "adj.", chinese: "必要的" },
+      { word: "immunity", pos: "n.", chinese: "免疫力" },
+      { word: "complication", pos: "n.", chinese: "併發症" }
+    ],
+    sentence_pattern: {
+      pattern: "N + that lack in + N + can lead to + N and + N",
+      example: "Leadership that lacks in empathy can lead to high turnover and poor team morale."
+    }
+  },
+{
+    phrase: "live for",
+    type: "動詞片語",
+    chinese: "為...而活 / 以...為生命意義",
+    keywords: ["live", "for"],
+    example: {
+      english: "She lives for her work as a volunteer doctor, finding deep meaning in providing care to communities that have long been neglected by the healthcare system.",
+      chinese: "她為擔任志願醫生的工作而活，在為長期被醫療體系忽視的社群提供照護中找到了深刻的意義。",
+      grammar_point: "live for + N（以...為生命意義）；= find one's purpose in；live for the moment（活在當下）；what do you live for?（你活著為了什麼？）。"
+    },
+    vocabulary: [
+      { word: "volunteer", pos: "n.", chinese: "志願者" },
+      { word: "neglect", pos: "v.", chinese: "忽視" },
+      { word: "meaning", pos: "n.", chinese: "意義" }
+    ],
+    sentence_pattern: {
+      pattern: "S + live for + N, finding + adj. + N in + V-ing + N",
+      example: "He lives for teaching, finding profound joy in watching his students grow and discover their potential."
+    }
+  },
+{
+    phrase: "move away from",
+    type: "動詞片語",
+    chinese: "遠離 / 脫離 / 放棄",
+    keywords: ["move", "away", "from"],
+    example: {
+      english: "Many developed nations are actively moving away from coal-fired power plants and investing in cleaner, more sustainable sources of energy.",
+      chinese: "許多已開發國家正積極遠離燃煤發電廠，並投資於更清潔、更永續的能源來源。",
+      grammar_point: "move away from + N（遠離 / 脫離...）；= shift away from / transition away from；強調方向性的轉變；move away from N toward N（從...轉向...）。"
+    },
+    vocabulary: [
+      { word: "coal-fired", pos: "adj.", chinese: "燃煤的" },
+      { word: "actively", pos: "adv.", chinese: "積極地" },
+      { word: "transition", pos: "v.", chinese: "過渡" }
+    ],
+    sentence_pattern: {
+      pattern: "S + be moving away from + N and + V-ing in + adj. + N",
+      example: "The industry is moving away from single-use plastics and investing in biodegradable packaging solutions."
+    }
+  },
+{
+    phrase: "opt out of",
+    type: "動詞片語",
+    chinese: "選擇退出 / 放棄參與",
+    keywords: ["opt", "out", "of"],
+    example: {
+      english: "Employees have the right to opt out of the company pension scheme, though financial advisors generally recommend staying enrolled for long-term security.",
+      chinese: "員工有權選擇退出公司退休金計畫，但財務顧問通常建議繼續參與以獲得長期保障。",
+      grammar_point: "opt out of + N（選擇退出...）；反義：opt in to（選擇加入）；opt-out system（退出制，需主動退出才算不參與）。"
+    },
+    vocabulary: [
+      { word: "pension scheme", pos: "n.", chinese: "退休金計畫" },
+      { word: "enrolled", pos: "adj.", chinese: "參與的" },
+      { word: "advisor", pos: "n.", chinese: "顧問" }
+    ],
+    sentence_pattern: {
+      pattern: "S + have the right to opt out of + N, though + N + generally + recommend + V-ing",
+      example: "Citizens can opt out of data sharing programs, though companies often make the process deliberately complicated."
+    }
+  },
+{
+    phrase: "persist with",
+    type: "動詞片語",
+    chinese: "堅持 / 繼續從事",
+    keywords: ["persist", "with"],
+    example: {
+      english: "Despite initial setbacks, the research team chose to persist with their experiments, and their perseverance eventually led to a significant medical breakthrough.",
+      chinese: "儘管初期遭遇挫折，研究團隊選擇堅持進行實驗，他們的堅持最終帶來了重大的醫學突破。",
+      grammar_point: "persist with + N（堅持...）；= persevere with / continue with；persist in + V-ing（堅持做）；persistence（名詞）。"
+    },
+    vocabulary: [
+      { word: "setback", pos: "n.", chinese: "挫折" },
+      { word: "perseverance", pos: "n.", chinese: "堅持" },
+      { word: "breakthrough", pos: "n.", chinese: "突破" }
+    ],
+    sentence_pattern: {
+      pattern: "Despite + N, S + chose to persist with + N, and + N + eventually + V to + N",
+      example: "Despite criticism, she persisted with her unconventional approach, and her methods eventually proved highly effective."
+    }
+  },
+{
+    phrase: "plead for",
+    type: "動詞片語",
+    chinese: "懇求 / 呼籲",
+    keywords: ["plead", "for"],
+    example: {
+      english: "Relief organizations are pleading for international aid as millions of people in the disaster zone face acute shortages of food, water, and medical supplies.",
+      chinese: "救援組織正在呼籲國際援助，因為災區數百萬人面臨食物、水和醫療物資的嚴重短缺。",
+      grammar_point: "plead for + N（懇求 / 呼籲...）；= beg for / appeal for；plead guilty（認罪）語意不同；plead + N's case（為某人的案子辯護）。"
+    },
+    vocabulary: [
+      { word: "relief organization", pos: "n.", chinese: "救援組織" },
+      { word: "acute", pos: "adj.", chinese: "嚴重的" },
+      { word: "shortage", pos: "n.", chinese: "短缺" }
+    ],
+    sentence_pattern: {
+      pattern: "S + plead for + N as + N + face + adj. + N of + N",
+      example: "Families of missing persons plead for information as authorities face mounting pressure to act."
+    }
+  },
+{
+    phrase: "speak out for",
+    type: "動詞片語",
+    chinese: "公開支持 / 為...發聲",
+    keywords: ["speak", "out", "for"],
+    example: {
+      english: "She has dedicated her career to speaking out for refugees and displaced communities who lack the political representation to advocate for themselves.",
+      chinese: "她將職業生涯奉獻於為缺乏政治代表性、無法為自己發聲的難民和流離失所社群公開發聲。",
+      grammar_point: "speak out for + N（公開支持 / 為...發聲）；= advocate for / champion；speak out against + N（公開反對）為反義。"
+    },
+    vocabulary: [
+      { word: "refugee", pos: "n.", chinese: "難民" },
+      { word: "displaced", pos: "adj.", chinese: "流離失所的" },
+      { word: "representation", pos: "n.", chinese: "代表性" }
+    ],
+    sentence_pattern: {
+      pattern: "S + dedicate + N to + V-ing out for + N who + V + N to + V",
+      example: "Activists speak out for workers who lack the power to demand fair wages on their own."
+    }
+  },
+{
+    phrase: "speak up for",
+    type: "動詞片語",
+    chinese: "為...發聲 / 勇於支持",
+    keywords: ["speak", "up", "for"],
+    example: {
+      english: "Bystanders who speak up for victims of bullying play a crucial role in shifting the culture of silence that allows harmful behavior to persist.",
+      chinese: "為霸凌受害者發聲的旁觀者，在改變允許有害行為持續存在的沉默文化方面扮演著關鍵角色。",
+      grammar_point: "speak up for + N（勇於為...發聲）；= stand up for；強調主動打破沉默；speak up（不接 for）表示大聲說 / 表達意見。"
+    },
+    vocabulary: [
+      { word: "bystander", pos: "n.", chinese: "旁觀者" },
+      { word: "bullying", pos: "n.", chinese: "霸凌" },
+      { word: "persist", pos: "v.", chinese: "持續" }
+    ],
+    sentence_pattern: {
+      pattern: "S + who speak up for + N + play + N in + V-ing + N",
+      example: "Teachers who speak up for struggling students play a vital role in preventing them from falling through the cracks."
+    }
+  },
+{
+    phrase: "sympathize with",
+    type: "動詞片語",
+    chinese: "同情 / 理解",
+    keywords: ["sympathize", "with"],
+    example: {
+      english: "While it is easy to sympathize with those who are suffering, translating that compassion into meaningful action requires both commitment and resources.",
+      chinese: "雖然同情受苦的人很容易，但將這種同情心轉化為有意義的行動需要承諾和資源兩者。",
+      grammar_point: "sympathize with + N（同情...）；sympathy for + N（同情心）；empathize with（感同身受，比 sympathize 更深入）。"
+    },
+    vocabulary: [
+      { word: "compassion", pos: "n.", chinese: "同情心" },
+      { word: "translate", pos: "v.", chinese: "轉化" },
+      { word: "commitment", pos: "n.", chinese: "承諾" }
+    ],
+    sentence_pattern: {
+      pattern: "While it is easy to sympathize with + N, + V-ing + N into + N + require + N and + N",
+      example: "While it is easy to sympathize with those in poverty, solving it requires systemic change and long-term investment."
+    }
+  },
+{
+    phrase: "tamper with",
+    type: "動詞片語",
+    chinese: "擅自修改 / 干預 / 篡改",
+    keywords: ["tamper", "with"],
+    example: {
+      english: "It is illegal to tamper with evidence in any legal proceeding, and those caught doing so face serious criminal charges and the loss of professional licenses.",
+      chinese: "在任何法律程序中篡改證據是違法的，被發現這樣做的人面臨嚴重的刑事指控和喪失專業執照。",
+      grammar_point: "tamper with + N（擅自修改 / 篡改）；強調未經授權的干預或破壞；do not tamper with（請勿擅動）。"
+    },
+    vocabulary: [
+      { word: "evidence", pos: "n.", chinese: "證據" },
+      { word: "proceeding", pos: "n.", chinese: "程序" },
+      { word: "criminal", pos: "adj.", chinese: "刑事的" }
+    ],
+    sentence_pattern: {
+      pattern: "It is illegal to tamper with + N, and those + V-ed + V + adj. + N",
+      example: "It is dangerous to tamper with electrical systems, and those caught doing so may face serious safety liabilities."
+    }
+  },
+{
+    phrase: "transition to",
+    type: "動詞片語",
+    chinese: "過渡到 / 轉型為",
+    keywords: ["transition", "to"],
+    example: {
+      english: "As automation reshapes the economy, workers in declining industries must be supported as they transition to new roles that require digital and analytical skills.",
+      chinese: "隨著自動化重塑經濟，必須在衰退行業的工作者過渡到需要數位和分析技能的新角色時給予支持。",
+      grammar_point: "transition to + N（過渡到...）；= move to / shift to；transition（名詞）：a smooth transition to + N；in transition（處於過渡期）。"
+    },
+    vocabulary: [
+      { word: "automation", pos: "n.", chinese: "自動化" },
+      { word: "declining", pos: "adj.", chinese: "衰退的" },
+      { word: "analytical", pos: "adj.", chinese: "分析性的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + must be supported as + S + transition to + N that + require + N",
+      example: "Students must be guided as they transition to university life, which requires new levels of independence."
+    }
+  },
+{
+    phrase: "walk away from",
+    type: "動詞片語",
+    chinese: "離開 / 放棄 / 拒絕",
+    keywords: ["walk", "away", "from"],
+    example: {
+      english: "Sometimes the bravest decision a person can make is to walk away from a toxic relationship or an unfulfilling career in pursuit of a healthier, more authentic life.",
+      chinese: "有時一個人能做出的最勇敢的決定，是離開一段有毒的關係或一份不令人滿意的職業，去追求更健康、更真實的生活。",
+      grammar_point: "walk away from + N（離開 / 放棄...）；= leave behind / give up on；walk away from a deal（拒絕協議）；walk away unharmed（毫髮無傷地離開）。"
+    },
+    vocabulary: [
+      { word: "toxic", pos: "adj.", chinese: "有毒的" },
+      { word: "unfulfilling", pos: "adj.", chinese: "不令人滿意的" },
+      { word: "authentic", pos: "adj.", chinese: "真實的" }
+    ],
+    sentence_pattern: {
+      pattern: "Sometimes + N + a person can make + be to walk away from + N in pursuit of + N",
+      example: "The hardest part of growing up is learning when to walk away from situations that no longer serve your well-being."
+    }
+  },
+{
+    phrase: "warn about",
+    type: "動詞片語",
+    chinese: "警告...的危險 / 提醒注意",
+    keywords: ["warn", "about"],
+    example: {
+      english: "Climate scientists have been warning about the consequences of unchecked greenhouse gas emissions for decades, yet meaningful global action remains insufficient.",
+      chinese: "氣候科學家幾十年來一直在警告不受控制的溫室氣體排放的後果，然而有意義的全球行動仍然不足。",
+      grammar_point: "warn about + N（警告...的危險）；= caution about；warn against + V-ing（警告不要做）；warn + N about + N（警告某人注意...）。"
+    },
+    vocabulary: [
+      { word: "unchecked", pos: "adj.", chinese: "不受控制的" },
+      { word: "consequence", pos: "n.", chinese: "後果" },
+      { word: "insufficient", pos: "adj.", chinese: "不足的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + warn about + N for + N, yet + N + remain + adj.",
+      example: "Doctors warn about the risks of sedentary lifestyles for years, yet many people still do not exercise regularly."
+    }
+  },
+{
+    phrase: "withdraw from",
+    type: "動詞片語",
+    chinese: "退出 / 撤離 / 撤回",
+    keywords: ["withdraw", "from"],
+    example: {
+      english: "The country announced it would withdraw from the international trade agreement, citing concerns about sovereignty and the protection of domestic industries.",
+      chinese: "該國宣布將退出國際貿易協議，理由是對主權和保護國內產業的擔憂。",
+      grammar_point: "withdraw from + N（退出 / 撤離...）；withdrawal from（名詞形式）；withdraw + O + from + N（從...撤回...）；also：withdraw from a competition（退出比賽）。"
+    },
+    vocabulary: [
+      { word: "sovereignty", pos: "n.", chinese: "主權" },
+      { word: "domestic", pos: "adj.", chinese: "國內的" },
+      { word: "withdrawal", pos: "n.", chinese: "撤退" }
+    ],
+    sentence_pattern: {
+      pattern: "S + announce + S would withdraw from + N, citing concerns about + N and + N",
+      example: "The athlete withdrew from the competition, citing concerns about injury and long-term physical health."
+    }
+  },
+{
+    phrase: "encourage into",
+    type: "動詞片語",
+    chinese: "鼓勵進入 / 引導",
+    keywords: ["encourage", "into"],
+    example: {
+      english: "Mentors can play a vital role in encouraging young people into fields where they are underrepresented, such as STEM, law, and public service.",
+      chinese: "導師可以在鼓勵年輕人進入他們代表性不足的領域（如STEM、法律和公共服務）方面發揮重要作用。",
+      grammar_point: "encourage + N + into + N（鼓勵某人進入某領域）；= guide into / lead into；encourage + O + to + V（鼓勵做）語意更廣。"
+    },
+    vocabulary: [
+      { word: "underrepresented", pos: "adj.", chinese: "代表性不足的" },
+      { word: "mentor", pos: "n.", chinese: "導師" },
+      { word: "vital", pos: "adj.", chinese: "重要的" }
+    ],
+    sentence_pattern: {
+      pattern: "S + play a role in + V-ing + O into + N where + S + be + V-ed",
+      example: "Teachers encourage students into subjects where curiosity is sparked, not just where success is guaranteed."
+    }
+  },
+  {
+    phrase: "academic achievement",
+    type: "名詞片語",
+    chinese: "學業成就",
+    keywords: ["academic", "achievement"],
+    example: {
+      english: "Academic achievement is shaped not only by intelligence but also by motivation, study habits, and the quality of support students receive at home and school.",
+      chinese: "學業成就不僅由智力決定，還受到動機、學習習慣以及學生在家庭和學校獲得的支持品質所影響。",
+      grammar_point: "academic achievement 為不可數名詞；improve / measure academic achievement（改善 / 衡量學業成就）；academic achiever（高成就學生）。"
+    },
+    vocabulary: [
+      { word: "motivation", pos: "n.", chinese: "動機" },
+      { word: "intelligence", pos: "n.", chinese: "智力" },
+      { word: "shape", pos: "v.", chinese: "決定" }
+    ],
+    sentence_pattern: {
+      pattern: "N + be shaped not only by + N but also by + N, + N, and + N",
+      example: "Career success is shaped not only by skills but also by resilience, networking, and adaptability."
+    }
+  },
+{
+    phrase: "academic pressure",
+    type: "名詞片語",
+    chinese: "學業壓力",
+    keywords: ["academic", "pressure"],
+    example: {
+      english: "Excessive academic pressure during adolescence can lead to burnout, anxiety, and a lasting loss of curiosity toward learning if not properly managed.",
+      chinese: "青春期過度的學業壓力若管理不當，可能導致職業倦怠、焦慮，以及對學習持久的好奇心喪失。",
+      grammar_point: "academic pressure 為不可數名詞；cope with / manage academic pressure（應對 / 管理學業壓力）；under academic pressure（在學業壓力下）。"
+    },
+    vocabulary: [
+      { word: "burnout", pos: "n.", chinese: "職業倦怠" },
+      { word: "adolescence", pos: "n.", chinese: "青春期" },
+      { word: "curiosity", pos: "n.", chinese: "好奇心" }
+    ],
+    sentence_pattern: {
+      pattern: "Excessive academic pressure + can lead to + N, + N, and + N if not + adv. + V-ed",
+      example: "Excessive academic pressure can lead to stress, poor health, and disengagement if not addressed early."
+    }
+  },
+{
+    phrase: "central argument",
+    type: "名詞片語",
+    chinese: "核心論點",
+    keywords: ["central", "argument"],
+    example: {
+      english: "The central argument of the essay is that economic growth alone cannot address poverty without equal investment in education, healthcare, and social infrastructure.",
+      chinese: "這篇文章的核心論點是，僅靠經濟成長無法解決貧窮問題，還需要在教育、醫療和社會基礎設施上進行同等投資。",
+      grammar_point: "central argument 為可數名詞；the central argument of + N（...的核心論點）；support / challenge the central argument（支持 / 挑戰核心論點）。"
+    },
+    vocabulary: [
+      { word: "infrastructure", pos: "n.", chinese: "基礎設施" },
+      { word: "investment", pos: "n.", chinese: "投資" },
+      { word: "thesis", pos: "n.", chinese: "論點" }
+    ],
+    sentence_pattern: {
+      pattern: "The central argument of + N + be that + N alone cannot + V + N without + N",
+      example: "The central argument is that technology alone cannot fix inequality without targeted policy reform."
+    }
+  },
+{
+    phrase: "clear evidence",
+    type: "名詞片語",
+    chinese: "明確的證據",
+    keywords: ["clear", "evidence"],
+    example: {
+      english: "There is clear evidence that regular physical activity reduces the risk of chronic disease, improves mood, and extends healthy life expectancy significantly.",
+      chinese: "有明確的證據表明，規律的體能活動能降低慢性病風險、改善情緒，並顯著延長健康壽命。",
+      grammar_point: "clear evidence 為不可數名詞；provide / present clear evidence（提供明確證據）；in the face of clear evidence（面對明確證據）。"
+    },
+    vocabulary: [
+      { word: "chronic", pos: "adj.", chinese: "慢性的" },
+      { word: "expectancy", pos: "n.", chinese: "壽命" },
+      { word: "significantly", pos: "adv.", chinese: "顯著地" }
+    ],
+    sentence_pattern: {
+      pattern: "There + be clear evidence that + N + V + N, + V + N, and + V + N",
+      example: "There is clear evidence that bilingual education improves cognitive flexibility and cross-cultural awareness."
+    }
+  },
+{
+    phrase: "common misconception",
+    type: "名詞片語",
+    chinese: "常見的誤解",
+    keywords: ["common", "misconception"],
+    example: {
+      english: "A common misconception is that introverts dislike people; in fact, they simply recharge through solitude rather than social interaction.",
+      chinese: "一個常見的誤解是內向者不喜歡人際交往；事實上，他們只是透過獨處而非社交互動來恢復精力。",
+      grammar_point: "common misconception 為可數名詞；a common misconception is that + 子句（一個常見的誤解是...）；correct / address a misconception（糾正誤解）。"
+    },
+    vocabulary: [
+      { word: "introvert", pos: "n.", chinese: "內向者" },
+      { word: "recharge", pos: "v.", chinese: "恢復精力" },
+      { word: "solitude", pos: "n.", chinese: "獨處" }
+    ],
+    sentence_pattern: {
+      pattern: "A common misconception is that + S + V; in fact, + S + simply + V",
+      example: "A common misconception is that failure means defeat; in fact, it simply means you are still in the game."
+    }
+  },
+{
+    phrase: "constructive criticism",
+    type: "名詞片語",
+    chinese: "建設性的批評",
+    keywords: ["constructive", "criticism"],
+    example: {
+      english: "Constructive criticism, when delivered with empathy and specific suggestions, helps individuals identify areas for improvement without damaging their confidence.",
+      chinese: "建設性的批評，當以同理心和具體建議傳達時，有助於個人識別改進空間而不損害其自信心。",
+      grammar_point: "constructive criticism 為不可數名詞；give / offer / accept constructive criticism（給予 / 提供 / 接受建設性批評）；反義：destructive criticism（破壞性批評）。"
+    },
+    vocabulary: [
+      { word: "empathy", pos: "n.", chinese: "同理心" },
+      { word: "specific", pos: "adj.", chinese: "具體的" },
+      { word: "confidence", pos: "n.", chinese: "自信心" }
+    ],
+    sentence_pattern: {
+      pattern: "Constructive criticism, when + V-ed with + N and + N, + help + O + V + N",
+      example: "Constructive criticism, when framed positively, helps teams grow without creating defensiveness."
+    }
+  },
+{
+    phrase: "controversial topic",
+    type: "名詞片語",
+    chinese: "爭議性話題",
+    keywords: ["controversial", "topic"],
+    example: {
+      english: "Discussing a controversial topic in the classroom requires a respectful environment where students feel safe to express diverse opinions without fear of ridicule.",
+      chinese: "在課堂上討論爭議性話題需要一個尊重的環境，讓學生在不害怕被嘲笑的情況下自由表達不同意見。",
+      grammar_point: "controversial topic 為可數名詞；debate / address a controversial topic（辯論 / 討論爭議性話題）；controversy（名詞）；controversial（形容詞）。"
+    },
+    vocabulary: [
+      { word: "ridicule", pos: "n.", chinese: "嘲笑" },
+      { word: "respectful", pos: "adj.", chinese: "尊重的" },
+      { word: "diverse", pos: "adj.", chinese: "多元的" }
+    ],
+    sentence_pattern: {
+      pattern: "Discussing a controversial topic + require + N where + S + feel safe to + V + N",
+      example: "Exploring controversial topics requires clear ground rules so all participants feel heard and respected."
+    }
+  },
+{
+    phrase: "extensive research",
+    type: "名詞片語",
+    chinese: "廣泛的研究",
+    keywords: ["extensive", "research"],
+    example: {
+      english: "Extensive research on sleep deprivation demonstrates that consistently sleeping fewer than seven hours per night impairs memory, judgment, and emotional regulation.",
+      chinese: "關於睡眠剝奪的廣泛研究表明，持續每晚睡眠少於七小時會損害記憶力、判斷力和情緒調節能力。",
+      grammar_point: "extensive research 為不可數名詞；conduct / carry out extensive research（進行廣泛研究）；extensive research on + N（關於...的廣泛研究）。"
+    },
+    vocabulary: [
+      { word: "deprivation", pos: "n.", chinese: "剝奪" },
+      { word: "impair", pos: "v.", chinese: "損害" },
+      { word: "consistently", pos: "adv.", chinese: "持續地" }
+    ],
+    sentence_pattern: {
+      pattern: "Extensive research on + N + demonstrate that + V-ing + N + V + N",
+      example: "Extensive research on nutrition demonstrates that a plant-based diet lowers the risk of heart disease."
+    }
+  },
+{
+    phrase: "false belief",
+    type: "名詞片語",
+    chinese: "錯誤的信念",
+    keywords: ["false", "belief"],
+    example: {
+      english: "The false belief that talent alone determines success discourages many capable individuals from persevering through the setbacks that are a natural part of growth.",
+      chinese: "才能單獨決定成功的錯誤信念，使許多有能力的個人灰心，無法堅持度過作為成長自然部分的挫折。",
+      grammar_point: "false belief 為可數名詞；challenge / correct a false belief（挑戰 / 糾正錯誤信念）；hold a false belief（持有錯誤信念）。"
+    },
+    vocabulary: [
+      { word: "persevere", pos: "v.", chinese: "堅持" },
+      { word: "discourage", pos: "v.", chinese: "使灰心" },
+      { word: "capability", pos: "n.", chinese: "能力" }
+    ],
+    sentence_pattern: {
+      pattern: "The false belief that + S + V + N + discourage + N from + V-ing",
+      example: "The false belief that only the gifted deserve success discourages many ordinary people from even trying."
+    }
+  },
+{
+    phrase: "historical context",
+    type: "名詞片語",
+    chinese: "歷史脈絡",
+    keywords: ["historical", "context"],
+    example: {
+      english: "Understanding the historical context of a social issue is essential for developing effective and lasting solutions that address root causes rather than surface symptoms.",
+      chinese: "了解社會問題的歷史脈絡對於制定有效且持久的解決方案至關重要，這些方案應解決根本原因而非表面症狀。",
+      grammar_point: "historical context 為不可數名詞；provide / understand the historical context（提供 / 了解歷史脈絡）；in historical context（在歷史脈絡中）。"
+    },
+    vocabulary: [
+      { word: "essential", pos: "adj.", chinese: "至關重要的" },
+      { word: "symptom", pos: "n.", chinese: "症狀" },
+      { word: "address", pos: "v.", chinese: "解決" }
+    ],
+    sentence_pattern: {
+      pattern: "Understanding the historical context of + N + be essential for + V-ing + N that + V + N",
+      example: "Understanding the historical context of a conflict is essential for building a peace process both sides trust."
+    }
+  },
+{
+    phrase: "overwhelming evidence",
+    type: "名詞片語",
+    chinese: "壓倒性的證據",
+    keywords: ["overwhelming", "evidence"],
+    example: {
+      english: "There is overwhelming evidence that smoking causes lung cancer, yet millions of people worldwide continue to smoke despite being fully aware of the risks.",
+      chinese: "有壓倒性的證據表明吸煙會導致肺癌，然而全球數百萬人儘管完全意識到風險仍繼續吸煙。",
+      grammar_point: "overwhelming evidence 為不可數名詞；in the face of overwhelming evidence（面對壓倒性的證據）；overwhelming（形容詞：壓倒性的）。"
+    },
+    vocabulary: [
+      { word: "lung cancer", pos: "n.", chinese: "肺癌" },
+      { word: "despite", pos: "prep.", chinese: "儘管" },
+      { word: "overwhelm", pos: "v.", chinese: "壓倒" }
+    ],
+    sentence_pattern: {
+      pattern: "There + be overwhelming evidence that + S + V, yet + S + continue to + V despite + V-ing",
+      example: "There is overwhelming evidence that exercise improves mental health, yet many people still lead sedentary lives."
+    }
+  },
+{
+    phrase: "painful truth",
+    type: "名詞片語",
+    chinese: "痛苦的事實",
+    keywords: ["painful", "truth"],
+    example: {
+      english: "The painful truth is that systemic change is slow and difficult, requiring sustained effort from both institutions and ordinary citizens over many years.",
+      chinese: "痛苦的事實是系統性變革是緩慢而困難的，需要機構和普通公民多年來的持續努力。",
+      grammar_point: "painful truth 為可數名詞（常用 the painful truth）；face / accept the painful truth（面對 / 接受痛苦的事實）；tell someone a painful truth（告訴某人痛苦的事實）。"
+    },
+    vocabulary: [
+      { word: "systemic", pos: "adj.", chinese: "系統性的" },
+      { word: "sustained", pos: "adj.", chinese: "持續的" },
+      { word: "institution", pos: "n.", chinese: "機構" }
+    ],
+    sentence_pattern: {
+      pattern: "The painful truth + be that + N + be + adj. and + adj., + V-ing + N from + N over + N",
+      example: "The painful truth is that poverty cycles are deeply embedded and require generations of effort to dismantle."
+    }
+  },
+{
+    phrase: "simple truth",
+    type: "名詞片語",
+    chinese: "簡單的事實 / 淺顯的道理",
+    keywords: ["simple", "truth"],
+    example: {
+      english: "The simple truth is that kindness costs nothing and yet has the power to transform relationships, communities, and even entire societies.",
+      chinese: "淺顯的道理是善意不需要任何代價，卻有改變人際關係、社群甚至整個社會的力量。",
+      grammar_point: "simple truth 為可數名詞（常用 the simple truth）；acknowledge / state a simple truth（承認 / 陳述淺顯的道理）；= basic truth。"
+    },
+    vocabulary: [
+      { word: "transform", pos: "v.", chinese: "改變" },
+      { word: "community", pos: "n.", chinese: "社群" },
+      { word: "acknowledge", pos: "v.", chinese: "承認" }
+    ],
+    sentence_pattern: {
+      pattern: "The simple truth + be that + N + cost nothing and yet + have + N to + V + N",
+      example: "The simple truth is that listening takes no extra time and yet builds trust more effectively than many other acts."
+    }
+  },
+{
+    phrase: "affordable housing",
+    type: "名詞片語",
+    chinese: "平價住宅",
+    keywords: ["affordable", "housing"],
+    example: {
+      english: "The lack of affordable housing in major cities is forcing low and middle-income families to live far from their workplaces, worsening inequality and quality of life.",
+      chinese: "大城市平價住宅的缺乏迫使中低收入家庭居住在遠離工作場所的地方，加劇了不平等和生活品質問題。",
+      grammar_point: "affordable housing 為不可數名詞；build / provide affordable housing（建造 / 提供平價住宅）；affordable housing crisis（平價住宅危機）。"
+    },
+    vocabulary: [
+      { word: "income", pos: "n.", chinese: "收入" },
+      { word: "workplace", pos: "n.", chinese: "工作場所" },
+      { word: "inequality", pos: "n.", chinese: "不平等" }
+    ],
+    sentence_pattern: {
+      pattern: "The lack of affordable housing + force + O to + V, + V-ing + N and + N",
+      example: "The lack of affordable housing forces young people to delay starting families, slowing population growth."
+    }
+  },
+{
+    phrase: "aggressive behavior",
+    type: "名詞片語",
+    chinese: "攻擊性行為",
+    keywords: ["aggressive", "behavior"],
+    example: {
+      english: "Research suggests that children who witness aggressive behavior at home are more likely to replicate it in school and social settings without proper intervention.",
+      chinese: "研究表明，在家中目睹攻擊性行為的兒童，若沒有適當干預，更有可能在學校和社交環境中複製這種行為。",
+      grammar_point: "aggressive behavior 為不可數名詞；exhibit / display aggressive behavior（表現出攻擊性行為）；aggressive behavior pattern（攻擊性行為模式）。"
+    },
+    vocabulary: [
+      { word: "witness", pos: "v.", chinese: "目睹" },
+      { word: "replicate", pos: "v.", chinese: "複製" },
+      { word: "intervention", pos: "n.", chinese: "干預" }
+    ],
+    sentence_pattern: {
+      pattern: "S + who witness aggressive behavior + be more likely to + V + it without + N",
+      example: "Workers who face aggressive behavior from managers are more likely to leave without adequate support systems."
+    }
+  },
+{
+    phrase: "democratic process",
+    type: "名詞片語",
+    chinese: "民主程序",
+    keywords: ["democratic", "process"],
+    example: {
+      english: "Free and fair elections are the cornerstone of any democratic process, ensuring that governments remain accountable to the people they serve.",
+      chinese: "自由公正的選舉是任何民主程序的基石，確保政府對其服務的人民負責。",
+      grammar_point: "democratic process 為可數名詞；uphold / undermine the democratic process（維護 / 破壞民主程序）；participate in the democratic process（參與民主程序）。"
+    },
+    vocabulary: [
+      { word: "cornerstone", pos: "n.", chinese: "基石" },
+      { word: "accountable", pos: "adj.", chinese: "負責的" },
+      { word: "ensure", pos: "v.", chinese: "確保" }
+    ],
+    sentence_pattern: {
+      pattern: "N + be the cornerstone of + N, ensuring that + S + remain + adj. to + N",
+      example: "Transparency is the cornerstone of a democratic process, ensuring that power cannot be abused without consequence."
+    }
+  },
+{
+    phrase: "diverse background",
+    type: "名詞片語",
+    chinese: "多元背景",
+    keywords: ["diverse", "background"],
+    example: {
+      english: "Teams composed of people from diverse backgrounds tend to generate more creative solutions because they bring different experiences, values, and ways of thinking to the table.",
+      chinese: "由來自多元背景的人組成的團隊往往能產生更具創意的解決方案，因為他們帶來了不同的經驗、價值觀和思維方式。",
+      grammar_point: "diverse background 為可數名詞（常用複數 diverse backgrounds）；people from diverse backgrounds（來自多元背景的人）。"
+    },
+    vocabulary: [
+      { word: "generate", pos: "v.", chinese: "產生" },
+      { word: "compose", pos: "v.", chinese: "組成" },
+      { word: "perspective", pos: "n.", chinese: "觀點" }
+    ],
+    sentence_pattern: {
+      pattern: "S + from diverse backgrounds + tend to + V + N because + S + bring + N",
+      example: "Students from diverse backgrounds enrich classroom discussions by bringing perspectives others may never have considered."
+    }
+  },
+{
+    phrase: "dominant culture",
+    type: "名詞片語",
+    chinese: "主流文化",
+    keywords: ["dominant", "culture"],
+    example: {
+      english: "Minority groups often face pressure to assimilate into the dominant culture, sometimes at the cost of losing their own language, traditions, and sense of identity.",
+      chinese: "少數族群常常面臨融入主流文化的壓力，有時以失去自己的語言、傳統和認同感為代價。",
+      grammar_point: "dominant culture 為可數名詞；the dominant culture（常加 the）；challenge / assimilate into the dominant culture（挑戰 / 融入主流文化）。"
+    },
+    vocabulary: [
+      { word: "assimilate", pos: "v.", chinese: "融入" },
+      { word: "minority", pos: "n.", chinese: "少數族群" },
+      { word: "tradition", pos: "n.", chinese: "傳統" }
+    ],
+    sentence_pattern: {
+      pattern: "S + face pressure to + V into the dominant culture, sometimes at the cost of + V-ing + N",
+      example: "Immigrants may feel pressure to adopt the dominant culture, sometimes losing the languages of their heritage."
+    }
+  },
+{
+    phrase: "equal opportunity",
+    type: "名詞片語",
+    chinese: "平等機會",
+    keywords: ["equal", "opportunity"],
+    example: {
+      english: "A truly just society ensures equal opportunity for all citizens, regardless of race, gender, socioeconomic background, or geographic location.",
+      chinese: "真正公正的社會確保所有公民都有平等機會，無論種族、性別、社會經濟背景或地理位置如何。",
+      grammar_point: "equal opportunity 為不可數名詞；provide / ensure equal opportunity（提供 / 確保平等機會）；equal opportunity employer（平等機會雇主）。"
+    },
+    vocabulary: [
+      { word: "socioeconomic", pos: "adj.", chinese: "社會經濟的" },
+      { word: "regardless of", pos: "prep.", chinese: "無論" },
+      { word: "geographic", pos: "adj.", chinese: "地理的" }
+    ],
+    sentence_pattern: {
+      pattern: "N + ensure equal opportunity for + N, regardless of + N, + N, or + N",
+      example: "Good schools ensure equal opportunity for every student, regardless of family wealth or academic history."
+    }
+  },
+{
+    phrase: "extreme poverty",
+    type: "名詞片語",
+    chinese: "極端貧窮",
+    keywords: ["extreme", "poverty"],
+    example: {
+      english: "Despite decades of global economic growth, extreme poverty persists in many regions due to conflict, climate change, and systemic failures in governance and resource distribution.",
+      chinese: "儘管全球經濟增長了幾十年，由於衝突、氣候變遷以及治理和資源分配的系統性失敗，極端貧窮在許多地區依然存在。",
+      grammar_point: "extreme poverty 為不可數名詞；live in extreme poverty（生活在極端貧窮中）；eradicate / reduce extreme poverty（消除 / 減少極端貧窮）。"
+    },
+    vocabulary: [
+      { word: "persist", pos: "v.", chinese: "持續存在" },
+      { word: "governance", pos: "n.", chinese: "治理" },
+      { word: "eradicate", pos: "v.", chinese: "消除" }
+    ],
+    sentence_pattern: {
+      pattern: "Despite + N, extreme poverty + persist in + N due to + N, + N, and + N",
+      example: "Despite aid programs, extreme poverty persists due to corruption, poor infrastructure, and lack of education."
+    }
+  },
+{
+    phrase: "formal education",
+    type: "名詞片語",
+    chinese: "正規教育",
+    keywords: ["formal", "education"],
+    example: {
+      english: "While formal education provides essential academic foundations, many of the skills that drive success in life are learned through experience, relationships, and self-directed exploration.",
+      chinese: "雖然正規教育提供了必要的學術基礎，但許多推動人生成功的技能是透過經驗、人際關係和自我導向的探索來學習的。",
+      grammar_point: "formal education 為不可數名詞；receive / complete formal education（接受 / 完成正規教育）；反義：informal education（非正規教育）。"
+    },
+    vocabulary: [
+      { word: "foundation", pos: "n.", chinese: "基礎" },
+      { word: "self-directed", pos: "adj.", chinese: "自我導向的" },
+      { word: "exploration", pos: "n.", chinese: "探索" }
+    ],
+    sentence_pattern: {
+      pattern: "While formal education + provide + N, many + N + be + V-ed through + N, + N, and + N",
+      example: "While formal education teaches theory, many real-world insights are gained through internships and hands-on projects."
+    }
+  },
+{
+    phrase: "human rights violation",
+    type: "名詞片語",
+    chinese: "人權侵害",
+    keywords: ["human", "rights", "violation"],
+    example: {
+      english: "International organizations play a critical role in documenting human rights violations and pressuring governments to uphold their obligations under international law.",
+      chinese: "國際組織在記錄人權侵害和向政府施壓要求其履行國際法義務方面發揮著關鍵作用。",
+      grammar_point: "human rights violation 為可數名詞（常用複數 violations）；commit / investigate / condemn human rights violations（犯下 / 調查 / 譴責人權侵害）。"
+    },
+    vocabulary: [
+      { word: "document", pos: "v.", chinese: "記錄" },
+      { word: "obligation", pos: "n.", chinese: "義務" },
+      { word: "condemn", pos: "v.", chinese: "譴責" }
+    ],
+    sentence_pattern: {
+      pattern: "S + play a critical role in + V-ing + N and + V-ing + N to + V + N",
+      example: "Journalists play a critical role in exposing human rights violations and holding perpetrators accountable."
+    }
+  },
+{
+    phrase: "inclusive society",
+    type: "名詞片語",
+    chinese: "包容社會",
+    keywords: ["inclusive", "society"],
+    example: {
+      english: "Building an inclusive society requires dismantling structural barriers that prevent marginalized groups from fully participating in economic, political, and cultural life.",
+      chinese: "建立包容社會需要拆除阻止邊緣化群體充分參與經濟、政治和文化生活的結構性障礙。",
+      grammar_point: "inclusive society 為可數名詞；build / create an inclusive society（建立包容社會）；inclusion（名詞）；inclusive（形容詞）。"
+    },
+    vocabulary: [
+      { word: "dismantle", pos: "v.", chinese: "拆除" },
+      { word: "marginalized", pos: "adj.", chinese: "邊緣化的" },
+      { word: "structural", pos: "adj.", chinese: "結構性的" }
+    ],
+    sentence_pattern: {
+      pattern: "Building an inclusive society + require + V-ing + N that + prevent + N from + V-ing",
+      example: "Building an inclusive society requires removing invisible barriers that keep talented people from reaching leadership roles."
+    }
+  },
+{
+    phrase: "intergenerational conflict",
+    type: "名詞片語",
+    chinese: "代際衝突",
+    keywords: ["intergenerational", "conflict"],
+    example: {
+      english: "Intergenerational conflict often arises when older and younger generations hold fundamentally different views on social values, career expectations, and the role of technology.",
+      chinese: "代際衝突常常在老一輩和年輕一輩對社會價值觀、職業期望和科技角色持根本不同看法時產生。",
+      grammar_point: "intergenerational conflict 為不可數名詞；manage / reduce intergenerational conflict（管理 / 減少代際衝突）；intergenerational dialogue（代際對話）。"
+    },
+    vocabulary: [
+      { word: "fundamentally", pos: "adv.", chinese: "根本上" },
+      { word: "expectation", pos: "n.", chinese: "期望" },
+      { word: "arise", pos: "v.", chinese: "產生" }
+    ],
+    sentence_pattern: {
+      pattern: "Intergenerational conflict + often arise when + N + hold + adj. different + N on + N",
+      example: "Intergenerational conflict arises when family members hold different views on gender roles and marriage."
+    }
+  },
+{
+    phrase: "limited resource",
+    type: "名詞片語",
+    chinese: "有限資源",
+    keywords: ["limited", "resource"],
+    example: {
+      english: "With limited resources available, organizations must make strategic decisions about where to direct funding and effort for maximum social impact.",
+      chinese: "在可用資源有限的情況下，組織必須做出策略性決策，決定將資金和努力投向何處以產生最大社會影響。",
+      grammar_point: "limited resource 為可數名詞（常用複數 limited resources）；allocate / manage limited resources（分配 / 管理有限資源）；resource allocation（資源分配）。"
+    },
+    vocabulary: [
+      { word: "strategic", pos: "adj.", chinese: "策略性的" },
+      { word: "allocate", pos: "v.", chinese: "分配" },
+      { word: "maximum", pos: "adj.", chinese: "最大的" }
+    ],
+    sentence_pattern: {
+      pattern: "With limited resources, S + must + V + N about where to + V + N for + N",
+      example: "With limited resources, schools must prioritize interventions that produce the greatest benefit for the most students."
+    }
+  },
+{
+    phrase: "local community",
+    type: "名詞片語",
+    chinese: "在地社群",
+    keywords: ["local", "community"],
+    example: {
+      english: "Sustainable development projects that involve the local community from the outset are far more likely to succeed and endure than those imposed from the outside.",
+      chinese: "從一開始就納入在地社群的永續發展項目，比從外部強加的項目更有可能成功和持久。",
+      grammar_point: "local community 為可數名詞；engage / involve the local community（參與 / 納入在地社群）；community-based approach（以社群為基礎的方式）。"
+    },
+    vocabulary: [
+      { word: "outset", pos: "n.", chinese: "起初" },
+      { word: "endure", pos: "v.", chinese: "持久" },
+      { word: "impose", pos: "v.", chinese: "強加" }
+    ],
+    sentence_pattern: {
+      pattern: "N that involve the local community + be more likely to + V and + V than + N + V-ed from + N",
+      example: "Health campaigns that involve the local community tend to see higher participation and longer-lasting behavior change."
+    }
+  },
+{
+    phrase: "modern society",
+    type: "名詞片語",
+    chinese: "現代社會",
+    keywords: ["modern", "society"],
+    example: {
+      english: "In modern society, the ability to navigate information overload critically and ethically has become as fundamental as reading and writing.",
+      chinese: "在現代社會，批判性和道德性地應對資訊過載的能力已變得與讀寫一樣基本。",
+      grammar_point: "modern society 為不可數名詞（常用 in modern society）；the demands / challenges of modern society（現代社會的需求 / 挑戰）。"
+    },
+    vocabulary: [
+      { word: "navigate", pos: "v.", chinese: "應對" },
+      { word: "fundamental", pos: "adj.", chinese: "基本的" },
+      { word: "ethically", pos: "adv.", chinese: "道德地" }
+    ],
+    sentence_pattern: {
+      pattern: "In modern society, + N + be as + adj. as + V-ing and + V-ing",
+      example: "In modern society, digital literacy has become as important as financial management for everyday life."
+    }
+  },
+{
+    phrase: "political stability",
+    type: "名詞片語",
+    chinese: "政治穩定",
+    keywords: ["political", "stability"],
+    example: {
+      english: "Political stability is a prerequisite for sustained economic growth, as investors and businesses require predictable environments to plan and operate effectively.",
+      chinese: "政治穩定是持續經濟成長的先決條件，因為投資者和企業需要可預測的環境來有效規劃和運營。",
+      grammar_point: "political stability 為不可數名詞；maintain / restore political stability（維持 / 恢復政治穩定）；political instability（政治不穩定）為反義。"
+    },
+    vocabulary: [
+      { word: "prerequisite", pos: "n.", chinese: "先決條件" },
+      { word: "predictable", pos: "adj.", chinese: "可預測的" },
+      { word: "investor", pos: "n.", chinese: "投資者" }
+    ],
+    sentence_pattern: {
+      pattern: "Political stability + be a prerequisite for + N, as + N + require + adj. + N to + V",
+      example: "Political stability is a prerequisite for development, as communities need reliable governance to plan long-term."
+    }
+  },
+{
+    phrase: "resilient society",
+    type: "名詞片語",
+    chinese: "有韌性的社會",
+    keywords: ["resilient", "society"],
+    example: {
+      english: "A resilient society is one that can absorb shocks, adapt to change, and recover quickly from crises through strong institutions, community bonds, and shared values.",
+      chinese: "有韌性的社會是能夠吸收衝擊、適應變化，並透過強大的機構、社群連結和共同價值觀從危機中快速恢復的社會。",
+      grammar_point: "resilient society 為可數名詞；build a resilient society（建立有韌性的社會）；resilience（名詞）；社會韌性（social resilience）。"
+    },
+    vocabulary: [
+      { word: "absorb", pos: "v.", chinese: "吸收" },
+      { word: "institution", pos: "n.", chinese: "機構" },
+      { word: "recover", pos: "v.", chinese: "恢復" }
+    ],
+    sentence_pattern: {
+      pattern: "A resilient society + be one that + can + V, + V, and + V through + N",
+      example: "A resilient society is one that can weather crises and emerge stronger through collective effort."
+    }
+  },
+{
+    phrase: "societal norm",
+    type: "名詞片語",
+    chinese: "社會規範",
+    keywords: ["societal", "norm"],
+    example: {
+      english: "Changing a deeply embedded societal norm requires sustained education, visible role models, and policy changes that reinforce new expectations over time.",
+      chinese: "改變一個根深蒂固的社會規範，需要持續的教育、可見的榜樣以及隨時間強化新期望的政策變化。",
+      grammar_point: "societal norm 為可數名詞（常用複數 societal norms）；challenge / reinforce societal norms（挑戰 / 強化社會規範）；= social norm。"
+    },
+    vocabulary: [
+      { word: "embedded", pos: "adj.", chinese: "根深蒂固的" },
+      { word: "reinforce", pos: "v.", chinese: "強化" },
+      { word: "sustained", pos: "adj.", chinese: "持續的" }
+    ],
+    sentence_pattern: {
+      pattern: "Changing a + adj. + societal norm + require + N, + N, and + N that + V + N",
+      example: "Challenging societal norms around gender requires open conversation, representation, and legislative change."
+    }
+  },
+{
+    phrase: "traditional value",
+    type: "名詞片語",
+    chinese: "傳統價值觀",
+    keywords: ["traditional", "value"],
+    example: {
+      english: "As globalization accelerates, many communities struggle to preserve traditional values while also embracing the opportunities and changes that come with modernization.",
+      chinese: "隨著全球化加速，許多社群在保護傳統價值觀的同時，也努力擁抱現代化帶來的機會和變化。",
+      grammar_point: "traditional value 為可數名詞（常用複數 traditional values）；uphold / preserve traditional values（維護 / 保護傳統價值觀）；tradition（名詞）；traditional（形容詞）。"
+    },
+    vocabulary: [
+      { word: "accelerate", pos: "v.", chinese: "加速" },
+      { word: "preserve", pos: "v.", chinese: "保護" },
+      { word: "modernization", pos: "n.", chinese: "現代化" }
+    ],
+    sentence_pattern: {
+      pattern: "As + N + V, many + N + struggle to + V + N while also + V-ing + N",
+      example: "As technology advances, many families struggle to preserve traditional values while also adapting to rapid change."
+    }
+  },
+{
+    phrase: "unequal distribution",
+    type: "名詞片語",
+    chinese: "不平等分配",
+    keywords: ["unequal", "distribution"],
+    example: {
+      english: "The unequal distribution of wealth within and between nations is one of the root causes of social unrest, political instability, and barriers to sustainable development.",
+      chinese: "國家內部和國家之間財富的不平等分配，是社會動盪、政治不穩定和永續發展障礙的根本原因之一。",
+      grammar_point: "unequal distribution 為不可數名詞；address / challenge the unequal distribution of + N（解決...的不平等分配）；distribution of resources（資源分配）。"
+    },
+    vocabulary: [
+      { word: "wealth", pos: "n.", chinese: "財富" },
+      { word: "unrest", pos: "n.", chinese: "動盪" },
+      { word: "distribution", pos: "n.", chinese: "分配" }
+    ],
+    sentence_pattern: {
+      pattern: "The unequal distribution of + N + be one of the root causes of + N, + N, and + N",
+      example: "The unequal distribution of education funding is one of the root causes of persistent achievement gaps."
+    }
+  },
+{
+    phrase: "universal value",
+    type: "名詞片語",
+    chinese: "普世價值",
+    keywords: ["universal", "value"],
+    example: {
+      english: "Respect for human dignity, the right to justice, and freedom from oppression are universal values that transcend cultural and national boundaries.",
+      chinese: "對人的尊嚴的尊重、公正的權利和免於壓迫的自由，是超越文化和國家邊界的普世價值。",
+      grammar_point: "universal value 為可數名詞（常用複數 universal values）；uphold / promote universal values（維護 / 推廣普世價值）；universally（副詞）。"
+    },
+    vocabulary: [
+      { word: "dignity", pos: "n.", chinese: "尊嚴" },
+      { word: "oppression", pos: "n.", chinese: "壓迫" },
+      { word: "transcend", pos: "v.", chinese: "超越" }
+    ],
+    sentence_pattern: {
+      pattern: "N, N, and N + be universal values that + V + N and + N",
+      example: "Compassion, fairness, and honesty are universal values that unite people across different cultures and beliefs."
+    }
+  },
+{
+    phrase: "vulnerable group",
+    type: "名詞片語",
+    chinese: "弱勢群體",
+    keywords: ["vulnerable", "group"],
+    example: {
+      english: "Effective public health policies must prioritize the needs of vulnerable groups, including the elderly, children, the homeless, and those with disabilities or chronic illness.",
+      chinese: "有效的公共衛生政策必須優先考慮弱勢群體的需求，包括老人、兒童、無家可歸者，以及有殘疾或慢性病的人。",
+      grammar_point: "vulnerable group 為可數名詞（常用複數 vulnerable groups）；protect / support vulnerable groups（保護 / 支持弱勢群體）；vulnerable population（弱勢族群）。"
+    },
+    vocabulary: [
+      { word: "prioritize", pos: "v.", chinese: "優先考慮" },
+      { word: "disability", pos: "n.", chinese: "殘疾" },
+      { word: "chronic illness", pos: "n.", chinese: "慢性病" }
+    ],
+    sentence_pattern: {
+      pattern: "N + must prioritize the needs of vulnerable groups, including + N, + N, and + N",
+      example: "Emergency plans must prioritize vulnerable groups, including those without transport or access to digital services."
+    }
+  },
+{
+    phrase: "adverse effect",
+    type: "名詞片語",
+    chinese: "不良影響",
+    keywords: ["adverse", "effect"],
+    example: {
+      english: "Prolonged exposure to air pollution has adverse effects on respiratory health, particularly in children and the elderly, who are most susceptible to environmental toxins.",
+      chinese: "長期暴露於空氣污染對呼吸健康有不良影響，特別是兒童和老年人，他們對環境毒素最為敏感。",
+      grammar_point: "adverse effect 為可數名詞（常用複數 adverse effects）；have / produce adverse effects on + N（對...產生不良影響）；adverse（形容詞：不利的）。"
+    },
+    vocabulary: [
+      { word: "respiratory", pos: "adj.", chinese: "呼吸的" },
+      { word: "susceptible", pos: "adj.", chinese: "敏感的" },
+      { word: "toxin", pos: "n.", chinese: "毒素" }
+    ],
+    sentence_pattern: {
+      pattern: "N + have adverse effects on + N, particularly + N who + be most + adj.",
+      example: "High stress levels have adverse effects on decision-making, particularly leaders who face constant time pressure."
+    }
+  },
+{
+    phrase: "dangerous consequence",
+    type: "名詞片語",
+    chinese: "危險的後果",
+    keywords: ["dangerous", "consequence"],
+    example: {
+      english: "Ignoring mental health warning signs can have dangerous consequences, as untreated conditions often escalate into crises that are far harder to manage.",
+      chinese: "忽視心理健康警示信號可能產生危險的後果，因為未經治療的狀況往往會升級為更難管理的危機。",
+      grammar_point: "dangerous consequence 為可數名詞（常用複數 dangerous consequences）；face / lead to dangerous consequences（面對 / 導致危險後果）。"
+    },
+    vocabulary: [
+      { word: "warning sign", pos: "n.", chinese: "警示信號" },
+      { word: "escalate", pos: "v.", chinese: "升級" },
+      { word: "untreated", pos: "adj.", chinese: "未經治療的" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N + can have dangerous consequences, as + N often + V into + N",
+      example: "Delaying climate action will have dangerous consequences, as small tipping points can trigger irreversible change."
+    }
+  },
+{
+    phrase: "devastating impact",
+    type: "名詞片語",
+    chinese: "毀滅性影響",
+    keywords: ["devastating", "impact"],
+    example: {
+      english: "Natural disasters can have a devastating impact on developing nations, wiping out years of economic progress and forcing millions into poverty overnight.",
+      chinese: "自然災害對發展中國家可能產生毀滅性影響，在一夜之間抹去多年的經濟進展，迫使數百萬人陷入貧窮。",
+      grammar_point: "devastating impact 為可數名詞（常加 a devastating impact）；have a devastating impact on + N（對...產生毀滅性影響）；devastate（動詞）。"
+    },
+    vocabulary: [
+      { word: "wipe out", pos: "phr.v.", chinese: "抹去" },
+      { word: "progress", pos: "n.", chinese: "進展" },
+      { word: "overnight", pos: "adv.", chinese: "一夜之間" }
+    ],
+    sentence_pattern: {
+      pattern: "N + can have a devastating impact on + N, + V-ing + N and + V-ing + N",
+      example: "A cyberattack can have a devastating impact on hospitals, disrupting care and endangering lives."
+    }
+  },
+{
+    phrase: "enormous challenge",
+    type: "名詞片語",
+    chinese: "巨大挑戰",
+    keywords: ["enormous", "challenge"],
+    example: {
+      english: "Feeding a growing global population while reducing agriculture's environmental footprint presents an enormous challenge that will require innovation, policy reform, and international cooperation.",
+      chinese: "在減少農業環境足跡的同時養活不斷增長的全球人口，是一項需要創新、政策改革和國際合作的巨大挑戰。",
+      grammar_point: "enormous challenge 為可數名詞；face / present an enormous challenge（面對 / 呈現巨大挑戰）；rise to the challenge（迎接挑戰）。"
+    },
+    vocabulary: [
+      { word: "footprint", pos: "n.", chinese: "足跡" },
+      { word: "innovation", pos: "n.", chinese: "創新" },
+      { word: "cooperation", pos: "n.", chinese: "合作" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N while + V-ing + N + present an enormous challenge that + will + require + N",
+      example: "Educating every child while closing quality gaps presents an enormous challenge that requires sustained public investment."
+    }
+  },
+{
+    phrase: "environmental impact",
+    type: "名詞片語",
+    chinese: "環境影響",
+    keywords: ["environmental", "impact"],
+    example: {
+      english: "Companies are increasingly expected to measure and report the environmental impact of their operations as part of their corporate social responsibility commitments.",
+      chinese: "隨著企業社會責任承諾的推進，企業越來越被期望衡量和報告其運營的環境影響。",
+      grammar_point: "environmental impact 為不可數名詞；reduce / assess the environmental impact（減少 / 評估環境影響）；environmental impact assessment（環境影響評估，縮寫 EIA）。"
+    },
+    vocabulary: [
+      { word: "measure", pos: "v.", chinese: "衡量" },
+      { word: "operations", pos: "n.", chinese: "運營" },
+      { word: "commitment", pos: "n.", chinese: "承諾" }
+    ],
+    sentence_pattern: {
+      pattern: "S + be expected to + V and + V the environmental impact of + N as part of + N",
+      example: "Developers are expected to assess the environmental impact of new projects as part of the planning process."
+    }
+  },
+{
+    phrase: "far-reaching consequence",
+    type: "名詞片語",
+    chinese: "深遠的後果",
+    keywords: ["far-reaching", "consequence"],
+    example: {
+      english: "The decision to leave school early has far-reaching consequences, limiting future employment opportunities and reducing lifetime earnings significantly.",
+      chinese: "提早離校的決定有深遠的後果，限制了未來的就業機會並顯著降低了終生收入。",
+      grammar_point: "far-reaching consequence 為可數名詞（常用複數）；have / face far-reaching consequences（產生 / 面對深遠後果）；far-reaching（形容詞：深遠的）。"
+    },
+    vocabulary: [
+      { word: "employment", pos: "n.", chinese: "就業" },
+      { word: "lifetime", pos: "adj.", chinese: "終生的" },
+      { word: "significantly", pos: "adv.", chinese: "顯著地" }
+    ],
+    sentence_pattern: {
+      pattern: "N + have far-reaching consequences, + V-ing + N and + V-ing + N",
+      example: "Political corruption has far-reaching consequences, eroding public trust and deterring foreign investment."
+    }
+  },
+{
+    phrase: "harmful effect",
+    type: "名詞片語",
+    chinese: "有害影響",
+    keywords: ["harmful", "effect"],
+    example: {
+      english: "The harmful effects of excessive sugar consumption extend beyond weight gain to include increased risk of diabetes, heart disease, and cognitive decline.",
+      chinese: "過度攝取糖分的有害影響超出了體重增加的範圍，還包括糖尿病、心臟病和認知衰退風險的增加。",
+      grammar_point: "harmful effect 為可數名詞（常用複數 harmful effects）；the harmful effects of + N（...的有害影響）；cause / produce harmful effects（造成有害影響）。"
+    },
+    vocabulary: [
+      { word: "consumption", pos: "n.", chinese: "攝取" },
+      { word: "cognitive decline", pos: "n.", chinese: "認知衰退" },
+      { word: "extend", pos: "v.", chinese: "延伸" }
+    ],
+    sentence_pattern: {
+      pattern: "The harmful effects of + N + extend beyond + N to include + N and + N",
+      example: "The harmful effects of social isolation extend beyond loneliness to include physical decline and memory loss."
+    }
+  },
+{
+    phrase: "heavy burden",
+    type: "名詞片語",
+    chinese: "沉重負擔",
+    keywords: ["heavy", "burden"],
+    example: {
+      english: "Student loan debt has become a heavy burden for millions of graduates, delaying major life milestones such as home ownership, marriage, and starting a family.",
+      chinese: "學生貸款債務已成為數百萬畢業生的沉重負擔，延遲了置房、婚姻和成立家庭等重大人生里程碑。",
+      grammar_point: "heavy burden 為可數名詞；carry / bear / reduce a heavy burden（承擔 / 減輕沉重負擔）；lighten the burden（減輕負擔）。"
+    },
+    vocabulary: [
+      { word: "milestone", pos: "n.", chinese: "里程碑" },
+      { word: "graduate", pos: "n.", chinese: "畢業生" },
+      { word: "delay", pos: "v.", chinese: "延遲" }
+    ],
+    sentence_pattern: {
+      pattern: "N + become a heavy burden for + N, + V-ing + N such as + N and + N",
+      example: "Unpaid care work has become a heavy burden for families, delaying career growth and increasing financial stress."
+    }
+  },
+{
+    phrase: "hidden cost",
+    type: "名詞片語",
+    chinese: "隱性成本",
+    keywords: ["hidden", "cost"],
+    example: {
+      english: "The hidden costs of cheap fast fashion include environmental pollution, unsafe labor conditions, and the long-term financial burden of frequently replacing low-quality items.",
+      chinese: "廉價快時尚的隱性成本包括環境污染、不安全的勞動條件，以及頻繁更換低品質物品的長期財務負擔。",
+      grammar_point: "hidden cost 為可數名詞（常用複數 hidden costs）；reveal / uncover the hidden costs of + N（揭示...的隱性成本）；= invisible cost。"
+    },
+    vocabulary: [
+      { word: "frequently", pos: "adv.", chinese: "頻繁地" },
+      { word: "unsafe", pos: "adj.", chinese: "不安全的" },
+      { word: "reveal", pos: "v.", chinese: "揭示" }
+    ],
+    sentence_pattern: {
+      pattern: "The hidden costs of + N + include + N, + N, and + N",
+      example: "The hidden costs of poor mental health support include absenteeism, reduced productivity, and staff turnover."
+    }
+  },
+{
+    phrase: "inevitable consequence",
+    type: "名詞片語",
+    chinese: "不可避免的後果",
+    keywords: ["inevitable", "consequence"],
+    example: {
+      english: "Environmental degradation is not an inevitable consequence of economic progress; with the right policies, societies can grow sustainably while protecting natural ecosystems.",
+      chinese: "環境退化並不是經濟進步不可避免的後果；有了正確的政策，社會可以在保護自然生態系統的同時實現永續成長。",
+      grammar_point: "inevitable consequence 為可數名詞；accept / challenge the inevitable consequences（接受 / 挑戰不可避免的後果）；inevitably（副詞）。"
+    },
+    vocabulary: [
+      { word: "degradation", pos: "n.", chinese: "退化" },
+      { word: "sustainably", pos: "adv.", chinese: "永續地" },
+      { word: "ecosystem", pos: "n.", chinese: "生態系統" }
+    ],
+    sentence_pattern: {
+      pattern: "N + be not an inevitable consequence of + N; with + N, + S + can + V while + V-ing + N",
+      example: "Poverty is not an inevitable consequence of development; with fair policies, growth can benefit everyone."
+    }
+  },
+{
+    phrase: "lasting impact",
+    type: "名詞片語",
+    chinese: "持久影響",
+    keywords: ["lasting", "impact"],
+    example: {
+      english: "A supportive mentor can have a lasting impact on a young person's confidence, career trajectory, and sense of what is possible in their own life.",
+      chinese: "一位支持性的導師能對年輕人的自信心、職業軌跡和對自己人生可能性的認知產生持久影響。",
+      grammar_point: "lasting impact 為可數名詞；have / make a lasting impact（產生持久影響）；lasting（形容詞：持久的）；= long-term impact。"
+    },
+    vocabulary: [
+      { word: "trajectory", pos: "n.", chinese: "軌跡" },
+      { word: "confidence", pos: "n.", chinese: "自信心" },
+      { word: "supportive", pos: "adj.", chinese: "支持性的" }
+    ],
+    sentence_pattern: {
+      pattern: "N + can have a lasting impact on + N, + N, and + N",
+      example: "Early childhood experiences can have a lasting impact on emotional development, social skills, and academic success."
+    }
+  },
+{
+    phrase: "long-term consequence",
+    type: "名詞片語",
+    chinese: "長期後果",
+    keywords: ["long-term", "consequence"],
+    example: {
+      english: "Failing to invest in children's education today has serious long-term consequences for productivity, innovation, and social cohesion in the decades to come.",
+      chinese: "今天未能投資於兒童教育，對未來幾十年的生產力、創新和社會凝聚力有嚴重的長期後果。",
+      grammar_point: "long-term consequence 為可數名詞（常用複數）；consider / face the long-term consequences of + N（考慮 / 面對...的長期後果）。"
+    },
+    vocabulary: [
+      { word: "productivity", pos: "n.", chinese: "生產力" },
+      { word: "cohesion", pos: "n.", chinese: "凝聚力" },
+      { word: "invest", pos: "v.", chinese: "投資" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N + have serious long-term consequences for + N, + N, and + N",
+      example: "Cutting public health spending has serious long-term consequences for disease prevention and population well-being."
+    }
+  },
+{
+    phrase: "long-term impact",
+    type: "名詞片語",
+    chinese: "長期影響",
+    keywords: ["long-term", "impact"],
+    example: {
+      english: "The long-term impact of childhood poverty on health, educational attainment, and economic mobility demonstrates why early intervention is so critical.",
+      chinese: "童年貧窮對健康、教育程度和經濟流動性的長期影響，說明了為什麼早期介入如此關鍵。",
+      grammar_point: "long-term impact 為可數名詞；measure / assess the long-term impact of + N（衡量 / 評估...的長期影響）；= long-term effect。"
+    },
+    vocabulary: [
+      { word: "attainment", pos: "n.", chinese: "程度" },
+      { word: "mobility", pos: "n.", chinese: "流動性" },
+      { word: "demonstrate", pos: "v.", chinese: "說明" }
+    ],
+    sentence_pattern: {
+      pattern: "The long-term impact of + N on + N, + N, and + N + demonstrate why + N + be so + adj.",
+      example: "The long-term impact of good nutrition on brain development demonstrates why school meals matter so much."
+    }
+  },
+{
+    phrase: "negative consequence",
+    type: "名詞片語",
+    chinese: "負面後果",
+    keywords: ["negative", "consequence"],
+    example: {
+      english: "Overprotecting children from all failure and discomfort can have negative consequences, preventing them from developing resilience, problem-solving skills, and emotional independence.",
+      chinese: "過度保護兒童免受所有失敗和不適，可能產生負面後果，阻止他們培養韌性、解決問題的能力和情感獨立性。",
+      grammar_point: "negative consequence 為可數名詞（常用複數）；have / face / avoid negative consequences（產生 / 面對 / 避免負面後果）。"
+    },
+    vocabulary: [
+      { word: "overprotect", pos: "v.", chinese: "過度保護" },
+      { word: "resilience", pos: "n.", chinese: "韌性" },
+      { word: "independence", pos: "n.", chinese: "獨立性" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + O from + N + can have negative consequences, + V-ing + O from + V-ing + N",
+      example: "Shielding employees from all feedback can have negative consequences, preventing them from improving their skills."
+    }
+  },
+{
+    phrase: "negative impact",
+    type: "名詞片語",
+    chinese: "負面影響",
+    keywords: ["negative", "impact"],
+    example: {
+      english: "Chronic stress has a significant negative impact on both physical and mental health, weakening the immune system and increasing vulnerability to illness.",
+      chinese: "慢性壓力對身心健康都有顯著的負面影響，削弱免疫系統並增加對疾病的易感性。",
+      grammar_point: "negative impact 為可數名詞；have / reduce the negative impact of + N（產生 / 減少...的負面影響）；反義：positive impact（正面影響）。"
+    },
+    vocabulary: [
+      { word: "chronic", pos: "adj.", chinese: "慢性的" },
+      { word: "immune system", pos: "n.", chinese: "免疫系統" },
+      { word: "vulnerability", pos: "n.", chinese: "易感性" }
+    ],
+    sentence_pattern: {
+      pattern: "N + have a significant negative impact on both + N and + N, + V-ing + N",
+      example: "Poor sleep has a significant negative impact on both mood and performance, reducing focus and motivation."
+    }
+  },
+{
+    phrase: "positive impact",
+    type: "名詞片語",
+    chinese: "正面影響",
+    keywords: ["positive", "impact"],
+    example: {
+      english: "Green spaces in urban environments have a measurable positive impact on residents' mental health, encouraging outdoor activity and reducing stress levels.",
+      chinese: "城市環境中的綠色空間對居民的心理健康有可測量的正面影響，鼓勵戶外活動並降低壓力水準。",
+      grammar_point: "positive impact 為可數名詞；have / make a positive impact on + N（對...產生正面影響）；impactful（形容詞）。"
+    },
+    vocabulary: [
+      { word: "measurable", pos: "adj.", chinese: "可測量的" },
+      { word: "resident", pos: "n.", chinese: "居民" },
+      { word: "encourage", pos: "v.", chinese: "鼓勵" }
+    ],
+    sentence_pattern: {
+      pattern: "N + have a measurable positive impact on + N, + V-ing + N and + V-ing + N",
+      example: "Mentoring programs have a measurable positive impact on students, boosting confidence and long-term academic success."
+    }
+  },
+{
+    phrase: "profound impact",
+    type: "名詞片語",
+    chinese: "深遠影響",
+    keywords: ["profound", "impact"],
+    example: {
+      english: "Literature has a profound impact on empathy and emotional intelligence, enabling readers to understand perspectives and experiences very different from their own.",
+      chinese: "文學對同理心和情感智力有深遠影響，使讀者能夠理解與自身截然不同的觀點和經歷。",
+      grammar_point: "profound impact 為可數名詞；have a profound impact on + N（對...產生深遠影響）；profound（形容詞：深遠的）；= deep impact。"
+    },
+    vocabulary: [
+      { word: "empathy", pos: "n.", chinese: "同理心" },
+      { word: "enable", pos: "v.", chinese: "使...能夠" },
+      { word: "perspective", pos: "n.", chinese: "觀點" }
+    ],
+    sentence_pattern: {
+      pattern: "N + have a profound impact on + N, + V-ing + O to + V + N",
+      example: "Volunteering abroad has a profound impact on character, enabling young people to develop humility and global awareness."
+    }
+  },
+{
+    phrase: "serious consequence",
+    type: "名詞片語",
+    chinese: "嚴重後果",
+    keywords: ["serious", "consequence"],
+    example: {
+      english: "Spreading misinformation during a public health crisis can have serious consequences, eroding public trust and undermining the effectiveness of official health guidance.",
+      chinese: "在公共衛生危機期間傳播錯誤資訊可能產生嚴重後果，侵蝕公眾信任並削弱官方健康指導的有效性。",
+      grammar_point: "serious consequence 為可數名詞（常用複數 serious consequences）；face / lead to serious consequences（面對 / 導致嚴重後果）。"
+    },
+    vocabulary: [
+      { word: "misinformation", pos: "n.", chinese: "錯誤資訊" },
+      { word: "erode", pos: "v.", chinese: "侵蝕" },
+      { word: "undermine", pos: "v.", chinese: "削弱" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N + can have serious consequences, + V-ing + N and + V-ing + N",
+      example: "Ignoring safety protocols can have serious consequences, jeopardizing workers' lives and damaging company reputation."
+    }
+  },
+{
+    phrase: "severe impact",
+    type: "名詞片語",
+    chinese: "嚴重影響",
+    keywords: ["severe", "impact"],
+    example: {
+      english: "The severe impact of the economic recession was felt most acutely by low-income households, who had fewer savings to fall back on during periods of unemployment.",
+      chinese: "經濟衰退的嚴重影響在低收入家庭中感受最為強烈，他們在失業期間可依靠的儲蓄更少。",
+      grammar_point: "severe impact 為可數名詞；have / feel the severe impact of + N（感受...的嚴重影響）；severe（形容詞：嚴重的）= serious, grave。"
+    },
+    vocabulary: [
+      { word: "recession", pos: "n.", chinese: "衰退" },
+      { word: "acutely", pos: "adv.", chinese: "強烈地" },
+      { word: "savings", pos: "n.", chinese: "儲蓄" }
+    ],
+    sentence_pattern: {
+      pattern: "The severe impact of + N + be felt most acutely by + N, who + V + adj. + N to + V",
+      example: "The severe impact of drought is felt most acutely by farmers, who have fewer resources to adapt or recover."
+    }
+  },
+{
+    phrase: "significant change",
+    type: "名詞片語",
+    chinese: "重大變化",
+    keywords: ["significant", "change"],
+    example: {
+      english: "The shift to remote work during the pandemic represented a significant change in how companies operate, with lasting effects on work culture and employee expectations.",
+      chinese: "疫情期間轉向遠距工作代表著公司運作方式的重大變化，對工作文化和員工期望產生了持久影響。",
+      grammar_point: "significant change 為可數名詞；undergo / bring about a significant change（經歷 / 帶來重大變化）；significant（形容詞）= major / substantial。"
+    },
+    vocabulary: [
+      { word: "represent", pos: "v.", chinese: "代表" },
+      { word: "remote", pos: "adj.", chinese: "遠距的" },
+      { word: "expectation", pos: "n.", chinese: "期望" }
+    ],
+    sentence_pattern: {
+      pattern: "N + represent a significant change in + N, with + adj. + N on + N",
+      example: "The introduction of AI tools represents a significant change in creative industries, with profound effects on roles and skills."
+    }
+  },
+{
+    phrase: "significant progress",
+    type: "名詞片語",
+    chinese: "顯著進展",
+    keywords: ["significant", "progress"],
+    example: {
+      english: "Significant progress has been made in reducing child mortality rates globally, largely due to improvements in vaccination coverage, nutrition, and access to clean water.",
+      chinese: "在全球降低兒童死亡率方面已取得顯著進展，主要歸功於疫苗接種覆蓋率、營養和獲得清潔水的改善。",
+      grammar_point: "significant progress 為不可數名詞；make / achieve significant progress（取得顯著進展）；significant progress in / toward + N（在...方面取得進展）。"
+    },
+    vocabulary: [
+      { word: "mortality", pos: "n.", chinese: "死亡率" },
+      { word: "vaccination", pos: "n.", chinese: "疫苗接種" },
+      { word: "coverage", pos: "n.", chinese: "覆蓋率" }
+    ],
+    sentence_pattern: {
+      pattern: "Significant progress + be made in + V-ing + N due to + N, + N, and + N",
+      example: "Significant progress has been made in expanding internet access due to satellite technology and policy reform."
+    }
+  },
+{
+    phrase: "social impact",
+    type: "名詞片語",
+    chinese: "社會影響",
+    keywords: ["social", "impact"],
+    example: {
+      english: "Measuring the social impact of community programs helps funders allocate resources more effectively and ensures accountability for outcomes that matter to people's lives.",
+      chinese: "衡量社區計畫的社會影響有助於資助者更有效地分配資源，並確保對影響人們生活的成果承擔責任。",
+      grammar_point: "social impact 為不可數名詞；measure / assess / maximize social impact（衡量 / 評估 / 最大化社會影響）；social impact investing（社會影響力投資）。"
+    },
+    vocabulary: [
+      { word: "funder", pos: "n.", chinese: "資助者" },
+      { word: "allocate", pos: "v.", chinese: "分配" },
+      { word: "accountability", pos: "n.", chinese: "問責" }
+    ],
+    sentence_pattern: {
+      pattern: "Measuring the social impact of + N + help + O + V + N and + ensure + N",
+      example: "Reporting social impact helps businesses attract ethical investors and build stronger community trust."
+    }
+  },
+{
+    phrase: "ambitious goal",
+    type: "名詞片語",
+    chinese: "雄心勃勃的目標",
+    keywords: ["ambitious", "goal"],
+    example: {
+      english: "Setting an ambitious goal pushes individuals and organizations beyond their comfort zones, driving innovation and inspiring others to achieve more than they thought possible.",
+      chinese: "設定雄心勃勃的目標推動個人和組織超越舒適圈，推動創新並激勵他人實現比他們認為可能的更多。",
+      grammar_point: "ambitious goal 為可數名詞；set / pursue an ambitious goal（設定 / 追求雄心勃勃的目標）；ambition（名詞）；ambitious（形容詞）。"
+    },
+    vocabulary: [
+      { word: "push beyond", pos: "phr.v.", chinese: "超越" },
+      { word: "inspire", pos: "v.", chinese: "激勵" },
+      { word: "innovation", pos: "n.", chinese: "創新" }
+    ],
+    sentence_pattern: {
+      pattern: "Setting an ambitious goal + push + O beyond + N, + V-ing + N and + V-ing + O to + V",
+      example: "Setting an ambitious goal unites a team, builds momentum, and inspires collective effort toward a shared purpose."
+    }
+  },
+{
+    phrase: "bold decision",
+    type: "名詞片語",
+    chinese: "大膽決定",
+    keywords: ["bold", "decision"],
+    example: {
+      english: "Sometimes a bold decision made in the face of uncertainty proves to be exactly what was needed to break a cycle of stagnation and create new opportunities.",
+      chinese: "有時在面對不確定性時做出的大膽決定，正是打破停滯循環並創造新機會所需要的。",
+      grammar_point: "bold decision 為可數名詞；make / take a bold decision（做出大膽決定）；bold（形容詞：大膽的）；boldly（副詞）。"
+    },
+    vocabulary: [
+      { word: "uncertainty", pos: "n.", chinese: "不確定性" },
+      { word: "stagnation", pos: "n.", chinese: "停滯" },
+      { word: "boldly", pos: "adv.", chinese: "大膽地" }
+    ],
+    sentence_pattern: {
+      pattern: "A bold decision made in the face of + N + prove to be + N to + V + N and + V + N",
+      example: "A bold decision to pivot the business model proved to be the key to surviving the market downturn."
+    }
+  },
+{
+    phrase: "concrete action",
+    type: "名詞片語",
+    chinese: "具體行動",
+    keywords: ["concrete", "action"],
+    example: {
+      english: "Addressing climate change requires concrete action, not just pledges; governments must implement policies that measurably reduce emissions within clear timeframes.",
+      chinese: "應對氣候變遷需要具體行動，而不僅僅是承諾；政府必須在明確的時間框架內實施能夠可衡量地減少排放的政策。",
+      grammar_point: "concrete action 為不可數名詞；take / demand concrete action（採取 / 要求具體行動）；concrete（形容詞：具體的）反義：vague promises（模糊的承諾）。"
+    },
+    vocabulary: [
+      { word: "pledge", pos: "n.", chinese: "承諾" },
+      { word: "measurably", pos: "adv.", chinese: "可衡量地" },
+      { word: "timeframe", pos: "n.", chinese: "時間框架" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N + require concrete action, not just + N; S + must + V + N",
+      example: "Solving inequality requires concrete action, not just rhetoric; institutions must reform hiring and promotion practices."
+    }
+  },
+{
+    phrase: "consistent effort",
+    type: "名詞片語",
+    chinese: "持續努力",
+    keywords: ["consistent", "effort"],
+    example: {
+      english: "Mastery in any field is not achieved through occasional bursts of inspiration but through consistent effort applied daily over months and years of deliberate practice.",
+      chinese: "任何領域的精通都不是透過偶爾的靈感爆發實現的，而是透過每天應用於數月和數年刻意練習的持續努力。",
+      grammar_point: "consistent effort 為不可數名詞；require / reward consistent effort（需要 / 回報持續努力）；consistency（名詞）；consistently（副詞）。"
+    },
+    vocabulary: [
+      { word: "mastery", pos: "n.", chinese: "精通" },
+      { word: "deliberate", pos: "adj.", chinese: "刻意的" },
+      { word: "occasional", pos: "adj.", chinese: "偶爾的" }
+    ],
+    sentence_pattern: {
+      pattern: "N + be not achieved through + N but through consistent effort + V-ed + adv. over + N",
+      example: "Language fluency is not achieved through weekend classes but through consistent effort practiced daily over years."
+    }
+  },
+{
+    phrase: "decisive action",
+    type: "名詞片語",
+    chinese: "果斷行動",
+    keywords: ["decisive", "action"],
+    example: {
+      english: "When a crisis unfolds rapidly, decisive action by leaders can prevent a manageable situation from escalating into a catastrophe with widespread and irreversible harm.",
+      chinese: "當危機迅速展開時，領導者的果斷行動可以防止一個可管理的情況升級為具有廣泛且不可逆傷害的災難。",
+      grammar_point: "decisive action 為不可數名詞；take / demand decisive action（採取 / 要求果斷行動）；decisive（形容詞：果斷的）；decisively（副詞）。"
+    },
+    vocabulary: [
+      { word: "unfold", pos: "v.", chinese: "展開" },
+      { word: "catastrophe", pos: "n.", chinese: "災難" },
+      { word: "escalate", pos: "v.", chinese: "升級" }
+    ],
+    sentence_pattern: {
+      pattern: "When + N + V + adv., decisive action by + N + can + V + N from + V-ing into + N",
+      example: "When tensions rise sharply, decisive action by negotiators can prevent a dispute from escalating into conflict."
+    }
+  },
+{
+    phrase: "deep commitment",
+    type: "名詞片語",
+    chinese: "深切承諾",
+    keywords: ["deep", "commitment"],
+    example: {
+      english: "Lasting social change depends not on short-term campaigns but on a deep commitment sustained over time by individuals, organizations, and communities working in concert.",
+      chinese: "持久的社會變革不依賴短期運動，而是依靠個人、組織和社群共同努力，長期持續的深切承諾。",
+      grammar_point: "deep commitment 為不可數名詞（常用 a deep commitment）；show / demonstrate a deep commitment to + N（展示對...的深切承諾）。"
+    },
+    vocabulary: [
+      { word: "lasting", pos: "adj.", chinese: "持久的" },
+      { word: "in concert", pos: "adv.", chinese: "共同地" },
+      { word: "sustain", pos: "v.", chinese: "維持" }
+    ],
+    sentence_pattern: {
+      pattern: "N + depend not on + N but on a deep commitment + V-ed over + N by + N",
+      example: "Building peace depends not on treaties alone but on a deep commitment maintained by communities and leaders alike."
+    }
+  },
+{
+    phrase: "genuine effort",
+    type: "名詞片語",
+    chinese: "真誠努力",
+    keywords: ["genuine", "effort"],
+    example: {
+      english: "Rebuilding trust after a serious mistake requires a genuine effort that goes beyond apologies, demonstrating through consistent actions that the behavior will not be repeated.",
+      chinese: "在嚴重錯誤後重建信任需要超越道歉的真誠努力，透過持續行動展示該行為不會再重複。",
+      grammar_point: "genuine effort 為可數名詞（常用 a genuine effort）；make a genuine effort（做出真誠努力）；genuine（形容詞：真誠的）；genuinely（副詞）。"
+    },
+    vocabulary: [
+      { word: "rebuild", pos: "v.", chinese: "重建" },
+      { word: "demonstrate", pos: "v.", chinese: "展示" },
+      { word: "consistently", pos: "adv.", chinese: "持續地" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N after + N + require a genuine effort that + go beyond + N, + V-ing through + N",
+      example: "Closing the achievement gap requires a genuine effort that goes beyond funding, addressing root causes systematically."
+    }
+  },
+{
+    phrase: "immediate action",
+    type: "名詞片語",
+    chinese: "立即行動",
+    keywords: ["immediate", "action"],
+    example: {
+      english: "The worsening state of ocean pollution demands immediate action from both governments and corporations, before the damage becomes truly irreversible.",
+      chinese: "海洋污染日益惡化的狀況要求政府和企業立即行動，以免損害變得真正不可逆轉。",
+      grammar_point: "immediate action 為不可數名詞；take / demand immediate action（採取 / 要求立即行動）；immediate（形容詞：立即的）；immediately（副詞）。"
+    },
+    vocabulary: [
+      { word: "worsening", pos: "adj.", chinese: "日益惡化的" },
+      { word: "irreversible", pos: "adj.", chinese: "不可逆轉的" },
+      { word: "demand", pos: "v.", chinese: "要求" }
+    ],
+    sentence_pattern: {
+      pattern: "The + V-ing + N of + N + demand immediate action from + N, before + N + become + adv. + adj.",
+      example: "The rapid spread of invasive species demands immediate action from authorities before native ecosystems collapse."
+    }
+  },
+{
+    phrase: "innovative approach",
+    type: "名詞片語",
+    chinese: "創新方式",
+    keywords: ["innovative", "approach"],
+    example: {
+      english: "Solving complex modern challenges requires an innovative approach that combines technology, cross-sector collaboration, and community-driven insights.",
+      chinese: "解決複雜的現代挑戰需要結合科技、跨部門合作和社群驅動見解的創新方式。",
+      grammar_point: "innovative approach 為可數名詞；adopt / develop an innovative approach（採用 / 開發創新方式）；innovation（名詞）；innovatively（副詞）。"
+    },
+    vocabulary: [
+      { word: "collaboration", pos: "n.", chinese: "合作" },
+      { word: "sector", pos: "n.", chinese: "部門" },
+      { word: "insight", pos: "n.", chinese: "見解" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N + require an innovative approach that + combine + N, + N, and + N",
+      example: "Reducing urban poverty requires an innovative approach that combines housing reform, job creation, and social support."
+    }
+  },
+{
+    phrase: "innovative solution",
+    type: "名詞片語",
+    chinese: "創新解決方案",
+    keywords: ["innovative", "solution"],
+    example: {
+      english: "The most pressing global problems demand innovative solutions that are not only technically sound but also socially equitable and environmentally sustainable.",
+      chinese: "最緊迫的全球問題需要不僅技術上合理，而且社會上公平、環境上永續的創新解決方案。",
+      grammar_point: "innovative solution 為可數名詞；develop / propose an innovative solution（開發 / 提出創新解決方案）；innovation-driven（創新驅動的）。"
+    },
+    vocabulary: [
+      { word: "technically", pos: "adv.", chinese: "技術上" },
+      { word: "equitable", pos: "adj.", chinese: "公平的" },
+      { word: "pressing", pos: "adj.", chinese: "緊迫的" }
+    ],
+    sentence_pattern: {
+      pattern: "N + demand innovative solutions that be not only + adj. but also + adj. and + adj.",
+      example: "Modern healthcare demands innovative solutions that are not only effective but also affordable and accessible."
+    }
+  },
+{
+    phrase: "long-term goal",
+    type: "名詞片語",
+    chinese: "長期目標",
+    keywords: ["long-term", "goal"],
+    example: {
+      english: "While short-term achievements are motivating, keeping sight of the long-term goal ensures that daily decisions remain aligned with one's deeper values and broader ambitions.",
+      chinese: "雖然短期成就令人振奮，但保持對長期目標的關注確保了日常決策與一個人更深層的價值觀和更廣泛的抱負保持一致。",
+      grammar_point: "long-term goal 為可數名詞；set / pursue / achieve a long-term goal（設定 / 追求 / 實現長期目標）；反義：short-term goal（短期目標）。"
+    },
+    vocabulary: [
+      { word: "aligned", pos: "adj.", chinese: "一致的" },
+      { word: "ambition", pos: "n.", chinese: "抱負" },
+      { word: "motivating", pos: "adj.", chinese: "令人振奮的" }
+    ],
+    sentence_pattern: {
+      pattern: "While + N + be + V-ing, keeping sight of the long-term goal + ensure that + N + remain + V-ed",
+      example: "While quick wins boost morale, keeping the long-term goal in view ensures effort stays directed at lasting change."
+    }
+  },
+{
+    phrase: "long-term solution",
+    type: "名詞片語",
+    chinese: "長期解決方案",
+    keywords: ["long-term", "solution"],
+    example: {
+      english: "Treating the symptoms of a problem without addressing its root cause is not a long-term solution; it merely delays the inevitable and often increases eventual costs.",
+      chinese: "在不解決問題根本原因的情況下治療症狀不是長期解決方案；它只是延遲了不可避免的事情，並且通常會增加最終成本。",
+      grammar_point: "long-term solution 為可數名詞；develop / seek a long-term solution（開發 / 尋求長期解決方案）；反義：quick fix / short-term fix（短期措施）。"
+    },
+    vocabulary: [
+      { word: "inevitable", pos: "adj.", chinese: "不可避免的" },
+      { word: "eventual", pos: "adj.", chinese: "最終的" },
+      { word: "symptom", pos: "n.", chinese: "症狀" }
+    ],
+    sentence_pattern: {
+      pattern: "V-ing + N without + V-ing + N + be not a long-term solution; it merely + V + N",
+      example: "Increasing prison capacity without reducing reoffending is not a long-term solution; it merely delays the problem."
+    }
+  },
+{
+    phrase: "practical solution",
+    type: "名詞片語",
+    chinese: "實用解決方案",
+    keywords: ["practical", "solution"],
+    example: {
+      english: "Rather than debating the ideal outcome, the team focused on finding a practical solution that could be implemented quickly with the resources already available.",
+      chinese: "該團隊沒有辯論理想結果，而是專注於找到一個可以利用現有資源快速實施的實用解決方案。",
+      grammar_point: "practical solution 為可數名詞；find / offer a practical solution（找到 / 提供實用解決方案）；practical（形容詞：實用的）；practically（副詞）。"
+    },
+    vocabulary: [
+      { word: "implement", pos: "v.", chinese: "實施" },
+      { word: "available", pos: "adj.", chinese: "現有的" },
+      { word: "debate", pos: "v.", chinese: "辯論" }
+    ],
+    sentence_pattern: {
+      pattern: "Rather than + V-ing + N, S + focus on + V-ing + N that + be + V-ed + adv.",
+      example: "Rather than waiting for perfect conditions, good teams focus on finding practical solutions that can move things forward now."
+    }
+  },
+{
+    phrase: "realistic goal",
+    type: "名詞片語",
+    chinese: "實際目標",
+    keywords: ["realistic", "goal"],
+    example: {
+      english: "Setting a realistic goal that stretches your abilities without overwhelming you is key to maintaining motivation and achieving steady, meaningful progress over time.",
+      chinese: "設定一個能夠延伸你的能力而不會讓你不堪重負的實際目標，是維持動力並隨時間取得穩定、有意義進展的關鍵。",
+      grammar_point: "realistic goal 為可數名詞；set / establish a realistic goal（設定實際目標）；realistic（形容詞：實際的）；反義：unrealistic goal（不切實際的目標）。"
+    },
+    vocabulary: [
+      { word: "stretch", pos: "v.", chinese: "延伸" },
+      { word: "overwhelm", pos: "v.", chinese: "不堪重負" },
+      { word: "steady", pos: "adj.", chinese: "穩定的" }
+    ],
+    sentence_pattern: {
+      pattern: "Setting a realistic goal that + V + N without + V-ing + N + be key to + V-ing + N",
+      example: "Setting a realistic goal that challenges you without paralyzing you is key to building lasting confidence."
+    }
+  },
+{
+    phrase: "specific goal",
+    type: "名詞片語",
+    chinese: "具體目標",
+    keywords: ["specific", "goal"],
+    example: {
+      english: "Research in psychology shows that people who set specific goals with clear timelines are far more likely to follow through than those who rely on vague intentions.",
+      chinese: "心理學研究表明，設定有明確時間表的具體目標的人，比依賴模糊意圖的人更有可能付諸實踐。",
+      grammar_point: "specific goal 為可數名詞；set / define a specific goal（設定 / 定義具體目標）；SMART goal（具體的 / 可衡量的 / 可實現的 / 相關的 / 有時限的目標）。"
+    },
+    vocabulary: [
+      { word: "timeline", pos: "n.", chinese: "時間表" },
+      { word: "follow through", pos: "phr.v.", chinese: "付諸實踐" },
+      { word: "intention", pos: "n.", chinese: "意圖" }
+    ],
+    sentence_pattern: {
+      pattern: "S + who set specific goals with + adj. + N + be far more likely to + V than + N who + V on + N",
+      example: "Students who set specific goals for each study session are far more likely to retain information than those studying without direction."
+    }
+  },
+{
+    phrase: "urgent action",
+    type: "名詞片語",
+    chinese: "緊急行動",
+    keywords: ["urgent", "action"],
+    example: {
+      english: "Scientists and climate experts agree that urgent action is needed now to prevent the worst effects of global warming from becoming locked in for generations.",
+      chinese: "科學家和氣候專家一致認為，現在需要採取緊急行動，以防止全球暖化的最壞影響被鎖定於世代之中。",
+      grammar_point: "urgent action 為不可數名詞；call for / take urgent action（呼籲 / 採取緊急行動）；urge + N to + V（敦促...採取行動）。"
+    },
+    vocabulary: [
+      { word: "locked in", pos: "phr.", chinese: "被鎖定" },
+      { word: "generation", pos: "n.", chinese: "世代" },
+      { word: "prevent", pos: "v.", chinese: "防止" }
+    ],
+    sentence_pattern: {
+      pattern: "S + agree that urgent action + be needed to + V + N from + V-ing + V-ed for + N",
+      example: "Health authorities agree that urgent action is needed to prevent antibiotic resistance from becoming unmanageable."
+    }
+  },
+{
+    phrase: "urgent need",
+    type: "名詞片語",
+    chinese: "迫切需求",
+    keywords: ["urgent", "need"],
+    example: {
+      english: "There is an urgent need for transparent leadership during times of crisis, as public confidence in institutions depends heavily on clear and honest communication.",
+      chinese: "在危機時期有對透明領導的迫切需求，因為公眾對機構的信心在很大程度上取決於清晰誠實的溝通。",
+      grammar_point: "urgent need 為可數名詞；there is an urgent need for + N（有對...的迫切需求）；address / meet an urgent need（解決 / 滿足迫切需求）。"
+    },
+    vocabulary: [
+      { word: "transparent", pos: "adj.", chinese: "透明的" },
+      { word: "confidence", pos: "n.", chinese: "信心" },
+      { word: "communication", pos: "n.", chinese: "溝通" }
+    ],
+    sentence_pattern: {
+      pattern: "There + be an urgent need for + N, as + N + depend heavily on + N",
+      example: "There is an urgent need for mental health resources in schools, as student well-being depends heavily on accessible support."
+    }
+  },
+{
+    phrase: "wise decision",
+    type: "名詞片語",
+    chinese: "明智決定",
+    keywords: ["wise", "decision"],
+    example: {
+      english: "Making a wise decision often requires stepping back from immediate emotions, gathering relevant information, and considering the long-term consequences of each available option.",
+      chinese: "做出明智決定往往需要從即時情緒中退後一步，收集相關資訊，並考慮每個可用選項的長期後果。",
+      grammar_point: "wise decision 為可數名詞；make a wise decision（做出明智決定）；wisdom（名詞）；wisely（副詞）。"
+    },
+    vocabulary: [
+      { word: "immediate", pos: "adj.", chinese: "即時的" },
+      { word: "relevant", pos: "adj.", chinese: "相關的" },
+      { word: "consequence", pos: "n.", chinese: "後果" }
+    ],
+    sentence_pattern: {
+      pattern: "Making a wise decision + require + V-ing from + N, + V-ing + N, and + V-ing + N",
+      example: "Making a wise decision in a crisis requires pausing before reacting, consulting others, and weighing all available evidence."
     }
   },
 ];
