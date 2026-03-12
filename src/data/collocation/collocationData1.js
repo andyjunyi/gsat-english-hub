@@ -54383,4 +54383,589 @@ export const collocationData1 = [
       example: "Making a wise decision in a crisis requires pausing before reacting, consulting others, and weighing all available evidence."
     }
   },
+  {
+    phrase: "make a choice",
+    type: "動詞 + 名詞",
+    chinese: "做出選擇、做決定",
+    keywords: ["make", "choice"],
+    example: {
+      english: "Before making any major choice, it is important to take time to carefully weigh the pros and cons of all options.",
+      chinese: "在做出任何重大選擇之前，花時間仔細權衡所有選項的利弊是非常重要的。",
+      grammar_point: "Before + V-ing + N, it is + adj + to + V + N"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Before + V-ing + N, it is + adj + to + V + N", example: "You are free to make your own choice, but please be prepared to accept the consequences." }
+  },
+  {
+    phrase: "have a choice",
+    type: "動詞 + 名詞",
+    chinese: "有選擇的餘地、有得選",
+    keywords: ["have", "choice"],
+    example: {
+      english: "In that emergency situation, they simply did not have a choice and had to take immediate action.",
+      chinese: "在那種緊急情況下，他們根本沒有選擇的餘地，只能立刻採取行動。",
+      grammar_point: "In + N, S + did not have a choice and had to + V"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "In + N, S + did not have a choice and had to + V", example: "Everyone should have a choice about how their personal data is collected and used." }
+  },
+  {
+    phrase: "face a choice",
+    type: "動詞 + 名詞",
+    chinese: "面臨選擇、面對抉擇",
+    keywords: ["face", "choice"],
+    example: {
+      english: "She faced a difficult choice between accepting her dream job overseas and staying home to care for her ageing parents.",
+      chinese: "她面臨一個艱難的選擇：接受海外的夢幻工作，或是留在家鄉照顧年邁的父母。",
+      grammar_point: "S + faced a difficult choice between + V-ing + N + and + V-ing + N"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + faced a difficult choice between + V-ing + N + and + V-ing + N", example: "Many young people today face a choice between job security and pursuing their true passion." }
+  },
+  {
+    phrase: "leave someone no choice",
+    type: "動詞片語",
+    chinese: "讓某人別無選擇、迫使某人",
+    keywords: ["leave", "someone", "no", "choice"],
+    example: {
+      english: "The employee's persistent misconduct left the management with no choice but to terminate his contract.",
+      chinese: "員工持續的不當行為讓管理層別無選擇，只能終止他的合約。",
+      grammar_point: "N + left + 人 + with no choice but to + V"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + left + 人 + with no choice but to + V", example: "The flooding left residents with no choice but to evacuate their homes immediately." }
+  },
+  {
+    phrase: "exercise a choice",
+    type: "動詞 + 名詞",
+    chinese: "行使選擇權、做出選擇",
+    keywords: ["exercise", "choice"],
+    example: {
+      english: "In a democratic society, every citizen has the right to exercise a choice at the ballot box during elections.",
+      chinese: "在民主社會中，每位公民都有權利在選舉中行使自己的選擇權。",
+      grammar_point: "In + N, S + has the right to exercise a choice + 地點"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "In + N, S + has the right to exercise a choice + 地點", example: "Consumers exercise a choice every time they decide which brand or product to buy." }
+  },
+  {
+    phrase: "difficult choice",
+    type: "形容詞 + 名詞",
+    chinese: "艱難的選擇、兩難的抉擇",
+    keywords: ["difficult", "choice"],
+    example: {
+      english: "Choosing between two equally talented candidates was a difficult choice for the interview panel.",
+      chinese: "要在兩個同樣有才華的應徵者中選出一個，對面試小組來說是個艱難的選擇。",
+      grammar_point: "V-ing between + N + was a difficult choice for + 人"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "V-ing between + N + was a difficult choice for + 人", example: "She admitted it had been a difficult choice, but she was confident she had made the right decision." }
+  },
+  {
+    phrase: "informed choice",
+    type: "形容詞 + 名詞",
+    chinese: "明智的選擇、知情的決定",
+    keywords: ["informed", "choice"],
+    example: {
+      english: "Doctors have a responsibility to give patients all the necessary information so they can make an informed choice about their treatment.",
+      chinese: "醫生有責任提供病患所有必要的資訊，讓他們能夠做出關於治療的明智選擇。",
+      grammar_point: "N + have a responsibility to + V + so + S + can make an informed choice about + N"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + have a responsibility to + V + so + S + can make an informed choice about + N", example: "Read the terms and conditions carefully before signing — only then can you make a truly informed choice." }
+  },
+  {
+    phrase: "wise choice",
+    type: "形容詞 + 名詞",
+    chinese: "明智的選擇、英明的決定",
+    keywords: ["wise", "choice"],
+    example: {
+      english: "Choosing to invest in your education and skills while young is often the wisest choice a person can make.",
+      chinese: "選擇在年輕時投資自己的教育和技能，往往是一個人能做出的最明智的選擇。",
+      grammar_point: "V-ing + N + while + adj + is often the wisest choice + S + can make"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "V-ing + N + while + adj + is often the wisest choice + S + can make", example: "In hindsight, leaving the city and starting a quieter life turned out to be a very wise choice." }
+  },
+  {
+    phrase: "free choice",
+    type: "形容詞 + 名詞",
+    chinese: "自由選擇、不受限制的選擇",
+    keywords: ["free", "choice"],
+    example: {
+      english: "A truly democratic society should guarantee every citizen the right to free choice in all aspects of their lives.",
+      chinese: "一個真正民主的社會應當保障每位公民在生活各個層面的自由選擇權。",
+      grammar_point: "A truly + adj + N + should + V + N + the right to free choice in + N"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "A truly + adj + N + should + V + N + the right to free choice in + N", example: "Education should encourage free choice rather than pushing students towards a narrow set of career paths." }
+  },
+  {
+    phrase: "limited choice",
+    type: "形容詞 + 名詞",
+    chinese: "有限的選擇、選擇不多",
+    keywords: ["limited", "choice"],
+    example: {
+      english: "Residents living in remote rural areas often have limited choice when it comes to healthcare services and educational resources.",
+      chinese: "住在偏遠農村地區的居民在醫療服務和教育資源方面通常只有有限的選擇。",
+      grammar_point: "S + have limited choice when it comes to + N + and + N"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + have limited choice when it comes to + N + and + N", example: "Travellers arriving late at the airport may find they have limited choice of restaurants still open." }
+  },
+  {
+    phrase: "by choice",
+    type: "介系詞片語",
+    chinese: "出於自願、自己選擇的",
+    keywords: ["by", "choice"],
+    example: {
+      english: "She is a vegetarian entirely by choice, not because of any health condition that requires her to avoid meat.",
+      chinese: "她是個素食者，完全是出於自願，而不是因為任何健康上的原因被迫如此。",
+      grammar_point: "S + V + entirely by choice, not because of + N"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + V + entirely by choice, not because of + N", example: "He lives alone by choice and genuinely enjoys the peace and independence it gives him." }
+  },
+  {
+    phrase: "have no choice but to",
+    type: "慣用語",
+    chinese: "別無選擇只能…、不得不",
+    keywords: ["have", "no", "choice", "but", "to"],
+    example: {
+      english: "Due to ongoing losses, the company had no choice but to shut down several underperforming divisions in order to survive.",
+      chinese: "由於持續的虧損，公司別無選擇，只能關閉幾個表現不佳的部門以求生存。",
+      grammar_point: "Due to + N, S + had no choice but to + V + in order to + V"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Due to + N, S + had no choice but to + V + in order to + V", example: "With the storm approaching rapidly, the organisers had no choice but to cancel the outdoor event." }
+  },
+  {
+    phrase: "of choice",
+    type: "介系詞片語",
+    chinese: "首選的、最受青睞的",
+    keywords: ["of", "choice"],
+    example: {
+      english: "Coffee has become the beverage of choice for many professionals around the world during long working days.",
+      chinese: "咖啡已成為全球許多專業人士在漫長工作日中的首選提神飲料。",
+      grammar_point: "N + has become the N + of choice for + 人 + during + N"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + has become the N + of choice for + 人 + during + N", example: "Streaming platforms have become the entertainment medium of choice for younger generations worldwide." }
+  },
+  {
+    phrase: "spoilt for choice",
+    type: "慣用語",
+    chinese: "選擇太多不知從何選起、多得難以取捨",
+    keywords: ["spoilt", "for", "choice"],
+    example: {
+      english: "With such a vast variety of restaurants in the city, visiting tourists are often completely spoilt for choice.",
+      chinese: "這座城市的餐廳種類繁多，來訪的遊客往往都會覺得選擇太多不知從何選起。",
+      grammar_point: "With + N + of + N, S + are often spoilt for choice"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "With + N + of + N, S + are often spoilt for choice", example: "Anyone looking for outdoor activities in this region will be absolutely spoilt for choice." }
+  },
+  {
+    phrase: "choice between",
+    type: "名詞 + 介系詞",
+    chinese: "在…之間做選擇、二擇一的抉擇",
+    keywords: ["choice", "between"],
+    example: {
+      english: "The choice between career advancement and personal life is a central dilemma that many modern professionals face.",
+      chinese: "在職業發展和個人生活之間做出取捨，是許多現代專業人士面臨的核心抉擇。",
+      grammar_point: "The choice between + N + and + N + is + N + that + S + V"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "The choice between + N + and + N + is + N + that + S + V", example: "Voters were faced with a clear choice between two very different visions for the country's future." }
+  },
+  {
+    phrase: "bone up on",
+    type: "片語動詞",
+    chinese: "臨時惡補、勤加複習",
+    keywords: ["bone", "up", "on"],
+    example: {
+      english: "She spent the entire weekend boning up on European history before the final exam on Monday.",
+      chinese: "她在週末整整兩天臨時惡補歐洲歷史，為了週一的期末考試做準備。",
+      grammar_point: "spent + 時間 + V-ing（花時間做某事）；before + N（時間副詞片語）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + spent + 時間 + boning up on + N + before + N", example: "You should bone up on the company's background before going into the interview." }
+  },
+  {
+    phrase: "brush up on",
+    type: "片語動詞",
+    chinese: "重新複習、溫故知新",
+    keywords: ["brush", "up", "on"],
+    example: {
+      english: "Before moving to Spain, he decided to brush up on his Spanish by taking an online conversation course.",
+      chinese: "在搬去西班牙之前，他決定透過線上會話課程重新複習西班牙語。",
+      grammar_point: "before + V-ing（時間副詞片語）；by + V-ing（藉由…，介系詞片語表方式）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Before + V-ing, S + decided to brush up on + N + by + V-ing", example: "It is worth brushing up on your presentation skills before addressing such a large audience." }
+  },
+  {
+    phrase: "boil down to",
+    type: "片語動詞",
+    chinese: "歸結為、核心問題是",
+    keywords: ["boil", "down", "to"],
+    example: {
+      english: "Despite the lengthy debate, the issue ultimately boiled down to one question: who would bear the cost.",
+      chinese: "儘管討論冗長，這個問題最終歸結為一個問題：誰來承擔費用。",
+      grammar_point: "despite + N（儘管…，介系詞片語表讓步）；ultimately + V（副詞表最終）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Despite + N, N + ultimately boiled down to + N", example: "All their disagreements boiled down to a simple lack of communication between the two teams." }
+  },
+  {
+    phrase: "chip away at",
+    type: "片語動詞",
+    chinese: "逐漸削弱、一點一點地攻克",
+    keywords: ["chip", "away", "at"],
+    example: {
+      english: "Years of criticism from her colleagues slowly chipped away at her confidence until she began to doubt herself.",
+      chinese: "多年來同事的批評慢慢地侵蝕了她的自信，直到她開始懷疑自己。",
+      grammar_point: "years of + N（多年的…）；until + S + V（直到…，結果副詞子句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + slowly chipped away at + N + until + S + V", example: "Keep chipping away at the problem — even small progress adds up over time." }
+  },
+  {
+    phrase: "dig in",
+    type: "片語動詞",
+    chinese: "開始大吃；埋頭苦幹；堅守陣地",
+    keywords: ["dig", "in"],
+    example: {
+      english: "The food had just been served and the host told everyone to dig in before it got cold.",
+      chinese: "食物剛剛端上桌，主人叫大家趕快開動，別讓它涼了。",
+      grammar_point: "had just been + p.p.（被動語態，過去完成式）；before + S + V（時間副詞子句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + had just been + p.p. + and S + told + 人 + to dig in before + S + V", example: "We have a lot of work ahead of us, so let's just dig in and get started." }
+  },
+  {
+    phrase: "dry out",
+    type: "片語動詞",
+    chinese: "使乾燥、晾乾；戒酒（口語）",
+    keywords: ["dry", "out"],
+    example: {
+      english: "After the flood, they laid all the waterlogged furniture outside in the sun to dry out completely.",
+      chinese: "洪水過後，他們把所有泡水的家具搬到外面在陽光下完全晾乾。",
+      grammar_point: "after + N（時間副詞片語）；to + V（不定詞表目的）；completely（副詞加強）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "After + N, S + V + N + to dry out + adv", example: "Leave the paint to dry out fully before applying a second coat." }
+  },
+  {
+    phrase: "dust off",
+    type: "片語動詞",
+    chinese: "拂去塵埃；重新啟用、重拾",
+    keywords: ["dust", "off"],
+    example: {
+      english: "After ten years away from the sport, she dusted off her tennis racket and signed up for lessons again.",
+      chinese: "離開這項運動十年後，她重新拾起網球拍，再次報名上課。",
+      grammar_point: "after + 時間 + away from + N（離開…多少時間後）；and + V（連接兩個動作）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "After + 時間 + away from + N, S + dusted off + N + and + V", example: "It is time to dust off that business plan and finally put it into action." }
+  },
+  {
+    phrase: "flag up",
+    type: "片語動詞",
+    chinese: "標記、提醒注意、指出問題",
+    keywords: ["flag", "up"],
+    example: {
+      english: "The accountant flagged up several irregularities in the financial report that required immediate investigation.",
+      chinese: "會計師在財務報告中標記了幾處需要立即調查的異常情況。",
+      grammar_point: "flagged up + N（標記了…）；that + 關係子句（修飾先行詞 irregularities）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + flagged up + N + in + N + that + V", example: "Please flag up any concerns you have before the project moves into the next stage." }
+  },
+  {
+    phrase: "fritter away",
+    type: "片語動詞",
+    chinese: "浪費（時間、金錢或機會）",
+    keywords: ["fritter", "away"],
+    example: {
+      english: "He frittered away his entire inheritance on gambling and luxury goods within just two years.",
+      chinese: "他在短短兩年內就把所有遺產揮霍在賭博和奢侈品上。",
+      grammar_point: "frittered away + N + on + N（把…揮霍在…上）；within + 時間（在…之內）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + frittered away + N + on + N + within + 時間", example: "Stop frittering away your evenings on social media and use the time to develop a new skill." }
+  },
+  {
+    phrase: "get round",
+    type: "片語動詞",
+    chinese: "繞過（規定）、想辦法克服；說服某人",
+    keywords: ["get", "round"],
+    example: {
+      english: "The legal team found a clever way to get round the regulation without technically breaking any rules.",
+      chinese: "法律團隊找到了一個巧妙的方法繞過這項規定，而在技術上沒有違反任何規則。",
+      grammar_point: "found a way to + V（找到方法做某事）；without + V-ing（不…，介系詞片語）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + found a way to get round + N + without + V-ing", example: "There is no way to get round the fact that the deadline is tomorrow — we must finish tonight." }
+  },
+  {
+    phrase: "knuckle down",
+    type: "片語動詞",
+    chinese: "認真努力、全力以赴、收心苦幹",
+    keywords: ["knuckle", "down"],
+    example: {
+      english: "After weeks of procrastination, he finally knuckled down and completed the entire report in one day.",
+      chinese: "在拖延了幾週之後，他終於認真努力，在一天內完成了整份報告。",
+      grammar_point: "after + 時間 + of + N（在幾週的…之後）；finally + V（副詞表最終）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "After + 時間 + of + N, S + finally knuckled down and + V", example: "If you want to pass the exam, you are going to have to knuckle down and study seriously." }
+  },
+  {
+    phrase: "liven up",
+    type: "片語動詞",
+    chinese: "使活躍起來、炒熱氣氛、增添趣味",
+    keywords: ["liven", "up"],
+    example: {
+      english: "The DJ arrived just in time to liven up the party, which had been rather quiet for most of the evening.",
+      chinese: "DJ 剛好及時到來讓派對熱鬧起來，因為整個晚上大部分時間都相當冷清。",
+      grammar_point: "arrived just in time to + V（剛好及時做某事）；which + 關係子句（修飾先行詞 party）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + arrived just in time to liven up + N, which + had been + adj", example: "Adding a few colourful decorations really livened up the otherwise plain classroom." }
+  },
+  {
+    phrase: "log off",
+    type: "片語動詞",
+    chinese: "登出、下線、結束連線",
+    keywords: ["log", "off"],
+    example: {
+      english: "Always remember to log off your work account when using a shared or public computer.",
+      chinese: "使用共用或公共電腦時，記得要登出你的工作帳號。",
+      grammar_point: "always remember to + V（記得要…）；when + V-ing（當…的時候）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Always remember to log off + N + when + V-ing", example: "She logged off the system and shut down her computer before leaving the office for the weekend." }
+  },
+  {
+    phrase: "mop up",
+    type: "片語動詞",
+    chinese: "擦乾淨、收拾殘局；掃蕩殘餘",
+    keywords: ["mop", "up"],
+    example: {
+      english: "After the pipe burst, the maintenance team spent hours mopping up the water that had flooded the corridor.",
+      chinese: "管道爆裂後，維修團隊花了幾個小時清理淹沒走廊的積水。",
+      grammar_point: "after + N（時間副詞片語）；spent + 時間 + V-ing（花時間做某事）；that + 關係子句"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "After + N, S + spent + 時間 + mopping up + N + that + V", example: "It took the government months to mop up the damage caused by the financial scandal." }
+  },
+  {
+    phrase: "muddle through",
+    type: "片語動詞",
+    chinese: "稀裡糊塗地應付過去、勉強撐過",
+    keywords: ["muddle", "through"],
+    example: {
+      english: "Without any formal training, he somehow managed to muddle through his first year as a manager.",
+      chinese: "在沒有任何正式培訓的情況下，他不知怎麼地勉強撐過了身為經理的第一年。",
+      grammar_point: "without + N（沒有…，介系詞片語）；somehow + managed to + V（不知怎地設法做到）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Without + N, S + somehow managed to muddle through + N", example: "We did not have all the answers, but we muddled through and delivered the project on time." }
+  },
+  {
+    phrase: "muster up",
+    type: "片語動詞",
+    chinese: "鼓起（勇氣或力氣）、召集",
+    keywords: ["muster", "up"],
+    example: {
+      english: "It took her a long time to muster up the courage to confront her boss about the unfair treatment.",
+      chinese: "她花了很長時間才鼓起勇氣去和老闆正面談論不公平的對待。",
+      grammar_point: "It took + 人 + 時間 + to + V（花某人時間做某事）；to + V（不定詞作 courage 的修飾語）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "It took + 人 + 時間 + to muster up the courage to + V", example: "He finally mustered up enough energy to finish the last few kilometres of the marathon." }
+  },
+  {
+    phrase: "nip out",
+    type: "片語動詞",
+    chinese: "快速出去一趟、溜出去一下",
+    keywords: ["nip", "out"],
+    example: {
+      english: "She nipped out to the corner shop during her lunch break to grab a sandwich and a bottle of water.",
+      chinese: "她在午休時間快速溜出去到轉角的小店買了一個三明治和一瓶水。",
+      grammar_point: "nipped out to + N（快速出去到…）；during + N（在…期間）；to + V（不定詞表目的）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + nipped out to + N + during + N + to + V", example: "Can I nip out for five minutes? I need to make an urgent phone call." }
+  },
+  {
+    phrase: "paper over",
+    type: "片語動詞",
+    chinese: "掩蓋問題、粉飾太平",
+    keywords: ["paper", "over"],
+    example: {
+      english: "The management tried to paper over the internal conflicts with a company retreat, but the tensions remained.",
+      chinese: "管理層試圖用公司旅遊來掩蓋內部衝突，但緊張關係依然存在。",
+      grammar_point: "tried to + V（試圖做某事）；with + N（用…，介系詞片語表方式）；but + S + V（轉折）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + tried to paper over + N + with + N, but + N + V", example: "You cannot keep papering over the cracks — the underlying problems need to be dealt with directly." }
+  },
+  {
+    phrase: "peel back",
+    type: "片語動詞",
+    chinese: "揭開表層、剝去外層；深入揭露",
+    keywords: ["peel", "back"],
+    example: {
+      english: "The documentary peeled back the layers of the scandal to reveal the corruption hidden beneath the surface.",
+      chinese: "這部紀錄片揭開了醜聞的層層面紗，揭露了隱藏在表面之下的腐敗。",
+      grammar_point: "peeled back + N（揭開了…）；to + V（不定詞表結果）；hidden beneath + N（隱藏在…之下）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + peeled back + N + to reveal + N + hidden beneath + N", example: "Once you peel back the polished exterior, the real problems within the organisation become clear." }
+  },
+  {
+    phrase: "perk up",
+    type: "片語動詞",
+    chinese: "振作起來、恢復精神；（使）變得更活潑",
+    keywords: ["perk", "up"],
+    example: {
+      english: "She perked up noticeably after hearing the good news, her earlier tiredness completely forgotten.",
+      chinese: "聽到好消息後，她明顯地振作了起來，之前的疲憊完全消散了。",
+      grammar_point: "perked up + adv（明顯地振作）；after + V-ing（時間副詞片語）；earlier + N（之前的…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + perked up + adv + after + V-ing, N + adv + p.p.", example: "A strong cup of coffee is usually enough to perk me up on a slow Monday morning." }
+  },
+  {
+    phrase: "peter out",
+    type: "片語動詞",
+    chinese: "逐漸消失、慢慢停止、無疾而終",
+    keywords: ["peter", "out"],
+    example: {
+      english: "The initial enthusiasm for the new project petered out once the team realised how much work was involved.",
+      chinese: "一旦團隊意識到涉及的工作量有多大，對新計畫的初始熱情就逐漸消散了。",
+      grammar_point: "petered out + once + S + V（一旦…就消退了，時間副詞子句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + petered out + once + S + V", example: "The conversation gradually petered out as neither of them could think of anything more to say." }
+  },
+  {
+    phrase: "plod on",
+    type: "片語動詞",
+    chinese: "慢慢推進、埋頭苦幹、不屈不撓地繼續",
+    keywords: ["plod", "on"],
+    example: {
+      english: "Despite the exhausting conditions, the rescue team plodded on through the night until they found the missing hiker.",
+      chinese: "儘管條件極為艱辛，救援隊仍整夜不停地推進，直到找到失蹤的登山者。",
+      grammar_point: "despite + N（儘管…，介系詞片語表讓步）；until + S + V（直到…，結果副詞子句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Despite + N, S + plodded on + 時間 + until + S + V", example: "The work is slow and repetitive, but we just have to plod on until it is finished." }
+  },
+  {
+    phrase: "pluck up",
+    type: "片語動詞",
+    chinese: "鼓起（勇氣）、振作精神",
+    keywords: ["pluck", "up"],
+    example: {
+      english: "He had wanted to ask her out for months but could never quite pluck up the courage to do it.",
+      chinese: "他想約她出去已好幾個月了，但始終無法鼓起勇氣去開口。",
+      grammar_point: "had wanted to + V（過去完成式，表示長久的想法）；but + could never + V（轉折加否定）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + had wanted to + V + for + 時間 + but + could never + pluck up the courage to + V", example: "You just need to pluck up your courage and tell them how you honestly feel." }
+  },
+  {
+    phrase: "polish off",
+    type: "片語動詞",
+    chinese: "迅速吃完；順利完成、搞定",
+    keywords: ["polish", "off"],
+    example: {
+      english: "The children polished off the entire birthday cake within minutes, leaving not a single crumb behind.",
+      chinese: "孩子們在幾分鐘內就把整個生日蛋糕吃個精光，連一點碎屑都沒留下。",
+      grammar_point: "polished off + N + within + 時間（在…內迅速吃完）；leaving + N（分詞構句表結果）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + polished off + N + within + 時間, leaving + N + behind", example: "She polished off the last three chapters of the report before lunchtime and submitted it early." }
+  },
+  {
+    phrase: "press ahead",
+    type: "片語動詞",
+    chinese: "繼續推進、堅持前行不退縮",
+    keywords: ["press", "ahead"],
+    example: {
+      english: "Despite strong opposition from local residents, the council voted to press ahead with the construction plans.",
+      chinese: "儘管當地居民強烈反對，市議會仍投票決定繼續推進建設計畫。",
+      grammar_point: "despite + N（儘管…，介系詞片語表讓步）；voted to + V（投票決定做某事）；with + N（繼續…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Despite + N, S + voted to press ahead with + N", example: "We have come too far to turn back now — we must press ahead and see this through." }
+  },
+  {
+    phrase: "prop up",
+    type: "片語動詞",
+    chinese: "支撐、撐起；維持（搖搖欲墜的事物）",
+    keywords: ["prop", "up"],
+    example: {
+      english: "Critics argued that the government was simply propping up a failing industry instead of allowing it to modernise.",
+      chinese: "批評者認為政府只是在支撐一個走向失敗的產業，而不是讓它實現現代化。",
+      grammar_point: "argued that + S + was + V-ing（認為…正在做某事）；instead of + V-ing（而非…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + argued that S + was propping up + N + instead of + V-ing", example: "He used a stack of books to prop up the broken leg of the table." }
+  },
+  {
+    phrase: "ride out",
+    type: "片語動詞",
+    chinese: "撐過（難關）、熬過（困境）",
+    keywords: ["ride", "out"],
+    example: {
+      english: "The company managed to ride out the economic downturn by cutting costs and focusing on core products.",
+      chinese: "公司透過削減成本和專注於核心產品，成功撐過了經濟衰退。",
+      grammar_point: "managed to + V（設法做到某事）；by + V-ing（藉由…，介系詞片語表方式）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + managed to ride out + N + by + V-ing + and + V-ing", example: "If you can ride out this difficult period, things will gradually start to improve." }
+  },
+  {
+    phrase: "soldier on",
+    type: "片語動詞",
+    chinese: "咬牙堅持、不屈不撓地繼續",
+    keywords: ["soldier", "on"],
+    example: {
+      english: "Despite the setbacks and the criticism, she soldiered on and eventually completed her PhD.",
+      chinese: "儘管遭遇挫折和批評，她仍咬牙堅持，最終完成了她的博士學位。",
+      grammar_point: "despite + N + and + N（儘管有…和…）；and + eventually + V（最終做到…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Despite + N + and + N, S + soldiered on and eventually + V", example: "The team soldiered on through the difficult final quarter and secured the win in the last minute." }
+  },
+  {
+    phrase: "stave off",
+    type: "片語動詞",
+    chinese: "暫時阻擋、避免（壞事發生）、延緩",
+    keywords: ["stave", "off"],
+    example: {
+      english: "The central bank cut interest rates in an attempt to stave off a recession and stabilise the economy.",
+      chinese: "中央銀行降低利率，試圖避免經濟衰退並穩定經濟。",
+      grammar_point: "cut + N（降低了…）；in an attempt to + V（試圖做某事）；and + V（連接兩個目的）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + V + N + in an attempt to stave off + N + and + V", example: "Eating a healthy breakfast can help stave off hunger and keep your energy levels stable all morning." }
+  },
+  {
+    phrase: "tip off",
+    type: "片語動詞",
+    chinese: "密報、事先通知、給予內線消息",
+    keywords: ["tip", "off"],
+    example: {
+      english: "An anonymous source tipped off the journalist that the company had been hiding serious environmental violations.",
+      chinese: "一位匿名消息人士向記者密報，該公司一直在隱瞞嚴重的環境違規行為。",
+      grammar_point: "tipped off + 人 + that + S + had been + V-ing（過去完成進行式，表示持續隱瞞）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + tipped off + 人 + that + S + had been + V-ing", example: "The police were tipped off about the robbery in advance and were waiting when the thieves arrived." }
+  },
 ];
