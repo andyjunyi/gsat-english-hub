@@ -54968,4 +54968,771 @@ export const collocationData1 = [
     vocabulary: [],
     sentence_pattern: { pattern: "S + tipped off + 人 + that + S + had been + V-ing", example: "The police were tipped off about the robbery in advance and were waiting when the thieves arrived." }
   },
+  {
+    phrase: "have an accident",
+    type: "動詞 + 名詞",
+    chinese: "發生意外、出事故",
+    keywords: ["have", "an", "accident"],
+    example: {
+      english: "He had an accident on his way home, but fortunately his injuries were not serious.",
+      chinese: "他在回家的路上發生了意外，幸好傷勢並不嚴重。",
+      grammar_point: "on his way home（在回家途中，介系詞片語）；but fortunately + S + V（轉折加副詞）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + had an accident + on + N's way + 地點, but fortunately + S + V", example: "If you have an accident at work, you must report it to your supervisor immediately." }
+  },
+  {
+    phrase: "cause an accident",
+    type: "動詞 + 名詞",
+    chinese: "造成意外、引發事故",
+    keywords: ["cause", "an", "accident"],
+    example: {
+      english: "Research shows that distracted driving is one of the leading factors that cause road accidents.",
+      chinese: "研究顯示，分心駕駛是造成大多數道路事故的主要原因之一。",
+      grammar_point: "research shows that + S + V（研究顯示…）；one of the + 最高級（最…之一）；that + 關係子句"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Research shows that + N + is one of the leading factors that cause + N", example: "Speeding in residential areas can easily cause a serious accident with devastating consequences." }
+  },
+  {
+    phrase: "prevent an accident",
+    type: "動詞 + 名詞",
+    chinese: "預防意外、避免事故發生",
+    keywords: ["prevent", "an", "accident"],
+    example: {
+      english: "Regular maintenance of machinery is one of the most effective ways to prevent accidents in the workplace.",
+      chinese: "定期維護機械設備是預防工作場所意外最有效的方法之一。",
+      grammar_point: "V-ing + of + N（動名詞片語作主詞）；one of the most + adj + ways to + V（最…的方法之一）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "V-ing + of + N + is one of the most + adj + ways to prevent accidents + 地點", example: "Wearing a seatbelt is a simple measure that can prevent a serious accident from becoming fatal." }
+  },
+  {
+    phrase: "survive an accident",
+    type: "動詞 + 名詞",
+    chinese: "在意外中生還、從事故中倖存",
+    keywords: ["survive", "an", "accident"],
+    example: {
+      english: "She miraculously survived the serious accident, which doctors described as almost impossible to walk away from.",
+      chinese: "她在那場嚴重的車禍中奇蹟般地生還，這在醫生眼中幾乎是不可能的事。",
+      grammar_point: "miraculously + V（副詞加強語氣）；which + 關係子句（修飾整個主句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + miraculously survived + N, which + S + described as + adj", example: "Many people who survive a serious accident require months of physical and psychological rehabilitation." }
+  },
+  {
+    phrase: "report an accident",
+    type: "動詞 + 名詞",
+    chinese: "通報意外、申報事故",
+    keywords: ["report", "an", "accident"],
+    example: {
+      english: "By law, all drivers are required to report an accident that occurs on a public road without delay.",
+      chinese: "依法，所有駕駛人在公共道路上發生事故後都必須立即通報。",
+      grammar_point: "by law（依法，介系詞片語作句首狀語）；are required to + V（被動語態，被要求做某事）；without delay（立即）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "By law, S + are required to report an accident that + V + without delay", example: "Even minor incidents at work should be reported — it is better to report an accident than to ignore it." }
+  },
+  {
+    phrase: "serious accident",
+    type: "形容詞 + 名詞",
+    chinese: "嚴重的意外、重大事故",
+    keywords: ["serious", "accident"],
+    example: {
+      english: "A serious accident at the factory left three workers injured and forced the entire building to be shut down.",
+      chinese: "一場嚴重的工廠事故造成三名工人受傷，並迫使整棟廠房緊急關閉。",
+      grammar_point: "left + 人 + p.p.（使某人處於…狀態）；and + forced + N + to be + p.p.（被動語態）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "A serious accident + 地點 + left + 人 + p.p. + and forced + N + to be + p.p.", example: "Emergency services were called to the scene of a serious accident on the motorway early this morning." }
+  },
+  {
+    phrase: "minor accident",
+    type: "形容詞 + 名詞",
+    chinese: "輕微的意外、小事故",
+    keywords: ["minor", "accident"],
+    example: {
+      english: "Although it was only a minor accident, both drivers were advised to exchange insurance information regardless.",
+      chinese: "雖然那只是一場輕微的事故，雙方司機還是被警告必須交換保險資訊。",
+      grammar_point: "although + S + V（讓步副詞子句）；were advised to + V（被動語態，被建議做某事）；regardless（副詞，不管如何）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Although it was only a minor accident, S + were advised to + V + regardless", example: "Never assume a minor accident is not worth reporting — small injuries can worsen over time." }
+  },
+  {
+    phrase: "fatal accident",
+    type: "形容詞 + 名詞",
+    chinese: "致命的意外、死亡事故",
+    keywords: ["fatal", "accident"],
+    example: {
+      english: "Authorities urged drivers to slow down after multiple fatal accidents had occurred along the stretch of road.",
+      chinese: "當局呼籲駕駛人減速慢行，因為這條道路已發生多起致命事故。",
+      grammar_point: "urged + 人 + to + V（敦促某人做某事）；after + N + had occurred（過去完成式，表示已發生）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + urged + 人 + to + V + after + N + had occurred + 地點", example: "Stricter enforcement of speed limits is essential to reduce the number of fatal accidents each year." }
+  },
+  {
+    phrase: "freak accident",
+    type: "形容詞 + 名詞",
+    chinese: "罕見的離奇意外、匪夷所思的事故",
+    keywords: ["freak", "accident"],
+    example: {
+      english: "He was badly injured in a freak accident when a falling tree landed directly on the roof of his car.",
+      chinese: "他在一場離奇的意外中因一棵倒下的樹砸中了車頂而受了重傷。",
+      grammar_point: "was badly injured in + N（在…中嚴重受傷，被動語態）；when + S + V（時間副詞子句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + was badly injured in a freak accident when + S + V", example: "The athlete's career was cut short by a freak accident during a routine training session." }
+  },
+  {
+    phrase: "industrial accident",
+    type: "形容詞 + 名詞",
+    chinese: "工業意外、職業災害事故",
+    keywords: ["industrial", "accident"],
+    example: {
+      english: "Strict safety regulations have significantly reduced the frequency of industrial accidents in the manufacturing sector.",
+      chinese: "嚴格的安全規範大幅減少了製造業中工業意外的發生頻率。",
+      grammar_point: "have significantly + p.p.（現在完成式，表示已達成的改變）；in + N（在某領域）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + have significantly + p.p. + N + in + N", example: "Workers who are exposed to hazardous materials face a higher risk of industrial accidents." }
+  },
+  {
+    phrase: "by accident",
+    type: "介系詞片語",
+    chinese: "意外地、偶然、無意中",
+    keywords: ["by", "accident"],
+    example: {
+      english: "She discovered the letter hidden inside the old book entirely by accident, which changed everything she knew about her family history.",
+      chinese: "她完全是無意中發現了那封藏在舊書裡的信，改變了她對家族歷史的認識。",
+      grammar_point: "entirely by accident（完全是偶然地，副詞片語加強）；which + 關係子句（修飾整個主句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + discovered + N + entirely by accident, which + V", example: "The scientist made the breakthrough by accident while conducting an unrelated experiment in the lab." }
+  },
+  {
+    phrase: "accident-prone",
+    type: "複合形容詞",
+    chinese: "容易出意外的、事故頻發的",
+    keywords: ["accident-prone"],
+    example: {
+      english: "He was an accident-prone child who seemed to end up in hospital at least once every term with a new injury.",
+      chinese: "他從小就是個容易出意外的孩子，幾乎每個學期都因受傷而跑醫院。",
+      grammar_point: "who + 關係子句（修飾先行詞 child）；at least once + 時間（每…至少一次）；with + N（帶著…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + was an accident-prone + N + who + V + at least once + 時間", example: "The accident-prone stretch of highway has seen more than twenty crashes in the past two years alone." }
+  },
+  {
+    phrase: "an accident waiting to happen",
+    type: "慣用語",
+    chinese: "遲早會出事的、潛藏危機的",
+    keywords: ["an", "accident", "waiting", "to", "happen"],
+    example: {
+      english: "The badly neglected building was an accident waiting to happen, yet the authorities failed to take any action.",
+      chinese: "那棟年久失修的建築物完全是個遲早會出事的定時炸彈，政府卻遲遲不採取行動。",
+      grammar_point: "was an accident waiting to happen（是個遲早會出事的…，固定表達）；yet + S + V（然而…，轉折）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + was an accident waiting to happen, yet + S + V", example: "Leaving cables trailing across the floor like that is an accident waiting to happen." }
+  },
+  {
+    phrase: "no accident",
+    type: "慣用語",
+    chinese: "絕非偶然、不是巧合",
+    keywords: ["no", "accident"],
+    example: {
+      english: "The company's success is no accident — it is the result of years of careful planning and relentless hard work.",
+      chinese: "這家公司的成功絕非偶然——多年的謹慎規劃和不懈努力成就了今日的成果。",
+      grammar_point: "is no accident（絕非偶然，否定強調）；破折號後為補充說明；the result of + N（…的成果）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N's + N + is no accident — it is the result of + N + and + N", example: "It is no accident that the most successful people tend to also be the most disciplined and consistent." }
+  },
+  {
+    phrase: "accident scene",
+    type: "名詞片語",
+    chinese: "事故現場、出事地點",
+    keywords: ["accident", "scene"],
+    example: {
+      english: "Emergency responders arrived at the accident scene within ten minutes of receiving the call and began immediate rescue operations.",
+      chinese: "急救人員在接獲通報後十分鐘內抵達事故現場，展開緊急救援行動。",
+      grammar_point: "arrived at + N（抵達…）；within + 時間 + of + V-ing（在…後多少時間內）；and + V（連接兩個動作）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + arrived at the accident scene + within + 時間 + of + V-ing + and + V", example: "Bystanders were asked to stay clear of the accident scene to allow emergency services to work safely." }
+  },
+  {
+    phrase: "form a bond",
+    type: "動詞 + 名詞",
+    chinese: "建立聯繫、形成情感紐帶",
+    keywords: ["form", "bond"],
+    example: {
+      english: "Through the gruelling training process, the soldiers formed a bond with one another that would last a lifetime.",
+      chinese: "在艱難的訓練過程中，這些士兵彼此之間建立了深厚的情感聯繫，終身難以割捨。",
+      grammar_point: "through + N（透過…，介系詞片語表方式）；that + 關係子句（修飾先行詞 bond）；would last a lifetime（將持續一生）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Through + N, S + formed a bond with + 人 + that + would + V", example: "Children who attend the same school for many years often form a bond that carries into adulthood." }
+  },
+  {
+    phrase: "strengthen a bond",
+    type: "動詞 + 名詞",
+    chinese: "鞏固關係、加深情誼",
+    keywords: ["strengthen", "bond"],
+    example: {
+      english: "Going through hardship together often strengthens a bond between two people more than sharing moments of happiness.",
+      chinese: "一起經歷困難往往比共享快樂更能鞏固兩個人之間的情誼。",
+      grammar_point: "V-ing + N + together（動名詞片語作主詞）；more than + V-ing（比…更加）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "V-ing + N + together often strengthens a bond + more than + V-ing", example: "Regular family meals are a simple but effective way to strengthen the bond between parents and children." }
+  },
+  {
+    phrase: "share a bond",
+    type: "動詞 + 名詞",
+    chinese: "共享羈絆、擁有共同的情感連結",
+    keywords: ["share", "bond"],
+    example: {
+      english: "Although they came from different countries, the two musicians shared a bond rooted in their deep love of jazz.",
+      chinese: "雖然他們來自不同的國家，但這兩位音樂家共享著對爵士樂深刻的熱愛所帶來的羈絆。",
+      grammar_point: "although + S + V（讓步副詞子句）；rooted in + N（植根於…，過去分詞作後置修飾）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Although + S + V, S + shared a bond rooted in + N", example: "Survivors of the same disaster often share a bond that outsiders find difficult to fully understand." }
+  },
+  {
+    phrase: "forge a bond",
+    type: "動詞 + 名詞",
+    chinese: "建立深厚情誼、締造堅固聯繫",
+    keywords: ["forge", "bond"],
+    example: {
+      english: "The overseas exchange programme helped students forge bonds with peers from all corners of the world.",
+      chinese: "這次海外交流計畫幫助學生們與來自世界各地的同儕建立了深厚的友誼。",
+      grammar_point: "helped + 人 + V（幫助某人做某事）；from all corners of the world（來自世界各地）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + helped + 人 + forge bonds with + 人 + from + N", example: "Great leaders know how to forge a bond of loyalty and trust with the people around them." }
+  },
+  {
+    phrase: "bond with",
+    type: "動詞片語",
+    chinese: "與…建立感情、和…產生情感連結",
+    keywords: ["bond", "with"],
+    example: {
+      english: "New parents sometimes need time to bond with their newborn, and it is completely normal for this to take a while.",
+      chinese: "新手父母有時需要一段時間才能和新生兒建立深厚的情感，這是完全正常的。",
+      grammar_point: "need + 時間 + to + V（需要時間做某事）；and + it is + adj + for + N + to + V（虛主詞句型）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + sometimes need time to bond with + N, and it is + adj + for this to + V", example: "Team-building activities are designed to help colleagues bond with one another outside of the office." }
+  },
+  {
+    phrase: "strong bond",
+    type: "形容詞 + 名詞",
+    chinese: "深厚的情誼、牢固的情感聯繫",
+    keywords: ["strong", "bond"],
+    example: {
+      english: "The strong bond between the twins amazed everyone who knew them, even when they were living apart.",
+      chinese: "這對雙胞胎之間的深厚情誼令所有認識他們的人都感到驚嘆，甚至在分隔兩地時依然如此。",
+      grammar_point: "amazed + 人（令某人驚嘆）；who + 關係子句（修飾先行詞 everyone）；even when + S + V（即使…時）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "The strong bond between + 人 + amazed + 人 + who + V, even when + S + V", example: "A strong bond of trust between a teacher and student can make a significant difference to learning outcomes." }
+  },
+  {
+    phrase: "emotional bond",
+    type: "形容詞 + 名詞",
+    chinese: "情感紐帶、心靈上的連結",
+    keywords: ["emotional", "bond"],
+    example: {
+      english: "Research shows that the emotional bond formed between pets and their owners has a positive impact on the mental health of both.",
+      chinese: "研究顯示，寵物與主人之間形成的情感紐帶對雙方的心理健康都有正面的影響。",
+      grammar_point: "research shows that + S + V（研究顯示…）；formed between + 人（過去分詞作後置修飾）；of both（雙方的）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Research shows that the emotional bond formed between + N + has a + adj + impact on + N", example: "The emotional bond between a mother and child begins to develop even before birth." }
+  },
+  {
+    phrase: "unbreakable bond",
+    type: "形容詞 + 名詞",
+    chinese: "牢不可破的聯繫、不可分割的情誼",
+    keywords: ["unbreakable", "bond"],
+    example: {
+      english: "After surviving the shipwreck that nearly cost them their lives, the group formed an unbreakable bond.",
+      chinese: "經歷了那場幾乎奪走他們生命的海難之後，這群倖存者之間形成了牢不可破的聯繫。",
+      grammar_point: "after + V-ing + N（時間副詞片語）；that + 關係子句（修飾先行詞 shipwreck）；nearly + V（差點…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "After + V-ing + N + that + V, S + formed an unbreakable bond", example: "The two countries share an unbreakable bond forged through decades of cultural and economic cooperation." }
+  },
+  {
+    phrase: "special bond",
+    type: "形容詞 + 名詞",
+    chinese: "特殊的情感連結、獨特的羈絆",
+    keywords: ["special", "bond"],
+    example: {
+      english: "There is often a special bond between grandparents and grandchildren that transcends the differences between generations.",
+      chinese: "祖父母與孫子女之間往往存在著一種特殊的情感連結，超越了世代的差異。",
+      grammar_point: "there is + N（存在…）；that + 關係子句（修飾先行詞 bond）；transcends（超越，現在式表普遍現象）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "There is often a special bond between + 人 + that + V", example: "She always knew there was something special bond between her and her childhood best friend." }
+  },
+  {
+    phrase: "lasting bond",
+    type: "形容詞 + 名詞",
+    chinese: "持久的情誼、長久的聯繫",
+    keywords: ["lasting", "bond"],
+    example: {
+      english: "The summer camp was designed to help young people build lasting bonds that would carry them through life.",
+      chinese: "這個夏令營的設計宗旨，是幫助年輕人建立能夠延續一生的持久友誼。",
+      grammar_point: "was designed to + V（旨在做某事，被動語態）；that + 關係子句（修飾先行詞 bonds）；carry + 人 + through + N（支撐某人度過…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + was designed to help + 人 + build lasting bonds that + would + V", example: "Travelling together is one of the best ways to build a lasting bond with someone you care about." }
+  },
+  {
+    phrase: "bond of trust",
+    type: "名詞片語",
+    chinese: "信任的紐帶、信賴的基礎",
+    keywords: ["bond", "of", "trust"],
+    example: {
+      english: "Once a bond of trust has been broken, it often takes far longer to rebuild than it did to establish in the first place.",
+      chinese: "一旦信任的紐帶被打破，要重新建立起來往往需要比最初更長的時間和更多的努力。",
+      grammar_point: "once + S + has been + p.p.（一旦…被…，條件副詞子句）；it takes + 比較級 + to + V（花更多時間做某事）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Once a bond of trust has been + p.p., it often takes + 比較級 + to + V", example: "A good manager builds a bond of trust with their team through consistent honesty and fairness." }
+  },
+  {
+    phrase: "bond of friendship",
+    type: "名詞片語",
+    chinese: "友誼的連結、友情的紐帶",
+    keywords: ["bond", "of", "friendship"],
+    example: {
+      english: "Years of shared hardship deepened the bond of friendship between them until nothing could sever it.",
+      chinese: "多年的患難與共，使他們兩人之間的友誼連結愈發深厚，任何困難都無法切斷。",
+      grammar_point: "years of + N（多年的…，名詞片語作主詞）；until + S + V（直到…，結果副詞子句）；nothing could + V（沒有任何事能…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Years of + N + deepened the bond of friendship + until + S + V", example: "The bond of friendship formed in childhood is often the most enduring of all relationships in life." }
+  },
+  {
+    phrase: "bond over",
+    type: "動詞片語",
+    chinese: "因…而產生共鳴、靠…拉近距離",
+    keywords: ["bond", "over"],
+    example: {
+      english: "They discovered at their first meeting that they both loved hiking, and quickly bonded over their shared passion.",
+      chinese: "他們在第一次見面時就發現彼此都熱愛登山，從此靠著這個共同興趣越走越近。",
+      grammar_point: "discovered + that + S + V（發現…）；and + V（連接兩個動作）；bonded over + N（因…而拉近距離）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + discovered that + S + V, and + V + over + N", example: "The two colleagues bonded over their shared frustration with the company's outdated processes." }
+  },
+  {
+    phrase: "my word is my bond",
+    type: "慣用語",
+    chinese: "一諾千金、說話算話",
+    keywords: ["my", "word", "is", "my", "bond"],
+    example: {
+      english: "He assured his clients solemnly that his word was his bond and that he would never let them down before the deadline.",
+      chinese: "他鄭重地向客戶保證，自己一諾千金，絕不會在最後期限前讓他們失望。",
+      grammar_point: "assured + 人 + that + S + V（向某人保證…）；and + that + S + V（連接兩個並列 that 子句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + assured + 人 + that his word was his bond + and that + S + would never + V", example: "In business, saying 'my word is my bond' means nothing unless your actions consistently back it up." }
+  },
+  {
+    phrase: "bond between",
+    type: "名詞 + 介系詞",
+    chinese: "…之間的情感聯繫、彼此的羈絆",
+    keywords: ["bond", "between"],
+    example: {
+      english: "Living together under the same roof for years naturally deepened the bond between the members of the family.",
+      chinese: "長期共同生活在同一個屋簷下，自然而然地加深了這家人成員之間的情感聯繫。",
+      grammar_point: "V-ing + together（動名詞片語作主詞）；naturally + V（副詞表自然結果）；between + N（在…之間）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "V-ing + together + naturally deepened the bond between + N", example: "The bond between a coach and an athlete is built on mutual respect, dedication, and shared sacrifice." }
+  },
+  {
+    phrase: "bound to",
+    type: "形容詞片語",
+    chinese: "必然、注定會、肯定會",
+    keywords: ["bound", "to"],
+    example: {
+      english: "If you practise every day, you are bound to see improvement — it is only a matter of time.",
+      chinese: "如果你每天練習，你肯定會看到進步——這只是時間的問題。",
+      grammar_point: "if + S + V（條件副詞子句）；be bound to + V（注定會…）；it is only a matter of time（只是時間問題）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "If + S + V, S + are bound to + V — it is only a matter of time", example: "There are bound to be challenges along the way, but that is part of any worthwhile journey." }
+  },
+  {
+    phrase: "bind together",
+    type: "動詞片語",
+    chinese: "凝聚、將…團結在一起",
+    keywords: ["bind", "together"],
+    example: {
+      english: "A shared language and culture bind the diverse community together, creating a strong sense of belonging.",
+      chinese: "共同的語言和文化將這個多元的社區緊緊凝聚在一起，形成了強烈的歸屬感。",
+      grammar_point: "A shared + N + and + N（共同的…，名詞片語作主詞）；creating + N（分詞構句表結果）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "A shared + N + and + N + bind + N + together, creating + N", example: "It is a common goal that binds the team together and keeps everyone motivated through difficult times." }
+  },
+  {
+    phrase: "in a bind",
+    type: "慣用語",
+    chinese: "陷入困境、進退兩難",
+    keywords: ["in", "bind"],
+    example: {
+      english: "When two key employees called in sick at the same time, management found themselves in a bind about how to meet the deadline.",
+      chinese: "當兩位關鍵員工同時請病假時，管理層頓時陷入困境，不知如何在最後期限前完成工作。",
+      grammar_point: "when + S + V（時間副詞子句）；found themselves in a bind（發現自己陷入困境）；about + how to + V"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "When + S + V, S + found themselves in a bind about how to + V", example: "I am really in a bind — I have promised to help two different people at exactly the same time." }
+  },
+  {
+    phrase: "double bind",
+    type: "名詞片語",
+    chinese: "雙重束縛、兩難困境",
+    keywords: ["double", "bind"],
+    example: {
+      english: "She faced a double bind — speaking up made her seem difficult, while staying silent implied she accepted the unfair treatment.",
+      chinese: "她面臨雙重束縛：若開口抱怨被視為愛發牢騷，若保持沉默又被認為默許不公平的待遇。",
+      grammar_point: "faced a double bind（面臨雙重束縛）；破折號後列舉兩難；while + V-ing（另一方面…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + faced a double bind — V-ing + V, while + V-ing + V", example: "Many working parents face a double bind between career demands and family responsibilities." }
+  },
+  {
+    phrase: "binding agreement",
+    type: "形容詞 + 名詞",
+    chinese: "具約束力的協議、有法律效力的合約",
+    keywords: ["binding", "agreement"],
+    example: {
+      english: "Both parties signed a binding agreement in the presence of their lawyers to ensure all commitments would be honoured.",
+      chinese: "雙方在律師的見證下簽署了一份具法律約束力的協議，確保各方履行承諾。",
+      grammar_point: "signed + N（簽署了…）；in the presence of + 人（在…的見證下）；to + V（不定詞表目的）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + signed a binding agreement in the presence of + 人 + to + V", example: "Once you sign a binding agreement, you are legally obligated to fulfil the terms stated within it." }
+  },
+  {
+    phrase: "think alike",
+    type: "動詞 + 副詞",
+    chinese: "想法相似、所見略同",
+    keywords: ["think", "alike"],
+    example: {
+      english: "The two of them think alike on almost every issue, which sometimes makes it difficult for other colleagues to contribute.",
+      chinese: "他們兩人幾乎在每個議題上都想法相似，讓其他同事有時感到難以插嘴。",
+      grammar_point: "think alike on + N（在…上想法相似）；which + 關係子句（修飾整個主句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + think alike on + N, which + V", example: "It helps to work with someone who thinks alike, but different perspectives are equally valuable." }
+  },
+  {
+    phrase: "look alike",
+    type: "動詞 + 副詞",
+    chinese: "長得像、外表相似",
+    keywords: ["look", "alike"],
+    example: {
+      english: "The twins look so alike that even their teachers mixed them up regularly during the first few weeks of term.",
+      chinese: "這對雙胞胎長得非常相像，就連他們的老師在頭幾週也常常搞混他們。",
+      grammar_point: "look so alike that + S + V（長得如此相似以至於…，結果副詞子句）；mixed up（搞混）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + look so alike that even + 人 + V + adv", example: "The two buildings look so alike from the outside that first-time visitors often walk into the wrong one." }
+  },
+  {
+    phrase: "treat alike",
+    type: "動詞 + 副詞",
+    chinese: "一視同仁、同等對待",
+    keywords: ["treat", "alike"],
+    example: {
+      english: "A great teacher treats all students alike, regardless of their background or academic performance.",
+      chinese: "優秀的教師會對所有學生一視同仁，無論他們的背景或學業成績為何。",
+      grammar_point: "treats all + N + alike（對所有…一視同仁）；regardless of + N（無論…，介系詞片語表讓步）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + treats all + N + alike, regardless of + N + or + N", example: "The law should treat all citizens alike and not favour the wealthy over the disadvantaged." }
+  },
+  {
+    phrase: "share alike",
+    type: "動詞 + 副詞",
+    chinese: "平均分享、公平分配",
+    keywords: ["share", "alike"],
+    example: {
+      english: "Parents teach their children from an early age to share alike, instilling in them a sense of fairness and generosity.",
+      chinese: "父母從小教導孩子要公平分享，培養他們對公正和慷慨的正確觀念。",
+      grammar_point: "teach + 人 + to + V（教某人做某事）；V-ing（分詞構句表結果）；instilling in + 人（灌輸給某人）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + teach + 人 + to share alike, instilling in + 人 + N", example: "The inheritance was divided share alike among all four children, as their parents had always intended." }
+  },
+  {
+    phrase: "great minds think alike",
+    type: "慣用語",
+    chinese: "英雄所見略同",
+    keywords: ["great", "minds", "think", "alike"],
+    example: {
+      english: "They both came up with the exact same solution at the same time — great minds think alike!",
+      chinese: "他們同時提出了完全相同的解決方案——真是英雄所見略同！",
+      grammar_point: "came up with + N（提出了…）；at the same time（同時）；great minds think alike（固定諺語）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + both came up with + N + at the same time — great minds think alike", example: "'I was just about to suggest the same thing!' 'Well, great minds think alike, don't they?'" }
+  },
+  {
+    phrase: "most likely",
+    type: "副詞片語",
+    chinese: "最有可能、極有可能",
+    keywords: ["most", "likely"],
+    example: {
+      english: "Given the severe weather forecast, the outdoor music festival will most likely be forced to postpone.",
+      chinese: "考慮到惡劣的天氣預報，戶外音樂節最有可能被迫延期舉行。",
+      grammar_point: "given + N（鑑於…，分詞構句表原因）；will most likely + V（最有可能…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Given + N, N + will most likely + V", example: "She has prepared thoroughly for the interview and will most likely be offered the position." }
+  },
+  {
+    phrase: "likely to",
+    type: "形容詞片語",
+    chinese: "很可能…、傾向於",
+    keywords: ["likely", "to"],
+    example: {
+      english: "People who regularly lack sleep are more likely to develop a range of chronic illnesses, including heart disease and diabetes.",
+      chinese: "長期缺乏睡眠的人更容易罹患各種慢性疾病，包括心臟病和糖尿病。",
+      grammar_point: "who + 關係子句（修飾先行詞 people）；are more likely to + V（更可能…，比較級）；including + N（包括…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + who + V + are more likely to + V, including + N", example: "Students who attend class regularly are far more likely to pass their exams than those who do not." }
+  },
+  {
+    phrase: "as likely as not",
+    type: "副詞片語",
+    chinese: "很可能、多半、說不定",
+    keywords: ["as", "likely", "as", "not"],
+    example: {
+      english: "She said she would come, but as likely as not she will cancel at the last minute — it is her usual pattern.",
+      chinese: "她說她會出席，但多半她又會在最後一刻臨時取消，這已是她的慣例了。",
+      grammar_point: "as likely as not（多半、說不定，副詞片語）；it is her usual pattern（這是她的慣例）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + said + S + would + V, but as likely as not + S + will + V", example: "As likely as not, the meeting will run over time — it always does when those two are involved." }
+  },
+  {
+    phrase: "stay awake",
+    type: "動詞 + 形容詞",
+    chinese: "保持清醒、撐著不睡",
+    keywords: ["stay", "awake"],
+    example: {
+      english: "She drank three cups of coffee trying to stay awake during the long night shift but still nodded off at three in the morning.",
+      chinese: "她喝了三杯咖啡試圖在漫長的夜班中保持清醒，但還是在凌晨三點打起了瞌睡。",
+      grammar_point: "V-ing（分詞構句表目的）；but still + V（轉折，仍然…）；at + 時間（在…時）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + V + V-ing + to stay awake during + N + but still + V", example: "It is almost impossible to stay awake in a lecture when the room is warm and the topic is dry." }
+  },
+  {
+    phrase: "lie awake",
+    type: "動詞 + 形容詞",
+    chinese: "躺著睡不著、輾轉難眠",
+    keywords: ["lie", "awake"],
+    example: {
+      english: "He lay awake all night, his mind replaying the argument over and over in a way he deeply regretted.",
+      chinese: "他整夜輾轉難眠，腦海中不斷回放著那場令他懊悔的爭吵。",
+      grammar_point: "lay awake all night（整夜輾轉難眠）；his mind + V-ing（獨立分詞構句）；in a way + S + V（以某種方式）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + lay awake all night, N + V-ing + adv", example: "She often lies awake worrying about things she cannot control, which only makes the anxiety worse." }
+  },
+  {
+    phrase: "half awake",
+    type: "副詞 + 形容詞",
+    chinese: "半夢半醒、迷迷糊糊",
+    keywords: ["half", "awake"],
+    example: {
+      english: "He answered the phone only half awake and took several seconds to register what the caller was saying.",
+      chinese: "他半夢半醒地接了電話，花了好幾秒才意識到對方說的是什麼。",
+      grammar_point: "answered + N + only half awake（半夢半醒地接了…）；took + 時間 + to + V（花時間才做到）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + V + N + only half awake + and took + 時間 + to + V", example: "Still half awake, she stumbled into the kitchen and switched on the kettle by pure habit." }
+  },
+  {
+    phrase: "wake up to",
+    type: "片語動詞",
+    chinese: "意識到、開始察覺到（現實或問題）",
+    keywords: ["wake", "up", "to"],
+    example: {
+      english: "Society is finally waking up to the serious consequences of ignoring mental health for so long.",
+      chinese: "社會終於開始意識到長期忽視心理健康所帶來的嚴重後果。",
+      grammar_point: "is finally + V-ing（現在進行式表正在發生的改變）；the consequences of + V-ing（做…的後果）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + is finally waking up to + N + of + V-ing", example: "Many companies are only now waking up to the importance of employee wellbeing in the workplace." }
+  },
+  {
+    phrase: "wake-up call",
+    type: "名詞片語",
+    chinese: "警醒、當頭棒喝、令人警覺的事件",
+    keywords: ["wake-up", "call"],
+    example: {
+      english: "The heart attack served as a wake-up call that prompted him to completely overhaul his diet and lifestyle.",
+      chinese: "那次心臟病發作成了他人生的一記警鐘，促使他徹底改變了飲食和生活習慣。",
+      grammar_point: "served as + N（作為…，發揮…的功能）；that + 關係子句（修飾先行詞 wake-up call）；to + V（不定詞表結果）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + served as a wake-up call that + V + N + to + V", example: "The financial crisis was a wake-up call for governments to regulate the banking sector more strictly." }
+  },
+  {
+    phrase: "blind spot",
+    type: "名詞片語",
+    chinese: "盲點、認知死角",
+    keywords: ["blind", "spot"],
+    example: {
+      english: "Everyone has blind spots when it comes to self-assessment, which is why honest feedback from others is so valuable.",
+      chinese: "每個人在自我評估時都有盲點，這就是為什麼來自他人的誠實反饋如此寶貴。",
+      grammar_point: "when it comes to + N（談到…，介系詞片語）；which is why + S + V（這就是為什麼…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + has blind spots when it comes to + N, which is why + N + is so + adj", example: "A good leader actively seeks feedback to identify their own blind spots and areas for improvement." }
+  },
+  {
+    phrase: "blind faith",
+    type: "形容詞 + 名詞",
+    chinese: "盲目的信任、盲從",
+    keywords: ["blind", "faith"],
+    example: {
+      english: "Having blind faith in any authority figure is dangerous — critical thinking is essential at all times.",
+      chinese: "對任何權威人士抱有盲目的信任是危險的——批判性思考至關重要。",
+      grammar_point: "V-ing + N（動名詞片語作主詞）；is dangerous（表語形容詞）；破折號後補充強調"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Having blind faith in + N + is + adj — N + is + adj", example: "The followers placed blind faith in their leader without questioning any of his decisions." }
+  },
+  {
+    phrase: "go in blind",
+    type: "動詞片語",
+    chinese: "毫無準備地進入、在不了解情況下行動",
+    keywords: ["go", "in", "blind"],
+    example: {
+      english: "Before entering any important negotiation, make sure you have done your homework — never go in blind.",
+      chinese: "在進行任何重要談判之前，請務必做好充分的功課——千萬不要毫無準備地貿然進場。",
+      grammar_point: "before + V-ing（時間副詞片語）；make sure + S + V（確保…）；never + V（副詞加強否定命令句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Before + V-ing + N, make sure + S + V — never go in blind", example: "She refused to go in blind and spent two weeks researching the company before her first day." }
+  },
+  {
+    phrase: "blind date",
+    type: "名詞片語",
+    chinese: "相親約會、盲目約會",
+    keywords: ["blind", "date"],
+    example: {
+      english: "Her friend set her up on a blind date that turned out to be a great success — they dated for three years afterwards.",
+      chinese: "她的朋友幫她安排了一次相親約會，結果竟然大獲成功，兩人後來交往了三年。",
+      grammar_point: "set + 人 + up on + N（幫某人安排…）；that + 關係子句（修飾先行詞 blind date）；破折號後補充結果"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + set + 人 + up on a blind date that + V — S + V + for + 時間", example: "Going on a blind date can be nerve-wracking, but it can also lead to something truly unexpected." }
+  },
+  {
+    phrase: "colour blind",
+    type: "複合形容詞",
+    chinese: "色盲的；不以膚色區分人的",
+    keywords: ["colour", "blind"],
+    example: {
+      english: "He is colour blind and cannot distinguish between red and green, but it has never stopped him from becoming an excellent photographer.",
+      chinese: "他是色盲，無法分辨紅色和綠色，但這從未阻礙他成為一位出色的攝影師。",
+      grammar_point: "cannot distinguish between + N + and + N（無法區分…和…）；but + it has never + p.p.（轉折，從未阻礙）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + is colour blind and cannot distinguish between + N + and + N, but it has never + p.p.", example: "A truly colour blind society is one where a person's opportunities are never limited by the colour of their skin." }
+  },
+  {
+    phrase: "cross your fingers",
+    type: "動詞片語",
+    chinese: "祈求好運、期望順利",
+    keywords: ["cross", "your", "fingers"],
+    example: {
+      english: "She crossed her fingers nervously before the interview, hoping she would finally land the job she had always dreamed of.",
+      chinese: "她在面試前緊張地交叉手指祈禱，希望這次能夠成功得到這份夢寐以求的工作。",
+      grammar_point: "crossed her fingers + adv（副詞修飾動作）；V-ing（分詞構句表目的）；had always dreamed of（過去完成式）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + crossed her fingers + adv + before + N, V-ing + S + would + V", example: "Cross your fingers — the exam results are being posted online at noon today." }
+  },
+  {
+    phrase: "lay a finger on",
+    type: "動詞片語",
+    chinese: "動…一根手指、碰觸（含威脅語氣）",
+    keywords: ["lay", "finger", "on"],
+    example: {
+      english: "He warned everyone that no one was to lay a finger on his child, or there would be serious consequences.",
+      chinese: "他警告所有人，任何人都不准碰他的孩子，否則後果自負。",
+      grammar_point: "warned + 人 + that + S + V（警告某人…）；no one was to + V（任何人都不准…）；or + S + V（否則…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + warned + 人 + that no one was to lay a finger on + N, or + S + V", example: "I promise I will not lay a finger on your belongings while you are away." }
+  },
+  {
+    phrase: "slip through your fingers",
+    type: "慣用語",
+    chinese: "從指縫溜走、錯失良機",
+    keywords: ["slip", "through", "your", "fingers"],
+    example: {
+      english: "He watched the once-in-a-lifetime opportunity slip through his fingers simply because he had hesitated too long.",
+      chinese: "他眼睜睜地看著那個千載難逢的機會從指縫間溜走，只因他猶豫了太久。",
+      grammar_point: "watched + N + V（看著某物做某事，感官動詞）；simply because + S + V（只因為…）；had hesitated（過去完成式）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + watched + N + slip through their fingers simply because + S + had + p.p.", example: "Do not let this chance slip through your fingers — opportunities like this do not come along very often." }
+  },
+  {
+    phrase: "put your finger on",
+    type: "動詞片語",
+    chinese: "說出…的確切原因、準確指出",
+    keywords: ["put", "your", "finger", "on"],
+    example: {
+      english: "She felt something was wrong but could not quite put her finger on what exactly was making her so uneasy.",
+      chinese: "她感覺有些事情不對勁，但她就是說不出確切是什麼讓她感到如此不安。",
+      grammar_point: "felt + S + V（感覺…）；but + could not quite + V（轉折，就是無法…）；what + 間接問句（名詞子句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + felt + S + V + but could not quite put their finger on what + V", example: "There is something off about this plan, but I cannot put my finger on exactly what it is." }
+  },
+  {
+    phrase: "stick out like a sore thumb",
+    type: "慣用語",
+    chinese: "格格不入、非常顯眼、與周遭明顯不協調",
+    keywords: ["stick", "out", "like", "sore", "thumb"],
+    example: {
+      english: "He arrived at the casual beach party in a formal suit and stuck out like a sore thumb — everyone kept glancing his way.",
+      chinese: "他穿著筆挺的西裝出現在這個休閒的海灘派對上，顯得格格不入，每個人都多看了他幾眼。",
+      grammar_point: "stuck out like a sore thumb（格格不入，固定比喻）；破折號後補充結果；kept + V-ing（持續做某事）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + V + N + and stuck out like a sore thumb — S + kept + V-ing", example: "The modern glass building sticks out like a sore thumb among the historic stone architecture of the old town." }
+  },
+  {
+    phrase: "twiddle your thumbs",
+    type: "慣用語",
+    chinese: "閒得無聊、無所事事地等待",
+    keywords: ["twiddle", "your", "thumbs"],
+    example: {
+      english: "He sat twiddling his thumbs in the waiting room for nearly two hours, staring blankly at the ceiling.",
+      chinese: "他在候診室裡無聊地等了將近兩個小時，一邊轉著手指一邊盯著天花板發呆。",
+      grammar_point: "sat + V-ing（坐著做某事）；for + 時間（持續多長時間）；V-ing（分詞構句描述同時進行的動作）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + sat twiddling their thumbs + 地點 + for + 時間, V-ing + adv", example: "There is no point just twiddling your thumbs — use the spare time to do something productive." }
+  },
 ];
