@@ -47,6 +47,30 @@ const tools = [
     iconBg: 'bg-cyan-100',
     iconText: 'text-cyan-600',
   },
+  {
+    emoji: '📖',
+    label: '單字記憶卡',
+    description: '製作專屬單字記憶卡，隨時複習重要詞彙',
+    href: 'https://www.jutor.ai/event/vocabnote/',
+    iconBg: 'bg-rose-100',
+    iconText: 'text-rose-600',
+  },
+  {
+    emoji: '🃏',
+    label: '單字閃卡複習',
+    description: '用閃卡方式快速複習單字，強化記憶效果',
+    href: 'https://www.jutor.ai/event/vocabloop/',
+    iconBg: 'bg-teal-100',
+    iconText: 'text-teal-600',
+  },
+  {
+    emoji: '📝',
+    label: 'Jutor 國中會考英文科線上測驗',
+    description: '歷屆國中會考英文科線上測驗平台，即時批改與解析',
+    href: 'https://www.jutor.ai/event/past-exam/cap-english/index.html',
+    iconBg: 'bg-yellow-100',
+    iconText: 'text-yellow-600',
+  },
 ]
 
 export default function JunyiPage() {
