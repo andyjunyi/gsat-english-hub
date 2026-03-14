@@ -41,11 +41,11 @@ const tools = [
   },
   {
     emoji: '🤖',
-    label: '英文問題提問',
+    label: 'AI 英文問題提問',
     description: 'AI 英文問答，即時解決學習疑惑',
-    href: 'https://www.jutor.ai/event/junior-qa/index.html',
-    iconBg: 'bg-cyan-100',
-    iconText: 'text-cyan-600',
+    href: 'https://www.jutor.ai/event/qa/index.html',
+    iconBg: 'bg-indigo-100',
+    iconText: 'text-indigo-600',
   },
   {
     emoji: '📖',
