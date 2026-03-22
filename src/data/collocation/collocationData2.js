@@ -54988,4 +54988,199 @@ export const collocationData2 = [
       example: "Firms that are socially responsible support fair wages, reduce waste, and engage with local communities."
     }
   },
+  {
+    phrase: "get winded",
+    type: "動詞片語",
+    chinese: "喘不過氣、被打到腹部暫時無法呼吸",
+    keywords: ["get", "winded"],
+    example: {
+      english: "He got winded when an opponent crashed into his stomach during the football match and had to leave the field temporarily.",
+      chinese: "他在足球賽中被對手衝撞到腹部，當場喘不過氣來，不得不暫時退出場外。",
+      grammar_point: "got winded when + S + V（時間副詞子句）；and had to + V（因此不得不…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + got winded when + S + V + and had to + V", example: "Even a short sprint up the stairs can leave you completely winded if you are not used to exercise." }
+  },
+  {
+    phrase: "knock the wind out of",
+    type: "動詞片語",
+    chinese: "打擊某人的氣勢；撞擊腹部令人暫時窒息",
+    keywords: ["knock", "the", "wind", "out", "of"],
+    example: {
+      english: "The unexpected bad news knocked the wind out of her completely, leaving her unsure of how to move forward.",
+      chinese: "那個突如其來的壞消息完全打垮了她的氣勢，讓她一時不知道該如何繼續前進。",
+      grammar_point: "knocked the wind out of + 人（打擊某人的氣勢）；leaving + 人 + adj（分詞構句表結果）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + knocked the wind out of + 人, leaving + 人 + adj", example: "Losing the contract knocked the wind out of the entire team, but they recovered and pitched again within a week." }
+  },
+  {
+    phrase: "catch the wind",
+    type: "動詞片語",
+    chinese: "捕捉風力；抓住有利時機順勢而為",
+    keywords: ["catch", "the", "wind"],
+    example: {
+      english: "The startup launched its product at exactly the right moment, perfectly catching the wind of a growing market trend.",
+      chinese: "這家新創公司在恰當的時機推出產品，完美地捕捉到了市場趨勢的順風車。",
+      grammar_point: "launched + N + at + N（在…時機推出…）；V-ing（分詞構句表結果）；catching the wind of + N（捕捉…的順風）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + launched + N + at + N, perfectly catching the wind of + N", example: "Young entrepreneurs who catch the wind early and adapt quickly tend to outpace their slower competitors." }
+  },
+  {
+    phrase: "break wind",
+    type: "動詞片語",
+    chinese: "放屁（委婉說法）",
+    keywords: ["break", "wind"],
+    example: {
+      english: "He accidentally broke wind in the silent meeting room, causing an immediate and deeply awkward silence.",
+      chinese: "他在安靜的會議室裡不小心放了屁，頓時讓整個會議室陷入了尷尬的沉默。",
+      grammar_point: "accidentally + V（副詞表無意中）；causing + N（分詞構句表結果）；deeply + adj（副詞加強）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + accidentally broke wind + 地點, causing + N", example: "It is considered very impolite to break wind in public without at least attempting to be discreet." }
+  },
+  {
+    phrase: "sail close to the wind",
+    type: "慣用語",
+    chinese: "冒險行事、走鋼索、幾乎觸犯規則",
+    keywords: ["sail", "close", "to", "the", "wind"],
+    example: {
+      english: "His business methods were always bold, sailing close to the wind in ways that made his partners very nervous.",
+      chinese: "他的商業手法一向大膽，總是在法律邊緣走鋼索，讓合夥人捏一把冷汗。",
+      grammar_point: "were always + adj（一向…）；V-ing（分詞構句描述方式）；in ways that + V（以讓…的方式）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + were always + adj, sailing close to the wind in ways that + V", example: "You are sailing close to the wind by submitting work that is so similar to someone else's — be careful." }
+  },
+  {
+    phrase: "second wind",
+    type: "名詞片語",
+    chinese: "恢復體力、重獲動力、第二春",
+    keywords: ["second", "wind"],
+    example: {
+      english: "On the verge of giving up at the thirtieth kilometre, she found her second wind and surged towards the finish line.",
+      chinese: "在第三十公里處幾乎放棄之際，她突然恢復了體力，以更快的速度衝向終點線。",
+      grammar_point: "on the verge of + V-ing（在即將…之際）；found her second wind（重獲體力）；and + V（連接兩個動作）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "On the verge of + V-ing, S + found their second wind and + V", example: "After a slow start to the season, the team found their second wind and won six matches in a row." }
+  },
+  {
+    phrase: "trade wind",
+    type: "名詞片語",
+    chinese: "信風、貿易風（固定吹向赤道的風）",
+    keywords: ["trade", "wind"],
+    example: {
+      english: "Ancient sailors harnessed the trade winds to cross the Atlantic, significantly reducing the journey time between Europe and the Americas.",
+      chinese: "古代航海家善用信風橫越大西洋，大幅縮短了往來歐洲與美洲之間的航行時間。",
+      grammar_point: "harnessed + N + to + V（利用…做某事）；V-ing（分詞構句表結果）；between + N + and + N（在…之間）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + harnessed the trade winds to + V, V-ing + N + between + N + and + N", example: "The trade winds provided a reliable and predictable route for merchant ships for hundreds of years." }
+  },
+  {
+    phrase: "tailwind",
+    type: "名詞片語",
+    chinese: "順風；有利條件、助力",
+    keywords: ["tailwind"],
+    example: {
+      english: "The low interest rate environment provided a strong tailwind for the property market, fuelling its rapid growth over recent years.",
+      chinese: "低利率環境為房地產市場提供了強勁的助力，推動了過去幾年的蓬勃發展。",
+      grammar_point: "provided + N + for + N（為…提供了…）；V-ing（分詞構句表結果）；over recent years（近幾年來）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + provided a strong tailwind for + N, V-ing + N + over + 時間", example: "The company benefited from several tailwinds, including rising consumer demand and favourable exchange rates." }
+  },
+  {
+    phrase: "headwind",
+    type: "名詞片語",
+    chinese: "逆風；阻力、不利因素",
+    keywords: ["headwind"],
+    example: {
+      english: "Despite facing significant headwinds such as inflation and supply chain disruptions, the company managed to achieve steady growth.",
+      chinese: "儘管面臨通貨膨脹和供應鏈中斷等重重逆風，這家公司仍設法實現了穩定的增長。",
+      grammar_point: "despite + V-ing + N（儘管面臨…）；such as + N（例如…，舉例）；managed to + V（設法做到）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "Despite facing + N + such as + N + and + N, S + managed to + V", example: "The charity sector faces growing headwinds as government funding continues to shrink year on year." }
+  },
+  {
+    phrase: "get wind of",
+    type: "動詞片語",
+    chinese: "風聞、得到消息、隱約察覺到",
+    keywords: ["get", "wind", "of"],
+    example: {
+      english: "The police got wind of the plan in advance and arrested the criminals before they had a chance to act.",
+      chinese: "警方事先得到了這個計畫的消息，在犯罪分子行動之前就將他們一網打盡。",
+      grammar_point: "got wind of + N（風聞了…）；in advance（事先）；before + S + V（時間副詞子句）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + got wind of + N + in advance + and + V + before + S + V", example: "If the board gets wind of this proposal before it is ready, the whole plan could fall apart." }
+  },
+  {
+    phrase: "throw caution to the wind",
+    type: "慣用語",
+    chinese: "不顧一切、放手一搏、把謹慎拋諸腦後",
+    keywords: ["throw", "caution", "to", "the", "wind"],
+    example: {
+      english: "After years of careful and cautious living, he decided to throw caution to the wind and quit his job to travel the world.",
+      chinese: "在多年謹慎保守的生活之後，他決定拋開一切顧慮，辭掉工作去環遊世界。",
+      grammar_point: "after + 時間 + of + N（在多年的…之後）；decided to + V（決定做某事）；and + V（連接兩個動作）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "After + 時間 + of + N, S + decided to throw caution to the wind and + V", example: "Sometimes you just have to throw caution to the wind and take a leap of faith." }
+  },
+  {
+    phrase: "in the wind",
+    type: "介系詞片語",
+    chinese: "在醞釀中、即將發生、有跡象顯示",
+    keywords: ["in", "the", "wind"],
+    example: {
+      english: "The employees sensed that changes were in the wind, and rumours began to circulate, unsettling everyone in the office.",
+      chinese: "員工們感覺到公司內部有些變化正在醞釀中，傳言四起，讓大家都人心惶惶。",
+      grammar_point: "sensed that + S + V（感覺到…）；and + V（連接兩個動作）；V-ing（分詞構句表結果）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + sensed that + N + were in the wind, and + V, V-ing + 人", example: "Something is in the wind — three senior managers have cancelled their meetings without explanation this week." }
+  },
+  {
+    phrase: "take the wind out of someone's sails",
+    type: "慣用語",
+    chinese: "挫某人銳氣、讓某人洩氣",
+    keywords: ["take", "the", "wind", "out", "of", "someone's", "sails"],
+    example: {
+      english: "She presented her new proposal with great enthusiasm, but the manager's lukewarm response took the wind out of her sails.",
+      chinese: "她滿懷熱情地提出了新計畫，但主管冷淡的反應瞬間讓她洩了氣。",
+      grammar_point: "presented + N + with + N（以…呈現…）；but + N + took the wind out of + 人's sails（但…讓某人洩氣）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + V + N + with + N, but N + took the wind out of + 人's sails", example: "Hearing that the funding had been cut completely took the wind out of everyone's sails just before the launch." }
+  },
+  {
+    phrase: "gone with the wind",
+    type: "慣用語",
+    chinese: "隨風而逝、消失無蹤、一去不返",
+    keywords: ["gone", "with", "the", "wind"],
+    example: {
+      english: "The innocence and simplicity of that era are long gone with the wind — there is no going back to what once was.",
+      chinese: "那個時代的純真與簡單早已隨風而逝，再也無法回到從前了。",
+      grammar_point: "are long gone with the wind（早已隨風而逝，現在完成式概念）；破折號後補充說明；there is no + V-ing（不可能…）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "N + are long gone with the wind — there is no + V-ing", example: "His fortune was gone with the wind after a series of bad investments wiped out everything he had built." }
+  },
+  {
+    phrase: "see which way the wind blows",
+    type: "慣用語",
+    chinese: "觀察形勢、看風向、等待時機再表態",
+    keywords: ["see", "which", "way", "the", "wind", "blows"],
+    example: {
+      english: "He deliberately stayed quiet in the meeting, wanting to see which way the wind blew before committing to either side.",
+      chinese: "他在會議中故意保持沉默，想先看清楚形勢再決定支持哪一方。",
+      grammar_point: "deliberately + V（副詞表刻意）；wanting to + V（分詞構句表目的）；before + V-ing（在…之前）"
+    },
+    vocabulary: [],
+    sentence_pattern: { pattern: "S + V + adv, wanting to see which way the wind blew before + V-ing", example: "A wise politician always takes time to see which way the wind blows before making any public statement." }
+  },
 ];
