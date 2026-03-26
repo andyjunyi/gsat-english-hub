@@ -12,6 +12,14 @@ const modules = [
   },
   {
     path: '/grammar',
+    emoji: '🗺️',
+    title: '文法學習地圖',
+    desc: '16 章節・5 學習層次・含練習題，系統化征服學測文法',
+    iconBg: 'from-green-500 to-emerald-700',
+    border: 'hover:border-green-300',
+  },
+  {
+    path: '/grammar-patterns',
     emoji: '✏️',
     title: '英文必備句型',
     desc: '收錄 140 個句型，依句型分類練習，涵蓋假設語氣、比較句型、關係子句等學測重點',

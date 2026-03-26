@@ -1,0 +1,9 @@
+.section { margin-bottom: 12px; }
+.header { display: flex; align-items: center; gap: 12px; margin-top: 44px; margin-bottom: 16px; }
+.badge { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; padding: 3px 12px; border-radius: 20px; border: 1.5px solid; letter-spacing: 0.8px; white-space: nowrap; flex-shrink: 0; }
+.label { font-size: 17px; font-weight: 700; color: var(--text); white-space: nowrap; }
+.rule { flex: 1; height: 1px; background: var(--border); }
+.count { font-size: 12px; color: var(--text-dim); white-space: nowrap; font-family: 'Space Mono', monospace; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+.cardWrap { opacity: 0; animation: cardIn 0.42s ease forwards; }
+@keyframes cardIn { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }

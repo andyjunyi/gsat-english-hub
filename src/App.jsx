@@ -5,6 +5,9 @@ import Home from './pages/Home'
 import Collocations from './pages/Collocations'
 import Grammar from './pages/Grammar'
 import GrammarPattern from './pages/GrammarPattern'
+import GrammarMap from './pages/GrammarMap'
+import ChapterPage from './pages/ChapterPage'
+import QuizPage from './pages/QuizPage'
 import Vocabulary from './pages/Vocabulary'
 import Translation from './pages/Translation'
 import CollocationChecker from './components/CollocationChecker'
@@ -21,8 +24,16 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/collocations" element={<Collocations />} />
-            <Route path="/grammar" element={<Grammar />} />
-            <Route path="/grammar/:code" element={<GrammarPattern />} />
+            <Route path="/grammar" element={<GrammarMap />} />
+            <Route path="/grammar/ch/r1" element={<QuizPage />} />
+            <Route path="/grammar/ch/r2" element={<QuizPage />} />
+            <Route path="/grammar/ch/r3" element={<QuizPage />} />
+            <Route path="/grammar/ch/r4" element={<QuizPage />} />
+            <Route path="/grammar/ch/r5" element={<QuizPage />} />
+            <Route path="/grammar/ch/:id" element={<ChapterPage />} />
+            <Route path="/grammar/ch/:id/quiz" element={<QuizPage />} />
+            <Route path="/grammar-patterns" element={<Grammar />} />
+            <Route path="/grammar-patterns/:code" element={<GrammarPattern />} />
             <Route path="/vocabulary" element={<Vocabulary />} />
             <Route path="/translation" element={<Translation />} />
             <Route path="/checker" element={<CollocationChecker />} />

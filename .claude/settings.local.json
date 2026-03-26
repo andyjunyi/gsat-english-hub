@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"C:/Users/Andy/Desktop/grammar/src/components/ChapterCard.jsx\" \"C:/Users/Andy/Desktop/gsat-english-hub/src/components/ChapterCard.jsx\")",
+      "Bash(cp \"C:/Users/Andy/Desktop/grammar/src/components/ChapterCard.module.css\" \"C:/Users/Andy/Desktop/gsat-english-hub/src/components/ChapterCard.module.css\")",
+      "Bash(cp \"C:/Users/Andy/Desktop/grammar/src/components/ChapterModal.jsx\" \"C:/Users/Andy/Desktop/gsat-english-hub/src/components/ChapterModal.jsx\")",
+      "Bash(cp \"C:/Users/Andy/Desktop/grammar/src/components/ChapterModal.module.css\" \"C:/Users/Andy/Desktop/gsat-english-hub/src/components/ChapterModal.module.css\")",
+      "Bash(cp \"C:/Users/Andy/Desktop/grammar/src/components/FilterBar.jsx\" \"C:/Users/Andy/Desktop/gsat-english-hub/src/components/FilterBar.jsx\")",
+      "Bash(cp \"C:/Users/Andy/Desktop/grammar/src/pages/GrammarMap.jsx\" \"C:/Users/Andy/Desktop/gsat-english-hub/src/pages/GrammarMap.jsx\")",
+      "Bash(cp \"C:/Users/Andy/Desktop/grammar/src/pages/ChapterPage.jsx\" \"C:/Users/Andy/Desktop/gsat-english-hub/src/pages/ChapterPage.jsx\")",
+      "Bash(cp \"C:/Users/Andy/Desktop/grammar/src/pages/QuizPage.jsx\" \"C:/Users/Andy/Desktop/gsat-english-hub/src/pages/QuizPage.jsx\")"
+    ]
+  }
+}

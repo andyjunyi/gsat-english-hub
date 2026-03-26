@@ -3,7 +3,8 @@ import { NavLink } from 'react-router-dom'
 const navItems = [
   { path: '/', label: '首頁', end: true },
   { path: '/collocations', label: '搭配詞' },
-  { path: '/grammar', label: '英文必備句型' },
+  { path: '/grammar', label: '文法學習地圖' },
+  { path: '/grammar-patterns', label: '英文必備句型' },
   { path: '/videos', label: '學測文意字彙' },
   { path: '/grammar-videos', label: '文法教學影片' },
   { path: '/junyi', label: '均一自學工具' },

@@ -1,0 +1,13 @@
+.hero { background: linear-gradient(to right, #1d4ed8, #2563eb, #4f46e5); padding: 40px 16px; text-align: center; color: #fff; position: relative; overflow: hidden; }
+.hero::before, .hero::after { content: ''; position: absolute; border-radius: 50%; opacity: 0.08; background: #fff; pointer-events: none; }
+.hero::before { width: 400px; height: 400px; top: -160px; right: -80px; }
+.hero::after  { width: 300px; height: 300px; bottom: -120px; left: -60px; }
+.inner { max-width: 780px; margin: 0 auto; position: relative; z-index: 1; }
+.title { font-family: inherit; font-size: 1.875rem; font-weight: 900; letter-spacing: -0.025em; margin-bottom: 8px; animation: fadeUp 0.6s ease both; }
+.sub { font-size: 0.875rem; color: #dbeafe; margin-bottom: 0; animation: fadeUp 0.6s 0.1s ease both; }
+.stats { display: flex; justify-content: center; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.2); border-radius: 14px; overflow: hidden; width: fit-content; margin: 0 auto; animation: fadeUp 0.6s 0.2s ease both; }
+.stat { display: flex; flex-direction: column; align-items: center; padding: 16px 32px; border-right: 1px solid rgba(255,255,255,0.15); }
+.stat:last-child { border-right: none; }
+.statNum { font-family: 'Space Mono', monospace; font-size: 26px; font-weight: 700; line-height: 1; margin-bottom: 4px; color: #fff; }
+.statLabel { font-size: 11px; opacity: 0.75; white-space: nowrap; }
+@keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
