@@ -37,7 +37,7 @@ export default function GrammarPattern() {
       <div style={{ minHeight: '60vh', display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column', gap: '16px' }}>
         <p style={{ color: '#555', fontSize: '18px', fontWeight: 600 }}>找不到句型「{code}」</p>
         <Link
-          to="/grammar"
+          to="/grammar-patterns"
           style={{ color: '#2E6FA3', fontWeight: 600, textDecoration: 'none', fontSize: '15px' }}
         >
           ← 回到句型列表

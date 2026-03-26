@@ -161,7 +161,7 @@ export default function PatternSearch({ patterns }) {
                 {filtered.map(p => {
                   const info = CHAPTER_INFO[p.chapter]
                   return (
-                    <Link key={p.code} to={`/grammar/${p.code}`} className="pattern-card">
+                    <Link key={p.code} to={`/grammar-patterns/${p.code}`} className="pattern-card">
                       <div style={{
                         display: 'inline-block',
                         background: info?.color ?? '#1A3A5C',
@@ -225,7 +225,7 @@ export default function PatternSearch({ patterns }) {
 
                   <div className="pattern-card-grid">
                     {chapterPatterns.map(p => (
-                      <Link key={p.code} to={`/grammar/${p.code}`} className="pattern-card">
+                      <Link key={p.code} to={`/grammar-patterns/${p.code}`} className="pattern-card">
                         <div style={{
                           display: 'inline-block',
                           background: info?.color ?? '#1A3A5C',
